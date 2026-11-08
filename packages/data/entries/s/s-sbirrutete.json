@@ -1,0 +1,21 @@
+{
+  "id": "s-sbirrutete",
+  "headword": "sbirrutète",
+  "senses": [
+    {
+      "it": "srotolate",
+      "en": "you (plural) unroll, unroll",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbirrutète: srotolate",
+    "rawHash": "7781a9bcf0ea509a413d50d7fb539b94b4a3b832",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

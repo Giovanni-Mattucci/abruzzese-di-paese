@@ -1,0 +1,26 @@
+{
+  "id": "j-jttemece",
+  "headword": "jttèmece",
+  "senses": [
+    {
+      "it": "gettiamoci",
+      "en": "let's throw ourselves",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "buttiamoci",
+      "en": "let's jump in",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jttèmece: gettiamoci, buttiamoci",
+    "rawHash": "9a546ea223fa9963fa1a63672f5c8e98600ae85a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

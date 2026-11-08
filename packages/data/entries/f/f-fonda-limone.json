@@ -1,0 +1,21 @@
+{
+  "id": "f-fonda-limone",
+  "headword": "Fonda Limone",
+  "senses": [
+    {
+      "it": "Fontana di Giove Ammone, località in comune di Scafa (PE)",
+      "en": "Fountain of Jupiter Ammon, locality in the municipality of Scafa (PE)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "Fonda Limone : Fontana di Giove Ammone, località in comune di Scafa (PE)",
+    "rawHash": "7750a79759dd5c4aadb8c2a335651d7ea9cf7bf9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

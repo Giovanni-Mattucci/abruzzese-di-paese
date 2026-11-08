@@ -1,0 +1,21 @@
+{
+  "id": "c-chjisarelle",
+  "headword": "chjisarelle",
+  "senses": [
+    {
+      "it": "piccola chiesa, (... lu picche de la chjisarelle: il piccolo campanile",
+      "en": "small church, (... lu picche de la chjisarelle: the little bell tower",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chjisarelle: piccola chiesa, (... lu picche de la chjisarelle: il piccolo campanile",
+    "rawHash": "5581c52d772c129bddbebde6b7cb6a1f6995201e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

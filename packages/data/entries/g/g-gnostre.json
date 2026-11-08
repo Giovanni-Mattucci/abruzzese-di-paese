@@ -1,0 +1,22 @@
+{
+  "id": "g-gnostre",
+  "headword": "gnostre",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "inchiostro",
+      "en": "ink",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnostre (lu): inchiostro",
+    "rawHash": "b6677a16d416560196fb21d5e5ee5053e96462d7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

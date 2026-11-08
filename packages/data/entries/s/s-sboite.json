@@ -1,0 +1,21 @@
+{
+  "id": "s-sboite",
+  "headword": "sbòite",
+  "senses": [
+    {
+      "it": "vuoto",
+      "en": "empty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbòite: vuoto",
+    "rawHash": "831d7fd04d9dedea68897ede1dbff727075f1d1f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-scumbassa",
+  "headword": "scumbassà",
+  "senses": [
+    {
+      "it": "oltrepassare",
+      "en": "to go beyond, to overstep",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scumbassà: oltrepassare",
+    "rawHash": "0fb2c9868ca3ef558080ef25629d1b038f6bb6ef",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

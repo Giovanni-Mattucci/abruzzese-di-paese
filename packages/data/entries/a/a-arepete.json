@@ -1,0 +1,24 @@
+{
+  "id": "a-arepete",
+  "headword": "arepéte",
+  "variants": [
+    "arpète"
+  ],
+  "senses": [
+    {
+      "it": "ripetere",
+      "en": "to repeat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arepéte, arpète: ripetere",
+    "rawHash": "59d5754306aea106126a9915f54055b008eb1992",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

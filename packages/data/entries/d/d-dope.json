@@ -1,0 +1,24 @@
+{
+  "id": "d-dope",
+  "headword": "dope",
+  "variants": [
+    "doppe"
+  ],
+  "senses": [
+    {
+      "it": "dopo",
+      "en": "after",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dope, doppe: dopo",
+    "rawHash": "92160ff632ad056941e709646590013d932c6d52",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

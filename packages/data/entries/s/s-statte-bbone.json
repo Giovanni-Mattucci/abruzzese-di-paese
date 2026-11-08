@@ -1,0 +1,21 @@
+{
+  "id": "s-statte-bbone",
+  "headword": "stàtte bbòne",
+  "senses": [
+    {
+      "it": "stai fermo",
+      "en": "stay still",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stàtte bbòne: stai fermo",
+    "rawHash": "fd89335290624414add5bc44b63ff71deb70d055",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

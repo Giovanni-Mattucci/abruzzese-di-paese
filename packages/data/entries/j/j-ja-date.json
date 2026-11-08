@@ -1,0 +1,21 @@
+{
+  "id": "j-ja-date",
+  "headword": "ja date",
+  "senses": [
+    {
+      "it": "gli ha dato",
+      "en": "he gave him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja date: gli ha dato",
+    "rawHash": "038529af55b337b1cf946fd9936558c2d30d35f8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

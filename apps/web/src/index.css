@@ -1,0 +1,24 @@
+@import '@fontsource-variable/lora';
+@import '@fontsource-variable/inter';
+@import '@mannaggia/ui/theme.css';
+@source './';
+
+/* Grammar page: HTML generated from the committed Markdown, styled with tokens only. */
+@layer components {
+  .prose-grammar {
+    @apply space-y-4 leading-relaxed;
+  }
+  .prose-grammar p {
+    @apply my-3;
+  }
+  .prose-grammar strong {
+    @apply font-heading text-lg text-primary;
+  }
+  .prose-grammar ul,
+  .prose-grammar ol {
+    @apply my-3 list-disc pl-6;
+  }
+  .prose-grammar a {
+    @apply text-primary underline;
+  }
+}

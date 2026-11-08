@@ -1,0 +1,21 @@
+{
+  "id": "n-nghi",
+  "headword": "'nghi",
+  "senses": [
+    {
+      "it": "con",
+      "en": "with",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nghi: con",
+    "rawHash": "0e8caccb8dab3a384a7a86504d556f5ce53b57c3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

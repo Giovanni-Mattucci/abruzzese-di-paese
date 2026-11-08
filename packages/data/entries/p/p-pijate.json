@@ -1,0 +1,21 @@
+{
+  "id": "p-pijate",
+  "headword": "pijàte",
+  "senses": [
+    {
+      "it": "preso",
+      "en": "taken",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pijàte: preso",
+    "rawHash": "ad3e5c307982a4b99b27f99051508774f3c4bcda",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

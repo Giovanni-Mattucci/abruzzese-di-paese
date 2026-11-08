@@ -1,0 +1,21 @@
+{
+  "id": "l-loco-jo",
+  "headword": "loco jò",
+  "senses": [
+    {
+      "it": "laggiù",
+      "en": "down there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "loco jò: laggiù",
+    "rawHash": "747241734c5bdb51ee961f32b757fcd4cb98080e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

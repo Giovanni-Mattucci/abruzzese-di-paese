@@ -1,0 +1,21 @@
+{
+  "id": "c-clunnet",
+  "headword": "clunnet",
+  "senses": [
+    {
+      "it": "comodino",
+      "en": "bedside table",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "clunnet: comodino",
+    "rawHash": "217152ad221a7ca414259c5cce0fa66189a7f2ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

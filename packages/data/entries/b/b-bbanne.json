@@ -1,0 +1,29 @@
+{
+  "id": "b-bbanne",
+  "headword": "bbanne",
+  "variants": [
+    "vanne"
+  ],
+  "senses": [
+    {
+      "it": "parte",
+      "en": "part",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lato",
+      "en": "side",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbanne, vanne : parte , lato",
+    "rawHash": "3ef18b7a9c2b34edaead1267ad401b71630324d7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

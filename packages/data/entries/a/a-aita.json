@@ -1,0 +1,21 @@
+{
+  "id": "a-aita",
+  "headword": "aità",
+  "senses": [
+    {
+      "it": "cullare",
+      "en": "to rock, to cradle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aità: cullare",
+    "rawHash": "142139b8a92b6f8becb79e9931b76727e3c2a07a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

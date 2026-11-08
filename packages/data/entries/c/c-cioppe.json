@@ -1,0 +1,21 @@
+{
+  "id": "c-cioppe",
+  "headword": "cioppe",
+  "senses": [
+    {
+      "it": "zoppo",
+      "en": "lame",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cioppe: zoppo",
+    "rawHash": "9c3f85f3d8549b6dde061e189d4655aa94d2f079",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

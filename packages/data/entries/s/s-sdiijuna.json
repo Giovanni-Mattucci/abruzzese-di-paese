@@ -1,0 +1,29 @@
+{
+  "id": "s-sdiijuna",
+  "headword": "sdiijunà",
+  "variants": [
+    "sdiijunì"
+  ],
+  "senses": [
+    {
+      "it": "rompere il digiuno",
+      "en": "to break the fast",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fare la prima colazione",
+      "en": "to have breakfast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdiijunà, sdiijunì: rompere il digiuno, fare la prima colazione",
+    "rawHash": "c1b2ca86f4fe4e7d1a71adc24423ce1f8277afa4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

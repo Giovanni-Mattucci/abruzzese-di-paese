@@ -1,0 +1,21 @@
+{
+  "id": "m-mazzafruste",
+  "headword": "mazzafruste",
+  "senses": [
+    {
+      "it": "mazza da botta con manico di legno duro unito, mediante un elemento snodato, ad un mazzo di acero la cui lunghezza varia dai 30 ai 40 centimetri, adoperato dai contadini per battere i legumi secchi sulle aie",
+      "en": "flail: a beating stick with a hardwood handle joined, by means of a hinged element, to a maple club 30 to 40 centimetres long, used by farmers to thresh dried legumes on the threshing floors",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mazzafruste: mazza da botta con manico di legno duro unito, mediante un elemento snodato, ad un mazzo di acero la cui lunghezza varia dai 30 ai 40 centimetri, adoperato dai contadini per battere i legumi secchi sulle aie",
+    "rawHash": "d0cad83b4b1b1221366d7ef3af9ac015ac2e2dff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

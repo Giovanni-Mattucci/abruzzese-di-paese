@@ -1,0 +1,21 @@
+{
+  "id": "s-sbendate",
+  "headword": "sbendate",
+  "senses": [
+    {
+      "it": "sofferente di ernia",
+      "en": "suffering from a hernia",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbendate: sofferente di ernia",
+    "rawHash": "be321ab6a0ad890593296f2b6dd2c9645b82c994",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

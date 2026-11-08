@@ -1,0 +1,22 @@
+{
+  "id": "c-camarole",
+  "headword": "camarole",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "operaio che raccoglieva la came",
+      "en": "labourer who gathered the chaff (came)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "camarole (lu): operaio che raccoglieva la came",
+    "rawHash": "96ed9a582098277ef398932c111525682127cfe7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

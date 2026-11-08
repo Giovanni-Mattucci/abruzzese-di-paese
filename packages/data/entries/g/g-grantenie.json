@@ -1,0 +1,21 @@
+{
+  "id": "g-grantenie",
+  "headword": "grantènie",
+  "senses": [
+    {
+      "it": "granoturco",
+      "en": "maize, corn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "grantènie: granoturco",
+    "rawHash": "4fa5c45448ab2206459cb993155f4db842fb6975",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

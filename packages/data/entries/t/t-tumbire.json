@@ -1,0 +1,21 @@
+{
+  "id": "t-tumbire",
+  "headword": "tumbìre",
+  "senses": [
+    {
+      "it": "pioggerella lenta e insistente",
+      "en": "slow, persistent drizzle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tumbìre: pioggerella lenta e insistente",
+    "rawHash": "3e19c943656b6b442ec12e5689de1c7ad168baa7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "m-mariule",
+  "headword": "mariule",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "ladro",
+      "en": "thief",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mariule (lu): ladro",
+    "rawHash": "93c40a600e5eba74cab961e6dccf787af186ac77",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

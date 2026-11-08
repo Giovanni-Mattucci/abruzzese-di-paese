@@ -1,0 +1,21 @@
+{
+  "id": "a-a-tutta-callara",
+  "headword": "a tutta callàra",
+  "senses": [
+    {
+      "it": "al massimo",
+      "en": "at full blast, to the maximum",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a tutta callàra: al massimo",
+    "rawHash": "085db46d068603d85c10f70f070236a300930e42",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

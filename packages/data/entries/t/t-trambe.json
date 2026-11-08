@@ -1,0 +1,21 @@
+{
+  "id": "t-trambe",
+  "headword": "trambe",
+  "senses": [
+    {
+      "it": "instabile",
+      "en": "unstable",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trambe: instabile",
+    "rawHash": "01ede970492cd8816198144414af5d309b6d32e5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

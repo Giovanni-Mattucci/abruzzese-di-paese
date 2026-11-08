@@ -1,0 +1,21 @@
+{
+  "id": "m-maddone",
+  "headword": "m'addòne",
+  "senses": [
+    {
+      "it": "mi accorgo",
+      "en": "I notice, I realize",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m'addòne: mi accorgo",
+    "rawHash": "51b49f128703cc67e1b5f916133195dd02d3c6f6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

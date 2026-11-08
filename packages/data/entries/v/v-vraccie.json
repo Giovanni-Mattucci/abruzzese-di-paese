@@ -1,0 +1,21 @@
+{
+  "id": "v-vraccie",
+  "headword": "vraccie",
+  "senses": [
+    {
+      "it": "braccio/braccia",
+      "en": "arm/arms",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vraccie: braccio/braccia",
+    "rawHash": "0c9b4ff53459df7d3a9a7d620d071b30cf40a4bd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

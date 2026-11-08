@@ -1,0 +1,21 @@
+{
+  "id": "v-viligna",
+  "headword": "vilignà",
+  "senses": [
+    {
+      "it": "vendemmiare",
+      "en": "to harvest grapes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vilignà: vendemmiare",
+    "rawHash": "fd72332c02323c49d2f138e0e5ff7bea0bf7075a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

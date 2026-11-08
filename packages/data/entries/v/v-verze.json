@@ -1,0 +1,31 @@
+{
+  "id": "v-verze",
+  "headword": "verze",
+  "senses": [
+    {
+      "it": "verso",
+      "en": "towards",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in direzione di",
+      "en": "in the direction of",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ecc",
+      "en": "etc.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "verze: verso, in direzione di, ecc.",
+    "rawHash": "1e6570ff38aa6e0a78bf11a251221dd1ef924d0e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

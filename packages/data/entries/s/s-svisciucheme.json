@@ -1,0 +1,21 @@
+{
+  "id": "s-svisciucheme",
+  "headword": "svisciuchème",
+  "senses": [
+    {
+      "it": "cerchiamo in mezzo alle cose",
+      "en": "we rummage among things",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "svisciuchème: cerchiamo in mezzo alle cose",
+    "rawHash": "7bd88f2dd788ee84aa5fae941870644c98af702d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

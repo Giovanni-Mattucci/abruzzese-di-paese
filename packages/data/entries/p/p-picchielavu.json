@@ -1,0 +1,21 @@
+{
+  "id": "p-picchielavu",
+  "headword": "picchielavù",
+  "senses": [
+    {
+      "it": "lucciola",
+      "en": "firefly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "picchielavù: lucciola",
+    "rawHash": "3d1f0964368aacbb90919d06b63c45b9c7a3f2cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

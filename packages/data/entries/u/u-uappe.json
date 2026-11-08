@@ -1,0 +1,21 @@
+{
+  "id": "u-uappe",
+  "headword": "uappe",
+  "senses": [
+    {
+      "it": "vanitoso",
+      "en": "vain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "uappe: vanitoso",
+    "rawHash": "e81496de6f6f65d3c399780ca5f7a7cb1edc27df",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

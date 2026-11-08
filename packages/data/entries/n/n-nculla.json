@@ -1,0 +1,24 @@
+{
+  "id": "n-nculla",
+  "headword": "'ncullà",
+  "senses": [
+    {
+      "it": "caricare sulle spalle un peso",
+      "en": "to load a weight onto one's shoulders",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncullà: caricare sulle spalle un peso",
+    "rawHash": "8173801b2aa8c3f0c582084449428942367237cb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

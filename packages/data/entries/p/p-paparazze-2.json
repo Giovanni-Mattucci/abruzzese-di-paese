@@ -1,0 +1,25 @@
+{
+  "id": "p-paparazze-2",
+  "headword": "paparazze",
+  "article": "li",
+  "senses": [
+    {
+      "it": "frutti di mare con guscio rigido",
+      "en": "hard-shelled seafood, shellfish",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paparazze (li): frutti di mare con guscio rigido",
+    "rawHash": "fc172b153806b28927339e098a1a80390dd6fc6c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

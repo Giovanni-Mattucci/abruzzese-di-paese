@@ -1,0 +1,24 @@
+{
+  "id": "b-biastema",
+  "headword": "biastemà",
+  "variants": [
+    "biastimà"
+  ],
+  "senses": [
+    {
+      "it": "bestemmiare",
+      "en": "to blaspheme, to curse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "biastemà, biastimà: bestemmiare",
+    "rawHash": "b9e12f1cb181fb309867b026b6a0cc93979f14a2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

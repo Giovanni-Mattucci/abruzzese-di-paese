@@ -1,0 +1,21 @@
+{
+  "id": "t-tattuccheje-ti-toccava",
+  "headword": "t'attucchèje ti toccava,",
+  "senses": [],
+  "notes": [
+    "Unparsed line: t'attucchèje ti toccava, ti spettava, era tuo"
+  ],
+  "tags": [
+    "needs-review"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "t'attucchèje ti toccava, ti spettava, era tuo",
+    "rawHash": "ea6135eb352e07106f706c95a357690e29485b4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

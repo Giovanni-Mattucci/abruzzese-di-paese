@@ -1,0 +1,21 @@
+{
+  "id": "p-profenda",
+  "headword": "profenda",
+  "senses": [
+    {
+      "it": "razione di biada",
+      "en": "ration of fodder",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "profenda: razione di biada",
+    "rawHash": "04e71c861641d6ff1483727f9ccc432c7c64e28d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

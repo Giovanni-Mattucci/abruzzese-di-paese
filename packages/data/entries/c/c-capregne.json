@@ -1,0 +1,26 @@
+{
+  "id": "c-capregne",
+  "headword": "caprègne",
+  "senses": [
+    {
+      "it": "caprino",
+      "en": "goat's, caprine",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "di capra",
+      "en": "of goat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caprègne: caprino, di capra",
+    "rawHash": "fe7ba07119fb2393984567b6e33455066b559fb2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cercine",
+  "headword": "cercìne",
+  "senses": [
+    {
+      "it": "panno ritorto a forma di ciambella",
+      "en": "cloth twisted into the shape of a ring (head pad)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cercìne: panno ritorto a forma di ciambella",
+    "rawHash": "f2cc0ee0d1900422f5202ae1e46daf9cd244bf00",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

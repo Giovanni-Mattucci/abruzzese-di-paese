@@ -1,0 +1,27 @@
+{
+  "id": "c-cerasa-2",
+  "headword": "cerasa",
+  "variants": [
+    "cerase"
+  ],
+  "senses": [
+    {
+      "it": "ciliegia",
+      "en": "cherry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cerasa, cerase: ciliegia",
+    "rawHash": "9130d0a5e5d9a3380764a783fc6f84b566de2a21",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

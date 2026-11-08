@@ -1,0 +1,21 @@
+{
+  "id": "a-arfa",
+  "headword": "arfà",
+  "senses": [
+    {
+      "it": "rifare",
+      "en": "to redo, to remake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arfà: rifare",
+    "rawHash": "bcae70ad02bf99c0c677b0161c490cc60ab4c88f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

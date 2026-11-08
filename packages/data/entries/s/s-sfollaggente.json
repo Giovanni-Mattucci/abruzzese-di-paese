@@ -1,0 +1,22 @@
+{
+  "id": "s-sfollaggente",
+  "headword": "sfollaggente",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "scorreggia",
+      "en": "fart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfollaggente (lu): scorreggia",
+    "rawHash": "1087b3a065369b84ccef08b13c6afa2bc6304429",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

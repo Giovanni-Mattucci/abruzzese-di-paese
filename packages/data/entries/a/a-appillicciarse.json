@@ -1,0 +1,26 @@
+{
+  "id": "a-appillicciarse",
+  "headword": "appillicciàrse",
+  "senses": [
+    {
+      "it": "bisticciare",
+      "en": "to bicker",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "litigare",
+      "en": "to quarrel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appillicciàrse: bisticciare, litigare",
+    "rawHash": "7975d1c4be9d4921016d59e4d102a8d78da03c7c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

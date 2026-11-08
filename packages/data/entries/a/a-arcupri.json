@@ -1,0 +1,21 @@
+{
+  "id": "a-arcupri",
+  "headword": "arcuprì",
+  "senses": [
+    {
+      "it": "ricoprire",
+      "en": "to cover again, to cover over",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcuprì: ricoprire",
+    "rawHash": "1c91be2c06a37015093e3093c86db0ce1a095646",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

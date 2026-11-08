@@ -1,0 +1,21 @@
+{
+  "id": "s-sparagneme",
+  "headword": "sparagnème",
+  "senses": [
+    {
+      "it": "risparmiamo",
+      "en": "we save",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sparagnème: risparmiamo",
+    "rawHash": "f0fcc0b819b1d2f575aed0b7c7e0bde90ffc0720",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

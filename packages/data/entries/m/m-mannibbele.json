@@ -1,0 +1,21 @@
+{
+  "id": "m-mannibbele",
+  "headword": "mannibbele",
+  "senses": [
+    {
+      "it": "manovale, uomo di fatica privo di cognizioni tecniche",
+      "en": "labourer, unskilled workman without technical knowledge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mannibbele: manovale, uomo di fatica privo di cognizioni tecniche",
+    "rawHash": "adebbb7a2c8737c97b89656bfe6afa9353ee8319",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

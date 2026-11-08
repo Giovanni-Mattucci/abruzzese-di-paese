@@ -1,0 +1,21 @@
+{
+  "id": "s-struppijetele",
+  "headword": "struppijètele",
+  "senses": [
+    {
+      "it": "picchiatelo",
+      "en": "beat him (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "struppijètele: picchiatelo",
+    "rawHash": "0bb0a699cb6450956469f839134e9b4d5aa06470",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

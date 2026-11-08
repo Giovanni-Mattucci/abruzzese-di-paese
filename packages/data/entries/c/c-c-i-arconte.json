@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-arconte",
+  "headword": "c-i-arcònte",
+  "variants": [
+    "c'arcònte"
+  ],
+  "senses": [
+    {
+      "it": "ci racconta",
+      "en": "he/she tells us",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci dice di nuovo",
+      "en": "he/she tells us again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arcònte, c'arcònte: ci racconta, ci dice di nuovo",
+    "rawHash": "b6187e74987f667a84638bdb1e57ca10e255b051",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

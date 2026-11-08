@@ -1,0 +1,26 @@
+{
+  "id": "b-bbisinisse-2",
+  "headword": "bbisinisse",
+  "senses": [
+    {
+      "it": "affari es,: fare bisinisse",
+      "en": "business, e.g. fare bisinisse",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fare affari",
+      "en": "to do business",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbisinisse: affari es,: fare bisinisse, fare affari",
+    "rawHash": "da00994cc9bf0beaba787ab55f6e53b9b055047f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

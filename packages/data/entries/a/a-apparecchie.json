@@ -1,0 +1,26 @@
+{
+  "id": "a-apparecchie",
+  "headword": "apparecchie",
+  "senses": [
+    {
+      "it": "aereo",
+      "en": "aircraft",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "aeroplano",
+      "en": "aeroplane",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "apparecchie:aereo, aeroplano",
+    "rawHash": "6dbd0fe93eb2df248546cfa919fa574469c8a6e4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

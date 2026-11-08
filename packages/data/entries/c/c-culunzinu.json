@@ -1,0 +1,21 @@
+{
+  "id": "c-culunzinu",
+  "headword": "culunzìnu",
+  "senses": [
+    {
+      "it": "immediatamente",
+      "en": "immediately",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "culunzìnu: immediatamente",
+    "rawHash": "3c91ff24d791813632617685750e8d3d78d1e4d3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

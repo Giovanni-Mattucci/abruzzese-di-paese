@@ -1,0 +1,21 @@
+{
+  "id": "s-sfrunneme",
+  "headword": "sfrunnème",
+  "senses": [
+    {
+      "it": "togliamo le foglie",
+      "en": "we remove the leaves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrunnème: togliamo le foglie",
+    "rawHash": "6dbe2d62e288f635eed8616d600b101d3afbefce",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

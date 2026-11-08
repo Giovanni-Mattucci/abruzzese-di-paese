@@ -1,0 +1,26 @@
+{
+  "id": "c-cote",
+  "headword": "còte",
+  "senses": [
+    {
+      "it": "còlto",
+      "en": "gathered, picked",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "preso",
+      "en": "caught, taken",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "còte: còlto, preso",
+    "rawHash": "563ce1457cfa358711a803789c928f16fead6861",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

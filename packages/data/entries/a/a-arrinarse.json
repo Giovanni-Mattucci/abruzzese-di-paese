@@ -1,0 +1,21 @@
+{
+  "id": "a-arrinarse",
+  "headword": "arrinàrse",
+  "senses": [
+    {
+      "it": "arenarsi",
+      "en": "to run aground, to get stuck",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrinàrse: arenarsi",
+    "rawHash": "89a9b92ff50ed040396c942f57d7b03137b43e1a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

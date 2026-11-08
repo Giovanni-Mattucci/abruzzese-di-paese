@@ -1,0 +1,21 @@
+{
+  "id": "v-vedellone",
+  "headword": "vedellone",
+  "senses": [
+    {
+      "it": "vitellone",
+      "en": "young bullock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vedellone: vitellone",
+    "rawHash": "68f6e7fbf4e16cee95e514151af2a71214de2c85",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-scullone",
+  "headword": "scullòne",
+  "senses": [
+    {
+      "it": "sciarpa",
+      "en": "scarf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scullòne: sciarpa",
+    "rawHash": "71c99e7c823c78c4c9ff04dfbe5eaafe08ab855b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

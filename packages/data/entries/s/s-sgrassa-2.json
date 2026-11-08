@@ -1,0 +1,24 @@
+{
+  "id": "s-sgrassa-2",
+  "headword": "sgrassà",
+  "senses": [
+    {
+      "it": "pulire un piano con prodotto sgrassante per avere una profonda pulizia",
+      "en": "to clean a surface with a degreasing product for a deep clean",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgrassà: pulire un piano con prodotto sgrassante per avere una profonda pulizia",
+    "rawHash": "d812f4f988cddc85c7f94972b8549cfcef5a78ce",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

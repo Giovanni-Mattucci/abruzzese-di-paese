@@ -1,0 +1,21 @@
+{
+  "id": "a-acquasale",
+  "headword": "acquasale",
+  "senses": [
+    {
+      "it": "pane bagnato con olio e sale",
+      "en": "bread moistened with oil and salt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acquasale: pane bagnato con olio e sale",
+    "rawHash": "b99db0614b0a0354150cebb74cdfec6881f69705",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

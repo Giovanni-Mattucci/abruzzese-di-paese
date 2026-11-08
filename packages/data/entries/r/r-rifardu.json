@@ -1,0 +1,21 @@
+{
+  "id": "r-rifardu",
+  "headword": "rifàrdu",
+  "senses": [
+    {
+      "it": "ridicolo",
+      "en": "ridiculous",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rifàrdu: ridicolo",
+    "rawHash": "a9446dbb5463696e080a02c836092ed2f5f94af1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

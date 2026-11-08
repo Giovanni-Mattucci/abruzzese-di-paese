@@ -1,0 +1,21 @@
+{
+  "id": "p-panarda",
+  "headword": "panarda",
+  "senses": [
+    {
+      "it": "matrimonio concordato",
+      "en": "arranged marriage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "panarda: matrimonio concordato",
+    "rawHash": "c935b2e293e73cccb5473fc5e968ef6906e89611",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

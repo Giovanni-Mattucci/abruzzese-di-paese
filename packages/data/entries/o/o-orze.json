@@ -1,0 +1,21 @@
+{
+  "id": "o-orze",
+  "headword": "orze",
+  "senses": [
+    {
+      "it": "orzo",
+      "en": "barley",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "o",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/o.html",
+    "raw": "orze: orzo",
+    "rawHash": "95a233c47d9b586bd271dbf06897b2113b731b1c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

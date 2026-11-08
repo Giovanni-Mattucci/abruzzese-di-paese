@@ -1,0 +1,21 @@
+{
+  "id": "p-pullinu",
+  "headword": "pullìnu",
+  "senses": [
+    {
+      "it": "di vista corta",
+      "en": "short-sighted",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pullìnu: di vista corta",
+    "rawHash": "5c69061ef6fd7cfca4e3b2e3fd696ef5ca600687",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

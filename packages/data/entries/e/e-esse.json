@@ -1,0 +1,29 @@
+{
+  "id": "e-esse",
+  "headword": "esse",
+  "senses": [
+    {
+      "it": "esso",
+      "en": "it",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "egli (pron. pers. sing.)",
+      "en": "he (sing. personal pron.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "esse: esso, egli (pron. pers. sing.)",
+    "rawHash": "0074954a7fccefe721c404455b08b9ef6640c4a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

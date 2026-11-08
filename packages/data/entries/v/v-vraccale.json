@@ -1,0 +1,21 @@
+{
+  "id": "v-vraccale",
+  "headword": "vraccàle",
+  "senses": [
+    {
+      "it": "collare per cane pastore",
+      "en": "collar for a sheepdog",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vraccàle: collare per cane pastore",
+    "rawHash": "33b674fc94a19d7181fb01bf007d94f771a20e3b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

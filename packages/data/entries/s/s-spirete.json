@@ -1,0 +1,24 @@
+{
+  "id": "s-spirete",
+  "headword": "spìrete",
+  "senses": [
+    {
+      "it": "anima",
+      "en": "soul, spirit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spìrete: anima",
+    "rawHash": "1bb32245ff07073409d9fa2253c862de00e8b114",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

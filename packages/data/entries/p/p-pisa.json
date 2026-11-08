@@ -1,0 +1,21 @@
+{
+  "id": "p-pisa",
+  "headword": "pisà",
+  "senses": [
+    {
+      "it": "pesare",
+      "en": "to weigh",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pisà: pesare",
+    "rawHash": "63211a2bbc1aee153f06ff6cda0be87306678fd8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

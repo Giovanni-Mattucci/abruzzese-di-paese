@@ -1,0 +1,24 @@
+{
+  "id": "s-scrilla",
+  "headword": "scrillà",
+  "senses": [
+    {
+      "it": "accendere un fiammifero",
+      "en": "to strike a match",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scrillà: accendere un fiammifero",
+    "rawHash": "87fa07fc0fa07902ec95c7277f3f856464db349b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c-canavacciuol",
+  "headword": "canavacciuol'",
+  "variants": [
+    "canavacciuole"
+  ],
+  "senses": [
+    {
+      "it": "verzellino",
+      "en": "serin (bird)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "canavacciuol', canavacciuole: verzellino",
+    "rawHash": "699858b3897a29d83440fa57b0937efb6f64cade",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

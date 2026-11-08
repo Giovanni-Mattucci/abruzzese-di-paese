@@ -1,0 +1,21 @@
+{
+  "id": "t-topanare",
+  "headword": "topanàre",
+  "senses": [
+    {
+      "it": "tarpa",
+      "en": "mole",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "topanàre: tarpa",
+    "rawHash": "45478edef6217af2bea896512ee85c7f13e0de50",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

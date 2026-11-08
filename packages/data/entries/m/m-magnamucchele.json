@@ -1,0 +1,21 @@
+{
+  "id": "m-magnamucchele",
+  "headword": "magnamùcchele",
+  "senses": [
+    {
+      "it": "mangiamoccoli",
+      "en": "candle-eater (a sanctimonious, bigoted person)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "magnamùcchele: mangiamoccoli",
+    "rawHash": "9b58578b6ce143a912e8127ca7d1afdee59c5e96",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

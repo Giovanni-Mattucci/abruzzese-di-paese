@@ -1,0 +1,21 @@
+{
+  "id": "s-smandete",
+  "headword": "smandète",
+  "senses": [
+    {
+      "it": "scoprite",
+      "en": "you (plural) uncover",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smandète: scoprite",
+    "rawHash": "6042ea52461dcb03b139b20738b183ff1f95555a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

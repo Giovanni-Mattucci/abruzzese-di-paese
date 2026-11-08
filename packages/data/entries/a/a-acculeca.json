@@ -1,0 +1,21 @@
+{
+  "id": "a-acculeca",
+  "headword": "acculecà",
+  "senses": [
+    {
+      "it": "a coricarsi",
+      "en": "to lie down, to go to bed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acculecà: a coricarsi",
+    "rawHash": "7eb08e20e1cf710e5b721b15c4c38e63751e170d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

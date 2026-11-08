@@ -1,0 +1,21 @@
+{
+  "id": "f-fuorchie",
+  "headword": "fuorchie",
+  "senses": [
+    {
+      "it": "porcile",
+      "en": "pigsty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fuorchie: porcile",
+    "rawHash": "034916fbe456771258fa5052c70d1b5cd53db2a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sciumbra",
+  "headword": "sciùmbra",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciùmbra: altalena",
+    "rawHash": "cd1710e2105c12e1f119a86319103d2c4f690bcf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

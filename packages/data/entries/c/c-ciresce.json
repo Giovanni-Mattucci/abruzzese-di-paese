@@ -1,0 +1,21 @@
+{
+  "id": "c-ciresce",
+  "headword": "cirèsce",
+  "senses": [
+    {
+      "it": "ciliegia",
+      "en": "cherry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cirèsce: ciliegia",
+    "rawHash": "15f3be64111c0176aa97942a83faf3d9bf1750d4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

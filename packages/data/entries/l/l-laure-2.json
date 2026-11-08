@@ -1,0 +1,24 @@
+{
+  "id": "l-laure-2",
+  "headword": "làure",
+  "senses": [
+    {
+      "it": "l'alloro",
+      "en": "the laurel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "làure: l'alloro",
+    "rawHash": "4cdd2adc1a9d878e7a0aa0392db5bce830d0b951",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

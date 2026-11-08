@@ -1,0 +1,21 @@
+{
+  "id": "a-alluchete",
+  "headword": "allùchete",
+  "senses": [
+    {
+      "it": "siediti",
+      "en": "sit down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allùchete: siediti",
+    "rawHash": "cde2673676f097c99e03e161d4014c996fb7d310",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

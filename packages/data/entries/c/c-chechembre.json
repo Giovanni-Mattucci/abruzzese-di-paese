@@ -1,0 +1,22 @@
+{
+  "id": "c-chechembre",
+  "headword": "chechêmbre",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "cetriolo",
+      "en": "cucumber",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chechêmbre (lu): cetriolo",
+    "rawHash": "4e31c71eff12498f7851f4bc043f224ef6df9f3e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

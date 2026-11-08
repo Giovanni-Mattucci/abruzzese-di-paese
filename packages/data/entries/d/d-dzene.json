@@ -1,0 +1,21 @@
+{
+  "id": "d-dzene",
+  "headword": "dzene",
+  "senses": [
+    {
+      "it": "gente",
+      "en": "people",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dzene: gente",
+    "rawHash": "f6fe9cc32aad23995ac50645c0ede47b17486b42",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

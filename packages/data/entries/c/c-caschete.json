@@ -1,0 +1,21 @@
+{
+  "id": "c-caschete",
+  "headword": "caschète",
+  "senses": [
+    {
+      "it": "cadete",
+      "en": "you (pl.) fall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caschète: cadete",
+    "rawHash": "dfe89f5c3ad25dcb01e087708fba373a08980245",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

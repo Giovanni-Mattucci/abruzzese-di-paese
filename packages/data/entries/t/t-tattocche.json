@@ -1,0 +1,41 @@
+{
+  "id": "t-tattocche",
+  "headword": "t'attòcche",
+  "senses": [
+    {
+      "it": "ti tocca",
+      "en": "it falls to you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ti spetta",
+      "en": "it is due to you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tocca a te",
+      "en": "it is your turn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spetta a te",
+      "en": "it is up to you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "è tuo",
+      "en": "it is yours",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "t'attòcche: ti tocca, ti spetta, tocca a te, spetta a te, è tuo",
+    "rawHash": "fb03f7e04ae3830c313ebab902e2045df2106f91",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "r-randigne",
+  "headword": "randìgne",
+  "senses": [
+    {
+      "it": "mais",
+      "en": "maize, corn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "granoturco",
+      "en": "maize",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "randìgne: mais, granoturco",
+    "rawHash": "8e044e6f8adaab0a4d5800c0c7d7400b142b5196",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

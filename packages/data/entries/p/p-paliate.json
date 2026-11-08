@@ -1,0 +1,25 @@
+{
+  "id": "p-paliate",
+  "headword": "paliàte",
+  "article": "la",
+  "senses": [
+    {
+      "it": "interiora dell'agnello",
+      "en": "lamb offal, lamb's innards",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paliàte (la): interiora dell'agnello",
+    "rawHash": "cb2f12f8f23748f3b8bb168dcd194a5899b377b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

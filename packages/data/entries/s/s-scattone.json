@@ -1,0 +1,22 @@
+{
+  "id": "s-scattone",
+  "headword": "scattone",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "pentolone",
+      "en": "large pot, cauldron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scattone (lu): pentolone",
+    "rawHash": "56c7595d8d6328b134b36554b5ff789443d3ad1e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

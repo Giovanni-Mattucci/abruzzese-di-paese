@@ -1,0 +1,24 @@
+{
+  "id": "j-ju-4",
+  "headword": "ju",
+  "senses": [
+    {
+      "it": "laggiù",
+      "en": "down there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ju: laggiù",
+    "rawHash": "d62f886e9184f6b06fd5fa2c4729aa2903527c20",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

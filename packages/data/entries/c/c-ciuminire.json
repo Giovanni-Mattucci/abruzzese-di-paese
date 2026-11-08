@@ -1,0 +1,21 @@
+{
+  "id": "c-ciuminire",
+  "headword": "ciuminire",
+  "senses": [
+    {
+      "it": "ciminiera",
+      "en": "chimney",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciuminire: ciminiera",
+    "rawHash": "039310506c6d553a074375faf2ce428cc020becd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

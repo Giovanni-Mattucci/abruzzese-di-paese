@@ -1,0 +1,26 @@
+{
+  "id": "f-fatije",
+  "headword": "fatije",
+  "senses": [
+    {
+      "it": "lavoro",
+      "en": "work",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lavora",
+      "en": "he/she works",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fatije: lavoro, lavora",
+    "rawHash": "990d3961c33af8f711cd6c5e699cd97967484f43",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

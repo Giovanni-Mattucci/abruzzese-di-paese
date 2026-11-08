@@ -1,0 +1,21 @@
+{
+  "id": "b-beora",
+  "headword": "beorà",
+  "senses": [
+    {
+      "it": "abbeverare",
+      "en": "to water (animals)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "beorà: abbeverare",
+    "rawHash": "3f7b92a3ce2ee4c485e2d93a7a34aa89eb8a3181",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

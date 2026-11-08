@@ -1,0 +1,24 @@
+{
+  "id": "d-ddo",
+  "headword": "ddò",
+  "variants": [
+    "addò"
+  ],
+  "senses": [
+    {
+      "it": "dove",
+      "en": "where",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "ddò, addò: dove",
+    "rawHash": "a46e2c643c0ca1726fcaaa3bc44533c0728514d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

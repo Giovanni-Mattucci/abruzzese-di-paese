@@ -1,0 +1,27 @@
+{
+  "id": "s-scumpasse",
+  "headword": "scumpasse",
+  "article": "le",
+  "senses": [
+    {
+      "it": "lo supero",
+      "en": "I surpass him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lo sorpasso",
+      "en": "I overtake him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scumpasse (le): lo supero, lo sorpasso",
+    "rawHash": "a119305366006d62ceaded6c23ea9d41c29ec5a4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-appicciate",
+  "headword": "appicciàte",
+  "senses": [
+    {
+      "it": "acceso",
+      "en": "lit, switched on",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "andare mano nella mano",
+      "en": "to go hand in hand",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "1 appicciate lu foche, 2 uarde come camminene appicciàte",
+      "it": "ha acceso il fuoco, ma anche: guarda come camminano mano nella mano",
+      "en": "he/she lit the fire, but also: look how they walk hand in hand",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appicciàte: acceso, ma anche andare mano nella mano,es.: 1 appicciate lu foche, 2 uarde come camminene appicciàte: ha acceso il fuoco, ma anche: guarda come camminano mano nella mano",
+    "rawHash": "dd7e9a7b6afc14d0e30359fb529aa34fd5910720",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

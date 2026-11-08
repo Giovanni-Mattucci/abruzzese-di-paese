@@ -1,0 +1,29 @@
+{
+  "id": "a-arrizza",
+  "headword": "arrizzà",
+  "senses": [
+    {
+      "it": "alzare",
+      "en": "to raise, to lift",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "alzarsi",
+      "en": "to get up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrizzà: alzare, alzarsi",
+    "rawHash": "8190b4e0956cc8025faf3b7ef71ee3b07d81b1bb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

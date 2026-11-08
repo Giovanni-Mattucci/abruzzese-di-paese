@@ -1,0 +1,26 @@
+{
+  "id": "l-lloche",
+  "headword": "lloche",
+  "senses": [
+    {
+      "it": "li",
+      "en": "there",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in quel posto",
+      "en": "in that place",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lloche: li, in quel posto",
+    "rawHash": "e7dc332d6c9686a4f6f9bdd301e381012bf118a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

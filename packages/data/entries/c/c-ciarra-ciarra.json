@@ -1,0 +1,29 @@
+{
+  "id": "c-ciarra-ciarra",
+  "headword": "ciàrra ciàrra",
+  "senses": [
+    {
+      "it": "pieno",
+      "en": "full",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "colmo fino all'orlo",
+      "en": "filled to the brim",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciàrra ciàrra: pieno, colmo fino all'orlo",
+    "rawHash": "2e6e52255c411bb7a5ea3c7eb33b048dc551d467",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

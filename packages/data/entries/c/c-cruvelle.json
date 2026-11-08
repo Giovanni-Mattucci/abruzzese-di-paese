@@ -1,0 +1,22 @@
+{
+  "id": "c-cruvelle",
+  "headword": "cruvélle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "setaccio a larga trama, macinagrano, arnese per separare il grano dalle scorie",
+      "en": "coarse-meshed sieve, grain sifter, tool for separating wheat from chaff",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cruvélle (lu): setaccio a larga trama, macinagrano, arnese per separare il grano dalle scorie",
+    "rawHash": "86488267defeb8e7b01110caab2de23f8bfc412e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

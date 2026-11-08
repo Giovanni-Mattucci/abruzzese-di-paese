@@ -1,0 +1,21 @@
+{
+  "id": "a-alla-segreduna",
+  "headword": "alla segreduna",
+  "senses": [
+    {
+      "it": "all'improvviso",
+      "en": "suddenly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "alla segreduna: all'improvviso",
+    "rawHash": "8031de4e6c8c2d961f7a928ba75475ece3abcc30",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

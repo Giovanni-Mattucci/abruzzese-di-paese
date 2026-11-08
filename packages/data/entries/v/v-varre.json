@@ -1,0 +1,26 @@
+{
+  "id": "v-varre",
+  "headword": "vàrre",
+  "senses": [
+    {
+      "it": "batta",
+      "en": "bar, bat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pene",
+      "en": "penis",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vàrre: batta, pene",
+    "rawHash": "6ee5d1389a5c1c53f10dc068f6c4ca1190f9896e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

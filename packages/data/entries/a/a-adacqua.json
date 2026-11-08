@@ -1,0 +1,21 @@
+{
+  "id": "a-adacqua",
+  "headword": "adacquà",
+  "senses": [
+    {
+      "it": "innaffiare",
+      "en": "to water (plants)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "adacquà: innaffiare",
+    "rawHash": "ea7e4abe4aa4c3aa60d7a207246744be427423df",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

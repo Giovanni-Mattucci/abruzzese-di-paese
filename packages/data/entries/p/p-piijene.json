@@ -1,0 +1,21 @@
+{
+  "id": "p-piijene",
+  "headword": "piìjene",
+  "senses": [
+    {
+      "it": "prendono",
+      "en": "they take",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piìjene: prendono",
+    "rawHash": "e7f7b2dec6d85e14e0435bea8365451b36130710",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

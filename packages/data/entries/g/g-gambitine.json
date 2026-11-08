@@ -1,0 +1,21 @@
+{
+  "id": "g-gambitine",
+  "headword": "gambitìne",
+  "senses": [
+    {
+      "it": "gambe",
+      "en": "legs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gambitìne: gambe",
+    "rawHash": "2ab3e8501319ffdb5f3fc11317afd7a2b2f6416c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

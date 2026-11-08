@@ -1,0 +1,27 @@
+{
+  "id": "c-cuce-2",
+  "headword": "cùce",
+  "senses": [
+    {
+      "it": "cuoci",
+      "en": "you cook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j còce, tu cùce, esse còce, nu cucème, vu cucète, isse còcene)"
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cùce: cuoci (j còce, tu cùce, esse còce, nu cucème, vu cucète, isse còcene)",
+    "rawHash": "e42d99734b6483c07ae8fabc46e521858f1acd3b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d-dammajje",
+  "headword": "dammajje",
+  "senses": [
+    {
+      "it": "danno",
+      "en": "damage",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "danneggiare",
+      "en": "to damage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dammajje: danno, danneggiare",
+    "rawHash": "1f933402b1d5e41dbbc48022bbee48b384c49cd0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

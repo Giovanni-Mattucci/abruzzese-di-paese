@@ -1,0 +1,26 @@
+{
+  "id": "c-cottoma",
+  "headword": "cottomà",
+  "senses": [
+    {
+      "it": "accostumare",
+      "en": "to accustom",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sistemare",
+      "en": "to arrange, to settle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cottomà: accostumare, sistemare",
+    "rawHash": "78ebef15ccd099331d0edd5d592a58a5007a4e67",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

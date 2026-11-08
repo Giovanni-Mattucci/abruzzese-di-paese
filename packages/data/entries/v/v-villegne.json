@@ -1,0 +1,21 @@
+{
+  "id": "v-villegne",
+  "headword": "villegne",
+  "senses": [
+    {
+      "it": "vendemmia",
+      "en": "grape harvest",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "villegne: vendemmia",
+    "rawHash": "8753f1d2ca0aab194c9b7db9a005c44a4c3dcbfb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

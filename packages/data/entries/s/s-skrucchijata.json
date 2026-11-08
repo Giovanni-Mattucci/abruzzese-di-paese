@@ -1,0 +1,21 @@
+{
+  "id": "s-skrucchijata",
+  "headword": "skrucchijàta",
+  "senses": [
+    {
+      "it": "marmellata d'uva",
+      "en": "grape jam",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "skrucchijàta: marmellata d'uva",
+    "rawHash": "7d801959570626b5531222c06f7f3d1cd5043cdb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

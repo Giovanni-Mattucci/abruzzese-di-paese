@@ -1,0 +1,21 @@
+{
+  "id": "z-zezze",
+  "headword": "zêzze",
+  "senses": [
+    {
+      "it": "sporco",
+      "en": "dirty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zêzze: sporco",
+    "rawHash": "7eafabfb42276773fa803a3ebc26b55688df505c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

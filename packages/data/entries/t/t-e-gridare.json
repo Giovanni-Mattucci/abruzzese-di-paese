@@ -1,0 +1,26 @@
+{
+  "id": "t-e-gridare",
+  "headword": "e gridare",
+  "senses": [
+    {
+      "it": "viva al Re",
+      "en": "long live the King",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "morte ai carbonari!",
+      "en": "death to the Carbonari!",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "e gridare: viva al Re, morte ai carbonari!",
+    "rawHash": "cbf394a678bf292337c40a41098a46a658e36a23",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

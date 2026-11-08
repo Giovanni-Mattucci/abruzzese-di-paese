@@ -1,0 +1,24 @@
+{
+  "id": "s-sigge",
+  "headword": "sìgge",
+  "senses": [
+    {
+      "it": "sedia",
+      "en": "chair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sìgge: sedia",
+    "rawHash": "11440eb3bf3cf3cb69000f38365899bd8bd26151",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

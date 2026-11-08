@@ -1,0 +1,22 @@
+{
+  "id": "c-carpenelle",
+  "headword": "carpenélle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "muschio",
+      "en": "moss",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carpenélle (la): muschio",
+    "rawHash": "6391c02b3cbf8f075ec4037fcd58e9d288ff0ec9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

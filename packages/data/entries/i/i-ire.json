@@ -1,0 +1,25 @@
+{
+  "id": "i-ire",
+  "headword": "ire",
+  "senses": [
+    {
+      "it": "andare",
+      "en": "to go",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j vaje, tu vì, esse va, nu j+me, vu jète, jsse vanne (io vado, tu.vai, egli va, noi andiamo, voi andate, essi vanno)",
+    "Passato: J jve, tu jste, esso jò, nu jèmme, vu jèste, jsse jsere (io andai, tu andasti, egli andò, noi andammo, voi andaste, essi andarono)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ire: andare, j vaje, tu vì, esse va, nu j+me, vu jète, jsse vanne (io vado, tu.vai, egli va, noi andiamo, voi andate, essi vanno) Passato: J jve, tu jste, esso jò, nu jèmme, vu jèste, jsse jsere (io andai, tu andasti, egli andò, noi andammo, voi andaste, essi andarono)",
+    "rawHash": "ee343ece71ba0236a00d5a92452bf85a8b33d91a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

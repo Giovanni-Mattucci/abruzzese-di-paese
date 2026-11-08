@@ -1,0 +1,24 @@
+{
+  "id": "v-vicale-2",
+  "headword": "vicàle",
+  "senses": [
+    {
+      "it": "brocca, boccale panciuto, contenitore di coccio decorato della capacità di un litro",
+      "en": "jug, pot-bellied tankard, decorated earthenware container with a capacity of one litre",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vicàle: brocca, boccale panciuto, contenitore di coccio decorato della capacità di un litro",
+    "rawHash": "b71cb7b508ad30710dd18226d5b8f86e0ca8bf35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

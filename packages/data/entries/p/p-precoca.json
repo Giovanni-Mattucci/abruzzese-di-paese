@@ -1,0 +1,25 @@
+{
+  "id": "p-precoca",
+  "headword": "precòca",
+  "variants": [
+    "precoche",
+    "pricòche"
+  ],
+  "senses": [
+    {
+      "it": "albicocca",
+      "en": "apricot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "precòca, precoche, pricòche: albicocca",
+    "rawHash": "889bf4d0e98c3f3f39f63c2c979898224af5a0e5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

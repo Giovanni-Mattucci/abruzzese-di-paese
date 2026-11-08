@@ -1,0 +1,29 @@
+{
+  "id": "a-abba-lu-sonne",
+  "headword": "abbà lu sonne",
+  "variants": [
+    "abbà lu suonne"
+  ],
+  "senses": [
+    {
+      "it": "avere",
+      "en": "to have",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "prendere sonno",
+      "en": "to fall asleep",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbà lu sonne, abbà lu suonne: avere, prendere sonno",
+    "rawHash": "dbe2c9275493b2ab216d332ca099a7c2fa87ce9e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

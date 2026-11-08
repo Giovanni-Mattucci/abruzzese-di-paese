@@ -1,0 +1,21 @@
+{
+  "id": "c-capumille",
+  "headword": "capumìlle",
+  "senses": [
+    {
+      "it": "camomilla",
+      "en": "chamomile",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capumìlle: camomilla",
+    "rawHash": "6a230a94dcdcb4714e5ab123098e3bde97b8d21b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "n-per-qualsiasi-motivo",
+  "headword": "per qualsiasi motivo",
+  "variants": [
+    "si volevano allontanare i bambini. È tipica la frase"
+  ],
+  "senses": [
+    {
+      "it": "va da la zie ca ti dà na nzè di"
+    }
+  ],
+  "tags": [
+    "needs-review"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "per qualsiasi motivo, si volevano allontanare i bambini. È tipica la frase: va da la zie ca ti dà na nzè di",
+    "rawHash": "08102e5accee0ef30b811f8c4d686391f2867130",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

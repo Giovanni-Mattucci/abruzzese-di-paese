@@ -1,0 +1,24 @@
+{
+  "id": "m-mazze-2",
+  "headword": "mazze",
+  "senses": [
+    {
+      "it": "bastone",
+      "en": "stick, club",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mazze: bastone",
+    "rawHash": "273644efde2c90a30b061883287eb7c6fbaa87a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

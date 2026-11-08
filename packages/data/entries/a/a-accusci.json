@@ -1,0 +1,21 @@
+{
+  "id": "a-accusci",
+  "headword": "accuscì",
+  "senses": [
+    {
+      "it": "così",
+      "en": "so, like this, thus",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accuscì: così",
+    "rawHash": "85c3f10dff62d13785f456f25853a026cb06b585",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

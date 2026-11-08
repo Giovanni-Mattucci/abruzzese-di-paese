@@ -1,0 +1,21 @@
+{
+  "id": "s-salloche",
+  "headword": "s'allòche",
+  "senses": [
+    {
+      "it": "si siede",
+      "en": "he/she sits down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "s'allòche: si siede",
+    "rawHash": "c725d639ff1496f016ab8aef0e1ade3e17b78fca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

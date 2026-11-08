@@ -1,0 +1,24 @@
+{
+  "id": "c-chiupp",
+  "headword": "chiupp",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "pioppo",
+      "en": "poplar",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiupp: pioppo (Montebello sul Sangro)",
+    "rawHash": "deb54798d7108f2324d4dc936a21ee0dde4609b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

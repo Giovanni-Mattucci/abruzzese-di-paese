@@ -1,0 +1,27 @@
+{
+  "id": "s-stennemasse",
+  "headword": "stennemasse",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "stendipasta",
+      "en": "pasta roller",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "matterello",
+      "en": "rolling pin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stennemasse (lu): stendipasta, matterello",
+    "rawHash": "c623ee838da41f79a028c4cb953923064e6c93d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

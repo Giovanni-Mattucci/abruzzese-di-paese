@@ -1,0 +1,21 @@
+{
+  "id": "b-buzzico",
+  "headword": "bùzzico",
+  "senses": [
+    {
+      "it": "secchio",
+      "en": "bucket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bùzzico: secchio",
+    "rawHash": "e23204840eaef3430e2c4284bd4daabc08402584",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

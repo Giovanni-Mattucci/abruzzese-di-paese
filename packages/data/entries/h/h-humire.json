@@ -1,0 +1,22 @@
+{
+  "id": "h-humire",
+  "headword": "humìre",
+  "article": "la",
+  "senses": [
+    {
+      "it": "vomero",
+      "en": "ploughshare",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "humìre (la): vomero",
+    "rawHash": "8511a9159d36d31ada21cddf25e5fe2c85521966",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

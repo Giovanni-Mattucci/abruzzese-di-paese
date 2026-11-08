@@ -1,0 +1,25 @@
+{
+  "id": "s-stare-2",
+  "headword": "stare",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "cesto di vimini",
+      "en": "wicker basket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stare (lu): cesto di vimini",
+    "rawHash": "0b85b8781eacdc829985d1d752756c72eb28c646",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

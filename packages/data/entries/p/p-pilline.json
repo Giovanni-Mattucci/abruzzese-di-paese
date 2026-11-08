@@ -1,0 +1,26 @@
+{
+  "id": "p-pilline",
+  "headword": "pillìne",
+  "senses": [
+    {
+      "it": "miope",
+      "en": "short-sighted",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "di vista corta",
+      "en": "of poor eyesight",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pillìne: miope, di vista corta",
+    "rawHash": "c62993aeb5315ffdce57aa745ff7d26ef0291005",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d-di-sgusce",
+  "headword": "di sgusce",
+  "senses": [
+    {
+      "it": "di sguincio",
+      "en": "askew, slantwise",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "di sgusce: di sguincio",
+    "rawHash": "3db7d58e4771e79a58a12df79692cce9c781ee3a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

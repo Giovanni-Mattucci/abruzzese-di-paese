@@ -1,0 +1,21 @@
+{
+  "id": "a-alluchemece",
+  "headword": "alluchèmece",
+  "senses": [
+    {
+      "it": "siediamoci",
+      "en": "let us sit down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "alluchèmece: siediamoci",
+    "rawHash": "d24b378eab05e37027816d522d1aec608a63c2e6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

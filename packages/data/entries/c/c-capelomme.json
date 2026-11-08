@@ -1,0 +1,24 @@
+{
+  "id": "c-capelomme",
+  "headword": "capelomme",
+  "variants": [
+    "capilòmme"
+  ],
+  "senses": [
+    {
+      "it": "lombata di maiale, si adopera pure per dire di qualcuno troppo lento",
+      "en": "pork loin, also used to describe someone who is too slow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capelomme, capilòmme: lombata di maiale, si adopera pure per dire di qualcuno troppo lento,",
+    "rawHash": "0902d092ccc950fde19061bb2abe71cc6afa7d90",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

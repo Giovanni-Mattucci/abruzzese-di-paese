@@ -1,0 +1,21 @@
+{
+  "id": "v-vriscile",
+  "headword": "vriscile",
+  "senses": [
+    {
+      "it": "ventriglio",
+      "en": "gizzard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vriscile: ventriglio",
+    "rawHash": "6ce32b214c2de37537cfff800f55a45950e23695",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

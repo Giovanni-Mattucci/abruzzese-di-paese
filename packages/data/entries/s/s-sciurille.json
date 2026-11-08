@@ -1,0 +1,21 @@
+{
+  "id": "s-sciurille",
+  "headword": "sciurille",
+  "senses": [
+    {
+      "it": "figura dell'asso nel mazzo di carte",
+      "en": "figure of the ace in a deck of cards",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciurille: figura dell'asso nel mazzo di carte",
+    "rawHash": "f08acd19ee12a055091d2c7124e4176369e3473a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

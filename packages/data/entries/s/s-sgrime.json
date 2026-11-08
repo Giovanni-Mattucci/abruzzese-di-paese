@@ -1,0 +1,21 @@
+{
+  "id": "s-sgrime",
+  "headword": "sgrime",
+  "senses": [
+    {
+      "it": "riga che divide i capelli",
+      "en": "parting in the hair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgrime: riga che divide i capelli",
+    "rawHash": "8bee632a1fea459937b2abc5324f6d8f71f3898f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

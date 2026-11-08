@@ -1,0 +1,21 @@
+{
+  "id": "a-a-crap-a-saij",
+  "headword": "a crap' a saij",
+  "senses": [
+    {
+      "it": "la sua capra",
+      "en": "his/her goat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a crap' a saij: la sua capra",
+    "rawHash": "1f0cfe97a84b82ef4f692412f7afca15ec10770e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

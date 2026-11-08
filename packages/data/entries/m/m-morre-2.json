@@ -1,0 +1,34 @@
+{
+  "id": "m-morre-2",
+  "headword": "morre",
+  "senses": [
+    {
+      "it": "gruppo",
+      "en": "group",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "frotta",
+      "en": "throng, crowd",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "nugolo",
+      "en": "swarm",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "morre: gruppo, frotta, nugolo",
+    "rawHash": "7255446d1b4d673760bdda738f6cc882d723f405",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

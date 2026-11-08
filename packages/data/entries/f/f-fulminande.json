@@ -1,0 +1,25 @@
+{
+  "id": "f-fulminande",
+  "headword": "fulminànde",
+  "variants": [
+    "fulmenante"
+  ],
+  "article": "lu",
+  "senses": [
+    {
+      "it": "fiammifero di legno",
+      "en": "wooden match",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fulminànde, fulmenante (lu): fiammifero di legno",
+    "rawHash": "3941d1cfa9450178d91bbf9acc13f640d44b75d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

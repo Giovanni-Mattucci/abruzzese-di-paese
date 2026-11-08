@@ -1,0 +1,22 @@
+{
+  "id": "c-cucchie",
+  "headword": "cùcchie",
+  "article": "la",
+  "senses": [
+    {
+      "it": "crosta",
+      "en": "crust",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cùcchie (la): crosta",
+    "rawHash": "2f91c1c8994257bc4918feea9c8d38e70a6278cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

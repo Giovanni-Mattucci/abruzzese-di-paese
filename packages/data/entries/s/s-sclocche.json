@@ -1,0 +1,21 @@
+{
+  "id": "s-sclocche",
+  "headword": "sclòcche",
+  "senses": [
+    {
+      "it": "rumore secco di qualcosa che sbatte con forza",
+      "en": "sharp noise of something slamming forcefully",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sclòcche: rumore secco di qualcosa che sbatte con forza",
+    "rawHash": "d8de8769c1337e92fb02626cb7ec437d7ae85153",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

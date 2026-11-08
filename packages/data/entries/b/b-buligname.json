@@ -1,0 +1,21 @@
+{
+  "id": "b-buligname",
+  "headword": "bulignàme",
+  "senses": [
+    {
+      "it": "melanzana",
+      "en": "aubergine, eggplant",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bulignàme: melanzana",
+    "rawHash": "b2412a145f1d5a0fdcee4b1a5f5dcc96cc67c4f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-piuvicceche",
+  "headword": "piuvicceche",
+  "senses": [
+    {
+      "it": "gocce d'acqua che scendono in maniera scarsa",
+      "en": "drops of water falling sparsely, drizzle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piuvicceche: gocce d'acqua che scendono in maniera scarsa",
+    "rawHash": "71c0922540e5d62251e9a3e112da7d50273d8af1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

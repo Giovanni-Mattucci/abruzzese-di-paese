@@ -1,0 +1,21 @@
+{
+  "id": "r-recrignia",
+  "headword": "recrignià",
+  "senses": [
+    {
+      "it": "rabbrividire",
+      "en": "to shiver, to shudder",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "recrignià: rabbrividire",
+    "rawHash": "628766cfbb37a524c3cf143596685cbc94a0d1c6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

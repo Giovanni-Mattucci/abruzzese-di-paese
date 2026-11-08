@@ -1,0 +1,21 @@
+{
+  "id": "i-ienocchiu",
+  "headword": "ienòcchiu",
+  "senses": [
+    {
+      "it": "ginocchio",
+      "en": "knee",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ienòcchiu: ginocchio",
+    "rawHash": "9937988211c4b861e5015f835a3ad909d01d0483",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a-acciuppica",
+  "headword": "acciuppicà",
+  "senses": [
+    {
+      "it": "azzoppare",
+      "en": "to lame",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rendere zoppo",
+      "en": "to make lame",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciuppicà: azzoppare, rendere zoppo",
+    "rawHash": "964835fddca44324f9d4a2f19f7723a51a30dbcd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c-chiove-2",
+  "headword": "chiove",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "sbornia",
+      "en": "drunkenness, binge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiove (lu): sbornia",
+    "rawHash": "50219efc39b882fb6a2a89c80f9baa5545bde137",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

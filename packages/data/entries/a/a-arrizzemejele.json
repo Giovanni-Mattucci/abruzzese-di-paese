@@ -1,0 +1,21 @@
+{
+  "id": "a-arrizzemejele",
+  "headword": "arrizzèmejele",
+  "senses": [
+    {
+      "it": "alziamoglielo",
+      "en": "let us lift it up for him/her",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrizzèmejele: alziamoglielo",
+    "rawHash": "feae4b662f14a88079d5b37dce895782777704d6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

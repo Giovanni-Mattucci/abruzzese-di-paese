@@ -1,0 +1,21 @@
+{
+  "id": "a-atturricchiate",
+  "headword": "atturricchiate",
+  "senses": [
+    {
+      "it": "rimboccate",
+      "en": "tucked in, rolled up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "atturricchiate: rimboccate",
+    "rawHash": "b7ae2bbc63e041a81f6e6cc98493a0d8464afdb0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

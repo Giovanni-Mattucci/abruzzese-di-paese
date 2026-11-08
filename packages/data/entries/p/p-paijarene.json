@@ -1,0 +1,22 @@
+{
+  "id": "p-paijarene",
+  "headword": "paijarène",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "addetto a raccoglier la paglia",
+      "en": "person in charge of gathering straw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paijarène (lu): addetto a raccoglier la paglia",
+    "rawHash": "034009fe745b8e4589eddd22538f9806a01e0981",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

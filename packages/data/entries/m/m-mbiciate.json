@@ -1,0 +1,21 @@
+{
+  "id": "m-mbiciate",
+  "headword": "'mbiciàte",
+  "senses": [
+    {
+      "it": "impermeabile",
+      "en": "waterproof, raincoat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbiciàte: impermeabile",
+    "rawHash": "7acf92e385333c76a7484106d78d448ceaecff66",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

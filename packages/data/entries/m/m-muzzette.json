@@ -1,0 +1,21 @@
+{
+  "id": "m-muzzette",
+  "headword": "muzzette",
+  "senses": [
+    {
+      "it": "misura di grano",
+      "en": "measure of grain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muzzette: misura di grano",
+    "rawHash": "f459ba272c529926d9fad76be9c3aa916a95bd1f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

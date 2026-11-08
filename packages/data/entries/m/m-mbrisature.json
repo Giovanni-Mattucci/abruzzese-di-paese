@@ -1,0 +1,21 @@
+{
+  "id": "m-mbrisature",
+  "headword": "'mbrisatùre",
+  "senses": [
+    {
+      "it": "raffreddore persistente",
+      "en": "persistent cold",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbrisatùre: raffreddore persistente",
+    "rawHash": "0648f059884e3e45731def4880980b835e08cd31",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

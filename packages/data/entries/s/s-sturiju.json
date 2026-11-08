@@ -1,0 +1,21 @@
+{
+  "id": "s-sturiju",
+  "headword": "sturìju",
+  "senses": [
+    {
+      "it": "piccolo locale",
+      "en": "small room",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sturìju: piccolo locale",
+    "rawHash": "bffdd148973ac224673754b920c8008cb19c96e9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

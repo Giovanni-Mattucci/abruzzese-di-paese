@@ -1,0 +1,26 @@
+{
+  "id": "c-cristijne",
+  "headword": "cristijne",
+  "senses": [
+    {
+      "it": "persone",
+      "en": "persons",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gente (plurale)",
+      "en": "people (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cristijne: persone, gente (plurale)",
+    "rawHash": "c70b6395deb6b5d06347e4a57afe989eb0607492",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

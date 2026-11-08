@@ -1,0 +1,21 @@
+{
+  "id": "m-mutanne",
+  "headword": "mutanne",
+  "senses": [
+    {
+      "it": "mutande",
+      "en": "underpants",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mutanne: mutande",
+    "rawHash": "5e98f60c8a18715a1c862968d578bffea2711944",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

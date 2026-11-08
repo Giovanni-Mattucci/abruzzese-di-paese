@@ -1,0 +1,21 @@
+{
+  "id": "c-casche",
+  "headword": "càsche",
+  "senses": [
+    {
+      "it": "cade",
+      "en": "he/she/it falls",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "càsche: cade",
+    "rawHash": "6797f6c4f23151453edcdf84566330ddc4ee53b9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

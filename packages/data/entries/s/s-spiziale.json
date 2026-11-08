@@ -1,0 +1,25 @@
+{
+  "id": "s-spiziale",
+  "headword": "spiziàle",
+  "variants": [
+    "spizijàle",
+    "speziale"
+  ],
+  "senses": [
+    {
+      "it": "farmacista",
+      "en": "pharmacist",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spiziàle, spizijàle, speziale: farmacista",
+    "rawHash": "bf1b93c52a6819623f2d107467228124bb6914f3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

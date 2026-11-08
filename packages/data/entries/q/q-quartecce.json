@@ -1,0 +1,22 @@
+{
+  "id": "q-quartecce",
+  "headword": "quartécce",
+  "article": "nu",
+  "senses": [
+    {
+      "it": "Quarto di vino quatrà: ragazzo (quattro anni)",
+      "en": "Quarter of wine quatrà: boy (four years old)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quartécce (nu): Quarto di vino quatrà: ragazzo (quattro anni)",
+    "rawHash": "eb42c26833976ddc8de5b9b1fad140e6ea26fb03",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

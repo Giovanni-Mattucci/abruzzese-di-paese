@@ -1,0 +1,21 @@
+{
+  "id": "c-cotte",
+  "headword": "cotte",
+  "senses": [
+    {
+      "it": "cotto",
+      "en": "cooked",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cotte: cotto",
+    "rawHash": "c4e1ca694aafdcc5e43b01bd753b25fd2637e945",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

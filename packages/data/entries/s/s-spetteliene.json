@@ -1,0 +1,21 @@
+{
+  "id": "s-spetteliene",
+  "headword": "spetteliêne",
+  "senses": [
+    {
+      "it": "spinta",
+      "en": "push, shove",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spetteliêne: spinta",
+    "rawHash": "00168852f7880c0b62c915404ff85689d55f8fbe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

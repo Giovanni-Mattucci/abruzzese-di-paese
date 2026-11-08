@@ -1,0 +1,21 @@
+{
+  "id": "h-honde",
+  "headword": "honde",
+  "senses": [
+    {
+      "it": "unto",
+      "en": "greasy, oily",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "honde: unto.",
+    "rawHash": "c83a51a21eb3cd2ac3e9031833e347eb835b07ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

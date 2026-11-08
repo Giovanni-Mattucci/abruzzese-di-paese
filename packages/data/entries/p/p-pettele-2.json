@@ -1,0 +1,22 @@
+{
+  "id": "p-pettele-2",
+  "headword": "pêttele",
+  "article": "la",
+  "senses": [
+    {
+      "it": "sfoglia di pasta",
+      "en": "sheet of pasta dough",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pêttele (la): sfoglia di pasta",
+    "rawHash": "b3c389a9ceef21288de808b7233d61c0cc0c15ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

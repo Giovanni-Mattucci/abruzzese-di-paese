@@ -1,0 +1,26 @@
+{
+  "id": "a-alloche",
+  "headword": "allòche",
+  "senses": [
+    {
+      "it": "alluche: lì",
+      "en": "alluche: there",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "là",
+      "en": "over there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allòche: alluche: lì, là",
+    "rawHash": "7fb2af6562f89f8d97de6a838d03a0a768e7cff6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

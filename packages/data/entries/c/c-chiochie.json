@@ -1,0 +1,22 @@
+{
+  "id": "c-chiochie",
+  "headword": "chiochie",
+  "article": "li",
+  "senses": [
+    {
+      "it": "ciabatte (ciocie: scarpe da contadino)",
+      "en": "slippers (ciocie: peasant shoes)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiochie (li): ciabatte (ciocie: scarpe da contadino)",
+    "rawHash": "29ee5b16d985f0dae4b60c52c89e8be52be4b744",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

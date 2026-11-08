@@ -1,0 +1,21 @@
+{
+  "id": "s-sfrussci",
+  "headword": "sfrusscì",
+  "senses": [
+    {
+      "it": "dilapidare",
+      "en": "to squander",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrusscì: dilapidare",
+    "rawHash": "18472d9839589803e5db46dd95b7681d9242511d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-serra",
+  "headword": "serra",
+  "senses": [
+    {
+      "it": "altura",
+      "en": "height, hill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "serra: altura",
+    "rawHash": "8426dec3fc0fa47aedca41f1eda689e346a393dd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

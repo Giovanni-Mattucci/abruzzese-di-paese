@@ -1,0 +1,22 @@
+{
+  "id": "r-rempezze",
+  "headword": "rempèzze",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "piccolo assaggio",
+      "en": "small taste, small sample",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rempèzze (lu): piccolo assaggio",
+    "rawHash": "7fa685ed8ff5bbf51f70ad4d752532c57427c9ad",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

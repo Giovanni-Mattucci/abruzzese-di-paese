@@ -1,0 +1,21 @@
+{
+  "id": "n-nzalate",
+  "headword": "'nzalate",
+  "senses": [
+    {
+      "it": "insalata",
+      "en": "salad",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nzalate: insalata",
+    "rawHash": "0d034c43e3dd26b41d4e1036690b6ce1e6f2cab9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

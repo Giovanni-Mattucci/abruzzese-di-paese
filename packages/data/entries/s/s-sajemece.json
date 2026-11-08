@@ -1,0 +1,21 @@
+{
+  "id": "s-sajemece",
+  "headword": "sajèmece",
+  "senses": [
+    {
+      "it": "saliamoci",
+      "en": "let us go up there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sajèmece: saliamoci",
+    "rawHash": "45ecb417515cd8857265f660946942c2ee805799",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

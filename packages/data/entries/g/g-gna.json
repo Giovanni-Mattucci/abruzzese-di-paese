@@ -1,0 +1,24 @@
+{
+  "id": "g-gna",
+  "headword": "gnà",
+  "variants": [
+    "gnè"
+  ],
+  "senses": [
+    {
+      "it": "questi due bizzarri monosillabi traducono il termine italiano \"come\" (nelle domande il primo, nelle risposte il secondo). Dietro l'apparente indecifrabilità dell'etimo, si nascondono semplicemente le forme contratte del verbo \"insegnare\" ai tempi dell'imperativo (esortativo) e del futuro (concessivo - dimostrativo). Negli esempi scritti che seguono è sicuramente più facile stimare il meccanismo di tali contrazioni:",
+      "en": "these two odd monosyllables translate the Italian word \"come\" (how; the first in questions, the second in answers). Behind the apparent indecipherability of the etymology lie simply the contracted forms of the verb \"insegnare\" (to teach) in the imperative (hortative) and the future (concessive - demonstrative). In the written examples that follow it is certainly easier to appreciate the mechanism of these contractions:",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnà, gnè: questi due bizzarri monosillabi traducono il termine italiano \"come\" (nelle domande il primo, nelle risposte il secondo). Dietro l'apparente indecifrabilità dell'etimo, si nascondono semplicemente le forme contratte del verbo \"insegnare\" ai tempi dell'imperativo (esortativo) e del futuro (concessivo - dimostrativo). Negli esempi scritti che seguono è sicuramente più facile stimare il meccanismo di tali contrazioni:",
+    "rawHash": "74ed4768f618506e7db69295344c560f11d25745",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

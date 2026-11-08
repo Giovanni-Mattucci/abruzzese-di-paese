@@ -1,0 +1,26 @@
+{
+  "id": "a-avvignatu",
+  "headword": "avvignatu",
+  "senses": [
+    {
+      "it": "avvinghiato",
+      "en": "clasped, entwined",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "attorcigliato",
+      "en": "twisted, coiled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "avvignatu: avvinghiato, attorcigliato",
+    "rawHash": "936fdbd0db0d4bc37164e18e1ddff4a8c2139d08",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

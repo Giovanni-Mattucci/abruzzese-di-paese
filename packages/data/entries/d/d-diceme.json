@@ -1,0 +1,21 @@
+{
+  "id": "d-diceme",
+  "headword": "dicème",
+  "senses": [
+    {
+      "it": "diciamo",
+      "en": "we say",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dicème: diciamo",
+    "rawHash": "c8391197d7331523145263904a9085c350e035e6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

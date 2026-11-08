@@ -1,0 +1,21 @@
+{
+  "id": "s-smangenite",
+  "headword": "smangenìte",
+  "senses": [
+    {
+      "it": "mancino",
+      "en": "left-handed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smangenìte: mancino",
+    "rawHash": "aee61bba4922c6a27fc6e1e45dd49bc70ff26a86",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

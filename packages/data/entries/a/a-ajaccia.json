@@ -1,0 +1,26 @@
+{
+  "id": "a-ajaccia",
+  "headword": "ajaccià",
+  "senses": [
+    {
+      "it": "sdraiare",
+      "en": "to lay down",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "andare a dormire",
+      "en": "to go to sleep",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ajaccià: sdraiare, andare a dormire",
+    "rawHash": "299f2620642f1b7b313961bf1675fbbe1cc339a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

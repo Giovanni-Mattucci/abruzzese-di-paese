@@ -1,0 +1,21 @@
+{
+  "id": "g-gnettechete",
+  "headword": "gnettechète",
+  "senses": [
+    {
+      "it": "impaurito",
+      "en": "frightened",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnettechète: impaurito",
+    "rawHash": "2ebd491a3b3a557b0f031c4bf5d7f11e149ae8a0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

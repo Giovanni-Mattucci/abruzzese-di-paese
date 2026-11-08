@@ -1,0 +1,26 @@
+{
+  "id": "c-ccalesole",
+  "headword": "ccalesole",
+  "senses": [
+    {
+      "it": "ponente",
+      "en": "west",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dove scende il sole",
+      "en": "where the sun goes down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ccalesole: ponente, dove scende il sole",
+    "rawHash": "17a4296ecfe1fd288adaa5cde11d6567ae35c4c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

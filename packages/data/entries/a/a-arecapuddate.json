@@ -1,0 +1,21 @@
+{
+  "id": "a-arecapuddate",
+  "headword": "arecapuddate",
+  "senses": [
+    {
+      "it": "capovolto",
+      "en": "overturned, upside down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arecapuddate: capovolto",
+    "rawHash": "a4f286864272fa2019f6cb1f854572f0504e8568",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

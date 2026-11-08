@@ -1,0 +1,22 @@
+{
+  "id": "z-zaijocche",
+  "headword": "zaijòcche",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "grumo di farina impastata",
+      "en": "lump of kneaded flour",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zaijòcche (lu): grumo di farina impastata",
+    "rawHash": "a35d93b6026914e89147fa9d4218918739303c79",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

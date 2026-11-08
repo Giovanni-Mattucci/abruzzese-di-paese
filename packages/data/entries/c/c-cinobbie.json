@@ -1,0 +1,31 @@
+{
+  "id": "c-cinobbie",
+  "headword": "cinòbbie",
+  "senses": [
+    {
+      "it": "cenobio",
+      "en": "cenoby",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "comunità religiosa",
+      "en": "religious community",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "monastero",
+      "en": "monastery",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cinòbbie: cenobio, comunità religiosa, monastero",
+    "rawHash": "08c001d12109b7ba73c46f8e436a8709de80781c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

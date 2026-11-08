@@ -1,0 +1,21 @@
+{
+  "id": "g-gigomme",
+  "headword": "gigomme",
+  "senses": [
+    {
+      "it": "gomma da masticare",
+      "en": "chewing gum",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gigomme: gomma da masticare",
+    "rawHash": "63e988e2bed129dec741210f69cf33ce03440bd5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

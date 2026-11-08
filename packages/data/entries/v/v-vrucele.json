@@ -1,0 +1,21 @@
+{
+  "id": "v-vrucele",
+  "headword": "vrùçele",
+  "senses": [
+    {
+      "it": "morbillo",
+      "en": "measles",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrùçele: morbillo",
+    "rawHash": "2d2fa4c94dde8b077c9a6ea40287c06d49ec5aa6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

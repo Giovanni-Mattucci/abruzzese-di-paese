@@ -1,0 +1,22 @@
+{
+  "id": "n-neule",
+  "headword": "néule",
+  "article": "la",
+  "senses": [
+    {
+      "it": "dolce tipico sottile che si cuoce tra due ferri roventi",
+      "en": "traditional thin sweet baked between two red-hot irons",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "néule (la): dolce tipico sottile che si cuoce tra due ferri roventi",
+    "rawHash": "bd3c99ca27b2a6cc49ca36db80b61f06b4adf129",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

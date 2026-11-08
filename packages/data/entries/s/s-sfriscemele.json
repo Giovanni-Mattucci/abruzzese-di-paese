@@ -1,0 +1,21 @@
+{
+  "id": "s-sfriscemele",
+  "headword": "sfriscemele",
+  "senses": [
+    {
+      "it": "righiamolo",
+      "en": "let us scratch it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfriscemele: righiamolo",
+    "rawHash": "cd96b9cbb810b4ab6f68e1717d7220192b3c80d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

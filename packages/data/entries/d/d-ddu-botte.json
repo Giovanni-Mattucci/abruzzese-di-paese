@@ -1,0 +1,21 @@
+{
+  "id": "d-ddu-botte",
+  "headword": "ddu bòtte",
+  "senses": [
+    {
+      "it": "piccola fisarmonica",
+      "en": "small accordion",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "ddu bòtte: piccola fisarmonica",
+    "rawHash": "b1910d6e1ff920168a145b7dfb70cabdd4deb684",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

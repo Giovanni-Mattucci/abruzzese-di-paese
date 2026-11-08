@@ -1,0 +1,44 @@
+{
+  "id": "b-bardasce",
+  "headword": "bardàsce",
+  "variants": [
+    "bardèsce"
+  ],
+  "senses": [
+    {
+      "it": "ragazzo",
+      "en": "boy",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bambino",
+      "en": "child",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fanciullo",
+      "en": "young boy",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fanciulla",
+      "en": "young girl",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "adolescente",
+      "en": "adolescent",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bardàsce, bardèsce: ragazzo, bambino, fanciullo, fanciulla, adolescente",
+    "rawHash": "7ddaa2b36487c73908e00d4bb0e4f6b1739253bd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

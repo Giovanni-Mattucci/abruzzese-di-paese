@@ -1,0 +1,21 @@
+{
+  "id": "r-ruella",
+  "headword": "ruella",
+  "senses": [
+    {
+      "it": "vicolo",
+      "en": "alley, lane",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ruella: vicolo",
+    "rawHash": "c74a49e5df15348c30e43cfe0bfb32508abdfe10",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

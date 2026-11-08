@@ -1,0 +1,24 @@
+{
+  "id": "c-colle",
+  "headword": "còlle",
+  "senses": [
+    {
+      "it": "colle",
+      "en": "hill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "còlle: colle",
+    "rawHash": "9f1a627728c95a210c8888edb021c095eb45c532",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

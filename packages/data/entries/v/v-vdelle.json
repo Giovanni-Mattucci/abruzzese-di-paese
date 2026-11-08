@@ -1,0 +1,24 @@
+{
+  "id": "v-vdelle",
+  "headword": "vdelle",
+  "variants": [
+    "videlle"
+  ],
+  "senses": [
+    {
+      "it": "budella",
+      "en": "guts, bowels",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vdelle, videlle: budella",
+    "rawHash": "c9b88956e36c45d78bac9f2c9b473f742d5bb291",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

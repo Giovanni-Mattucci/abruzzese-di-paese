@@ -1,0 +1,21 @@
+{
+  "id": "p-papagne",
+  "headword": "papagne",
+  "senses": [
+    {
+      "it": "schiaffone",
+      "en": "hard slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "papagne: schiaffone",
+    "rawHash": "17c7eea7d51cf2847061b2441c3d7695201f9852",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

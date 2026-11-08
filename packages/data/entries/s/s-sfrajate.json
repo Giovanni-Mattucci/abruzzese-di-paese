@@ -1,0 +1,21 @@
+{
+  "id": "s-sfrajate",
+  "headword": "sfrajate",
+  "senses": [
+    {
+      "it": "Sfracchiato",
+      "en": "Smashed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrajate. Sfracchiato",
+    "rawHash": "8c9c1a1a2c2a13fd631400525db91ea050737ecb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

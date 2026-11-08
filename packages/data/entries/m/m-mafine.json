@@ -1,0 +1,21 @@
+{
+  "id": "m-mafine",
+  "headword": "mafine",
+  "senses": [
+    {
+      "it": "schiaffo",
+      "en": "slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mafine: schiaffo",
+    "rawHash": "a38c3063718a2e71af68bf754dda18df0419aa76",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

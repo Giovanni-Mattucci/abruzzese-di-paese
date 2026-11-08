@@ -1,0 +1,21 @@
+{
+  "id": "a-arde",
+  "headword": "arde",
+  "senses": [
+    {
+      "it": "ardere",
+      "en": "to burn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arde: ardere",
+    "rawHash": "764e8e9a1eee6b880eb0a10bc705763bb0e9cac7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

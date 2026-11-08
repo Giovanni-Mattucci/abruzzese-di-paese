@@ -1,0 +1,21 @@
+{
+  "id": "t-tritticore",
+  "headword": "tritticore",
+  "senses": [
+    {
+      "it": "tremarella",
+      "en": "the shivers, jitters",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tritticore: tremarella",
+    "rawHash": "92933daa3f536c46fd8858946856a3ae232bb79a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

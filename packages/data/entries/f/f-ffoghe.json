@@ -1,0 +1,26 @@
+{
+  "id": "f-ffoghe",
+  "headword": "ffoghe",
+  "senses": [
+    {
+      "it": "foga",
+      "en": "ardour, heat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "impeto",
+      "en": "impetus",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "ffoghe: foga, impeto",
+    "rawHash": "5f04f452cb6b7d594ced1cf9616ac535f39cbb59",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

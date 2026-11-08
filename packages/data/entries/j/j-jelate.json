@@ -1,0 +1,29 @@
+{
+  "id": "j-jelate",
+  "headword": "jelate",
+  "variants": [
+    "jlàte"
+  ],
+  "senses": [
+    {
+      "it": "gelato",
+      "en": "frozen",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ghiacciato",
+      "en": "icy, iced",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jelate, jlàte: gelato, ghiacciato",
+    "rawHash": "fb0f269a515057ed4f42e61884dc4a1443a3a9d8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

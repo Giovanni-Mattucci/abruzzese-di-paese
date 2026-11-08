@@ -1,0 +1,22 @@
+{
+  "id": "l-lesche",
+  "headword": "lêsche",
+  "article": "la",
+  "senses": [
+    {
+      "it": "fetta (di pane)",
+      "en": "slice (of bread)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lêsche (la): fetta (di pane)",
+    "rawHash": "b885a9d370018c0425b43cd21c99abc7b959ccac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

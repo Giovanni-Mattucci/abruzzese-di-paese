@@ -1,0 +1,24 @@
+{
+  "id": "a-assilute",
+  "headword": "assilùte",
+  "variants": [
+    "assulùte"
+  ],
+  "senses": [
+    {
+      "it": "assoluto",
+      "en": "absolute",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assilùte, assulùte: assoluto",
+    "rawHash": "60ef3d07b898ed6b0793d0706476b62079455e30",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

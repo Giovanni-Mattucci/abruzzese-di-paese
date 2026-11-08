@@ -1,0 +1,24 @@
+{
+  "id": "r-ruva",
+  "headword": "ruva",
+  "variants": [
+    "ruve"
+  ],
+  "senses": [
+    {
+      "it": "vicolo",
+      "en": "alley, lane",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ruva, ruve: vicolo",
+    "rawHash": "eb662951f11530904ba72122aea17b777dd5460b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

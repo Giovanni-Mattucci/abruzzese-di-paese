@@ -1,0 +1,21 @@
+{
+  "id": "s-sumenda",
+  "headword": "sumenda",
+  "senses": [
+    {
+      "it": "semenza (in questo caso : sumenda guaste = generazione guasta",
+      "en": "seed (in this case: sumenda guaste = rotten generation",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sumenda: semenza (in questo caso : sumenda guaste = generazione guasta,",
+    "rawHash": "4541af5607af4eb420604e2071baeeefe40c79f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

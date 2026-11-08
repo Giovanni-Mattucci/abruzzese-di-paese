@@ -1,0 +1,26 @@
+{
+  "id": "c-cugnugne",
+  "headword": "cugnugne",
+  "senses": [
+    {
+      "it": "congiungere",
+      "en": "to join",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "congiunge",
+      "en": "he joins",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cugnugne: congiungere, congiunge",
+    "rawHash": "b133613e12dd3b18c1f6d880f644d27db6160cec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

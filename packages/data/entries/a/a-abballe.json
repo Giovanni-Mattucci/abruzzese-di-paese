@@ -1,0 +1,36 @@
+{
+  "id": "a-abballe",
+  "headword": "abbàlle",
+  "senses": [
+    {
+      "it": "a valle",
+      "en": "downstream, down the valley",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "verso giù",
+      "en": "downwards",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in basso in giù",
+      "en": "down below, downward",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in discesa",
+      "en": "downhill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbàlle: a valle, verso giù , in basso in giù, in discesa",
+    "rawHash": "5f15e44fbd50513b580a74cefb14b94f76b9eaad",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

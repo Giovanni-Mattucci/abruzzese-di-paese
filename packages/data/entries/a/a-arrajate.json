@@ -1,0 +1,29 @@
+{
+  "id": "a-arrajate",
+  "headword": "arrajate",
+  "variants": [
+    "arrajàto"
+  ],
+  "senses": [
+    {
+      "it": "arrabbiato",
+      "en": "angry",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "adirato",
+      "en": "irate, enraged",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrajate, arrajàto: arrabbiato , adirato",
+    "rawHash": "7ad285c6caca14ce2ff4d1dee823e99210dca75e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

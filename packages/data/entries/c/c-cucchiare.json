@@ -1,0 +1,24 @@
+{
+  "id": "c-cucchiare",
+  "headword": "cucchiare",
+  "senses": [
+    {
+      "it": "cucchiaio",
+      "en": "spoon",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucchiare: cucchiaio",
+    "rawHash": "2c15f0ff442f070f55b5899ffe49774ccc4fb2a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

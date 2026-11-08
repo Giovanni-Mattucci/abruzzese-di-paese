@@ -1,0 +1,21 @@
+{
+  "id": "j-jlate",
+  "headword": "jlàte",
+  "senses": [
+    {
+      "it": "gelato, che ha preso molto freddo",
+      "en": "frozen, chilled to the bone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jlàte: gelato, che ha preso molto freddo",
+    "rawHash": "99836cb8a742a3aad33076df81df509f1762b524",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-pepedenie",
+  "headword": "pepedènie",
+  "senses": [
+    {
+      "it": "peperone",
+      "en": "bell pepper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pepedènie: peperone",
+    "rawHash": "7100a998eb1faee1cd859a5b1786ee20e8adbd0b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

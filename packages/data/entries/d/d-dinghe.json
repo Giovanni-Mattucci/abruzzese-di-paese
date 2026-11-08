@@ -1,0 +1,21 @@
+{
+  "id": "d-dinghe",
+  "headword": "dinghe",
+  "senses": [
+    {
+      "it": "dò",
+      "en": "I give",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dinghe: dò",
+    "rawHash": "5a3b86b9ada3e4d93ac0925b13c09692dabbf9fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

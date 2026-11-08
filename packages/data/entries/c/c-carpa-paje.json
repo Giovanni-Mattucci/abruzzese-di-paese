@@ -1,0 +1,21 @@
+{
+  "id": "c-carpa-paje",
+  "headword": "carpa pàje",
+  "senses": [
+    {
+      "it": "pene",
+      "en": "penis",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carpa pàje: pene",
+    "rawHash": "972a5269055d60c16107964e08299df24fe4b3e3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

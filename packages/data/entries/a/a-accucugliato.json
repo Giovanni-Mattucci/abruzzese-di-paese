@@ -1,0 +1,21 @@
+{
+  "id": "a-accucugliato",
+  "headword": "accucugliàto",
+  "senses": [
+    {
+      "it": "seduto sui talloni",
+      "en": "sitting on one's heels",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accucugliàto: seduto sui talloni",
+    "rawHash": "5f00ca7e20017b614efdd2081d565f64af433548",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

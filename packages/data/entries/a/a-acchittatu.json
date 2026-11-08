@@ -1,0 +1,21 @@
+{
+  "id": "a-acchittatu",
+  "headword": "acchittatu",
+  "senses": [
+    {
+      "it": "vestito elegantemente",
+      "en": "elegantly dressed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acchittatu: vestito elegantemente",
+    "rawHash": "e41b4f62551892982de9c4951374246076a0a3ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

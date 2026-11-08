@@ -1,0 +1,21 @@
+{
+  "id": "a-ara",
+  "headword": "arà",
+  "senses": [
+    {
+      "it": "arare",
+      "en": "to plough",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arà: arare",
+    "rawHash": "c66bef1e1c97d8230786365d5b21956d9e1c4688",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

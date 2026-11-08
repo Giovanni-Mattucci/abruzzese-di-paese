@@ -1,0 +1,21 @@
+{
+  "id": "r-reveije",
+  "headword": "reveije",
+  "senses": [
+    {
+      "it": "svegliare",
+      "en": "to wake up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "reveije: svegliare",
+    "rawHash": "7b7172bd29729f5fc497f63f275249a82fddcb9d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

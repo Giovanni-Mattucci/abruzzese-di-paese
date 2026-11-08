@@ -1,0 +1,24 @@
+{
+  "id": "c-ciammariuc",
+  "headword": "ciammariuc'",
+  "variants": [
+    "ciammariùce"
+  ],
+  "senses": [
+    {
+      "it": "lumaca",
+      "en": "snail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciammariuc', ciammariùce: lumaca",
+    "rawHash": "cd063ac2f65cdd6c31f103122b04a29c7b03b705",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

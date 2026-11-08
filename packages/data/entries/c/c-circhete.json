@@ -1,0 +1,26 @@
+{
+  "id": "c-circhete",
+  "headword": "circhète",
+  "senses": [
+    {
+      "it": "cercate",
+      "en": "you (pl.) look for, you seek",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "chiedete",
+      "en": "you (pl.) ask",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "circhète: cercate, chiedete",
+    "rawHash": "8a2f1b3f014f10cba3d9e13565f3b5a11933bcd3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

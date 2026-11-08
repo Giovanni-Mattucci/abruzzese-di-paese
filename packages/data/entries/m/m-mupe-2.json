@@ -1,0 +1,29 @@
+{
+  "id": "m-mupe-2",
+  "headword": "mupe",
+  "senses": [
+    {
+      "it": "zitto",
+      "en": "quiet, hush",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fai silenzio",
+      "en": "be silent",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mupe: zitto, fai silenzio",
+    "rawHash": "aa4984650e18ab146e19e420936e835f313dcab9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

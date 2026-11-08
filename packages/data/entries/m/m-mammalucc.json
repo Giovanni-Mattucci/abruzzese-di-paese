@@ -1,0 +1,24 @@
+{
+  "id": "m-mammalucc",
+  "headword": "mammalucc",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "uno un po' ritardato",
+      "en": "a somewhat slow-witted person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mammalucc: uno un po' ritardato (M. sul S.)",
+    "rawHash": "fbad5814cf5ebacc3a01b8f724bdb0695da11191",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

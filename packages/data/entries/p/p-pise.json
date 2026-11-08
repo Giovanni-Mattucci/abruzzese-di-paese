@@ -1,0 +1,24 @@
+{
+  "id": "p-pise",
+  "headword": "pise",
+  "senses": [
+    {
+      "it": "tu pesi",
+      "en": "you weigh",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: tu"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pise (tu): tu pesi",
+    "rawHash": "4bc70b45173c14feda1f75bba003344b9ee25104",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

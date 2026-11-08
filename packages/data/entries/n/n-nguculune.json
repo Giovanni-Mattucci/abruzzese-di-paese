@@ -1,0 +1,26 @@
+{
+  "id": "n-nguculune",
+  "headword": "'nguculùne",
+  "senses": [
+    {
+      "it": "abbassato",
+      "en": "crouched down",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "piegato sulle ginocchia",
+      "en": "bent at the knees",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nguculùne: abbassato, piegato sulle ginocchia",
+    "rawHash": "18ac0923cc0e5411c4f9c65011edfbae105927de",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

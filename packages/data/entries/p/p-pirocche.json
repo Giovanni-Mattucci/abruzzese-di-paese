@@ -1,0 +1,21 @@
+{
+  "id": "p-pirocche",
+  "headword": "piròcche",
+  "senses": [
+    {
+      "it": "bastone",
+      "en": "stick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piròcche: bastone",
+    "rawHash": "9d9e0fd1018141b04e1711e294d62d604dad97a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

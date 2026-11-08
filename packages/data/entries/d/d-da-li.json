@@ -1,0 +1,25 @@
+{
+  "id": "d-da-li",
+  "headword": "da li",
+  "pos": "prep. art.",
+  "senses": [
+    {
+      "it": "dagli",
+      "en": "from the (masculine plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "da li: dagli (prep. art.)",
+    "rawHash": "0b5732ae82ca478b40884664bc7346ed9a61b016",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

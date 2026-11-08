@@ -1,0 +1,21 @@
+{
+  "id": "b-bbuccine",
+  "headword": "bbuccìne",
+  "senses": [
+    {
+      "it": "bovino, vaccino, (come bbuccìne: corno di vaccino dal suono cupo e lacerante)",
+      "en": "bovine, of cattle (come bbuccìne: cow horn with a deep, piercing sound)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbuccìne: bovino, vaccino, (come bbuccìne: corno di vaccino dal suono cupo e lacerante)",
+    "rawHash": "4bd7f19cde597aabc7edaa19fc5d577bacaeea0a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

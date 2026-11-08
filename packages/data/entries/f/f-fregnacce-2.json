@@ -1,0 +1,29 @@
+{
+  "id": "f-fregnacce-2",
+  "headword": "fregnàcce",
+  "senses": [
+    {
+      "it": "frignàcce: fesseria",
+      "en": "frignàcce: nonsense",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "stupidaggine",
+      "en": "foolishness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fregnàcce: frignàcce: fesseria, stupidaggine",
+    "rawHash": "c9362ea6c8667e184b2a3021a9ab07c6cbea0600",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

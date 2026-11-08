@@ -1,0 +1,21 @@
+{
+  "id": "t-tarette",
+  "headword": "tarette",
+  "senses": [
+    {
+      "it": "buco per la fuoruscita degli escrementi",
+      "en": "hole for the discharge of excrement",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tarette: buco per la fuoruscita degli escrementi",
+    "rawHash": "769eb46381602328aa44dd34193ea4809c8d923c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

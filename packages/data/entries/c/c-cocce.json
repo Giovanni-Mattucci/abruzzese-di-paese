@@ -1,0 +1,21 @@
+{
+  "id": "c-cocce",
+  "headword": "còcce",
+  "senses": [
+    {
+      "it": "testa",
+      "en": "head",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "còcce: testa",
+    "rawHash": "3f3792f182fb0a79fd55c152319b8df6529915d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

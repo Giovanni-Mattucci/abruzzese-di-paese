@@ -1,0 +1,21 @@
+{
+  "id": "c-cocene",
+  "headword": "còcene",
+  "senses": [
+    {
+      "it": "cuòciono",
+      "en": "they cook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "còcene: cuòciono",
+    "rawHash": "3fe8e65dda1e37ace32416f5c8572956c796ac8a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

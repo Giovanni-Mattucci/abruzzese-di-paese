@@ -1,0 +1,21 @@
+{
+  "id": "j-jarda",
+  "headword": "jardà",
+  "senses": [
+    {
+      "it": "gli ridà, è preciso, riferito al risultato di un calcolo",
+      "en": "it gives it back to him; it is exact, referring to the result of a calculation",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jardà: gli ridà, è preciso, riferito al risultato di un calcolo",
+    "rawHash": "b49a4602e6cae6e4e00370fec92917e7902fc404",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

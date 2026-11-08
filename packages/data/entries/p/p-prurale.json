@@ -1,0 +1,21 @@
+{
+  "id": "p-prurale",
+  "headword": "prurale",
+  "senses": [
+    {
+      "it": "plurale",
+      "en": "plural",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prurale: plurale",
+    "rawHash": "1a38e16193a16337235ed849ec65379b54d49fe3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

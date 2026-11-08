@@ -1,0 +1,21 @@
+{
+  "id": "s-sduvate",
+  "headword": "sduvàte",
+  "senses": [
+    {
+      "it": "riempito de botte ( a l'ha sduàte: l'ha picchiato, riempito di botte)",
+      "en": "beaten up (a l'ha sduàte: he beat him, gave him a thrashing)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sduvàte: riempito de botte ( a l'ha sduàte: l'ha picchiato, riempito di botte)",
+    "rawHash": "395ef152ba3bd1f15909b315244c3051605873d4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

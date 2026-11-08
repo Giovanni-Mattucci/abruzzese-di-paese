@@ -1,0 +1,22 @@
+{
+  "id": "f-frosce",
+  "headword": "frosce",
+  "article": "la",
+  "senses": [
+    {
+      "it": "narice",
+      "en": "nostril",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frosce (la): narice",
+    "rawHash": "7828a4372ee262b920f92c9cd65f443999a12821",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

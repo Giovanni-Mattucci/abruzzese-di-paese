@@ -1,0 +1,21 @@
+{
+  "id": "n-nuce",
+  "headword": "nùce",
+  "senses": [
+    {
+      "it": "noce",
+      "en": "walnut",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nùce: noce",
+    "rawHash": "1a8abcc9d4f62f50cc191454920c097672932d47",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

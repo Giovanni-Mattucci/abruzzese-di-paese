@@ -1,0 +1,21 @@
+{
+  "id": "j-jamme",
+  "headword": "jamme",
+  "senses": [
+    {
+      "it": "andiamo",
+      "en": "let's go, we go",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jamme: andiamo",
+    "rawHash": "bab6aecdc4d199fbd5535b2a71d1848a263dea99",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "e-eccafore",
+  "headword": "ecc'afore",
+  "senses": [
+    {
+      "it": "qua fuori",
+      "en": "out here",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "ecc'afore: qua fuori",
+    "rawHash": "ac9a419c13be75bd4e903166dc8873ed7635d06e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

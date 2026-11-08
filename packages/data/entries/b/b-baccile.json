@@ -1,0 +1,26 @@
+{
+  "id": "b-baccile",
+  "headword": "baccile",
+  "senses": [
+    {
+      "it": "conca",
+      "en": "basin",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bacinella",
+      "en": "small basin, bowl",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "baccile: conca, bacinella",
+    "rawHash": "2d8a6a7d56db55ea26dbe3e17029b06c3c283a05",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

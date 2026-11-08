@@ -1,0 +1,25 @@
+{
+  "id": "a-addusila",
+  "headword": "addusilà",
+  "variants": [
+    "addusulà",
+    "addusulì"
+  ],
+  "senses": [
+    {
+      "it": "ascoltare",
+      "en": "to listen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "addusilà, addusulà, addusulì: ascoltare",
+    "rawHash": "a1139c7e4db67441224fb88ce47b2f56da260aa5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

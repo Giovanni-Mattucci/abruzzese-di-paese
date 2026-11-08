@@ -1,0 +1,21 @@
+{
+  "id": "s-strangaijene",
+  "headword": "strangaijêne",
+  "senses": [
+    {
+      "it": "pasta grossa",
+      "en": "thick pasta",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strangaijêne: pasta grossa",
+    "rawHash": "576f2689009d51a19882f4b88565f5391fffd38e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

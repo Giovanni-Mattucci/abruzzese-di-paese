@@ -1,0 +1,22 @@
+{
+  "id": "p-paparelle-2",
+  "headword": "paparelle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "motorino",
+      "en": "moped",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paparelle (la): motorino",
+    "rawHash": "f7651b7e7ce4006c19ef936ac85b73fdce0ca1ae",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

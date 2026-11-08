@@ -1,0 +1,21 @@
+{
+  "id": "h-hufane",
+  "headword": "hufàne",
+  "senses": [
+    {
+      "it": "vanitoso",
+      "en": "vain, conceited",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hufàne: vanitoso",
+    "rawHash": "d140436311ba09a21038fed653dd6c78d4c23f9b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

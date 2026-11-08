@@ -1,0 +1,21 @@
+{
+  "id": "s-sciuatte",
+  "headword": "sciuatte",
+  "senses": [
+    {
+      "it": "ciabatta",
+      "en": "slipper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciuatte: ciabatta",
+    "rawHash": "1a8524d913ff0ce4625ea61d2a78e08ca02f7922",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

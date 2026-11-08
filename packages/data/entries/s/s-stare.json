@@ -1,0 +1,30 @@
+{
+  "id": "s-stare",
+  "headword": "stare",
+  "variants": [
+    "stato"
+  ],
+  "senses": [
+    {
+      "it": "in Abruzzo"
+    },
+    {
+      "it": "misura del vino",
+      "en": "measure of wine",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stare, stato: in Abruzzo, misura del vino",
+    "rawHash": "1c1f29bf5a0c84289ab1f72b92996acd82d1ea65",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

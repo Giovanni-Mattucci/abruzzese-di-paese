@@ -1,0 +1,21 @@
+{
+  "id": "a-auardemecele",
+  "headword": "auardèmecele",
+  "senses": [
+    {
+      "it": "guardiamocelo",
+      "en": "let us take a look at it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "auardèmecele: guardiamocelo",
+    "rawHash": "b31b8e8aa7dd070d9e31293b57815f5b9cc71df7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-fssaure",
+  "headword": "fssaure",
+  "senses": [
+    {
+      "it": "padella",
+      "en": "frying pan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fssaure: padella",
+    "rawHash": "433e75721220f1d8e60dbd7851b72027bba74d38",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

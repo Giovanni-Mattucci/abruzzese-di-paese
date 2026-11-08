@@ -1,0 +1,21 @@
+{
+  "id": "c-ciffe-ciaffe",
+  "headword": "ciffe ciaffe",
+  "senses": [
+    {
+      "it": "pietanza a base di carne di maiale",
+      "en": "dish made with pork",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciffe ciaffe. pietanza a base di carne di maiale",
+    "rawHash": "f6407605d442a86738fb891e9aa109b8128b81d8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

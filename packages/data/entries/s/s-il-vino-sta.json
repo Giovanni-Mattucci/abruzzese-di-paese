@@ -1,0 +1,21 @@
+{
+  "id": "s-il-vino-sta",
+  "headword": "il vino sta",
+  "senses": [],
+  "notes": [
+    "Unparsed line: il vino sta sboccando, uscendo dalla botte, il fiume sta sboccando,"
+  ],
+  "tags": [
+    "needs-review"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "il vino sta sboccando, uscendo dalla botte, il fiume sta sboccando,",
+    "rawHash": "00c467e6971257674c9f29235986e169221f2363",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

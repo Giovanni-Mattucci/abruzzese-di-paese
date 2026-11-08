@@ -1,0 +1,26 @@
+{
+  "id": "n-ngore",
+  "headword": "'ngore",
+  "senses": [
+    {
+      "it": "in cuore",
+      "en": "in the heart",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "al cuore",
+      "en": "to the heart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngore: in cuore, al cuore",
+    "rawHash": "b14a24ac02b04899d56e28529704e527b9774927",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

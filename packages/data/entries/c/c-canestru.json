@@ -1,0 +1,21 @@
+{
+  "id": "c-canestru",
+  "headword": "canestru",
+  "senses": [
+    {
+      "it": "grosso cesto di vimini col quale si portava il pranzo ai contadini in campagna",
+      "en": "large wicker basket in which lunch was carried to the farmhands in the fields",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "canestru: grosso cesto di vimini col quale si portava il pranzo ai contadini in campagna",
+    "rawHash": "1873a4a1e034cf274fca6cd0f480a8742eb7dd26",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

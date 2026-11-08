@@ -1,0 +1,21 @@
+{
+  "id": "h-haja",
+  "headword": "haja",
+  "senses": [
+    {
+      "it": "devo",
+      "en": "I must, I have to",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "haja: devo",
+    "rawHash": "d0967bd23ea8b1957d95aed939884d5a2cc6bbc8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

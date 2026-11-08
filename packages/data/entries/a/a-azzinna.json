@@ -1,0 +1,21 @@
+{
+  "id": "a-azzinna",
+  "headword": "azzinnà",
+  "senses": [
+    {
+      "it": "allattare",
+      "en": "to breastfeed, to suckle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "azzinnà: allattare",
+    "rawHash": "3ad8b8a087f34966594801c1ead801f9183c37fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

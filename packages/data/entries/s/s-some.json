@@ -1,0 +1,30 @@
+{
+  "id": "s-some",
+  "headword": "some",
+  "article": "la",
+  "senses": [
+    {
+      "it": "soma",
+      "en": "load, pack-animal's burden",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "corredo nuziale della sposa",
+      "en": "bride's trousseau",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "some (la): soma, corredo nuziale della sposa",
+    "rawHash": "95b82fd636ba8817ebd61df2db8ba07231178d35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-ferchi",
+  "headword": "fèrchi",
+  "senses": [
+    {
+      "it": "denaro",
+      "en": "money",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fèrchi: denaro",
+    "rawHash": "dbd3c62ff4c2b53ac649d6a5e348a17300050ff3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

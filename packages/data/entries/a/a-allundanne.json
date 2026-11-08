@@ -1,0 +1,26 @@
+{
+  "id": "a-allundanne",
+  "headword": "allundanne",
+  "senses": [
+    {
+      "it": "allora",
+      "en": "then, at that time",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tanto tempo fa",
+      "en": "a long time ago",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allundanne: allora, tanto tempo fa",
+    "rawHash": "7fd12cab80b2560dc793a7b683794c65a57c152e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

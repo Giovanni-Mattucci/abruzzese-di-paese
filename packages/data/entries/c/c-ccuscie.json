@@ -1,0 +1,21 @@
+{
+  "id": "c-ccuscie",
+  "headword": "ccusciè",
+  "senses": [
+    {
+      "it": "così",
+      "en": "so, like this",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ccusciè: così",
+    "rawHash": "d21dc8ae625f2ac509c2f0a1d831b287958c44d6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

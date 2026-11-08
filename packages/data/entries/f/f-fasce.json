@@ -1,0 +1,22 @@
+{
+  "id": "f-fasce",
+  "headword": "fasce",
+  "article": "la",
+  "senses": [
+    {
+      "it": "fascia, striscia lunga di stoffa per avvolgere stretti i neonati",
+      "en": "swaddling band, long strip of cloth for wrapping newborns tightly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fasce (la): fascia, striscia lunga di stoffa per avvolgere stretti i neonati",
+    "rawHash": "2f2dc710231e23c6e3f8991bf9d237b1edd5ee59",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

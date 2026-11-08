@@ -1,0 +1,21 @@
+{
+  "id": "p-piju",
+  "headword": "pijù",
+  "senses": [
+    {
+      "it": "prendere",
+      "en": "to take",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pijù: prendere",
+    "rawHash": "d40515f1539666b41b6747dd81d0df2801819a46",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

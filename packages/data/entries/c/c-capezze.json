@@ -1,0 +1,21 @@
+{
+  "id": "c-capezze",
+  "headword": "capèzze",
+  "senses": [
+    {
+      "it": "briglia per animali",
+      "en": "halter for animals",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capèzze: briglia per animali",
+    "rawHash": "4dc4cb7d85e0bd229d30f29ca392a486422238ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

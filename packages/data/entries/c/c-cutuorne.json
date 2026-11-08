@@ -1,0 +1,21 @@
+{
+  "id": "c-cutuorne",
+  "headword": "cutuòrne",
+  "senses": [
+    {
+      "it": "calzettoni",
+      "en": "knee socks, heavy socks",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cutuòrne: calzettoni",
+    "rawHash": "45d428a8927a2ab930a142fbd9062b0997a76852",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

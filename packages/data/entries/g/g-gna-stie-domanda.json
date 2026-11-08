@@ -1,0 +1,26 @@
+{
+  "id": "g-gna-stie-domanda",
+  "headword": "gnà stié? (domanda",
+  "senses": [
+    {
+      "it": "come stai?) \"inse-gna-mi (dimmi",
+      "en": "how are you?) \"inse-gna-mi (tell me",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "indicami) come stai\" (esortativa)",
+      "en": "show me) how you are\" (hortative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnà stié? (domanda: come stai?) \"inse-gna-mi (dimmi, indicami) come stai\" (esortativa);",
+    "rawHash": "320321bb07e96abfa1c93ed1a5900838a60c5e47",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

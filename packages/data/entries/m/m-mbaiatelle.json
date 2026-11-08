@@ -1,0 +1,25 @@
+{
+  "id": "m-mbaiatelle",
+  "headword": "'mbaiatelle",
+  "variants": [
+    "sbajatelle"
+  ],
+  "article": "la",
+  "senses": [
+    {
+      "it": "bottiglia ovale rivestita di paglia, fiasco impagliato",
+      "en": "oval bottle covered in straw, straw-covered flask",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbaiatelle, sbajatelle(la): bottiglia ovale rivestita di paglia, fiasco impagliato",
+    "rawHash": "13d0f0fdcb66a10c848e0e3291486c7c417f2c59",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "s-sticchie",
+  "headword": "sticchie",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "un fico, (ne nvale nu sticchie: non vale niente, nulla)",
+      "en": "a fig, (ne nvale nu sticchie: it is worth nothing, nothing at all)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sticchie (lu): un fico, (ne nvale nu sticchie: non vale niente, nulla)",
+    "rawHash": "932f67bf97e49d124a2389cd49b2af6c2d3aa93d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

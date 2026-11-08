@@ -1,0 +1,21 @@
+{
+  "id": "s-stuzzemeje",
+  "headword": "stuzzèmeje",
+  "senses": [
+    {
+      "it": "diamogli un pò di panino",
+      "en": "let us give him a bit of sandwich",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stuzzèmeje: diamogli un pò di panino",
+    "rawHash": "aef46a5d06795dd59a9f332c239a021d6dc1d30e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

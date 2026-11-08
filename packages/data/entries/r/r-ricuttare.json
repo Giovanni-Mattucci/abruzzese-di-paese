@@ -1,0 +1,21 @@
+{
+  "id": "r-ricuttare",
+  "headword": "ricuttare",
+  "senses": [
+    {
+      "it": "chi fa la ricotta, ma a Lanciano, anche chi ci prova spudoratamente con una ragazza",
+      "en": "one who makes ricotta, but in Lanciano also one who shamelessly makes a pass at a girl",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ricuttare: chi fa la ricotta, ma a Lanciano, anche chi ci prova spudoratamente con una ragazza",
+    "rawHash": "e7da2768cd678142736a8ad2b36121d056ea1e29",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

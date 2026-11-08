@@ -1,0 +1,21 @@
+{
+  "id": "c-cutturu-2",
+  "headword": "cuttùru",
+  "senses": [
+    {
+      "it": "pentola",
+      "en": "pot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuttùru: pentola",
+    "rawHash": "9cf259500de68e9f8a9bd0b5f0620c079a66fbf7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

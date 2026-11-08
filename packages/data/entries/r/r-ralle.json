@@ -1,0 +1,22 @@
+{
+  "id": "r-ralle",
+  "headword": "ralle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "attrezzo per pulire l'aratro",
+      "en": "tool for cleaning the plough",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ralle (la): attrezzo per pulire l'aratro",
+    "rawHash": "a1e67e974720c1e61271bed388ccddb6af112df7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

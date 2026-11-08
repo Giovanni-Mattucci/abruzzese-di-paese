@@ -1,0 +1,21 @@
+{
+  "id": "c-ciampane",
+  "headword": "ciampàne",
+  "senses": [
+    {
+      "it": "zanzara",
+      "en": "mosquito",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciampàne: zanzara",
+    "rawHash": "4d9596d4ef957a373aac499303f76f645cbd2e7e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

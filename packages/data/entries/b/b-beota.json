@@ -1,0 +1,21 @@
+{
+  "id": "b-beota",
+  "headword": "bèota",
+  "senses": [
+    {
+      "it": "bevuta",
+      "en": "drink, drinking bout",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bèota: bevuta",
+    "rawHash": "d0136c8684b3b10ffffaf69b575d3148b39dc993",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

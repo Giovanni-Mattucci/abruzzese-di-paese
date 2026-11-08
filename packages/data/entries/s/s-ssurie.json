@@ -1,0 +1,21 @@
+{
+  "id": "s-ssurie",
+  "headword": "ssurie",
+  "senses": [
+    {
+      "it": "scaturisce",
+      "en": "it springs forth, it gushes out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "ssurie: scaturisce",
+    "rawHash": "c45074dd7bbca293f6e39ee3d10ce17fe72b354b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

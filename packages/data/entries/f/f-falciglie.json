@@ -1,0 +1,21 @@
+{
+  "id": "f-falciglie",
+  "headword": "falciglie",
+  "senses": [
+    {
+      "it": "falce",
+      "en": "scythe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "falciglie: falce",
+    "rawHash": "dff401fbc22b339fc976da848506454dc304d557",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

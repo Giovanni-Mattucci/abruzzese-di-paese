@@ -1,0 +1,26 @@
+{
+  "id": "c-cutenne",
+  "headword": "cutènne",
+  "senses": [
+    {
+      "it": "cotenna",
+      "en": "pork rind",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "(a volte testa)",
+      "en": "(sometimes head)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cutènne: cotenna, (a volte testa)",
+    "rawHash": "4cebdb25df1d2c88055fda7c8d581e6e54751fa4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "j-jete",
+  "headword": "jète",
+  "senses": [
+    {
+      "it": "andate",
+      "en": "you go (pl.), go!",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jète: andate",
+    "rawHash": "e019bdee5827719e33f38dd3028861ecf5836e36",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

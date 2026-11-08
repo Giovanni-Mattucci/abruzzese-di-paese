@@ -1,0 +1,21 @@
+{
+  "id": "s-sfriculijate-ha",
+  "headword": "sfriculijate (ha)",
+  "senses": [
+    {
+      "it": "ha stuzzicato",
+      "en": "he/she has teased",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfriculijate (ha): ha stuzzicato",
+    "rawHash": "0e81a1d369fe9f167bcb2af9f03005acda645686",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

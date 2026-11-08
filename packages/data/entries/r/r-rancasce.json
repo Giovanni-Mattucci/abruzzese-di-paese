@@ -1,0 +1,22 @@
+{
+  "id": "r-rancasce",
+  "headword": "rancasce",
+  "article": "la",
+  "senses": [
+    {
+      "it": "grancassa",
+      "en": "bass drum",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rancasce (la): grancassa",
+    "rawHash": "9ee4a8c540f3aec430bc5e8ac10e9f3d3503656e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

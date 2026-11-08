@@ -1,0 +1,21 @@
+{
+  "id": "c-campa",
+  "headword": "campà",
+  "senses": [
+    {
+      "it": "campare",
+      "en": "to get by, to live",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "campà: campare",
+    "rawHash": "0c7068a703af8f4037eb7c3a2593fce5b7c0ea10",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

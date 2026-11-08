@@ -1,0 +1,29 @@
+{
+  "id": "c-cucchiare-2",
+  "headword": "cucchiare",
+  "senses": [
+    {
+      "it": "cucchiaio",
+      "en": "spoon",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cazzuola da muratore",
+      "en": "mason's trowel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucchiare: cucchiaio, cazzuola da muratore",
+    "rawHash": "8c61dd8da42ffafc52b4e514ff031362ed3367c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

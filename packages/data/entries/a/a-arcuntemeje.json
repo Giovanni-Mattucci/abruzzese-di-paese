@@ -1,0 +1,26 @@
+{
+  "id": "a-arcuntemeje",
+  "headword": "arcuntèmeje",
+  "senses": [
+    {
+      "it": "raccontamogli",
+      "en": "let us tell him/her",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "contiamogli di nuovo",
+      "en": "let us count again for him/her",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcuntèmeje: raccontamogli, contiamogli di nuovo",
+    "rawHash": "f85c2ed71a20b86be805950583ab1f8fbf41dd81",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

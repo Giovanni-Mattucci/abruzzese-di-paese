@@ -1,0 +1,21 @@
+{
+  "id": "m-mesera",
+  "headword": "mesera",
+  "senses": [
+    {
+      "it": "maschera",
+      "en": "mask",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mesera: maschera",
+    "rawHash": "fb2a044a633c6b66f6858ecceea4551d2e67fa0e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

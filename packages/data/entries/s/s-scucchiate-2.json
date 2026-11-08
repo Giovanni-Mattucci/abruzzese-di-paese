@@ -1,0 +1,29 @@
+{
+  "id": "s-scucchiate-2",
+  "headword": "scucchiàte",
+  "senses": [
+    {
+      "it": "si dice di germoglio appena nato, ma in senso generale si sdopera per dire di qualcosa appena fuori dal suo alveo naturale",
+      "en": "said of a newly sprouted shoot, but in a general sense used to describe something just out of its natural setting",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "ha scucchiàte dall'ove, è uscito dall'uovo"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scucchiàte: si dice di germoglio appena nato, ma in senso generale si sdopera per dire di qualcosa appena fuori dal suo alveo naturale. Es.: ha scucchiàte dall'ove, è uscito dall'uovo",
+    "rawHash": "8c0fbd875b3a4d81466cf5767c44fb46671d9e2d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

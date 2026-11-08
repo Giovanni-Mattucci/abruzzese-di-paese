@@ -1,0 +1,21 @@
+{
+  "id": "s-sdazzile",
+  "headword": "sdàzzile",
+  "senses": [
+    {
+      "it": "pietra o mattone piatto per giocare a \"sandille\"",
+      "en": "flat stone or brick used to play \"sandille\"",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdàzzile: pietra o mattone piatto per giocare a \"sandille\"",
+    "rawHash": "9fa97065afbbe08a7c5c4504fe650fcb2892f1f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

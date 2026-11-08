@@ -1,0 +1,27 @@
+{
+  "id": "m-mandricchie-2",
+  "headword": "mandricchie",
+  "variants": [
+    "mandricchiòne"
+  ],
+  "senses": [
+    {
+      "it": "strofinaccio da cucina",
+      "en": "kitchen cloth, dish towel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mandricchie, mandricchiòne: strofinaccio da cucina",
+    "rawHash": "27154cdb39b8e0fccb1c52baeb8806922c9de690",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

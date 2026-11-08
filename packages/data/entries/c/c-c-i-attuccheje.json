@@ -1,0 +1,34 @@
+{
+  "id": "c-c-i-attuccheje",
+  "headword": "c-i-attucchèje",
+  "variants": [
+    "c'attucchèje"
+  ],
+  "senses": [
+    {
+      "it": "ci toccava",
+      "en": "it fell to us, it was our turn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci spettava",
+      "en": "it was due to us",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "era nostro",
+      "en": "it was ours",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-attucchèje, c'attucchèje. ci toccava, ci spettava, era nostro",
+    "rawHash": "511797e08513595c38bc5d50a769b2de4b44f0f6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

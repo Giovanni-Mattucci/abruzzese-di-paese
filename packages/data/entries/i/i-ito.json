@@ -1,0 +1,21 @@
+{
+  "id": "i-ito",
+  "headword": "ito",
+  "senses": [
+    {
+      "it": "andato",
+      "en": "gone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ito: andato",
+    "rawHash": "c4911325c6af85d32e72d559d6b830d756c9bf1a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

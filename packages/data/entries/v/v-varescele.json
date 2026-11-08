@@ -1,0 +1,22 @@
+{
+  "id": "v-varescele",
+  "headword": "varéscele",
+  "article": "li",
+  "senses": [
+    {
+      "it": "onde del mare",
+      "en": "sea waves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varéscele (li): onde del mare",
+    "rawHash": "81ccadae0408a96f7be27d85cbe18afcd8639576",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

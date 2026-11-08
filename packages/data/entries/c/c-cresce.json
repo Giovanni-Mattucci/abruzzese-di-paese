@@ -1,0 +1,21 @@
+{
+  "id": "c-cresce",
+  "headword": "cresce",
+  "senses": [
+    {
+      "it": "crescere",
+      "en": "to grow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cresce: crescere",
+    "rawHash": "26afc3093d6c60db0deef240be7fa571545a5d68",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

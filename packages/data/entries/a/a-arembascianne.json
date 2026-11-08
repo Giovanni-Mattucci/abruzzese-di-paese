@@ -1,0 +1,21 @@
+{
+  "id": "a-arembascianne",
+  "headword": "arembasciànne",
+  "senses": [
+    {
+      "it": "quanto serviva al neonato per il ricambio. Una volta venivano tutti fasciati",
+      "en": "what a newborn needed for a change of swaddling. In the past all babies were swaddled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arembasciànne: quanto serviva al neonato per il ricambio. Una volta venivano tutti fasciati",
+    "rawHash": "64538e029cf70cdf54bf0addaee4327359bcffdf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

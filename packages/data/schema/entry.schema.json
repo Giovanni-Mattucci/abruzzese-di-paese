@@ -1,0 +1,157 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Giovanni-Mattucci/abruzzese-di-paese/packages/data/schema/entry.schema.json",
+  "title": "Dictionary entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "headword", "senses", "source", "schemaVersion"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z]-[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "headword": {
+      "type": "string",
+      "minLength": 1
+    },
+    "variants": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "article": {
+      "type": "string",
+      "description": "Dialect article recorded with the headword, e.g. lu, la, li, le.",
+      "minLength": 1
+    },
+    "pos": {
+      "type": "string",
+      "minLength": 1
+    },
+    "pronunciation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "locality": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "senses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["it"],
+        "properties": {
+          "it": {
+            "type": "string",
+            "minLength": 1
+          },
+          "en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "enTranslateStatus": {
+            "type": "string",
+            "enum": ["machine", "reviewed"]
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["abr"],
+        "properties": {
+          "abr": {
+            "type": "string",
+            "minLength": 1
+          },
+          "it": {
+            "type": "string"
+          },
+          "en": {
+            "type": ["string", "null"]
+          },
+          "enTranslateStatus": {
+            "type": "string",
+            "enum": ["machine", "reviewed"]
+          }
+        }
+      }
+    },
+    "etymology": {
+      "type": "string"
+    },
+    "grammarNotes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["needs-review", "possible-duplicate"]
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["site", "letter", "url", "raw", "rawHash", "scrapedAt"],
+      "properties": {
+        "site": {
+          "type": "string",
+          "const": "abruzzo.fm"
+        },
+        "letter": {
+          "type": "string",
+          "pattern": "^[a-z]$"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "raw": {
+          "type": "string",
+          "minLength": 1
+        },
+        "rawHash": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{40}$"
+        },
+        "scrapedAt": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "contributors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "schemaVersion": {
+      "type": "integer",
+      "const": 1
+    }
+  }
+}

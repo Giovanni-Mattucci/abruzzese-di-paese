@@ -1,0 +1,21 @@
+{
+  "id": "s-sbaje",
+  "headword": "sbaje",
+  "senses": [
+    {
+      "it": "errore",
+      "en": "mistake, error",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbaje: errore",
+    "rawHash": "a694b977e69918e2e3f39577c167a5b6ec6ad376",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

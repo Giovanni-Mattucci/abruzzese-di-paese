@@ -1,0 +1,21 @@
+{
+  "id": "c-cumbarzijune",
+  "headword": "cumbarzijune",
+  "senses": [
+    {
+      "it": "dolciumi rustici cotti al forno. I contadini li offrono duranti i lavori di mietitura e di trescatura del grano",
+      "en": "rustic oven-baked sweets. Farmers offer them during the wheat harvesting and threshing work",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cumbarzijune : dolciumi rustici cotti al forno. I contadini li offrono duranti i lavori di mietitura e di trescatura del grano",
+    "rawHash": "dbad7c324ac04ffdb97bc8307b2216e7494f8cf6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-pache",
+  "headword": "pache",
+  "senses": [
+    {
+      "it": "paghi",
+      "en": "you pay",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pache: paghi",
+    "rawHash": "2afb650890ccd7535ac55547519fae580de2dfa1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "s-stratte",
+  "headword": "stratte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "concentrato di pomodoro",
+      "en": "tomato paste",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stratte (lu): concentrato di pomodoro",
+    "rawHash": "dcba93176d61aeda9385b9db84d5116f7a61b1eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

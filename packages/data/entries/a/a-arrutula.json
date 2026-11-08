@@ -1,0 +1,21 @@
+{
+  "id": "a-arrutula",
+  "headword": "arrutulà",
+  "senses": [
+    {
+      "it": "arrotolare, detto di qualcosa che si arrotola",
+      "en": "to roll up, said of something that is rolled up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrutulà: arrotolare, detto di qualcosa che si arrotola",
+    "rawHash": "1e9596f71c85c6722e5bf8c196b41090cd72f202",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

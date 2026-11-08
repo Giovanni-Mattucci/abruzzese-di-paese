@@ -1,0 +1,36 @@
+{
+  "id": "z-zocche",
+  "headword": "zòcche",
+  "senses": [
+    {
+      "it": "chicco di grano",
+      "en": "grain of wheat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "un acino d'uva",
+      "en": "a single grape",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "un'oliva",
+      "en": "an olive",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ecc",
+      "en": "etc.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zòcche: chicco di grano, un acino d'uva, un'oliva, ecc.",
+    "rawHash": "e25b287008a45d6349ff541cf3c0bf8ae3c619d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

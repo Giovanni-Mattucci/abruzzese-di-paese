@@ -1,0 +1,24 @@
+{
+  "id": "n-nanzignitell",
+  "headword": "nanzignitell",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "un pochettino",
+      "en": "a tiny bit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nanzignitell: un pochettino (Montebello s. S.)",
+    "rawHash": "07cc283815a041edf104c5cea8690dc1df7c78e1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

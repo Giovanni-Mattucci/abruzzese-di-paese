@@ -1,0 +1,21 @@
+{
+  "id": "c-chichirche",
+  "headword": "chichìrche",
+  "senses": [
+    {
+      "it": "cicerchia",
+      "en": "grass pea, chickling vetch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chichìrche: cicerchia",
+    "rawHash": "fc022846c2602a5cd8a58f74459c1487286f49f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

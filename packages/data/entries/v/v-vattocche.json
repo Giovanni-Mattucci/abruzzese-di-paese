@@ -1,0 +1,36 @@
+{
+  "id": "v-vattocche",
+  "headword": "v'attòcche",
+  "senses": [
+    {
+      "it": "vi tocca",
+      "en": "it falls to you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vi spetta",
+      "en": "it is due to you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tocca a voi",
+      "en": "it is your turn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spetta a voi",
+      "en": "it is up to you",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "v'attòcche: vi tocca, vi spetta, tocca a voi, spetta a voi",
+    "rawHash": "0d39e175678383281390cfff05988eac8e7a195f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

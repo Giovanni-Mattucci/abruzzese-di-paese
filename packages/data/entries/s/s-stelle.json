@@ -1,0 +1,22 @@
+{
+  "id": "s-stelle",
+  "headword": "stélle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "pezzo di legno",
+      "en": "piece of wood",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stélle (la): pezzo di legno",
+    "rawHash": "6df188805aea20ffdaebeba6664c146518d6ad9d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

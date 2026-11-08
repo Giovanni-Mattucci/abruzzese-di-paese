@@ -1,0 +1,21 @@
+{
+  "id": "n-ntruppeca",
+  "headword": "'ntruppecà",
+  "senses": [
+    {
+      "it": "inciampare",
+      "en": "to stumble, to trip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ntruppecà: inciampare",
+    "rawHash": "b1374fea7d349201725f1492b9bf85adb04c15c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

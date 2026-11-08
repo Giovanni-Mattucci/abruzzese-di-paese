@@ -1,0 +1,21 @@
+{
+  "id": "b-beju",
+  "headword": "beju",
+  "senses": [
+    {
+      "it": "bello",
+      "en": "beautiful, handsome",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "beju: bello",
+    "rawHash": "87d3034d6f466959549be6713807e6e2a8bf6e22",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

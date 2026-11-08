@@ -1,0 +1,25 @@
+{
+  "id": "d-da-li-3",
+  "headword": "da li",
+  "pos": "prep. art.",
+  "senses": [
+    {
+      "it": "dalle",
+      "en": "from the (feminine plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "da li: dalle (prep. art.)",
+    "rawHash": "46441ab613affaedbc394b9bbca6afc84397d0b3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

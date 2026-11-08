@@ -1,0 +1,21 @@
+{
+  "id": "u-uale-uale",
+  "headword": "uàle uàle",
+  "senses": [
+    {
+      "it": "in maniera uniforme",
+      "en": "evenly, uniformly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "uàle uàle: in maniera uniforme",
+    "rawHash": "c6c7ef5c55b40f778f206d949c07f7a3bc61ceef",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-annazzachennese",
+  "headword": "annazzachènnese",
+  "senses": [
+    {
+      "it": "dondolando le spalle come fa la madre con la cuna o la zana",
+      "en": "rocking the shoulders as a mother does with the cradle or the basket-cradle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "annazzachènnese: dondolando le spalle come fa la madre con la cuna o la zana",
+    "rawHash": "45890ce799d22142b7e7059b2e01a12938a3956f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

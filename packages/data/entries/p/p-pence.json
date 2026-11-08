@@ -1,0 +1,21 @@
+{
+  "id": "p-pence",
+  "headword": "pènce",
+  "senses": [
+    {
+      "it": "tegola",
+      "en": "roof tile",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pènce: tegola",
+    "rawHash": "32c378297c8a7f46f1144623d655e881a067a62a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

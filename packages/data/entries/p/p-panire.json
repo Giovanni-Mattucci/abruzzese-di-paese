@@ -1,0 +1,21 @@
+{
+  "id": "p-panire",
+  "headword": "panìre",
+  "senses": [
+    {
+      "it": "tipo di cesta",
+      "en": "type of basket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "panìre: tipo di cesta",
+    "rawHash": "ac53a6685de70e123db2fc07458f55e365fa121c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

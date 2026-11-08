@@ -1,0 +1,21 @@
+{
+  "id": "b-briucciu",
+  "headword": "briùcciu",
+  "senses": [
+    {
+      "it": "scapolare",
+      "en": "scapular",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "briùcciu: scapolare",
+    "rawHash": "e45ab77fcf945b0bf3fdd5971ed0e629ec7c7284",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

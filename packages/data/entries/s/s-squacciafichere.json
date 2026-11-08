@@ -1,0 +1,21 @@
+{
+  "id": "s-squacciafichere",
+  "headword": "squacciafichere",
+  "senses": [
+    {
+      "it": "nomignolo dato agli abitanti di Atessa (prov Chieti) dagli abiyanti di Lanciano (Chieti)",
+      "en": "nickname given to the inhabitants of Atessa (province of Chieti) by the inhabitants of Lanciano (Chieti)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "squacciafichere: nomignolo dato agli abitanti di Atessa (prov Chieti) dagli abiyanti di Lanciano (Chieti)",
+    "rawHash": "5f1e5705342ce32c326144979deda61efe64ca99",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

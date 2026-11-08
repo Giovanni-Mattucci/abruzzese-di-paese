@@ -1,0 +1,21 @@
+{
+  "id": "l-loco",
+  "headword": "lòco",
+  "senses": [
+    {
+      "it": "sù: lassù",
+      "en": "up: up there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lòco: sù: lassù",
+    "rawHash": "f46b363f2d954bc034495c78ed2c2d720cc9ba6e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

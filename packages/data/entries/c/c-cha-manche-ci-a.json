@@ -1,0 +1,21 @@
+{
+  "id": "c-cha-manche-ci-a",
+  "headword": "c'ha mànche, ci-à",
+  "senses": [],
+  "notes": [
+    "Unparsed line: c'ha mànche, ci-à mànche manca, non basta"
+  ],
+  "tags": [
+    "needs-review"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c'ha mànche, ci-à mànche manca, non basta",
+    "rawHash": "cf71ef3d21e42e7663045fe3d207ce5267c18b79",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b-breve",
+  "headword": "brève",
+  "senses": [
+    {
+      "it": "talismano",
+      "en": "talisman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "brève: talismano",
+    "rawHash": "565951fb1a2195853d3a42f5cfd6aa0691cd88a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

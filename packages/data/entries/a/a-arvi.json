@@ -1,0 +1,24 @@
+{
+  "id": "a-arvi",
+  "headword": "arvì",
+  "variants": [
+    "arvìne"
+  ],
+  "senses": [
+    {
+      "it": "torna",
+      "en": "comes back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arvì, arvìne: torna",
+    "rawHash": "d709d2c1b3109962675fc79109395a4a2ce58f71",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-ammareje",
+  "headword": "ammarèje",
+  "senses": [
+    {
+      "it": "amaro",
+      "en": "bitter",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammarèje: amaro",
+    "rawHash": "77f070bc83af78a6757a603f436b086f55186ea4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

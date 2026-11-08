@@ -1,0 +1,21 @@
+{
+  "id": "s-sfranicheteje",
+  "headword": "sfranichèteje",
+  "senses": [
+    {
+      "it": "sbriciolategli",
+      "en": "crumble it for him (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfranichèteje: sbriciolategli",
+    "rawHash": "0d90940ad9ac7307088156cf0dfbdda3e24cdca3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-parnanze-2",
+  "headword": "parnanze",
+  "article": "la",
+  "senses": [
+    {
+      "it": "grembiule",
+      "en": "apron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "parnanze (la): grembiule",
+    "rawHash": "0f0696852255bb8926ba86ff5772c362ed129c8b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

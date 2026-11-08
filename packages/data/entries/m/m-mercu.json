@@ -1,0 +1,21 @@
+{
+  "id": "m-mercu",
+  "headword": "mèrcu",
+  "senses": [
+    {
+      "it": "ferita",
+      "en": "wound",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mèrcu: ferita",
+    "rawHash": "341dce6f036ea656b92374074fef5ca165caef96",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

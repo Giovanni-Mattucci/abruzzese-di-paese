@@ -1,0 +1,21 @@
+{
+  "id": "z-damme-na-zocca",
+  "headword": "(damme 'na zocca",
+  "senses": [],
+  "notes": [
+    "Unparsed line: (damme 'na zocca d'uve, pije 'na zocche de live, ecc.)"
+  ],
+  "tags": [
+    "needs-review"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "(damme 'na zocca d'uve, pije 'na zocche de live, ecc.)",
+    "rawHash": "56219668ccc77ac6dc67edce296720234cc51120",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

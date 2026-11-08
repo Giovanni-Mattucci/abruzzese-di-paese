@@ -1,0 +1,22 @@
+{
+  "id": "l-lame",
+  "headword": "lame",
+  "article": "la",
+  "senses": [
+    {
+      "it": "fango",
+      "en": "mud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lame (la): fango",
+    "rawHash": "898cc7773a4b0325b28cbb8b3e8866b23f48789e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

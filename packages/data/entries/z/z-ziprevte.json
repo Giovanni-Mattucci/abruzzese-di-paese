@@ -1,0 +1,21 @@
+{
+  "id": "z-ziprevte",
+  "headword": "ziprevte",
+  "senses": [
+    {
+      "it": "scaldaletto",
+      "en": "bed warmer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "ziprevte: scaldaletto",
+    "rawHash": "2d3be28b383be2ede02fa30aff29dbd494eef577",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

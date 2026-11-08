@@ -1,0 +1,26 @@
+{
+  "id": "m-mpujune",
+  "headword": "'mpujùne",
+  "senses": [
+    {
+      "it": "fermo",
+      "en": "still, idle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "senza fare niente",
+      "en": "doing nothing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mpujùne: fermo, senza fare niente",
+    "rawHash": "ba60ea8f2ae943c968e2fd9025442167ccbdb6bc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

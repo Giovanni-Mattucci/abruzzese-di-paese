@@ -1,0 +1,21 @@
+{
+  "id": "p-pinzetice",
+  "headword": "pinzètice",
+  "senses": [
+    {
+      "it": "pensateci",
+      "en": "think about it (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinzètice: pensateci",
+    "rawHash": "9b75293af9409ab699ef3e2b45bc6c9be2ec9a69",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

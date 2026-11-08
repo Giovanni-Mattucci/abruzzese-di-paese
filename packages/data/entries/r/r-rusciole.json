@@ -1,0 +1,22 @@
+{
+  "id": "r-rusciole",
+  "headword": "rusciòle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "triglia",
+      "en": "red mullet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rusciòle (lu): triglia",
+    "rawHash": "41c0c9681a6887cc64016c3fb15c491b8b4eb2d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

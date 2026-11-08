@@ -1,0 +1,21 @@
+{
+  "id": "m-macirine",
+  "headword": "macirine",
+  "senses": [
+    {
+      "it": "sassi di medie dimensioni accatastati alla rinfusa. Solitamente il mucchio era formato dai sassi trovati nel terreno durante l'aratura e la sarchiatura",
+      "en": "medium-sized stones piled up haphazardly. The heap was usually made of the stones found in the soil during ploughing and hoeing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "macirine: sassi di medie dimensioni accatastati alla rinfusa. Solitamente il mucchio era formato dai sassi trovati nel terreno durante l'aratura e la sarchiatura",
+    "rawHash": "adcd5a9b8c5061dac4dbde82eeb90f51196029a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

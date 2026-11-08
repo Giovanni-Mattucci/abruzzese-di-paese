@@ -1,0 +1,22 @@
+{
+  "id": "r-rucchille",
+  "headword": "rucchille",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "rocchetto per il filo",
+      "en": "spool for thread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rucchille (lu): rocchetto per il filo",
+    "rawHash": "2e48a2a5957c21e5ecefcc42d015f915582df09f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

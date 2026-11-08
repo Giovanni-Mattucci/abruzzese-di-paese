@@ -1,0 +1,21 @@
+{
+  "id": "p-pinzeme",
+  "headword": "pinzème",
+  "senses": [
+    {
+      "it": "pensiamo",
+      "en": "we think, let us think",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinzème: pensiamo",
+    "rawHash": "457f7306f1ca3c6a1a3eea46fb6024c9f5b99abf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

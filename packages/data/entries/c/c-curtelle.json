@@ -1,0 +1,21 @@
+{
+  "id": "c-curtelle",
+  "headword": "curtèlle",
+  "senses": [
+    {
+      "it": "coltello",
+      "en": "knife",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "curtèlle: coltello",
+    "rawHash": "45fc8ccb26c9ed67f7a7ab0622f31a17300f012d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

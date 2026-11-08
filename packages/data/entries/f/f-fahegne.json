@@ -1,0 +1,22 @@
+{
+  "id": "f-fahegne",
+  "headword": "fahêgne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "fascio di canne acceso",
+      "en": "lit bundle of reeds",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fahêgne (lu): fascio di canne acceso",
+    "rawHash": "6471e9d6d245ad495b5e899c54211336adc7ab1e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

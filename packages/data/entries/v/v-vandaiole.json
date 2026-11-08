@@ -1,0 +1,25 @@
+{
+  "id": "v-vandaiole",
+  "headword": "vandaiole",
+  "variants": [
+    "vandiòle"
+  ],
+  "article": "li",
+  "senses": [
+    {
+      "it": "convulsioni",
+      "en": "convulsions",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vandaiole, vandiòle (li): convulsioni",
+    "rawHash": "faf8a2b33cfb302e4788541d270c301dfbde4efe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

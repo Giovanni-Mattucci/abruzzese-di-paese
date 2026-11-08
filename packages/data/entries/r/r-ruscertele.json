@@ -1,0 +1,22 @@
+{
+  "id": "r-ruscertele",
+  "headword": "ruscértele",
+  "article": "la",
+  "senses": [
+    {
+      "it": "lucertola",
+      "en": "lizard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ruscértele (la): lucertola",
+    "rawHash": "2f3ec156fb95db9604e79f80319c2f650c8f30e9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

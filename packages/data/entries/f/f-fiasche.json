@@ -1,0 +1,21 @@
+{
+  "id": "f-fiasche",
+  "headword": "fiasche",
+  "senses": [
+    {
+      "it": "recipiente a foggia di fiasco",
+      "en": "flask-shaped container",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fiasche: recipiente a foggia di fiasco",
+    "rawHash": "77107c200a5f80e1561812956e641be6a004d6b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

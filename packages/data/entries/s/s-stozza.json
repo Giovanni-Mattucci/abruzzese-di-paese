@@ -1,0 +1,21 @@
+{
+  "id": "s-stozza",
+  "headword": "stòzza",
+  "senses": [
+    {
+      "it": "pezzo",
+      "en": "piece",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stòzza: pezzo",
+    "rawHash": "44e64921eb3180c1fea8f81de1ae8a2ef7462635",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

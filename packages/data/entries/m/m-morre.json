@@ -1,0 +1,24 @@
+{
+  "id": "m-morre",
+  "headword": "morre",
+  "senses": [
+    {
+      "it": "grotta di gente",
+      "en": "crowd of people",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "morre: grotta di gente",
+    "rawHash": "2462b6b07a909e839d8e65c56f4e64720b07547c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

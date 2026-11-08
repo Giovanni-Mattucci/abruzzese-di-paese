@@ -1,0 +1,21 @@
+{
+  "id": "c-carafocce",
+  "headword": "carafocce",
+  "senses": [
+    {
+      "it": "tasche",
+      "en": "pockets",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carafocce: tasche",
+    "rawHash": "7a9e839ea9c87e71ba859662ef522df8f90f621e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

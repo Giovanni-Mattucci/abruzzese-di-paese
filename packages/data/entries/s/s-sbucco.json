@@ -1,0 +1,26 @@
+{
+  "id": "s-sbucco",
+  "headword": "sbuccò",
+  "senses": [
+    {
+      "it": "traboccò",
+      "en": "it overflowed",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "venne a galla",
+      "en": "it came to the surface",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbuccò: traboccò, venne a galla.",
+    "rawHash": "f91e786a053ce8349b466b6bea551341ab5306c3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

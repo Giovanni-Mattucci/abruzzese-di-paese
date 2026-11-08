@@ -1,0 +1,24 @@
+{
+  "id": "b-buffe-2",
+  "headword": "buffe",
+  "senses": [
+    {
+      "it": "imbroglio",
+      "en": "swindle, fraud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "buffe: imbroglio",
+    "rawHash": "f0cdcdc557b955909ccfd2bafa50047e7c5c6f69",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

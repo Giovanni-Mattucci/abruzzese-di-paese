@@ -1,0 +1,21 @@
+{
+  "id": "d-dumeniche",
+  "headword": "dumèniche",
+  "senses": [
+    {
+      "it": "domenica",
+      "en": "Sunday",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dumèniche: domenica",
+    "rawHash": "73830a175617715b34cb5b9e1f07074b7fa76c3e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

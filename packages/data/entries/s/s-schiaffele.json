@@ -1,0 +1,21 @@
+{
+  "id": "s-schiaffele",
+  "headword": "schiàffele",
+  "senses": [
+    {
+      "it": "mettilo",
+      "en": "put it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiàffele: mettilo",
+    "rawHash": "641b9cfa74cd4e7aff9abd05fbcf7a689709d694",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

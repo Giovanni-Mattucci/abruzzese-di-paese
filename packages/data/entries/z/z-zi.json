@@ -1,0 +1,26 @@
+{
+  "id": "z-zi",
+  "headword": "zì",
+  "senses": [
+    {
+      "it": "zio",
+      "en": "uncle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "zia",
+      "en": "aunt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zì: zio, zia",
+    "rawHash": "e53d1d2d35e737bb4dbb2d3e9b95579721c29146",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

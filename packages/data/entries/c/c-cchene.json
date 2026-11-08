@@ -1,0 +1,22 @@
+{
+  "id": "c-cchene",
+  "headword": "'cchêne",
+  "article": "nu",
+  "senses": [
+    {
+      "it": "poco",
+      "en": "little, few",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "'cchêne (nu): poco",
+    "rawHash": "ff7d468e51dd381ef34e644130d07b45ae18fb02",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

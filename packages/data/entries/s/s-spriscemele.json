@@ -1,0 +1,21 @@
+{
+  "id": "s-spriscemele",
+  "headword": "spriscèmele",
+  "senses": [
+    {
+      "it": "spremiamolo",
+      "en": "let us squeeze it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spriscèmele: spremiamolo",
+    "rawHash": "5bb052790c5548f47493f20f541af204049ac6af",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

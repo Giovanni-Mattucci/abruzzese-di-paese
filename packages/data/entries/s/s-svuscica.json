@@ -1,0 +1,21 @@
+{
+  "id": "s-svuscica",
+  "headword": "svuscicà",
+  "senses": [
+    {
+      "it": "il ricercare di cosa smarrita",
+      "en": "the searching for a lost item",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "svuscicà: il ricercare di cosa smarrita",
+    "rawHash": "673283394d14f520328a31aaa9d7120b9ca94e27",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

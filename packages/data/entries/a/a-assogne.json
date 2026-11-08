@@ -1,0 +1,26 @@
+{
+  "id": "a-assogne",
+  "headword": "assògne",
+  "senses": [
+    {
+      "it": "grasso di maiale",
+      "en": "pork fat, lard",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gabbia toracica",
+      "en": "rib cage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assògne: grasso di maiale, gabbia toracica",
+    "rawHash": "8d43da57e6e0ab6643e2a0e059d8f673a9b233fb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

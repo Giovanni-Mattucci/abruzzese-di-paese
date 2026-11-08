@@ -1,0 +1,42 @@
+{
+  "name": "abruzzese-di-paese",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Open-source dictionary and archive of the Abruzzese dialect",
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "pnpm@12.18.0",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "pnpm data:build && pnpm --filter @adp/web dev",
+    "dev": "pnpm data:build && pnpm --filter @adp/web dev",
+    "prepare": "husky",
+    "build": "pnpm -r build",
+    "lint": "eslint . && prettier --check .",
+    "format": "prettier --write .",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test",
+    "test:coverage": "pnpm -r test:coverage",
+    "data:validate": "pnpm --filter @adp/data validate",
+    "data:build": "pnpm --filter @adp/data build",
+    "data:format": "pnpm --filter @adp/data format",
+    "ui:add": "pnpm --filter @mannaggia/ui ui:add"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.0",
+    "eslint": "^9.39.0",
+    "eslint-plugin-i18next": "6.1.5",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.7",
+    "globals": "^17.14.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
+    "prettier": "^3.9.10",
+    "prettier-plugin-tailwindcss": "^0.8.1",
+    "typescript": "^5.9.0",
+    "typescript-eslint": "^8.72.1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cumpirziuni",
+  "headword": "cumpirziuni",
+  "senses": [
+    {
+      "it": "buscotti non dolci fatti in occasione della trebbiatura",
+      "en": "savoury biscuits made on the occasion of the threshing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cumpirziuni: buscotti non dolci fatti in occasione della trebbiatura",
+    "rawHash": "4658226976e8b456d584e3c99b93ae0e102e96ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

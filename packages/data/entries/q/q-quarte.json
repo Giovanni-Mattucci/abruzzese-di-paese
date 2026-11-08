@@ -1,0 +1,36 @@
+{
+  "id": "q-quarte",
+  "headword": "quarte",
+  "senses": [
+    {
+      "it": "località",
+      "en": "place, locality",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lato",
+      "en": "side",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "parte",
+      "en": "part",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "verse lo quarte verso quel luogo",
+      "en": "verse lo quarte: towards that place",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quarte: località, lato, parte; verse lo quarte verso quel luogo",
+    "rawHash": "4d4909c735253012eb91d346d52d4f74dfb3d9cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-frastiere",
+  "headword": "frastière",
+  "senses": [
+    {
+      "it": "forestiero",
+      "en": "stranger, outsider",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frastière: forestiero",
+    "rawHash": "aeb66b519215504e9407f6598566658a7dd7dca2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

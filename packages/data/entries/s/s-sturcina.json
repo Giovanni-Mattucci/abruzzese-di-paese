@@ -1,0 +1,41 @@
+{
+  "id": "s-sturcina",
+  "headword": "sturcinà",
+  "senses": [
+    {
+      "it": "svolgere",
+      "en": "to unwind",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riferito a filo",
+      "en": "referring to thread",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spago",
+      "en": "string",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "corda",
+      "en": "rope",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ecc",
+      "en": "etc.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sturcinà: svolgere, riferito a filo, spago, corda, ecc.",
+    "rawHash": "a9eacc2917db055b538ba06bb3bf9d39ddc8624a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

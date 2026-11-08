@@ -1,0 +1,26 @@
+{
+  "id": "c-cacaviesce",
+  "headword": "cacaviesce",
+  "senses": [
+    {
+      "it": "rosa canina",
+      "en": "dog rose",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rosa selvatica che fiorisce tra le siepi e i rovi da maggio a luglio",
+      "en": "wild rose that blooms among hedges and brambles from May to July",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cacaviesce: rosa canina; rosa selvatica che fiorisce tra le siepi e i rovi da maggio a luglio",
+    "rawHash": "519694cea8c0e1af06d2cd0dadaf47be2f0fa9ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

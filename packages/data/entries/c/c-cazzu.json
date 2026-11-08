@@ -1,0 +1,21 @@
+{
+  "id": "c-cazzu",
+  "headword": "cazzu",
+  "senses": [
+    {
+      "it": "pene",
+      "en": "penis",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cazzu: pene",
+    "rawHash": "d47b8a150a6219ffdd51adff807685cdf2757d25",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

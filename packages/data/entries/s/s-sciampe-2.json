@@ -1,0 +1,21 @@
+{
+  "id": "s-sciampe-2",
+  "headword": "sciampe",
+  "senses": [
+    {
+      "it": "vuoto",
+      "en": "empty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciampe: vuoto",
+    "rawHash": "706707eefb7ed05c3f294a07bccd6ffaab392f60",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

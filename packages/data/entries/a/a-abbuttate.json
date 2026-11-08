@@ -1,0 +1,21 @@
+{
+  "id": "a-abbuttate",
+  "headword": "abbuttate",
+  "senses": [
+    {
+      "it": "gonfio",
+      "en": "swollen, bloated",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbuttate: gonfio",
+    "rawHash": "b878153073e6ee00078368c255f95008202c2b50",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

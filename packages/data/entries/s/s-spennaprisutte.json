@@ -1,0 +1,21 @@
+{
+  "id": "s-spennaprisutte",
+  "headword": "spennaprisùtte",
+  "senses": [
+    {
+      "it": "soggetto molto alto",
+      "en": "very tall person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spennaprisùtte: soggetto molto alto",
+    "rawHash": "e10dd2865fc32322aa4143ca37e7e9ae53945e33",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

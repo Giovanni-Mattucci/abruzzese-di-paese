@@ -1,0 +1,22 @@
+{
+  "id": "s-stampaione-de-fijne",
+  "headword": "stampaione de fijne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "palo con il fieno",
+      "en": "pole with hay (haystack pole)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stampaione de fijne (lu): palo con il fieno",
+    "rawHash": "eaea3f2dc877d629bd31ff7152a24f1a9625dbd3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sfrunnetele",
+  "headword": "sfrunnètele",
+  "senses": [
+    {
+      "it": "toglietegli le foglie",
+      "en": "remove its leaves (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrunnètele: toglietegli le foglie",
+    "rawHash": "bf2f29f34e094fc67be191a9820bb1727c080052",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

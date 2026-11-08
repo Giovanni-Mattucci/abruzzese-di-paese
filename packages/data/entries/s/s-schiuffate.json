@@ -1,0 +1,21 @@
+{
+  "id": "s-schiuffate",
+  "headword": "schiuffate",
+  "senses": [
+    {
+      "it": "sbattuto",
+      "en": "slammed, banged",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiuffate: sbattuto",
+    "rawHash": "8ffc3c7ebaccbec0a5757ff5b368a7727cf949bf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

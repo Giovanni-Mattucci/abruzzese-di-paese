@@ -1,0 +1,21 @@
+{
+  "id": "m-muccu",
+  "headword": "muccu",
+  "senses": [
+    {
+      "it": "muso",
+      "en": "snout, muzzle, face",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muccu: muso",
+    "rawHash": "933e6753767cfe99e26348a633d0a23363287a65",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

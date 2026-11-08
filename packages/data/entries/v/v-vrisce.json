@@ -1,0 +1,21 @@
+{
+  "id": "v-vrisce",
+  "headword": "vrisce",
+  "senses": [
+    {
+      "it": "frusta",
+      "en": "whip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrisce: frusta",
+    "rawHash": "295ed646abe2466620c6b78b239d859b20057554",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

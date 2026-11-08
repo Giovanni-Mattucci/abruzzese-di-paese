@@ -1,0 +1,21 @@
+{
+  "id": "a-assittemece",
+  "headword": "assittèmece",
+  "senses": [
+    {
+      "it": "sediamoci",
+      "en": "let us sit down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assittèmece: sediamoci",
+    "rawHash": "fd4f97ffa813134912b174a4752ecc100fb809e3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

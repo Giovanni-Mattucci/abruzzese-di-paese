@@ -1,0 +1,21 @@
+{
+  "id": "c-cuccumella",
+  "headword": "cuccumèlla",
+  "senses": [
+    {
+      "it": "pentolina",
+      "en": "small pot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuccumèlla: pentolina",
+    "rawHash": "5aff77a9b91f7c35f1abe61d9cdc0eb3980e2874",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

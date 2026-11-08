@@ -1,0 +1,29 @@
+{
+  "id": "t-tropea",
+  "headword": "tropèa",
+  "variants": [
+    "trocpèca"
+  ],
+  "senses": [
+    {
+      "it": "sbornia",
+      "en": "drunken state",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ubriacatura",
+      "en": "drunkenness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tropèa, trocpèca: sbornia, ubriacatura",
+    "rawHash": "7f7d41217867332ac59fae88bb3cc37ea3662ebc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

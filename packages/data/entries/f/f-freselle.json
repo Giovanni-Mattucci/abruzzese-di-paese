@@ -1,0 +1,22 @@
+{
+  "id": "f-freselle",
+  "headword": "fresélle",
+  "article": "li",
+  "senses": [
+    {
+      "it": "piccole percosse",
+      "en": "light blows",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fresélle (li): piccole percosse",
+    "rawHash": "2a12338eaa4a53a21e8d29f25aa7f4497a4bbd8e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

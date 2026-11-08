@@ -1,0 +1,24 @@
+{
+  "id": "n-nculla-2",
+  "headword": "'ncullà",
+  "senses": [
+    {
+      "it": "incollare",
+      "en": "to glue",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncullà: incollare",
+    "rawHash": "a23a966a1b747e9a20a9a718fc44f92fee3b72dd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "s-scutuleje",
+  "headword": "scutulèje",
+  "senses": [
+    {
+      "it": "agitava",
+      "en": "he/she was shaking",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbatteva",
+      "en": "he/she was shaking out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scutulèje: agitava, sbatteva",
+    "rawHash": "ddc2f50d0fe0f6d3e25b3a94b72b2ae3dd71c9cb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

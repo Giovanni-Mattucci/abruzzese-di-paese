@@ -1,0 +1,39 @@
+{
+  "id": "a-acciacca",
+  "headword": "acciaccà",
+  "senses": [
+    {
+      "it": "calpestare",
+      "en": "to trample",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "acciaccare",
+      "en": "to crush, to bruise",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pestare",
+      "en": "to pound, to stamp on",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "schiacciare",
+      "en": "to squash",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciaccà: calpestare, acciaccare, pestare, schiacciare",
+    "rawHash": "f906c656fed58c22f67f91a9538d82ea986b5619",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

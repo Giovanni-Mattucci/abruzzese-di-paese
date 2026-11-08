@@ -1,0 +1,24 @@
+{
+  "id": "s-spartenza-2",
+  "headword": "spartenza",
+  "senses": [
+    {
+      "it": "separazione",
+      "en": "separation",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spartenza: separazione",
+    "rawHash": "6d462f5fd1acc49d7b3a5136ae2c3af16fe50190",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c-cuperte",
+  "headword": "cupèrte",
+  "senses": [
+    {
+      "it": "coperta",
+      "en": "blanket",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "coperto",
+      "en": "covered",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cupèrte: coperta, coperto",
+    "rawHash": "2fb6f213f02f9a65188831c79924a3f9086ec7bd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

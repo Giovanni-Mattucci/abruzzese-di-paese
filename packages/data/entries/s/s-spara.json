@@ -1,0 +1,24 @@
+{
+  "id": "s-spara",
+  "headword": "spara",
+  "variants": [
+    "spare"
+  ],
+  "senses": [
+    {
+      "it": "cercine (di stoffa, di paglia o rametti intrecciati ricoperti da una imbottitura. Panno attorcigliato in modo da formare un'imbottitura a forma di ciambella che impedisca ai pesi trasportati sul capo di danneggiarlo o causarvi dolorosa oppressione)",
+      "en": "head pad (made of cloth, straw or woven twigs covered with padding; a cloth twisted into a ring-shaped cushion that prevents loads carried on the head from injuring it or causing painful pressure)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spara, spare: cercine (di stoffa, di paglia o rametti intrecciati ricoperti da una imbottitura. Panno attorcigliato in modo da formare un'imbottitura a forma di ciambella che impedisca ai pesi trasportati sul capo di danneggiarlo o causarvi dolorosa oppressione)",
+    "rawHash": "9e1fc472c125b0db852da86f7bc803ed935719f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

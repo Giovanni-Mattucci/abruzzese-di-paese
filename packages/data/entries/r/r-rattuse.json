@@ -1,0 +1,21 @@
+{
+  "id": "r-rattuse",
+  "headword": "rattùse",
+  "senses": [
+    {
+      "it": "persona che si avvicina alle donne e in modo subdolo le disturba",
+      "en": "person who approaches women and harasses them in a sly way",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rattùse: persona che si avvicina alle donne e in modo subdolo le disturba",
+    "rawHash": "f6bc74abe8adb399fcc8bf9985d81b26c6aefa95",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

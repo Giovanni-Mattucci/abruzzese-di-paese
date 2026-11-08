@@ -1,0 +1,21 @@
+{
+  "id": "p-pezzie",
+  "headword": "pèzzie",
+  "senses": [
+    {
+      "it": "giocattolo",
+      "en": "toy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pèzzie: giocattolo",
+    "rawHash": "b2ddb3f40c7ff034ac96718f7ae7fa3f0fee5aca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

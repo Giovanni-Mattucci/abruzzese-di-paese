@@ -1,0 +1,22 @@
+{
+  "id": "l-lamie",
+  "headword": "lamie",
+  "article": "la",
+  "senses": [
+    {
+      "it": "volta",
+      "en": "vault (ceiling)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lamie (la): volta",
+    "rawHash": "05b18e61826c874701d215fa664af6d0a31a0413",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

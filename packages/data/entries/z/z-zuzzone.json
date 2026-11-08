@@ -1,0 +1,26 @@
+{
+  "id": "z-zuzzone",
+  "headword": "zuzzone",
+  "senses": [
+    {
+      "it": "sozzo",
+      "en": "filthy",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sporco",
+      "en": "dirty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zuzzone: sozzo, sporco",
+    "rawHash": "162626f1d7d59077f30b59418c60e9b0025e9e9e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

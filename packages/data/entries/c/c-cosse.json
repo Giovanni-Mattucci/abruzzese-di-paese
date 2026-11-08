@@ -1,0 +1,30 @@
+{
+  "id": "c-cosse",
+  "headword": "cosse",
+  "article": "le",
+  "senses": [
+    {
+      "it": "gambe",
+      "en": "legs",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pl",
+      "en": "pl.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cosse (le): gambe, pl.",
+    "rawHash": "065f5702b8cd3ac88fa705048a303ffa4cea2c51",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "l-landeme",
+  "headword": "landème",
+  "senses": [
+    {
+      "it": "lasciamo",
+      "en": "we leave, let's leave",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "landème: lasciamo",
+    "rawHash": "42466d4b0220e33c77b69ad86fd498f4c8b1b744",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

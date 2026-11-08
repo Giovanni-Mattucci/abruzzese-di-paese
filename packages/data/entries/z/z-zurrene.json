@@ -1,0 +1,21 @@
+{
+  "id": "z-zurrene",
+  "headword": "zurrêne",
+  "senses": [
+    {
+      "it": "ragazzo dalla capigliatura abbondante e disordinata",
+      "en": "boy with thick, unkempt hair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zurrêne: ragazzo dalla capigliatura abbondante e disordinata",
+    "rawHash": "b63ad45c6c2373be93f684c1a7d5592ced8681f2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

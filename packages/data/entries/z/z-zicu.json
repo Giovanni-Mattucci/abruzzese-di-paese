@@ -1,0 +1,21 @@
+{
+  "id": "z-zicu",
+  "headword": "zìcu",
+  "senses": [
+    {
+      "it": "piccolo",
+      "en": "small, little",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zìcu: piccolo",
+    "rawHash": "e0324772ca0b5e2a80619dbcd027c06c3fa7b6b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cuitore",
+  "headword": "cuitòre",
+  "senses": [
+    {
+      "it": "coglitore",
+      "en": "picker, gatherer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuitòre: coglitore",
+    "rawHash": "7d47c8ac067545571c451b53502a829876f45c8a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

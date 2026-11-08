@@ -1,0 +1,26 @@
+{
+  "id": "j-jardeme",
+  "headword": "jardème",
+  "senses": [
+    {
+      "it": "gli rendiamo",
+      "en": "we give back to him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "restituiamo",
+      "en": "we return",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jardème: gli rendiamo, restituiamo",
+    "rawHash": "c25cb9cacfa0052bd9d129d60ae39b2fcd5fd0b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

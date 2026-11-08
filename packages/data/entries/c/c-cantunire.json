@@ -1,0 +1,21 @@
+{
+  "id": "c-cantunire",
+  "headword": "cantunìre",
+  "senses": [
+    {
+      "it": "cantoniere",
+      "en": "road worker, roadman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cantunìre: cantoniere",
+    "rawHash": "d7c32b188d0adb8e01b57ee9535c01156e720009",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

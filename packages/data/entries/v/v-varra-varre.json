@@ -1,0 +1,21 @@
+{
+  "id": "v-varra-varre",
+  "headword": "varra varre",
+  "senses": [
+    {
+      "it": "pieno al limite",
+      "en": "full to the brim",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varra varre: pieno al limite",
+    "rawHash": "9c3aea6add66e7c401eb096aea4f473d11a272d3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

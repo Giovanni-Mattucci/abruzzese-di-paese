@@ -1,0 +1,21 @@
+{
+  "id": "a-aoste",
+  "headword": "aòste",
+  "senses": [
+    {
+      "it": "agosto",
+      "en": "August",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aòste: agosto",
+    "rawHash": "7351bda76bc5401e96ce8e608f8a0ce3a0bd124f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-ajogne",
+  "headword": "ajògne",
+  "senses": [
+    {
+      "it": "aggiungere",
+      "en": "to add",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ajògne: aggiungere",
+    "rawHash": "e81b18bf06c3b26898e7246740fde59a46ecf318",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

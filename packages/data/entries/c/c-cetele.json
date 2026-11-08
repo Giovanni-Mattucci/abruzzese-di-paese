@@ -1,0 +1,22 @@
+{
+  "id": "c-cetele",
+  "headword": "cètele",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "bambino",
+      "en": "child",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cètele (lu): bambino",
+    "rawHash": "f53345f031844c0d5737701bb356bc4222d7a637",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

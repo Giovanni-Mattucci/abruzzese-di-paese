@@ -1,0 +1,26 @@
+{
+  "id": "j-jardi",
+  "headword": "jardì",
+  "senses": [
+    {
+      "it": "gli rendi",
+      "en": "you give back to him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "restituisci",
+      "en": "you return",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jardì: gli rendi, restituisci",
+    "rawHash": "0d0622396797eda0523c9885d7b323cbeee14f1b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c-cellarella",
+  "headword": "cellarella",
+  "senses": [
+    {
+      "it": "sgabuzzino",
+      "en": "closet, storeroom",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "piccolo vano",
+      "en": "small room",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cellarella: sgabuzzino, piccolo vano",
+    "rawHash": "05bc6f7e13614bf86cd50192d5b03d6434831361",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

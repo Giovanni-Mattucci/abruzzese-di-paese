@@ -1,0 +1,21 @@
+{
+  "id": "v-vurdi",
+  "headword": "vurdì",
+  "senses": [
+    {
+      "it": "vuol dire",
+      "en": "it means",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vurdì: vuol dire",
+    "rawHash": "22af344da2c8be66c28a60f3bbb0de963e6bf29a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s-scucchiate",
+  "headword": "scucchiàte",
+  "senses": [
+    {
+      "it": "scheggiato, si dice soprattutto di cose di ceramica che",
+      "en": "chipped, said especially of ceramic things that",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scucchiàte: scheggiato, si dice soprattutto di cose di ceramica che",
+    "rawHash": "5de3c475e28702497a546e0be7d7060687b95368",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

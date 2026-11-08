@@ -1,0 +1,21 @@
+{
+  "id": "s-scicche",
+  "headword": "scicche",
+  "senses": [
+    {
+      "it": "gustoso",
+      "en": "tasty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scicche: gustoso",
+    "rawHash": "957262b97c8df84b509d72b7807bf257d6e3f1d8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cantamesse",
+  "headword": "cantamesse",
+  "senses": [
+    {
+      "it": "mantide religiosa",
+      "en": "praying mantis",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cantamesse: mantide religiosa",
+    "rawHash": "400d438c33fca61cb6a1de9c210f4d09f65fc0fe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

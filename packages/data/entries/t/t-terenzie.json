@@ -1,0 +1,21 @@
+{
+  "id": "t-terenzie",
+  "headword": "Terenzie",
+  "senses": [
+    {
+      "it": "Terenzii Michelangelo di Città Sant'Angelo, marito di Anna la Noce",
+      "en": "Terenzii Michelangelo of Città Sant'Angelo, husband of Anna la Noce",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "Terenzie: Terenzii Michelangelo di Città Sant'Angelo, marito di Anna la Noce,",
+    "rawHash": "03ed6b08089043618d47118129c33ff25eca987b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

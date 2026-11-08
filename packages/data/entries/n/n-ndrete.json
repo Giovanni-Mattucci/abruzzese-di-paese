@@ -1,0 +1,21 @@
+{
+  "id": "n-ndrete",
+  "headword": "'ndrète",
+  "senses": [
+    {
+      "it": "entrate",
+      "en": "you (plural) enter, come in",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndrète: entrate",
+    "rawHash": "92ddd0ae51663634bf0b7c44ce9e2e1dd84b1c3f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

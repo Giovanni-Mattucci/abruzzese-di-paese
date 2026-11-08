@@ -1,0 +1,21 @@
+{
+  "id": "i-itu",
+  "headword": "itu",
+  "senses": [
+    {
+      "it": "dito",
+      "en": "finger",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "itu: dito",
+    "rawHash": "30bb8413b588764deb93888f21300f0af75062cc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vommeche",
+  "headword": "vommeche",
+  "senses": [
+    {
+      "it": "vomito",
+      "en": "vomit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vommeche: vomito",
+    "rawHash": "fc9db1015c09e3ff7a01ac738b53e2ed3f029a0a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

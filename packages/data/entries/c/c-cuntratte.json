@@ -1,0 +1,21 @@
+{
+  "id": "c-cuntratte",
+  "headword": "cuntràtte",
+  "senses": [
+    {
+      "it": "contratto",
+      "en": "contract",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuntràtte: contratto",
+    "rawHash": "2f89e005724c8830a8948010b646f1eedb627651",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

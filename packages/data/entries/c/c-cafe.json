@@ -1,0 +1,21 @@
+{
+  "id": "c-cafe",
+  "headword": "cafè",
+  "senses": [
+    {
+      "it": "caffè",
+      "en": "coffee",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cafè: caffè",
+    "rawHash": "10ee878d1467d0a63abaafef2f0caf14e7ab6aa8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c-coppe",
+  "headword": "coppe",
+  "article": "la",
+  "senses": [
+    {
+      "it": "recipiente in ferro che serviva per cuocere al fuoco una pizza di granturco",
+      "en": "iron vessel used to cook a maize flatbread over the fire",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "coppe (la): recipiente in ferro che serviva per cuocere al fuoco una pizza di granturco",
+    "rawHash": "bb7534f862bff6a9fc5cd301f72bbc06e6f32151",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

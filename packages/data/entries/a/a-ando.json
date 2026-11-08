@@ -1,0 +1,21 @@
+{
+  "id": "a-ando",
+  "headword": "andò",
+  "senses": [
+    {
+      "it": "dove",
+      "en": "where",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "andò: dove",
+    "rawHash": "c12da82ad5a8cd0cee81796acb6ae2da5e68a5ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

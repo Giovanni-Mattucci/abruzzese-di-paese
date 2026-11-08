@@ -1,0 +1,21 @@
+{
+  "id": "a-arrecchia",
+  "headword": "arrecchià",
+  "senses": [
+    {
+      "it": "ascoltare senza darlo a vedere",
+      "en": "to listen in without letting it show",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrecchià: ascoltare senza darlo a vedere",
+    "rawHash": "c6d182db353c5d4a0020c355b54ba10b823d60bd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

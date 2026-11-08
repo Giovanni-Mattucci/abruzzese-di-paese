@@ -1,0 +1,21 @@
+{
+  "id": "t-truvacce",
+  "headword": "truvacce",
+  "senses": [
+    {
+      "it": "trovarci",
+      "en": "to meet there, to find ourselves there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "truvacce: trovarci.",
+    "rawHash": "8d29f1be3e49b27ba9c9a6a48f2646a92659896e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

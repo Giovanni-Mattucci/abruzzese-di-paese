@@ -1,0 +1,22 @@
+{
+  "id": "s-spirne",
+  "headword": "spìrne",
+  "article": "li",
+  "senses": [
+    {
+      "it": "asparagi",
+      "en": "asparagus (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spìrne (li): asparagi",
+    "rawHash": "0a0e81d677671e47ab1a3b349354e2baec6a077f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

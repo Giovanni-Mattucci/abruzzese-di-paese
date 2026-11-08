@@ -1,0 +1,21 @@
+{
+  "id": "t-trocche-trocchele-trogolo",
+  "headword": "tròcche, trocchele, trogolo",
+  "senses": [],
+  "notes": [
+    "Unparsed line: tròcche, trocchele, trogolo mangiatoia del maiale"
+  ],
+  "tags": [
+    "needs-review"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tròcche, trocchele, trogolo mangiatoia del maiale",
+    "rawHash": "085979892af24bf551dae99d186d7801929993d4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

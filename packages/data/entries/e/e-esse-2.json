@@ -1,0 +1,24 @@
+{
+  "id": "e-esse-2",
+  "headword": "esse",
+  "senses": [
+    {
+      "it": "essa, ella( pron. pers. sing. 3° pers. sing. – pl- isse)",
+      "en": "she (3rd pers. sing. personal pron. – pl. isse)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "esse: essa, ella( pron. pers. sing. 3° pers. sing. – pl- isse)",
+    "rawHash": "8ca73eb71a4d0783e0a37994a45b579c4dd0d8ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

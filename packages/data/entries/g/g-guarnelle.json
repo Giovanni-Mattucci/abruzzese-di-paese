@@ -1,0 +1,22 @@
+{
+  "id": "g-guarnelle",
+  "headword": "guarnélle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "sottoveste",
+      "en": "petticoat, slip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "guarnélle (lu): sottoveste",
+    "rawHash": "f0c84a951284d8c0a87fc75f430f9fe3be06c433",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

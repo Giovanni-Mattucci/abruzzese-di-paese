@@ -1,0 +1,24 @@
+{
+  "id": "c-cummudine",
+  "headword": "cummudine",
+  "senses": [
+    {
+      "it": "corpetto",
+      "en": "bodice",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummudine: corpetto",
+    "rawHash": "8f58f66c5e2d52d9023d2d0843449c28c1d411b3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

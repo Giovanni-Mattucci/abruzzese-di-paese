@@ -1,0 +1,26 @@
+{
+  "id": "z-zelluse",
+  "headword": "zelluse",
+  "senses": [
+    {
+      "it": "capriccioso",
+      "en": "capricious",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tignoso",
+      "en": "stubborn, obstinate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zelluse: capriccioso, tignoso",
+    "rawHash": "36b972a63df8bfc22032d9b9d33684c97cd8076a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

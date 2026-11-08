@@ -1,0 +1,22 @@
+{
+  "id": "f-furcene",
+  "headword": "furcène",
+  "article": "la",
+  "senses": [
+    {
+      "it": "forchetta",
+      "en": "fork",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "furcène (la): forchetta",
+    "rawHash": "e5f5897fab29b5f44c0f55f7e6e092eaff319ce4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

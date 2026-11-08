@@ -1,0 +1,22 @@
+{
+  "id": "c-capescale",
+  "headword": "capescale",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "scalinata esterna",
+      "en": "external staircase",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capescale (lu): scalinata esterna",
+    "rawHash": "16017055f88961bdc962c6c3fc2811deb09d1d87",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

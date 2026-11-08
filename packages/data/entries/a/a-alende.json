@@ -1,0 +1,21 @@
+{
+  "id": "a-alende",
+  "headword": "Alende",
+  "senses": [
+    {
+      "it": "fiume Alento",
+      "en": "the Alento river",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "Alende: fiume Alento",
+    "rawHash": "0b92b9ce61bb9011f90aab0c280160b1808582ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

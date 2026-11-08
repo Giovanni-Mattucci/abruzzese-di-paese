@@ -1,0 +1,21 @@
+{
+  "id": "l-luvine",
+  "headword": "luvine",
+  "senses": [
+    {
+      "it": "semi di alcuni tipi di frutti. Qualche",
+      "en": "seeds of some kinds of fruit. Some",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "luvine: semi di alcuni tipi di frutti. Qualche esempio:",
+    "rawHash": "abe579bc3155ab48fdefc278cefb8a56305bab26",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

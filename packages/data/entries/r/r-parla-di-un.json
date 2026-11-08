@@ -1,0 +1,21 @@
+{
+  "id": "r-parla-di-un",
+  "headword": "parla di un",
+  "senses": [],
+  "notes": [
+    "Unparsed line: parla di un freddo vento invernale molto forte e che solleva addirittura la neve da terra."
+  ],
+  "tags": [
+    "needs-review"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "parla di un freddo vento invernale molto forte e che solleva addirittura la neve da terra.",
+    "rawHash": "cd49681f9ef4e5eeb3980e67ddbee9e979065360",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

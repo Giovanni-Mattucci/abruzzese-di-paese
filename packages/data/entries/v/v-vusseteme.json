@@ -1,0 +1,21 @@
+{
+  "id": "v-vusseteme",
+  "headword": "vussèteme",
+  "senses": [
+    {
+      "it": "spingetemi",
+      "en": "push me (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vussèteme: spingetemi",
+    "rawHash": "34831b7c1a98978366541dda6169ce887db44df2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

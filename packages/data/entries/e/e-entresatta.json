@@ -1,0 +1,21 @@
+{
+  "id": "e-entresatta",
+  "headword": "entresatta",
+  "senses": [
+    {
+      "it": "improvviso",
+      "en": "sudden",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "entresatta: improvviso",
+    "rawHash": "3fc192179680551b48019d136aa4557f9eb575fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vlatema",
+  "headword": "vlatemà",
+  "senses": [
+    {
+      "it": "bestemmiare",
+      "en": "to blaspheme, to curse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vlatemà: bestemmiare",
+    "rawHash": "b1cf326588d0d8505a5c0f931f18bfd321f87eee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cappellitte",
+  "headword": "cappellitte",
+  "senses": [
+    {
+      "it": "copricapo",
+      "en": "headgear, cap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cappellitte: copricapo",
+    "rawHash": "bf06dfe1f7e38da7e561f8d7698ba0139c383321",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

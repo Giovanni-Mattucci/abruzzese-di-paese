@@ -1,0 +1,21 @@
+{
+  "id": "m-mbujune",
+  "headword": "'mbujùne",
+  "senses": [
+    {
+      "it": "fermo",
+      "en": "still, stopped",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbujùne: fermo",
+    "rawHash": "b67ff2d32fb6e998852daebdebca08e097c6056e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

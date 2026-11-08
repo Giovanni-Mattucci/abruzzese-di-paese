@@ -1,0 +1,48 @@
+{
+  "id": "a-abbusca",
+  "headword": "abbuscà",
+  "senses": [
+    {
+      "it": "guadagnare",
+      "en": "to earn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "prenderle",
+      "en": "to get a beating",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "venire picchiato",
+      "en": "to be beaten up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "esce e me vaje abbuscà caccose",
+      "it": "esco e mi vado a guadagnare qualcosa",
+      "en": "I am going out to earn something",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "abr": "Giuvanne ha scìte pe' parlà, ma ha jte abbuscà",
+      "it": "Giovanni è uscito per parlare, ma è andato a prenderle",
+      "en": "Giovanni went out to talk, but he ended up getting a beating",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: J abbusche, tu abbusche, esse abbusche, nu abbuschème, vu abbuschète, jsse abbùschene (io guadagno, tu guadagni, egli guadagna, noi guadagnamo, voi guadagnate, essi guadagnano). J abbuscìve, tu abbuschìste, esse abbuscò, nu abbuschèmme, vu abbuschèste, jsse abbuschèrene (io guadagnai, ti guadagnasti, egli guadagnò, noi guadagnammo, voi guadagnate, essi guadagnarono)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbuscà: guadagnare (es.: esce e me vaje abbuscà caccose: esco e mi vado a guadagnare qualcosa), prenderle, venire picchiato (es.: Giuvanne ha scìte pe' parlà, ma ha jte abbuscà: Giovanni è uscito per parlare, ma è andato a prenderle). J abbusche, tu abbusche, esse abbusche, nu abbuschème, vu abbuschète, jsse abbùschene (io guadagno, tu guadagni, egli guadagna, noi guadagnamo, voi guadagnate, essi guadagnano). J abbuscìve, tu abbuschìste, esse abbuscò, nu abbuschèmme, vu abbuschèste, jsse abbuschèrene (io guadagnai, ti guadagnasti, egli guadagnò, noi guadagnammo, voi guadagnate, essi guadagnarono)",
+    "rawHash": "ee27cdaa355522ecae330573e210054c0536304d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

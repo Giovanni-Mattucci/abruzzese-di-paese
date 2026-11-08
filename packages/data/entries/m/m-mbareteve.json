@@ -1,0 +1,26 @@
+{
+  "id": "m-mbareteve",
+  "headword": "'mbarèteve",
+  "senses": [
+    {
+      "it": "imparate",
+      "en": "learn (plural imperative)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "imparatevi",
+      "en": "learn (plural imperative, reflexive)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbarèteve: imparate, imparatevi",
+    "rawHash": "fb77b4cc7297dcc032f79da65a745fad3f69fc6e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

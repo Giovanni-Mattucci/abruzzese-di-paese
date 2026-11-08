@@ -1,0 +1,29 @@
+{
+  "id": "c-capanze",
+  "headword": "capanze",
+  "senses": [
+    {
+      "it": "scelte personali",
+      "en": "personal choices",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "Giuvà, nne sta' fa' le capanze",
+      "it": "Giovanni, non stare a scegliere come ti pare",
+      "en": "Giovanni, do not go choosing as you please",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capanze: scelte personali (es.: Giuvà, nne sta' fa' le capanze: Giovanni, non stare a scegliere come ti pare)",
+    "rawHash": "8c30b3fa3afc06618b66aafb09a8e6aa1392ad8e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

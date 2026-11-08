@@ -1,0 +1,26 @@
+{
+  "id": "s-scutulene",
+  "headword": "scutùlene",
+  "senses": [
+    {
+      "it": "agitano",
+      "en": "they shake",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbattono",
+      "en": "they shake out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scutùlene: agitano, sbattono",
+    "rawHash": "9584e7e4f0b028f2a0465a9b25c9c50d4a580875",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

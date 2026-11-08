@@ -1,0 +1,21 @@
+{
+  "id": "t-sorella-di-filippo",
+  "headword": "sorella di Filippo,",
+  "senses": [],
+  "notes": [
+    "Unparsed line: sorella di Filippo, fu costretto davanti alla testa mozza del cognato ad applaudire"
+  ],
+  "tags": [
+    "needs-review"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "sorella di Filippo, fu costretto davanti alla testa mozza del cognato ad applaudire",
+    "rawHash": "d0aef4dbb5754217966af746f4232a7663d70121",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

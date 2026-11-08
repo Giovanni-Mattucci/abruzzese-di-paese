@@ -1,0 +1,26 @@
+{
+  "id": "a-arbelate",
+  "headword": "arbelate",
+  "senses": [
+    {
+      "it": "sotterrato",
+      "en": "buried (in the ground)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "seppellito",
+      "en": "buried",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arbelate: sotterrato, seppellito",
+    "rawHash": "12f2b9d0c66f02036d70c2162facdc3e5d5e1c0d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

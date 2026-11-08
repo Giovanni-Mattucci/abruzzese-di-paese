@@ -1,0 +1,31 @@
+{
+  "id": "u-uatte-uatte",
+  "headword": "uatte uatte",
+  "senses": [
+    {
+      "it": "silenzioso",
+      "en": "silent",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "di nascosto",
+      "en": "secretly",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "alla chetichella",
+      "en": "on the sly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "uatte uatte: silenzioso, di nascosto, alla chetichella",
+    "rawHash": "9a76250c60408656c1d19e8d0e2488b7a0c9d1ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

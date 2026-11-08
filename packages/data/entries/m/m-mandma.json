@@ -1,0 +1,24 @@
+{
+  "id": "m-mandma",
+  "headword": "mandmà",
+  "variants": [
+    "mandmane"
+  ],
+  "senses": [
+    {
+      "it": "stamattina",
+      "en": "this morning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mandmà, mandmane: stamattina",
+    "rawHash": "03d8a78daa05e687efdd30b39a47918408962a43",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

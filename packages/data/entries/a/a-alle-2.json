@@ -1,0 +1,24 @@
+{
+  "id": "a-alle-2",
+  "headword": "àlle",
+  "variants": [
+    "halle"
+  ],
+  "senses": [
+    {
+      "it": "gallo",
+      "en": "rooster",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "àlle, halle: gallo",
+    "rawHash": "6a9ecdc042233bf40be1d77585064536ac3e7c06",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

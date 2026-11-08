@@ -1,0 +1,21 @@
+{
+  "id": "a-arpruva",
+  "headword": "arpruvà",
+  "senses": [
+    {
+      "it": "riprovare",
+      "en": "to try again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arpruvà: riprovare",
+    "rawHash": "d04249c2e6a8aa81e81b8db8a2abc24a5c587b06",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

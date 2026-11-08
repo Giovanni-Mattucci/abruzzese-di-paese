@@ -1,0 +1,21 @@
+{
+  "id": "s-schiariche",
+  "headword": "schiariche",
+  "senses": [
+    {
+      "it": "schiappe",
+      "en": "wood splinters",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiariche: schiappe",
+    "rawHash": "c4a743853deb94a85ed974edbdc96520bf94d750",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

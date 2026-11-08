@@ -1,0 +1,21 @@
+{
+  "id": "a-arcete",
+  "headword": "arcète",
+  "senses": [
+    {
+      "it": "recitare, usato soprattutto per dire di qualcuno che recita una preghiera",
+      "en": "to recite, used especially of someone reciting a prayer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcète: recitare, usato soprattutto per dire di qualcuno che recita una preghiera",
+    "rawHash": "8455f084b0761e4b14c9aeed6187681913a609ac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

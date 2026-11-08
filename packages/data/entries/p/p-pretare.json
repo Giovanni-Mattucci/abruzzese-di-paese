@@ -1,0 +1,21 @@
+{
+  "id": "p-pretare",
+  "headword": "pretare",
+  "senses": [
+    {
+      "it": "pietraia",
+      "en": "stony ground, scree",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pretare : pietraia",
+    "rawHash": "872e6ce4068f0c28a8a7749ca54c117e47fbfcba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

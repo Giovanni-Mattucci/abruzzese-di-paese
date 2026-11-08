@@ -1,0 +1,21 @@
+{
+  "id": "c-cercua",
+  "headword": "cercua",
+  "senses": [
+    {
+      "it": "quercia",
+      "en": "oak",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cercua: quercia",
+    "rawHash": "466712bf09bbf52f857a83ac0c6e0367e46e023b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

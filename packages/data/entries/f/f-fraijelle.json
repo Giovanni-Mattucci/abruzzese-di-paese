@@ -1,0 +1,22 @@
+{
+  "id": "f-fraijelle",
+  "headword": "fraijélle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "due mazze legate per battere il grano",
+      "en": "two sticks tied together for threshing wheat, flail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fraijélle (lu): due mazze legate per battere il grano",
+    "rawHash": "cfe00382caf45334c8b42c86a912b4794d25ec1f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

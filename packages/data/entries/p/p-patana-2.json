@@ -1,0 +1,24 @@
+{
+  "id": "p-patana-2",
+  "headword": "patana",
+  "senses": [
+    {
+      "it": "patata",
+      "en": "potato",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "patana: patata",
+    "rawHash": "5455b4e78c046bd8ea9531cfe788cd4b78667299",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

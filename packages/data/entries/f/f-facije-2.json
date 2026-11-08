@@ -1,0 +1,33 @@
+{
+  "id": "f-facije-2",
+  "headword": "facìje",
+  "variants": [
+    "faggìe",
+    "faucìje"
+  ],
+  "senses": [
+    {
+      "it": "falcetto",
+      "en": "sickle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "falce",
+      "en": "scythe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "facìje, faggìe, faucìje: falcetto, falce",
+    "rawHash": "0ee82c72a25999392ff8d5665ce80e226def0348",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

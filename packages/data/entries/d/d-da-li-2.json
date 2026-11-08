@@ -1,0 +1,25 @@
+{
+  "id": "d-da-li-2",
+  "headword": "da li",
+  "pos": "prep. art.",
+  "senses": [
+    {
+      "it": "dai",
+      "en": "from the (masculine plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "da li: dai (prep. art.)",
+    "rawHash": "08c53da9cb39eaba60370cd8e40ea7300ab22851",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

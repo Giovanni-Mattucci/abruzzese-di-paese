@@ -1,0 +1,21 @@
+{
+  "id": "m-malapeggie",
+  "headword": "malapeggie",
+  "senses": [
+    {
+      "it": "martello",
+      "en": "hammer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "malapeggie: martello",
+    "rawHash": "d068a42dfa5b285da158dd0178b85f82c5226fc5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

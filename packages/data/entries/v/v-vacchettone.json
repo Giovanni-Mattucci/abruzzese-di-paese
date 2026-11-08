@@ -1,0 +1,24 @@
+{
+  "id": "v-vacchettone",
+  "headword": "vacchettòne",
+  "senses": [
+    {
+      "it": "grossa borsa di cuoio per mettervi il denaro, (pènzen' a ngrussà lu",
+      "en": "large leather bag for keeping money in, (pènzen' a ngrussà lu",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vacchettòne: grossa borsa di cuoio per mettervi il denaro, (pènzen' a ngrussà lu",
+    "rawHash": "57b71f9a7d095cdab4f8469bb3a4a7837fd0f097",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

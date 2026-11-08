@@ -1,0 +1,29 @@
+{
+  "id": "a-addura",
+  "headword": "addurà",
+  "senses": [
+    {
+      "it": "odorare o adorare",
+      "en": "to smell or to adore",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "Lu Pete di San Gabriele io l'addoro",
+      "it": "io adoro il piede di S.Gabriele",
+      "en": "I adore the foot of S.Gabriele",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "addurà: odorare o adorare (Es.: Lu Pete di San Gabriele io l'addoro - io adoro il piede di S.Gabriele)",
+    "rawHash": "2abbed4a0bf2a721d9d3a753daa73e919446c091",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

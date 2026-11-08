@@ -1,0 +1,24 @@
+{
+  "id": "r-rinarole",
+  "headword": "rinaròle",
+  "variants": [
+    "rinaròlu"
+  ],
+  "senses": [
+    {
+      "it": "salvadanaio",
+      "en": "money box, piggy bank",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rinaròle, rinaròlu: salvadanaio",
+    "rawHash": "937ed6566aa35a37200340d426e572aa67db2a3f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

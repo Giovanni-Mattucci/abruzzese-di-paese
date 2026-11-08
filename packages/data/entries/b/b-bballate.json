@@ -1,0 +1,26 @@
+{
+  "id": "b-bballate",
+  "headword": "bballate",
+  "senses": [
+    {
+      "it": "ballata",
+      "en": "ballad",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "racconto in versi di origine popolare",
+      "en": "narrative in verse of popular origin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bballate: ballata; racconto in versi di origine popolare",
+    "rawHash": "78a7400195555fbf66c616382ab585fde1f7b37e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vedelle",
+  "headword": "vedelle",
+  "senses": [
+    {
+      "it": "budello",
+      "en": "gut, intestine",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vedelle: budello",
+    "rawHash": "5dd41288e17644296168e209185205ad401c313f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

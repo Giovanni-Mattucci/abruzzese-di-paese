@@ -1,0 +1,21 @@
+{
+  "id": "s-sscioccbe",
+  "headword": "sscioccbe",
+  "senses": [
+    {
+      "it": "choc",
+      "en": "shock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sscioccbe: choc",
+    "rawHash": "8b36bc21ee3828dfad258fe735ff8c91b9377a40",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sgrugna",
+  "headword": "sgrugnà",
+  "senses": [
+    {
+      "it": "graffiare",
+      "en": "to scratch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgrugnà: graffiare",
+    "rawHash": "3457f67d576c2a3e31221a4b90e6df354db268ce",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

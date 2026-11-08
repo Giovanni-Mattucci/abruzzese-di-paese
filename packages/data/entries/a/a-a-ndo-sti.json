@@ -1,0 +1,21 @@
+{
+  "id": "a-a-ndo-sti",
+  "headword": "a 'ndò stì?",
+  "senses": [
+    {
+      "it": "Dove stai?",
+      "en": "Where are you?",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a 'ndò stì?: Dove stai?",
+    "rawHash": "1347fdaea17fabe37fb044c0ec1325c9555bac56",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

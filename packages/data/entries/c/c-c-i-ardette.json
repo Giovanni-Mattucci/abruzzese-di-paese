@@ -1,0 +1,24 @@
+{
+  "id": "c-c-i-ardette",
+  "headword": "c-i-ardètte",
+  "variants": [
+    "c'ardètte"
+  ],
+  "senses": [
+    {
+      "it": "ci ha detto di nuovo, ce l'ha ripetuto",
+      "en": "he/she told us again, he/she repeated it to us",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-ardètte, c'ardètte. ci ha detto di nuovo, ce l'ha ripetuto",
+    "rawHash": "e981a6dc443ba4fbfecdbc27546704c10d256c8b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

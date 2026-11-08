@@ -1,0 +1,21 @@
+{
+  "id": "f-friselle",
+  "headword": "frisèlle",
+  "senses": [
+    {
+      "it": "schiaffo violento",
+      "en": "violent slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frisèlle. schiaffo violento",
+    "rawHash": "233611403076d7af5796654e8d09b79763e5c361",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

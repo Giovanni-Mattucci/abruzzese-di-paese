@@ -1,0 +1,21 @@
+{
+  "id": "j-jelene",
+  "headword": "jeléne",
+  "senses": [
+    {
+      "it": "brina",
+      "en": "frost",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jeléne: brina",
+    "rawHash": "1eb6c0f856208faf0b8ccf08878ed6a3ff1a14d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

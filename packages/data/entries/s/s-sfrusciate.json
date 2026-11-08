@@ -1,0 +1,26 @@
+{
+  "id": "s-sfrusciate",
+  "headword": "sfrusciate",
+  "senses": [
+    {
+      "it": "scialacquato",
+      "en": "squandered",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "speso",
+      "en": "spent",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrusciate: scialacquato, speso",
+    "rawHash": "cc03ef2a25a616d64b5af133b05d5ebc7179c336",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

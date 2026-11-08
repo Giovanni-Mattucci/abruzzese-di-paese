@@ -1,0 +1,22 @@
+{
+  "id": "s-sflesse",
+  "headword": "sflésse",
+  "article": "nu",
+  "senses": [
+    {
+      "it": "scroscio",
+      "en": "downpour",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sflésse (nu): scroscio",
+    "rawHash": "0decebec74786456bd1b65942f23d9068cd70423",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

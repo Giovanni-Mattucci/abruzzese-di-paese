@@ -1,0 +1,21 @@
+{
+  "id": "g-grastillere",
+  "headword": "grastillere",
+  "senses": [
+    {
+      "it": "grata fatta di canne che, sospesa al soffitto, era utilizzata per essiccare il formaggio",
+      "en": "grating made of reeds which, hung from the ceiling, was used to dry cheese",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "grastillere: grata fatta di canne che, sospesa al soffitto, era utilizzata per essiccare il formaggio",
+    "rawHash": "8af86592b52188a3ad41e70e59477c994b2c5412",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

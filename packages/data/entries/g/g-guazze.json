@@ -1,0 +1,22 @@
+{
+  "id": "g-guazze",
+  "headword": "guazze",
+  "article": "la",
+  "senses": [
+    {
+      "it": "rugiada",
+      "en": "dew",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "guazze (la): rugiada",
+    "rawHash": "197cc78f063dcfc32116ab37ed0bc7699fef47c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

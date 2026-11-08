@@ -1,0 +1,24 @@
+{
+  "id": "c-colle-2",
+  "headword": "còlle",
+  "senses": [
+    {
+      "it": "collo",
+      "en": "neck",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "còlle: collo",
+    "rawHash": "1b025ad0551d9c7bb21725eabbaa932755fb88ad",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

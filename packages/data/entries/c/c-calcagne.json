@@ -1,0 +1,30 @@
+{
+  "id": "c-calcagne",
+  "headword": "calcagne",
+  "variants": [
+    "calecàgnu",
+    "calicagne"
+  ],
+  "senses": [
+    {
+      "it": "calcagno",
+      "en": "heel",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tallone",
+      "en": "heel (of the foot)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calcagne, calecàgnu, calicagne: calcagno, tallone",
+    "rawHash": "d39e71a2962eb80dc7af02f90269ade67e659631",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

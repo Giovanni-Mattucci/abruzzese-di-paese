@@ -1,0 +1,24 @@
+{
+  "id": "s-staje",
+  "headword": "staje",
+  "senses": [
+    {
+      "it": "ricompensa per gli artigiani",
+      "en": "payment for craftsmen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "staje: ricompensa per gli artigiani",
+    "rawHash": "2dc67719666b224f4813cfc61b6770f9658a3b07",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

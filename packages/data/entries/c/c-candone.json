@@ -1,0 +1,21 @@
+{
+  "id": "c-candone",
+  "headword": "candone",
+  "senses": [
+    {
+      "it": "gradino",
+      "en": "step, stair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "candone: gradino",
+    "rawHash": "a71cf31b93ab0097ada1ba146c286ebcbad6a825",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

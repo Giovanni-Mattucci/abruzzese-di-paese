@@ -1,0 +1,21 @@
+{
+  "id": "r-role",
+  "headword": "ròle",
+  "senses": [
+    {
+      "it": "pezzo di terra per ortaggi",
+      "en": "plot of land for vegetables",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ròle: pezzo di terra per ortaggi",
+    "rawHash": "660d3151532404f315a742356424dfe8b1640e65",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

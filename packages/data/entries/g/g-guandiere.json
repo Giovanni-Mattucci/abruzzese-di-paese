@@ -1,0 +1,21 @@
+{
+  "id": "g-guandiere",
+  "headword": "guandière",
+  "senses": [
+    {
+      "it": "vassoio",
+      "en": "tray",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "guandière: vassoio",
+    "rawHash": "b5121c08cbdc5c38c796db5430c91d033a86d422",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-tolle",
+  "headword": "tòlle",
+  "senses": [
+    {
+      "it": "firi di aglio",
+      "en": "garlic flowers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tòlle: firi di aglio",
+    "rawHash": "6a11739a77dce844fa7f9e55e7aa43c8668c1285",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

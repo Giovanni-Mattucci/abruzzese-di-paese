@@ -1,0 +1,21 @@
+{
+  "id": "a-almene",
+  "headword": "almène",
+  "senses": [
+    {
+      "it": "almeno",
+      "en": "at least",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "almène: almeno",
+    "rawHash": "6ce6fb0ed3ad73e604c9ea0fbc01aedbff8d7d12",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

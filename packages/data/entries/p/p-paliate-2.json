@@ -1,0 +1,25 @@
+{
+  "id": "p-paliate-2",
+  "headword": "paliàte",
+  "article": "na",
+  "senses": [
+    {
+      "it": "suonarle. Es. mò te facce 'na paliate ca te l'arcurde pe' la vite: adesso te ne do tante he lo ricorderai per tutta la vita",
+      "en": "to give a beating. E.g. mò te facce 'na paliate ca te l'arcurde pe' la vite: now I will give you such a beating that you will remember it for the rest of your life",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paliàte (na): suonarle. Es. mò te facce 'na paliate ca te l'arcurde pe' la vite: adesso te ne do tante he lo ricorderai per tutta la vita",
+    "rawHash": "d3fb8994aed7c9d9033b396841b5754a04dad803",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

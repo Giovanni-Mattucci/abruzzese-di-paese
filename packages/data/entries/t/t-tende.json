@@ -1,0 +1,21 @@
+{
+  "id": "t-tende",
+  "headword": "tende",
+  "senses": [
+    {
+      "it": "tinto",
+      "en": "dyed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tende: tinto.",
+    "rawHash": "ad37b2200eb95e8c98e57763d5fcecd828a7fe71",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

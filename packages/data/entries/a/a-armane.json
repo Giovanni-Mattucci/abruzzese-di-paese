@@ -1,0 +1,29 @@
+{
+  "id": "a-armane",
+  "headword": "armàne",
+  "variants": [
+    "armìne"
+  ],
+  "senses": [
+    {
+      "it": "resta",
+      "en": "stays, remains",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rimani",
+      "en": "stay",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "armàne, armìne: resta, rimani",
+    "rawHash": "84e4cd9ace991525b6484e58136fa75a64e3ae91",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

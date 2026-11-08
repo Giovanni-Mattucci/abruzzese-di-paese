@@ -1,0 +1,21 @@
+{
+  "id": "t-tine",
+  "headword": "tìne",
+  "senses": [
+    {
+      "it": "cesto di legno adoperato un tempi per il bucato",
+      "en": "wooden tub once used for doing the laundry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tìne: cesto di legno adoperato un tempi per il bucato",
+    "rawHash": "293b5fb0712aa5cad38e8e743a9c6563fa968db0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

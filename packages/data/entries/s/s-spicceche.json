@@ -1,0 +1,21 @@
+{
+  "id": "s-spicceche",
+  "headword": "spìcceche",
+  "senses": [
+    {
+      "it": "aprire (spìcceche l'uocchie: aprire gli occhi)",
+      "en": "to open (spìcceche l'uocchie: to open one's eyes)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spìcceche: aprire (spìcceche l'uocchie: aprire gli occhi)",
+    "rawHash": "08ab732e6383eacd013e76df95a2f6c950d0815d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

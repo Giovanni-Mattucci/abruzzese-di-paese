@@ -1,0 +1,22 @@
+{
+  "id": "p-pianille",
+  "headword": "pianìlle",
+  "article": "li",
+  "senses": [
+    {
+      "it": "scarpe basse da uomo",
+      "en": "men's low shoes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pianìlle (li): scarpe basse da uomo",
+    "rawHash": "d9803b5f9ced7f46da62b870a72ede4d9586f95a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

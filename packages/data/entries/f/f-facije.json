@@ -1,0 +1,27 @@
+{
+  "id": "f-facije",
+  "headword": "facìje",
+  "senses": [
+    {
+      "it": "facevi",
+      "en": "you were doing (singular)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: tu"
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "facìje (tu): facevi",
+    "rawHash": "7b507a34a82b74f7884b04f6366c308845c7a210",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

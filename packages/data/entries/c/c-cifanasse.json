@@ -1,0 +1,26 @@
+{
+  "id": "c-cifanasse",
+  "headword": "cifanasse",
+  "senses": [
+    {
+      "it": "diavolo",
+      "en": "devil",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spirito del male",
+      "en": "evil spirit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cifanasse: diavolo, spirito del male",
+    "rawHash": "b6729c983d21448ae2a1ba44d916bfa243ab9b90",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cuteranzinzere",
+  "headword": "cuteranzinzere",
+  "senses": [
+    {
+      "it": "cianciallegra",
+      "en": "great tit (bird)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuteranzinzere: cianciallegra",
+    "rawHash": "39e9e506ad4e67c9f7d2e28dee1e312cc415a1ea",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

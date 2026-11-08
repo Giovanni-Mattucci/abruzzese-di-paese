@@ -1,0 +1,21 @@
+{
+  "id": "a-accide",
+  "headword": "accìde",
+  "senses": [
+    {
+      "it": "ammazzare",
+      "en": "to kill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accìde: ammazzare",
+    "rawHash": "61d261d99925ca5c175c226c918ca4381269fcbf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

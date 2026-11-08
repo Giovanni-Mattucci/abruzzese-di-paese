@@ -1,0 +1,29 @@
+{
+  "id": "c-coccia",
+  "headword": "coccia",
+  "variants": [
+    "cocce"
+  ],
+  "senses": [
+    {
+      "it": "testa",
+      "en": "head",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "testone",
+      "en": "big head, blockhead",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "coccia, cocce: testa, testone",
+    "rawHash": "7a8123e6b41f9e46f6fe1922e48353800e3c3697",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

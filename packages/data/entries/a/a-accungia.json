@@ -1,0 +1,29 @@
+{
+  "id": "a-accungia",
+  "headword": "accungià",
+  "senses": [
+    {
+      "it": "mettere insieme, aggiustare, concludere. Adoperato anche in cucina",
+      "en": "to put together, to fix, to conclude. Also used in cooking",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "accunge la n'zalate",
+      "it": "prepara l'insalata, condiscila, ecc.",
+      "en": "prepare the salad, dress it, etc.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accungià: mettere insieme, aggiustare, concludere. Adoperato anche in cucina (es.: accunge la n'zalate: prepara l'insalata, condiscila, ecc.)",
+    "rawHash": "47c41dac6af6cdffdae17961c7ed0b23140caa0f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

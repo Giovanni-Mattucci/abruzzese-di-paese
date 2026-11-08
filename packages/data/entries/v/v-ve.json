@@ -1,0 +1,21 @@
+{
+  "id": "v-ve",
+  "headword": "ve'",
+  "senses": [
+    {
+      "it": "viene",
+      "en": "he/she comes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "ve': viene",
+    "rawHash": "c415c14878cae1373ba7d49ec9cbaa6c4b56b435",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

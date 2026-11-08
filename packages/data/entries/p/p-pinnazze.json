@@ -1,0 +1,21 @@
+{
+  "id": "p-pinnazze",
+  "headword": "pinnazze",
+  "senses": [
+    {
+      "it": "ciglia degli occhi",
+      "en": "eyelashes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinnazze: ciglia degli occhi",
+    "rawHash": "0dc84a6632cbb46ea19d72c5bd128d6bab6551f1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

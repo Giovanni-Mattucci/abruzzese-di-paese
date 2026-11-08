@@ -1,0 +1,21 @@
+{
+  "id": "a-aistri",
+  "headword": "aìstri",
+  "senses": [
+    {
+      "it": "parte che si stacca da erbe selvatiche",
+      "en": "part that detaches from wild grasses",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aìstri: parte che si stacca da erbe selvatiche",
+    "rawHash": "2fa3c8d0909a955fe64beb451853d050cb13f281",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

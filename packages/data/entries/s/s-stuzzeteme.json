@@ -1,0 +1,21 @@
+{
+  "id": "s-stuzzeteme",
+  "headword": "stuzzèteme",
+  "senses": [
+    {
+      "it": "datemi un pò di panino",
+      "en": "give me a bit of sandwich (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stuzzèteme: datemi un pò di panino",
+    "rawHash": "dea10a3e23b211fe101ef1066730fd9f6338064e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

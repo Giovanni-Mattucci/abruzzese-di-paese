@@ -1,0 +1,21 @@
+{
+  "id": "p-patrasonne",
+  "headword": "patrasònne",
+  "senses": [
+    {
+      "it": "un lungo dormine",
+      "en": "a long sleep",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "patrasònne: un lungo dormine",
+    "rawHash": "35d859e24076678a1cf119e5109e3c3b653e4ee8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

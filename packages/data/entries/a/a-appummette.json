@@ -1,0 +1,24 @@
+{
+  "id": "a-appummette",
+  "headword": "appummette",
+  "senses": [
+    {
+      "it": "rincalzare il materasso",
+      "en": "to tuck in the mattress",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appummette: rincalzare il materasso",
+    "rawHash": "da7779a14a86fbc0f3a3b9e5f4b0f79a739082a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

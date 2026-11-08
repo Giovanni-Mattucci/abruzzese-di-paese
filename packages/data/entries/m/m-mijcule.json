@@ -1,0 +1,24 @@
+{
+  "id": "m-mijcule",
+  "headword": "mijcule",
+  "senses": [
+    {
+      "it": "ombelico",
+      "en": "navel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mijcule: ombelico",
+    "rawHash": "9d11322933ee08fe2f7670b9a3046f6661cc365a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

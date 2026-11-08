@@ -1,0 +1,24 @@
+{
+  "id": "m-mantuil",
+  "headword": "mantuil",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "tovaglia",
+      "en": "tablecloth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mantuil: tovaglia (Montebello sul S.)",
+    "rawHash": "309b2ce97d63cc74fceae7b3488b29e83117106e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

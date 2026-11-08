@@ -1,0 +1,25 @@
+{
+  "id": "s-staje-2",
+  "headword": "staje",
+  "article": "la",
+  "senses": [
+    {
+      "it": "tavola di legno",
+      "en": "wooden board",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "staje (la): tavola di legno",
+    "rawHash": "c25f10d4127ce0034bd1959e060f35a2b4148bcb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

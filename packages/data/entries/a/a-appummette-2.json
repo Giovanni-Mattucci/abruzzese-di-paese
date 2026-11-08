@@ -1,0 +1,29 @@
+{
+  "id": "a-appummette-2",
+  "headword": "appummette",
+  "senses": [
+    {
+      "it": "promettere",
+      "en": "to promise",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mettere",
+      "en": "to put",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appummette: promettere, mettere",
+    "rawHash": "5ae3d5de2190212d89a2dcd27f98fba9a55eb09a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

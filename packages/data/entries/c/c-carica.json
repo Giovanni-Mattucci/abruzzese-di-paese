@@ -1,0 +1,21 @@
+{
+  "id": "c-carica",
+  "headword": "caricà",
+  "senses": [
+    {
+      "it": "caricare",
+      "en": "to load",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caricà: caricare",
+    "rawHash": "69fb224966d71da90804932853a4a915a8c02a2e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

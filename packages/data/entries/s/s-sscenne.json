@@ -1,0 +1,21 @@
+{
+  "id": "s-sscenne",
+  "headword": "sscènne",
+  "senses": [
+    {
+      "it": "ali",
+      "en": "wings",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sscènne: ali",
+    "rawHash": "e92603b29d6ce5e65c2c906e76ce0c591e2296fc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

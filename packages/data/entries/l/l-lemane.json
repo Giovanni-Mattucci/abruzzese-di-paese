@@ -1,0 +1,22 @@
+{
+  "id": "l-lemane",
+  "headword": "lemàne",
+  "article": "la",
+  "senses": [
+    {
+      "it": "animale",
+      "en": "animal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lemàne (la): animale",
+    "rawHash": "e8597a7ab2589796bfff561ffe47ad17409328ae",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

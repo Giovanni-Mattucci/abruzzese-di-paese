@@ -1,0 +1,31 @@
+{
+  "id": "d-dapu",
+  "headword": "dapù",
+  "variants": [
+    "apù",
+    "dope",
+    "doppe"
+  ],
+  "senses": [
+    {
+      "it": "dopo",
+      "en": "after, afterwards",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in seguito",
+      "en": "later on",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dapù, apù, dope, doppe: dopo, in seguito",
+    "rawHash": "b5bd74b223689fc75fadeddfc794ca1aed36862c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

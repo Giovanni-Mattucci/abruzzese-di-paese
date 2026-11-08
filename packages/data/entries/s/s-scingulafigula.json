@@ -1,0 +1,21 @@
+{
+  "id": "s-scingulafigula",
+  "headword": "scingulafìgula",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scingulafìgula: altalena",
+    "rawHash": "4414bd0d301c927929f1d1c35f2f5988174f1e2f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

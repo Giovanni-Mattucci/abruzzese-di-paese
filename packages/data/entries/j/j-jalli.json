@@ -1,0 +1,21 @@
+{
+  "id": "j-jalli",
+  "headword": "jàlli",
+  "senses": [
+    {
+      "it": "galli",
+      "en": "roosters",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jàlli: galli",
+    "rawHash": "40d3e13035adfc3eb5f42a20cf727c3c55e467eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

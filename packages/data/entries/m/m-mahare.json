@@ -1,0 +1,36 @@
+{
+  "id": "m-mahare",
+  "headword": "mahàre",
+  "senses": [
+    {
+      "it": "mago",
+      "en": "magician, wizard",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "stregone",
+      "en": "sorcerer",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "indovino",
+      "en": "fortune-teller, soothsayer",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "guaritrice",
+      "en": "healer (female)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mahàre: mago, stregone, indovino, guaritrice",
+    "rawHash": "44a2230b9b0aa589a28d15f7ae817031b67822f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

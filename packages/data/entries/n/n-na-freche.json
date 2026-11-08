@@ -1,0 +1,31 @@
+{
+  "id": "n-na-freche",
+  "headword": "na frèche",
+  "senses": [
+    {
+      "it": "assai",
+      "en": "a great deal",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tanto",
+      "en": "a lot",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "molto",
+      "en": "much, very",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "na frèche: assai, tanto, molto",
+    "rawHash": "06d2799f46ab8029a94667573984f320449d5304",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

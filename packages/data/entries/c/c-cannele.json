@@ -1,0 +1,26 @@
+{
+  "id": "c-cannele",
+  "headword": "cannèle",
+  "senses": [
+    {
+      "it": "candela",
+      "en": "candle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cero",
+      "en": "large candle, taper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cannèle: candela, cero",
+    "rawHash": "af616f16633229dc419e323852a9c40b21978da2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

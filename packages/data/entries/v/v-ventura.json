@@ -1,0 +1,26 @@
+{
+  "id": "v-ventura",
+  "headword": "ventura",
+  "senses": [
+    {
+      "it": "sorte",
+      "en": "fortune",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "destino",
+      "en": "fate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "ventura: sorte, destino",
+    "rawHash": "aca79f829d681c8d95bc0ab1ed0151a8d6df869c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

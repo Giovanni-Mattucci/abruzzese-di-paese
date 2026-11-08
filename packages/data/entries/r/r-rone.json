@@ -1,0 +1,26 @@
+{
+  "id": "r-rone",
+  "headword": "ròne",
+  "senses": [
+    {
+      "it": "rena",
+      "en": "sand",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sabbia",
+      "en": "sand",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ròne: rena, sabbia",
+    "rawHash": "301fc39e214f11ebc5739e182a7f5e54ea32a808",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

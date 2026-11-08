@@ -1,0 +1,21 @@
+{
+  "id": "a-arippanna",
+  "headword": "arippannà",
+  "senses": [
+    {
+      "it": "socchiudere",
+      "en": "to leave ajar, to half-close",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arippannà: socchiudere",
+    "rawHash": "33ecafa4e6396e6d065240535ab720b3b4a89886",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

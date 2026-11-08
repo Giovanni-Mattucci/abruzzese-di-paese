@@ -1,0 +1,21 @@
+{
+  "id": "c-calamare",
+  "headword": "calamàre",
+  "senses": [
+    {
+      "it": "calamaro",
+      "en": "squid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calamàre: calamaro",
+    "rawHash": "b0e11f6ed61933767a0f700438cce01f5f63cd82",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

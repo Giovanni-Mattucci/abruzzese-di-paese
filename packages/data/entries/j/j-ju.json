@@ -1,0 +1,24 @@
+{
+  "id": "j-ju",
+  "headword": "ju",
+  "senses": [
+    {
+      "it": "il/lo (aquilano)",
+      "en": "the (m. sing.; L'Aquila dialect)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ju: il/lo (aquilano)",
+    "rawHash": "15ab365501e779d7342329f10d510244cca2f710",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

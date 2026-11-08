@@ -1,0 +1,21 @@
+{
+  "id": "p-pinzemece",
+  "headword": "pinzèmece",
+  "senses": [
+    {
+      "it": "pensiamoci",
+      "en": "let us think about it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinzèmece: pensiamoci",
+    "rawHash": "32b2f1292d173bec645a634166d8aabe12e7a231",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

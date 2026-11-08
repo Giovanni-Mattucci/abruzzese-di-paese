@@ -1,0 +1,21 @@
+{
+  "id": "i-iemete",
+  "headword": "ièmete",
+  "senses": [
+    {
+      "it": "pendìo scosceso",
+      "en": "steep slope",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ièmete: pendìo scosceso",
+    "rawHash": "bed053f72478da51917c3ebd589cba30a6c78983",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

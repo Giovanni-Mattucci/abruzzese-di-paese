@@ -1,0 +1,22 @@
+{
+  "id": "s-speculatere",
+  "headword": "spêculatere",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "approfittatore",
+      "en": "profiteer, opportunist",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spêculatere (lu): approfittatore",
+    "rawHash": "3a2ee37d456adbe0dd5bb47f6e4f13a5fc8ddeee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

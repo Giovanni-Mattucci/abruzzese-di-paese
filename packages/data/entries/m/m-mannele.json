@@ -1,0 +1,21 @@
+{
+  "id": "m-mannele",
+  "headword": "mànnele",
+  "senses": [
+    {
+      "it": "mandorle",
+      "en": "almonds",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mànnele: mandorle",
+    "rawHash": "57a719e92e22e7c041f91c6b24aec269125b6ae3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

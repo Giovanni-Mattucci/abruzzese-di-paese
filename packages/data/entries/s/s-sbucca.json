@@ -1,0 +1,26 @@
+{
+  "id": "s-sbucca",
+  "headword": "sbuccà",
+  "senses": [
+    {
+      "it": "uscire dal contenitore",
+      "en": "to overflow, to come out of the container",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "lu vine sta sbuccà da la votte, lu fiume sta sbuccà:"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbuccà: uscire dal contenitore es.: lu vine sta sbuccà da la votte, lu fiume sta sbuccà:",
+    "rawHash": "50bf81f3f3a5d2866b3f1f47fe0cd000cc13edee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b-bucche-2",
+  "headword": "bucche",
+  "senses": [
+    {
+      "it": "tascapane",
+      "en": "haversack",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bucche: tascapane",
+    "rawHash": "fa4a17b69bed6790c9aef72dbcd644abbd5f696b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

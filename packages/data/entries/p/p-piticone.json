@@ -1,0 +1,26 @@
+{
+  "id": "p-piticone",
+  "headword": "piticòne",
+  "senses": [
+    {
+      "it": "ceppo di pianta",
+      "en": "tree stump",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "albero",
+      "en": "tree",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piticòne: ceppo di pianta, albero",
+    "rawHash": "b0ec2e105ea1c60ace28e375788e47b709d4d985",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

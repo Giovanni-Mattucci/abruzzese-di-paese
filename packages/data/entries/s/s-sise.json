@@ -1,0 +1,21 @@
+{
+  "id": "s-sise",
+  "headword": "sise",
+  "senses": [
+    {
+      "it": "mammelle",
+      "en": "breasts",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sise: mammelle",
+    "rawHash": "262ff38b365ccf78df81f01145c33b7bd3703acd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

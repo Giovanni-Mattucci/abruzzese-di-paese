@@ -1,0 +1,31 @@
+{
+  "id": "p-patane-3",
+  "headword": "patane",
+  "senses": [
+    {
+      "it": "fiacca",
+      "en": "weariness, sluggishness",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "debolezza",
+      "en": "weakness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "massere tinghe 'na patane; stasera ho una fiacca, debolezza"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "patane: fiacca, debolezza (es.: massere tinghe 'na patane; stasera ho una fiacca, debolezza)",
+    "rawHash": "f7c4483154dc146c9d0c2072fd0c899d1a8b226f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

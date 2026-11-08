@@ -1,0 +1,24 @@
+{
+  "id": "c-cisandangele",
+  "headword": "Cisandàngele",
+  "senses": [
+    {
+      "it": "Città Sant'Angelo"
+    },
+    {
+      "it": "(antico Angulus o Angulum)",
+      "en": "(ancient Angulus or Angulum)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "Cisandàngele: Città Sant'Angelo, (antico Angulus o Angulum)",
+    "rawHash": "fe33c7be1f891b76b16526fa7852651b19c2284d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

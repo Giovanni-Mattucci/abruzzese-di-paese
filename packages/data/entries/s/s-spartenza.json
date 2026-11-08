@@ -1,0 +1,24 @@
+{
+  "id": "s-spartenza",
+  "headword": "spartenza",
+  "senses": [
+    {
+      "it": "partenza",
+      "en": "departure",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spartenza: partenza",
+    "rawHash": "b75618b331545e62374db6b1cf16a46b131f8426",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

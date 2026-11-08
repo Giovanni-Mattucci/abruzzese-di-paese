@@ -1,0 +1,27 @@
+{
+  "id": "j-ji-ja-ji-ju",
+  "headword": "ji jà ji ju",
+  "variants": [
+    "j haja j ju"
+  ],
+  "senses": [
+    {
+      "it": "io devo andare giù",
+      "en": "I have to go down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "needs-review"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ji jà ji ju, j haja j ju: io devo andare giù",
+    "rawHash": "6af1dac5a62bfe327ef15c9147bfe22d1ecc9acb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

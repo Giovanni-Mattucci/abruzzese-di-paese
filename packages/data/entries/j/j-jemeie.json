@@ -1,0 +1,21 @@
+{
+  "id": "j-jemeie",
+  "headword": "jemeie",
+  "senses": [
+    {
+      "it": "non sia mai",
+      "en": "heaven forbid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jemeie: non sia mai",
+    "rawHash": "fc3582d22fb5fc38f73614c0e95253912a819a80",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cantuin",
+  "headword": "cantuin",
+  "senses": [
+    {
+      "it": "cantina",
+      "en": "cellar",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cantuin: cantina",
+    "rawHash": "574ad438ea228c06ad29a43643ed75f5b809e2ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

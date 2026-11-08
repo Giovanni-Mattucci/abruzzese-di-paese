@@ -1,0 +1,21 @@
+{
+  "id": "s-spriscetele",
+  "headword": "spriscètele",
+  "senses": [
+    {
+      "it": "spremetelo",
+      "en": "squeeze it (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spriscètele: spremetelo",
+    "rawHash": "95ed0f0cbcfb8f82ebf514bdd2b062d687a610c4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

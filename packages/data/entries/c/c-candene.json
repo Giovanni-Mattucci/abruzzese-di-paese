@@ -1,0 +1,21 @@
+{
+  "id": "c-candene",
+  "headword": "candène",
+  "senses": [
+    {
+      "it": "osteria",
+      "en": "tavern, inn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "candène: osteria",
+    "rawHash": "44f275f55e0f44bfb00abeae03a0415925bce2ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

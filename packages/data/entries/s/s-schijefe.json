@@ -1,0 +1,22 @@
+{
+  "id": "s-schijefe",
+  "headword": "schijèfe",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "pianale in legno o in ferro per portare al forno pane o altri alimenti da cuocere",
+      "en": "wooden or iron board for carrying bread or other food to the oven for baking",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schijèfe (lu): pianale in legno o in ferro per portare al forno pane o altri alimenti da cuocere",
+    "rawHash": "1a37766c69ca3b117e43801c3b0f36e7aa407a9b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

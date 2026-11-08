@@ -1,0 +1,21 @@
+{
+  "id": "p-pipidigne",
+  "headword": "pipidìgne",
+  "senses": [
+    {
+      "it": "peperoni",
+      "en": "peppers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pipidìgne: peperoni",
+    "rawHash": "5c1c217ff34aa170bfc9119dfef4e81227313482",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

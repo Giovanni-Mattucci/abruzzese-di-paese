@@ -1,0 +1,24 @@
+{
+  "id": "c-calle-2",
+  "headword": "calle",
+  "senses": [
+    {
+      "it": "callo",
+      "en": "callus, corn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calle: callo",
+    "rawHash": "dff1b26087b2baf0ff863b9f0086e0edcad0a0bb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

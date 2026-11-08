@@ -1,0 +1,21 @@
+{
+  "id": "s-stricate",
+  "headword": "stricàte",
+  "senses": [
+    {
+      "it": "scomparso",
+      "en": "disappeared",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stricàte: scomparso",
+    "rawHash": "08adfbcee7b8686e891c120913c0a7d420099ef3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

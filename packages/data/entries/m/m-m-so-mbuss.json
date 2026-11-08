@@ -1,0 +1,24 @@
+{
+  "id": "m-m-so-mbuss",
+  "headword": "m' so mbuss",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "mi sono bagnato",
+      "en": "I got wet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m' so mbuss: mi sono bagnato (M.sul S.)",
+    "rawHash": "c2f2ac11ed8b0b4166cfe2efbd0af4b3f8c2df0b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

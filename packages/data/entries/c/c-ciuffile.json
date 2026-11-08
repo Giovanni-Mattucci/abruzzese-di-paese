@@ -1,0 +1,21 @@
+{
+  "id": "c-ciuffile",
+  "headword": "ciuffile",
+  "senses": [
+    {
+      "it": "fischio",
+      "en": "whistle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciuffile: fischio",
+    "rawHash": "c3d283f3317be442a5c5baed38a50f7b16d88ca2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

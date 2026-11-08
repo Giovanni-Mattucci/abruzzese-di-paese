@@ -1,0 +1,24 @@
+{
+  "id": "c-culle-2",
+  "headword": "culle",
+  "senses": [
+    {
+      "it": "quello",
+      "en": "that one",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "culle: quello",
+    "rawHash": "44dc32171b477af9868bf5bc04f4c48d5cb11503",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

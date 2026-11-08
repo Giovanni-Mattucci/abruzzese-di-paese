@@ -1,0 +1,21 @@
+{
+  "id": "b-beve",
+  "headword": "beve",
+  "senses": [
+    {
+      "it": "bere",
+      "en": "to drink",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "beve: bere",
+    "rawHash": "d995031dfcd2a052019ef6f672271e6e48587b26",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

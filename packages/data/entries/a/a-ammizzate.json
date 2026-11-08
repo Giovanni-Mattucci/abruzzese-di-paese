@@ -1,0 +1,21 @@
+{
+  "id": "a-ammizzate",
+  "headword": "ammizzate",
+  "senses": [
+    {
+      "it": "abituato",
+      "en": "accustomed, used to",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammizzate: abituato",
+    "rawHash": "606120e95a5b8e664731355562deb67c2cd4f7e5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-a-ndo-steme-a-ji",
+  "headword": "a 'ndò steme a ji?",
+  "senses": [
+    {
+      "it": "Dove stiamo andando",
+      "en": "Where are we going",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a 'ndò steme a ji?: Dove stiamo andando",
+    "rawHash": "83e709067d80af5a0239a5ed5c58821929c3a468",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c-came",
+  "headword": "came",
+  "article": "la",
+  "senses": [
+    {
+      "it": "residuo della spiga dopo la fuoriuscita del chicco di grano",
+      "en": "residue of the ear after the grain kernel has come out, chaff",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "came (la): residuo della spiga dopo la fuoriuscita del chicco di grano",
+    "rawHash": "c72785769afa40467a49dcc4e783f902ca39df1e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

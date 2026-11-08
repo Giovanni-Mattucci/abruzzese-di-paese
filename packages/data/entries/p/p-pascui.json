@@ -1,0 +1,21 @@
+{
+  "id": "p-pascui",
+  "headword": "pascui",
+  "senses": [
+    {
+      "it": "bilancia",
+      "en": "scales, balance",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pascui: bilancia",
+    "rawHash": "863ccb1b0bfcecc833789dc87739e474ccbcd57b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

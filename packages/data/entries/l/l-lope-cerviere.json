@@ -1,0 +1,21 @@
+{
+  "id": "l-lope-cerviere",
+  "headword": "lòpe cervière",
+  "senses": [
+    {
+      "it": "lince",
+      "en": "lynx",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lòpe cervière: lince",
+    "rawHash": "eb6272e4a7752b5ddae481e0df7fcf65f6a7a744",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

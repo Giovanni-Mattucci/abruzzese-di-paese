@@ -1,0 +1,24 @@
+{
+  "id": "m-mareje",
+  "headword": "marèje",
+  "variants": [
+    "marèij"
+  ],
+  "senses": [
+    {
+      "it": "amaro",
+      "en": "bitter",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "marèje, marèij: amaro",
+    "rawHash": "b127d8a25355b46ba3668b113457567d6a0cf7ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

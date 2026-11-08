@@ -1,0 +1,21 @@
+{
+  "id": "a-anne-gnove",
+  "headword": "anne gnove",
+  "senses": [
+    {
+      "it": "nuovo anno",
+      "en": "new year",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "anne gnove: nuovo anno",
+    "rawHash": "08fbcef43fc713e3cc084c8048792038d503689e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

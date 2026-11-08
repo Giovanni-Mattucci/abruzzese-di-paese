@@ -1,0 +1,21 @@
+{
+  "id": "a-abbijte",
+  "headword": "abbijte",
+  "senses": [
+    {
+      "it": "inizia, vai, comincia a camminare abbiij': cominciar, iniziare",
+      "en": "start, go, start walking; abbiij': to commence, to begin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbijte: inizia, vai, comincia a camminare abbiij': cominciar, iniziare",
+    "rawHash": "104c585e85f1465cd102e2a1e27ca0aabedf8628",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

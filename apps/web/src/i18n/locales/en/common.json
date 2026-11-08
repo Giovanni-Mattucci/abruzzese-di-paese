@@ -1,0 +1,91 @@
+{
+  "app": {
+    "name": "Abruzzese di paese",
+    "tagline": "A dictionary of the Abruzzese dialect"
+  },
+  "nav": {
+    "label": "Main navigation",
+    "search": "Search",
+    "browse": "Browse",
+    "grammar": "Grammar",
+    "about": "About",
+    "skip_to_content": "Skip to main content"
+  },
+  "search": {
+    "label": "Search the dictionary",
+    "placeholder": "Type a word in Abruzzese or Italian",
+    "direction_label": "Search direction",
+    "direction": {
+      "abr-it": "Abruzzese to Italian",
+      "it-abr": "Italian to Abruzzese",
+      "en": "English",
+      "any": "All fields"
+    },
+    "results_count_one": "{{count}} result",
+    "results_count_other": "{{count}} results",
+    "showing": "Showing the first {{shown}} of {{total}}",
+    "no_results": "No entries match \"{{query}}\".",
+    "no_results_en": "No English glosses match yet. Try Italian, or help translate.",
+    "help_translate": "Help translate",
+    "intro": "Search {{count}} words from the Treppecore archive, or browse by letter."
+  },
+  "browse": {
+    "title": "Browse by letter",
+    "letter_title": "Words starting with {{letter}}",
+    "nav_label": "Letters",
+    "entries_count_one": "{{count}} entry",
+    "entries_count_other": "{{count}} entries",
+    "page_of": "Page {{page}} of {{pages}}",
+    "pagination_label": "Pagination",
+    "previous": "Previous",
+    "next": "Next",
+    "unknown_letter": "There is no letter \"{{letter}}\" in the dictionary."
+  },
+  "entry": {
+    "not_found": "No entry with id \"{{id}}\".",
+    "meanings": "Meaning",
+    "examples": "Examples",
+    "grammar_notes": "Grammar",
+    "variants": "Variants",
+    "pronunciation": "Pronunciation",
+    "locality": "Attested in",
+    "source": "Source",
+    "source_link": "abruzzo.fm, Treppecore, letter {{letter}}",
+    "edit_on_github": "Edit this entry on GitHub",
+    "report_problem": "Report a problem",
+    "needs_review": "Needs review",
+    "possible_duplicate": "Possible duplicate",
+    "no_english": "No English yet",
+    "unverified_translation": "Unverified translation",
+    "awaiting_review": "This entry is awaiting review: its meaning has not been added yet."
+  },
+  "grammar": {
+    "title": "The rules of the Abruzzese dialect",
+    "intro": "Reproduced from the Treppecore archive on abruzzo.fm."
+  },
+  "about": {
+    "title": "About this project",
+    "what": "Abruzzese di paese is an open-source dictionary and archive of the Abruzzese dialect. It runs as a static site with search in the browser, and the data is maintained as plain files that anyone can improve through a pull request.",
+    "source": "The entries were imported once from the Treppecore archive on abruzzo.fm, which permits reproduction of its material with attribution.",
+    "contribute": "Suggest a word or a correction on GitHub, or edit an entry directly from its page.",
+    "licences": "Dictionary data is licensed CC BY-SA 4.0. Code is licensed MIT.",
+    "github": "Project on GitHub"
+  },
+  "footer": {
+    "attribution": "Dictionary content reproduced with attribution from",
+    "source_name": "abruzzo.fm, Treppecore",
+    "licences": "Data licensed CC BY-SA 4.0; code licensed MIT."
+  },
+  "locale": {
+    "label": "Language",
+    "en": "English",
+    "it": "Italiano"
+  },
+  "common": {
+    "loading": "Loading the dictionary…",
+    "error_title": "Something went wrong",
+    "error_body": "The dictionary could not be loaded. Please try again.",
+    "not_found_title": "Page not found",
+    "go_to_search": "Go to search"
+  }
+}

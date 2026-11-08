@@ -1,0 +1,22 @@
+{
+  "id": "s-sandeije",
+  "headword": "sandèije",
+  "article": "la",
+  "senses": [
+    {
+      "it": "fondo della cisterna",
+      "en": "bottom of the cistern",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sandèije (la): fondo della cisterna",
+    "rawHash": "58ea9c79bdeda20ff4bbe24f9f6678fa30f669d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

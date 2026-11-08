@@ -1,0 +1,21 @@
+{
+  "id": "b-bazzariott",
+  "headword": "bazzariott",
+  "senses": [
+    {
+      "it": "bambino",
+      "en": "child",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bazzariott: bambino",
+    "rawHash": "28ade207b7b0c19af1ba695c29d80852525fab6c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

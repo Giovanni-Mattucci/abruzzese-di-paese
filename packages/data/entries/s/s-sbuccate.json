@@ -1,0 +1,24 @@
+{
+  "id": "s-sbuccate",
+  "headword": "sbuccate",
+  "senses": [
+    {
+      "it": "detto di liquido che è uscito oltre l'orlo del contenitore",
+      "en": "said of a liquid that has spilled over the rim of the container",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbuccate: detto di liquido che è uscito oltre l'orlo del contenitore",
+    "rawHash": "62579cbe79c9645cb9093288182b92817c1defc6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

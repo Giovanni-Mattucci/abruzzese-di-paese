@@ -1,0 +1,31 @@
+{
+  "id": "v-veteche",
+  "headword": "vèteche",
+  "senses": [
+    {
+      "it": "vetrice",
+      "en": "osier",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "salcio ripaiolo",
+      "en": "riverbank willow",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "salice",
+      "en": "willow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vèteche: vetrice, salcio ripaiolo, salice",
+    "rawHash": "5e9302b0562ec084423c041dbd0ed47ff1e95807",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-puzzino",
+  "headword": "pùzzino",
+  "senses": [
+    {
+      "it": "possino",
+      "en": "may they (as in curses or wishes)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pùzzino: possino",
+    "rawHash": "d942805628cf308d4a62efe4d8eaaa2e0233068f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

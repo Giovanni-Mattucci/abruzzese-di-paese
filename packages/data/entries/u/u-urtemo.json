@@ -1,0 +1,21 @@
+{
+  "id": "u-urtemo",
+  "headword": "ùrtemo",
+  "senses": [
+    {
+      "it": "ultimo",
+      "en": "last",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "ùrtemo: ultimo",
+    "rawHash": "bedb2a86dff6c770d70244826607730aa564ee89",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

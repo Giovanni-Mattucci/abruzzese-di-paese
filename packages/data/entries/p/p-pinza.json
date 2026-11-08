@@ -1,0 +1,21 @@
+{
+  "id": "p-pinza",
+  "headword": "pinzà",
+  "senses": [
+    {
+      "it": "pensare",
+      "en": "to think",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinzà: pensare",
+    "rawHash": "0f11b54904f053bc1dd89cc6e8baa858f2bfa6b1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

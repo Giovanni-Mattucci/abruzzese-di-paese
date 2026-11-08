@@ -1,0 +1,21 @@
+{
+  "id": "a-addore",
+  "headword": "addòre",
+  "senses": [
+    {
+      "it": "odore",
+      "en": "smell, odour",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "addòre: odore",
+    "rawHash": "131b40642c799431d49438a9a2d30074acabe530",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

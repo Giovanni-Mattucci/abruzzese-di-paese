@@ -1,0 +1,22 @@
+{
+  "id": "f-flussiene",
+  "headword": "flussiêne",
+  "article": "la",
+  "senses": [
+    {
+      "it": "raffreddore",
+      "en": "cold (illness)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "flussiêne (la): raffreddore",
+    "rawHash": "30ae3d45acb947e631e634b41005fa662edb4378",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

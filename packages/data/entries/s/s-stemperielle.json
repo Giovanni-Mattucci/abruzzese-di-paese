@@ -1,0 +1,22 @@
+{
+  "id": "s-stemperielle",
+  "headword": "stemperielle",
+  "article": "le",
+  "senses": [
+    {
+      "it": "stinchi",
+      "en": "shins",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stemperielle (le):stinchi",
+    "rawHash": "3f7eedbf63d872c72466c42971677e2dad427a63",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

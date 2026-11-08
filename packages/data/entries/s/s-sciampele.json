@@ -1,0 +1,21 @@
+{
+  "id": "s-sciampele",
+  "headword": "sciàmpele",
+  "senses": [
+    {
+      "it": "svuotalo",
+      "en": "empty it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciàmpele: svuotalo",
+    "rawHash": "6393bf9fb901086fc9002e3b83c6a26d447c5f4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

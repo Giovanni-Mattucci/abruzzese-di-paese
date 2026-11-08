@@ -1,0 +1,21 @@
+{
+  "id": "c-cucchie-2",
+  "headword": "cucchie",
+  "senses": [
+    {
+      "it": "crosta del pane",
+      "en": "bread crust",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucchie: crosta del pane",
+    "rawHash": "f4f4cb6c667c31b92af77ed823edd32caae65846",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

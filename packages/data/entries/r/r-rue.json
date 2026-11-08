@@ -1,0 +1,21 @@
+{
+  "id": "r-rue",
+  "headword": "rùe",
+  "senses": [
+    {
+      "it": "strada",
+      "en": "street, road",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rùe: strada",
+    "rawHash": "c2b9f2191a91af248aed381775fd604c81452bbe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

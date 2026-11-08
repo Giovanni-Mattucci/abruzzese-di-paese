@@ -1,0 +1,26 @@
+{
+  "id": "b-bbambalo",
+  "headword": "bbambalò",
+  "senses": [
+    {
+      "it": "bambino",
+      "en": "child",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbambalò:bambino, altalena",
+    "rawHash": "b965970aa6603dda8d62399eada0f7a422abeb99",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

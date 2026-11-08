@@ -1,0 +1,24 @@
+{
+  "id": "a-abbrete",
+  "headword": "abbretè",
+  "senses": [
+    {
+      "it": "avvolgere",
+      "en": "to wrap, to wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j abbrète, tu abbrìte, esse abbrète, nu abbretème, vu abbretète, isse abbrètene) (io avvòlgo, tu avvòlgi. egli avvòlge, noi avvolgiàmo, voi avvolgète, essi avvòlgono)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbretè: avvolgere (j abbrète, tu abbrìte, esse abbrète, nu abbretème, vu abbretète, isse abbrètene) (io avvòlgo, tu avvòlgi. egli avvòlge, noi avvolgiàmo, voi avvolgète, essi avvòlgono)",
+    "rawHash": "a34a93242f1eb9a7d3ec8a5150e1db388b3b8675",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

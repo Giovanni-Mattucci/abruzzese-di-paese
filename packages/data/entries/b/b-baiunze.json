@@ -1,0 +1,21 @@
+{
+  "id": "b-baiunze",
+  "headword": "baiunze",
+  "senses": [
+    {
+      "it": "contenitore di legno di circa cinquanta litri (mezza salme), utilizzato soprattutto per il trasporto dell'uva durante la vendemmia o per la spremitura dell'uva stessa",
+      "en": "wooden container of about fifty litres (half a salma), used especially for carrying grapes during the harvest or for pressing the grapes themselves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "baiunze: contenitore di legno di circa cinquanta litri (mezza salme), utilizzato soprattutto per il trasporto dell'uva durante la vendemmia o per la spremitura dell'uva stessa",
+    "rawHash": "66b317ebe7047d53d4c0180938efaf826e3a6f2a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

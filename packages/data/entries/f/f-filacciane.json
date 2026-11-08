@@ -1,0 +1,24 @@
+{
+  "id": "f-filacciane",
+  "headword": "filacciàne",
+  "variants": [
+    "fillacciàne"
+  ],
+  "senses": [
+    {
+      "it": "primi fichi",
+      "en": "first figs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "filacciàne, fillacciàne: primi fichi",
+    "rawHash": "d2f21dc1691b5f565008f5bba9f588ada39c54f9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

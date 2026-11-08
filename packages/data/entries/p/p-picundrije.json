@@ -1,0 +1,26 @@
+{
+  "id": "p-picundrije",
+  "headword": "picundrìje",
+  "senses": [
+    {
+      "it": "tristezza",
+      "en": "sadness",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spossatezza",
+      "en": "exhaustion",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "picundrìje: tristezza, spossatezza",
+    "rawHash": "2bceb9696c1e133f6f096791123e692e84796918",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

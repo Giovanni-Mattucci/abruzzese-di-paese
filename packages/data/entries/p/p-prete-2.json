@@ -1,0 +1,29 @@
+{
+  "id": "p-prete-2",
+  "headword": "prète",
+  "senses": [
+    {
+      "it": "prete",
+      "en": "priest",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sacerdote",
+      "en": "priest, clergyman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prète: prete, sacerdote",
+    "rawHash": "bae32e5958f2e946f6d482ef0b1481f9e853810e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

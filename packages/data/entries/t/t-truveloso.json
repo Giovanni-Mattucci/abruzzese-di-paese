@@ -1,0 +1,21 @@
+{
+  "id": "t-truveloso",
+  "headword": "truveloso",
+  "senses": [
+    {
+      "it": "torbido",
+      "en": "turbid, murky",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "truveloso: torbido.",
+    "rawHash": "9c23e27ed0f41a52d7f1368ac14116f8ce9ca2ef",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

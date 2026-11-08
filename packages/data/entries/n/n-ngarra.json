@@ -1,0 +1,21 @@
+{
+  "id": "n-ngarra",
+  "headword": "'ngarrà",
+  "senses": [
+    {
+      "it": "mettere dentro premendo con forza, serrare",
+      "en": "to put in by pressing hard, to clamp tight",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngarrà: mettere dentro premendo con forza, serrare",
+    "rawHash": "253edb0014cdbca96c0da96424f7d2e0ba5760bc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

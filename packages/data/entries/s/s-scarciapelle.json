@@ -1,0 +1,21 @@
+{
+  "id": "s-scarciapelle",
+  "headword": "scarciapelle",
+  "senses": [
+    {
+      "it": "strappapelle",
+      "en": "skin-tearer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarciapelle: strappapelle",
+    "rawHash": "cc6a9bd852f96d5db77365bda6e5f75ed3fd08d7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

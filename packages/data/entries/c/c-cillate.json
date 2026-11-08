@@ -1,0 +1,21 @@
+{
+  "id": "c-cillate",
+  "headword": "cillate",
+  "senses": [
+    {
+      "it": "bacato, andato a male, guasto. Riferito solo a prodotti alimentari (soprattutto granaglie, cereali, legumi ecc.) quando le scorte stipate vengono attaccate da larve di insetti che se ne nutrono provocando, ad esempio, le tipiche perforazioni delle semenze",
+      "en": "worm-eaten, gone bad, spoiled. Used only of foodstuffs (especially grain, cereals, pulses, etc.) when stored supplies are attacked by insect larvae that feed on them, causing, for example, the typical holes in seeds",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cillate: bacato, andato a male, guasto. Riferito solo a prodotti alimentari (soprattutto granaglie, cereali, legumi ecc.) quando le scorte stipate vengono attaccate da larve di insetti che se ne nutrono provocando, ad esempio, le tipiche perforazioni delle semenze",
+    "rawHash": "8483bf310b5b4530370e2f2e5e9bbd07badadab8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

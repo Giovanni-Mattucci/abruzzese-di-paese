@@ -1,0 +1,21 @@
+{
+  "id": "o-onne",
+  "headword": "onne",
+  "senses": [
+    {
+      "it": "gonna",
+      "en": "skirt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "o",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/o.html",
+    "raw": "onne: gonna",
+    "rawHash": "aa4eab66841add59fb3de573679a64287c1a4199",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

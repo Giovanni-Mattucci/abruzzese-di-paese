@@ -1,0 +1,26 @@
+{
+  "id": "s-svuscicheme",
+  "headword": "svuscichème",
+  "senses": [
+    {
+      "it": "ricerchiamo",
+      "en": "we search",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cerchiamo",
+      "en": "we look for",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "svuscichème: ricerchiamo, cerchiamo",
+    "rawHash": "20625ed8b5a8368a2239ef810d3dbe8f6f395d18",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

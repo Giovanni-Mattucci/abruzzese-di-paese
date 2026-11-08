@@ -1,0 +1,21 @@
+{
+  "id": "v-vuddeca",
+  "headword": "vuddecà",
+  "senses": [
+    {
+      "it": "rovesciare",
+      "en": "to overturn, to spill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vuddecà: rovesciare",
+    "rawHash": "4da85e55e1eaeefbdadb8cb7443259efe1c7f686",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "n-ncolle",
+  "headword": "'ncolle",
+  "senses": [
+    {
+      "it": "addosso",
+      "en": "on one's back, on oneself",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncolle: addosso",
+    "rawHash": "fe39ededa2b84a39d9660bd39728d7309aeeb8fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

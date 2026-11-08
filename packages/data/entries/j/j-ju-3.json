@@ -1,0 +1,24 @@
+{
+  "id": "j-ju-3",
+  "headword": "ju",
+  "senses": [
+    {
+      "it": "quello",
+      "en": "that one",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ju: quello",
+    "rawHash": "e50f16a3f82cd629c82b8fc13433a73f2956251a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

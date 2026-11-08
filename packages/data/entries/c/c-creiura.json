@@ -1,0 +1,21 @@
+{
+  "id": "c-creiura",
+  "headword": "creiura",
+  "senses": [
+    {
+      "it": "fascio di legna messo a seccare sopra un muretto",
+      "en": "bundle of firewood set to dry on top of a low wall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "creiura: fascio di legna messo a seccare sopra un muretto",
+    "rawHash": "a93da6b7a106e55d9bab1242a546d32d882ed9bb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

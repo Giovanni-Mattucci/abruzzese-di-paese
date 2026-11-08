@@ -1,0 +1,22 @@
+{
+  "id": "t-tretacafe",
+  "headword": "tretacafé",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "macina caffè",
+      "en": "coffee grinder",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tretacafé (lu): macina caffè",
+    "rawHash": "f1c29c470bc8d66facd07685949712a4daed935c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

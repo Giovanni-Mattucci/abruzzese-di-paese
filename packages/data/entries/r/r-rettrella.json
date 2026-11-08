@@ -1,0 +1,21 @@
+{
+  "id": "r-rettrella",
+  "headword": "rettrella",
+  "senses": [
+    {
+      "it": "culla",
+      "en": "cradle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rettrella: culla",
+    "rawHash": "1525ea0aa812c717e25fec20e78d97396bd2ee08",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

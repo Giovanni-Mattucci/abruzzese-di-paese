@@ -1,0 +1,22 @@
+{
+  "id": "b-batafischie",
+  "headword": "batafischie",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "bastone di legno",
+      "en": "wooden stick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "batafischie (lu): bastone di legno",
+    "rawHash": "ae6fe17642c3803a7daebd194aa65310d2953eac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

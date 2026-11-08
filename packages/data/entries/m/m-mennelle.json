@@ -1,0 +1,22 @@
+{
+  "id": "m-mennelle",
+  "headword": "mennélle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "nastro per legare",
+      "en": "ribbon for tying",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mennélle (la): nastro per legare",
+    "rawHash": "24b315eea92b3161af39031a38c140c515f018c2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

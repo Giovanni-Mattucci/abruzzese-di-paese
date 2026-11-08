@@ -1,0 +1,21 @@
+{
+  "id": "a-artacca",
+  "headword": "artaccà",
+  "senses": [
+    {
+      "it": "riattaccare",
+      "en": "to reattach, to hang up again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "artaccà: riattaccare",
+    "rawHash": "0da761ce0bf2a535713e844d44497afad5120300",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

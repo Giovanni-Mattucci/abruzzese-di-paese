@@ -1,0 +1,21 @@
+{
+  "id": "v-vavose",
+  "headword": "vavòse",
+  "senses": [
+    {
+      "it": "bavoso",
+      "en": "drooling, slobbery",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vavòse: bavoso",
+    "rawHash": "322ea9d0aeda49c5a66a660509f9618af5c1b6cc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

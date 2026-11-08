@@ -1,0 +1,24 @@
+{
+  "id": "s-stalle-2",
+  "headword": "stàlle",
+  "senses": [
+    {
+      "it": "stalla",
+      "en": "stable",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stàlle: stalla",
+    "rawHash": "c109e40424f76c2dbc494787795e4aebdcab885f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

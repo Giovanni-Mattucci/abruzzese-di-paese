@@ -1,0 +1,19 @@
+{
+  "id": "f-frascarielle",
+  "headword": "frascarielle",
+  "senses": [
+    {
+      "it": "polenta"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frascarielle: polenta",
+    "rawHash": "fd1e81675be928a00e8a0c6c74716c4271b1d1c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

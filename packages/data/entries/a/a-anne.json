@@ -1,0 +1,26 @@
+{
+  "id": "a-anne",
+  "headword": "anne",
+  "senses": [
+    {
+      "it": "anno",
+      "en": "year",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "anni",
+      "en": "years",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "anne: anno, anni",
+    "rawHash": "cdad197121ae6959adcf1f1bfe4672fe2b9a3aa1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

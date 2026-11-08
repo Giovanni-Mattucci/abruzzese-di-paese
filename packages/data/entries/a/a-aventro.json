@@ -1,0 +1,21 @@
+{
+  "id": "a-aventro",
+  "headword": "avèntro",
+  "senses": [
+    {
+      "it": "dentro",
+      "en": "inside",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "avèntro: dentro",
+    "rawHash": "bc3ce8576b56cd1f2dd5c2ac76abd24bdfd2d861",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-pesene",
+  "headword": "pèsene",
+  "senses": [
+    {
+      "it": "essi pesano",
+      "en": "they weigh",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: isse"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pèsene (isse): essi pesano",
+    "rawHash": "9b82da617080a5c9a8bf072f0b2220443c9be8c0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

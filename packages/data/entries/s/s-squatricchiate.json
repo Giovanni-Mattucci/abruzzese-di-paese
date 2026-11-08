@@ -1,0 +1,26 @@
+{
+  "id": "s-squatricchiate",
+  "headword": "squatricchiate",
+  "senses": [
+    {
+      "it": "sgangherato, deformato. Si dice anche di chi viene picchiato con violenza e ne esce malridotto",
+      "en": "rickety, deformed. Also said of someone who is beaten violently and comes out of it battered",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "A l'ha squatricchiàte nghe tutte lle botte. L'ha ridotto veramente male, con tutti quei colpi"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "squatricchiate: sgangherato, deformato. Si dice anche di chi viene picchiato con violenza e ne esce malridotto. Es.: A l'ha squatricchiàte nghe tutte lle botte. L'ha ridotto veramente male, con tutti quei colpi",
+    "rawHash": "5da1a9a3929b651b163f410f3fefb99b2e092806",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

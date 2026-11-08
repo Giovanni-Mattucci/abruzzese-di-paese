@@ -1,0 +1,27 @@
+{
+  "id": "a-apprezza-2",
+  "headword": "apprezzà",
+  "variants": [
+    "apprizzà"
+  ],
+  "senses": [
+    {
+      "it": "apprezzare",
+      "en": "to appreciate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "apprezzà, apprizzà: apprezzare",
+    "rawHash": "be9d398882c3166eb0bfe6d91a7fd14dbba9eb94",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

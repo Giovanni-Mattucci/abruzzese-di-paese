@@ -1,0 +1,21 @@
+{
+  "id": "g-gramigne",
+  "headword": "gramigne",
+  "senses": [
+    {
+      "it": "erbacce",
+      "en": "weeds",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gramigne: erbacce",
+    "rawHash": "f5b757239c7336214a5aba01cdc3ce8774d75fb6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

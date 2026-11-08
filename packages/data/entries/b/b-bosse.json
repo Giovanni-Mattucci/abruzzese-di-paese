@@ -1,0 +1,21 @@
+{
+  "id": "b-bosse",
+  "headword": "bòsse",
+  "senses": [
+    {
+      "it": "botte",
+      "en": "barrel, cask",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bòsse: botte",
+    "rawHash": "2c3fea2b5695ae7fa26a041bf978f1f61f982ccc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

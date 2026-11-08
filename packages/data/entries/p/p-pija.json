@@ -1,0 +1,24 @@
+{
+  "id": "p-pija",
+  "headword": "pijà",
+  "senses": [
+    {
+      "it": "prendere",
+      "en": "to take",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pijà: prendere",
+    "rawHash": "d9e98e5c47aa79be763dc62da2f787b2b2f9b92d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

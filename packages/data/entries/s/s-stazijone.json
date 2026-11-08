@@ -1,0 +1,22 @@
+{
+  "id": "s-stazijone",
+  "headword": "stazijone",
+  "article": "la",
+  "senses": [
+    {
+      "it": "stazione",
+      "en": "station",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stazijone (la): stazione",
+    "rawHash": "fe8a5d42796a859059ae9867e3e6f2d8ebbb88b7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

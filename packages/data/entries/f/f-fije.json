@@ -1,0 +1,26 @@
+{
+  "id": "f-fije",
+  "headword": "fije",
+  "senses": [
+    {
+      "it": "figlio",
+      "en": "son",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "figlia",
+      "en": "daughter",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fije: figlio, figlia",
+    "rawHash": "c71bea415b1374fd5fa88f574a46b733e517f4ed",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

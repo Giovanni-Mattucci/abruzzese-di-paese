@@ -1,0 +1,21 @@
+{
+  "id": "v-vintaje",
+  "headword": "vintaje",
+  "senses": [
+    {
+      "it": "ventaglio",
+      "en": "fan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vintaje: ventaglio",
+    "rawHash": "543c83f6f96a7ad0b3fcc34c6b94c17509a71369",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

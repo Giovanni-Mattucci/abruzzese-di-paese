@@ -1,0 +1,22 @@
+{
+  "id": "a-addo",
+  "headword": "addò",
+  "pos": "avv.",
+  "senses": [
+    {
+      "it": "dove",
+      "en": "where",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "addò: dove (avv.)",
+    "rawHash": "1f6333516da4367214c2c628ce1b2d71f893284c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

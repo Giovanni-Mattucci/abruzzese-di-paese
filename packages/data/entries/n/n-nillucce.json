@@ -1,0 +1,21 @@
+{
+  "id": "n-nillucce",
+  "headword": "nillùcce",
+  "senses": [
+    {
+      "it": "anellino",
+      "en": "little ring",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nillùcce: anellino",
+    "rawHash": "fa1ce45616c9f25038765c7f4897b584a7f4d2bf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

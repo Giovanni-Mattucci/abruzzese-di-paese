@@ -1,0 +1,26 @@
+{
+  "id": "s-speccechite",
+  "headword": "speccechìte",
+  "senses": [
+    {
+      "it": "similissimo",
+      "en": "very similar",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "proprio uguale",
+      "en": "exactly the same",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "speccechìte: similissimo, proprio uguale",
+    "rawHash": "3381145d2e6356ad03f81dfe286cfbb575ebe376",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

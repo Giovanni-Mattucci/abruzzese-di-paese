@@ -1,0 +1,21 @@
+{
+  "id": "c-crille",
+  "headword": "crille",
+  "senses": [
+    {
+      "it": "scricchiola",
+      "en": "it creaks",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crille: scricchiola",
+    "rawHash": "0f933ad8fe1409c4afc78d73aed6a95110730d85",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-camella",
+  "headword": "camèlla",
+  "senses": [
+    {
+      "it": "tegame",
+      "en": "pan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "camèlla: tegame",
+    "rawHash": "50a862337d8ca9137c909377a0a8f7cbf5a1f4c2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

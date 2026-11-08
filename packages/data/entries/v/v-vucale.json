@@ -1,0 +1,26 @@
+{
+  "id": "v-vucale",
+  "headword": "vucàle",
+  "senses": [
+    {
+      "it": "brocca per il vino",
+      "en": "wine jug",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "caraffa",
+      "en": "carafe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vucàle: brocca per il vino, caraffa",
+    "rawHash": "cedb41686751dbc7c0bd1d0a9195b3c0eb257d83",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

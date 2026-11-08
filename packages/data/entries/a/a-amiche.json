@@ -1,0 +1,21 @@
+{
+  "id": "a-amiche",
+  "headword": "amiche",
+  "senses": [
+    {
+      "it": "amico",
+      "en": "friend",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "amiche: amico",
+    "rawHash": "0b6510d6e2673102b150c2a851654c3d518749bf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

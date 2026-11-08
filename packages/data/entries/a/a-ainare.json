@@ -1,0 +1,29 @@
+{
+  "id": "a-ainare",
+  "headword": "ainàre",
+  "variants": [
+    "aìnate"
+  ],
+  "senses": [
+    {
+      "it": "sbrigarsi",
+      "en": "to hurry up",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbrigati",
+      "en": "hurry up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ainàre, aìnate: sbrigarsi, sbrigati",
+    "rawHash": "188caa5364f9b9e257cd7a568abec42094bc0ff9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

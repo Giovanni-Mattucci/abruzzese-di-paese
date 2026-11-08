@@ -1,0 +1,21 @@
+{
+  "id": "m-mammara",
+  "headword": "mammara",
+  "senses": [
+    {
+      "it": "ostetrica",
+      "en": "midwife",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mammara: ostetrica",
+    "rawHash": "e5f14de3631d58f8acbbf2199d346be1001f8f3e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

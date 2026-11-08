@@ -1,0 +1,29 @@
+{
+  "id": "s-sbuccate-2",
+  "headword": "sbuccate",
+  "senses": [
+    {
+      "it": "riferito a persona che parla in maniera volgare (quelle è 'na sbuccate",
+      "en": "referring to a person who speaks vulgarly (quelle è 'na sbuccate",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "quella parla in maniera volgare)",
+      "en": "she speaks in a vulgar way)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbuccate: riferito a persona che parla in maniera volgare (quelle è 'na sbuccate; quella parla in maniera volgare)",
+    "rawHash": "4a24b87776f750f7a80206a78fd24e35c81c3e1c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

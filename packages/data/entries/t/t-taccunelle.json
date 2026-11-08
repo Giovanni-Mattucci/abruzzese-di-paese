@@ -1,0 +1,22 @@
+{
+  "id": "t-taccunelle",
+  "headword": "taccunèlle",
+  "article": "li",
+  "senses": [
+    {
+      "it": "tagliolini",
+      "en": "tagliolini (thin ribbon pasta)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "taccunèlle (li): tagliolini",
+    "rawHash": "8b9c1b66380c2525cf3bfe1ee75f46b5866d5be9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

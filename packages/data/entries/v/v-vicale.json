@@ -1,0 +1,24 @@
+{
+  "id": "v-vicale",
+  "headword": "vicàle",
+  "senses": [
+    {
+      "it": "caraffa",
+      "en": "carafe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vicàle: caraffa",
+    "rawHash": "ec68fca67207bf000c12fd042beacecc64a6db00",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sparatrappe",
+  "headword": "sparatràppe",
+  "senses": [
+    {
+      "it": "cerotto",
+      "en": "adhesive plaster, bandage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sparatràppe: cerotto",
+    "rawHash": "a8ed8ce057076ba2596411053f87d8edeac9da00",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-star",
+  "headword": "star",
+  "senses": [
+    {
+      "it": "cesto di vimini (da pronunciare con suono \"sctar)",
+      "en": "wicker basket (to be pronounced with the sound \"sctar)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "star: cesto di vimini (da pronunciare con suono \"sctar)",
+    "rawHash": "f24d1792ea842a01969c44d0aa5149f4d6c75f74",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "s-scutulate",
+  "headword": "scutulàte",
+  "senses": [
+    {
+      "it": "agitato",
+      "en": "shaken",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbattuto",
+      "en": "shaken out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scutulàte: agitato, sbattuto",
+    "rawHash": "40d78ab95e9d90e3e537ec561459dbf63ed1bea2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

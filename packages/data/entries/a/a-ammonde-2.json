@@ -1,0 +1,37 @@
+{
+  "id": "a-ammonde-2",
+  "headword": "ammonde",
+  "variants": [
+    "ammonte"
+  ],
+  "senses": [
+    {
+      "it": "su",
+      "en": "up",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sopra",
+      "en": "above",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in salita",
+      "en": "uphill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammonde, ammonte: su, sopra, in salita",
+    "rawHash": "2fb9dc6edd8a5621ea4af1e929614cd46e77d86b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

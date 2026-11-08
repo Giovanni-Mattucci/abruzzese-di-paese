@@ -1,0 +1,26 @@
+{
+  "id": "v-vistitucce",
+  "headword": "vistitucce",
+  "senses": [
+    {
+      "it": "vestitino",
+      "en": "little dress",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "abitino",
+      "en": "little outfit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vistitucce: vestitino, abitino",
+    "rawHash": "b4675b8198d0adb8e8f3699c7548fc3254885cdf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

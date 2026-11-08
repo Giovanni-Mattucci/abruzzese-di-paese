@@ -1,0 +1,21 @@
+{
+  "id": "g-gnille",
+  "headword": "gnille",
+  "senses": [
+    {
+      "it": "agnelline",
+      "en": "little ewe lambs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnille: agnelline",
+    "rawHash": "1012b07ca21486fbd7a8af5dc5ffe7e73bf056a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

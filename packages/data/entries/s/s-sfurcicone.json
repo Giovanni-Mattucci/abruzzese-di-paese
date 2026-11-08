@@ -1,0 +1,26 @@
+{
+  "id": "s-sfurcicone",
+  "headword": "sfurcicòne",
+  "senses": [
+    {
+      "it": "errore evidente",
+      "en": "obvious mistake",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "madornale",
+      "en": "glaring, huge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfurcicòne: errore evidente, madornale",
+    "rawHash": "77e19ee85311e94c138c39773cb94b03dcadc5f3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

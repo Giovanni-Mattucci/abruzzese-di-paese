@@ -1,0 +1,24 @@
+{
+  "id": "a-a-simbesse-2",
+  "headword": "a s'imbesse",
+  "senses": [
+    {
+      "it": "qualcosa al contrario",
+      "en": "something backwards, the wrong way round",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a s'imbesse: qualcosa al contrario",
+    "rawHash": "fa898d247cfa3e8132b42d587941b5bee3b9f99c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

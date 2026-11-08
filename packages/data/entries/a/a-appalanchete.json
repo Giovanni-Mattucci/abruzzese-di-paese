@@ -1,0 +1,26 @@
+{
+  "id": "a-appalanchete",
+  "headword": "appalanchete",
+  "senses": [
+    {
+      "it": "appalancato",
+      "en": "shored up with planks",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "protetto da grosse travi",
+      "en": "protected by large beams",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appalanchete: appalancato, protetto da grosse travi",
+    "rawHash": "0527d1110cc51edfef5ef3231c61383d965748dc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

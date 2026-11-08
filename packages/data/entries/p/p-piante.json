@@ -1,0 +1,24 @@
+{
+  "id": "p-piante",
+  "headword": "piante",
+  "senses": [
+    {
+      "it": "pianto",
+      "en": "crying, weeping",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piante: pianto",
+    "rawHash": "230fb2f8e67283c3881fee8d6e30b12a9415f757",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

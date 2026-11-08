@@ -1,0 +1,21 @@
+{
+  "id": "p-pettele",
+  "headword": "pèttele",
+  "senses": [
+    {
+      "it": "pettegolezzo",
+      "en": "gossip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pèttele: pettegolezzo",
+    "rawHash": "69471f2761901c0112ddeaf140f7d54339c65785",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "n-ncalica",
+  "headword": "'ncalicà",
+  "senses": [
+    {
+      "it": "calcare",
+      "en": "to press down, to tread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncalicà: calcare",
+    "rawHash": "c70ab41d4646cd219891c18537b198c27296e80b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f-fatticce",
+  "headword": "fatticce",
+  "senses": [
+    {
+      "it": "spesso",
+      "en": "thick",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "largo",
+      "en": "wide",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fatticce: spesso, largo",
+    "rawHash": "5bb606e6cd5791a89fa0e64f367781d36c55ba0a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

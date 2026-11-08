@@ -1,0 +1,24 @@
+{
+  "id": "l-lebbre-3",
+  "headword": "lèbbre",
+  "senses": [
+    {
+      "it": "la lebbra",
+      "en": "leprosy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lèbbre: la lebbra",
+    "rawHash": "6b0db294f67ca1d2824a9146cc4481bc82fdee64",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

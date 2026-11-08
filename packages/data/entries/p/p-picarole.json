@@ -1,0 +1,22 @@
+{
+  "id": "p-picarole",
+  "headword": "picarole",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "ubriacone",
+      "en": "drunkard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "picarole (lu): ubriacone",
+    "rawHash": "3a042e979edb0e00cdd4f7cec954a83b7e979c3f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

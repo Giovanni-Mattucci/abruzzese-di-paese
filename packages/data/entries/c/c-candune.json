@@ -1,0 +1,31 @@
+{
+  "id": "c-candune",
+  "headword": "candune",
+  "senses": [
+    {
+      "it": "massi",
+      "en": "boulders",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pietroni",
+      "en": "large stones",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "macigni",
+      "en": "big rocks",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "candune: massi, pietroni, macigni",
+    "rawHash": "955a45505f80e50457d1794fd1dc315daf8b7076",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

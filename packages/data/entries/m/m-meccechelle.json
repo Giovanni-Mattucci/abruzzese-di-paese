@@ -1,0 +1,22 @@
+{
+  "id": "m-meccechelle",
+  "headword": "meccechêlle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "pezzetto di pane",
+      "en": "small piece of bread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "meccechêlle (lu): pezzetto di pane",
+    "rawHash": "ce1bbb131e405dc787bdeaf8beb14d431f5641f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

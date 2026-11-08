@@ -1,0 +1,24 @@
+{
+  "id": "v-varv",
+  "headword": "varv",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "barba",
+      "en": "beard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varv: barba (m. sul S.)",
+    "rawHash": "5132f5e2140bf2885b91aa6af995273c712df0e3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

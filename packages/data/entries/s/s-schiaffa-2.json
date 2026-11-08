@@ -1,0 +1,24 @@
+{
+  "id": "s-schiaffa-2",
+  "headword": "schiaffà",
+  "senses": [
+    {
+      "it": "mettere qualcosa in un posto con forza",
+      "en": "to put something somewhere forcefully",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiaffà: mettere qualcosa in un posto con forza",
+    "rawHash": "2d4c860967399e4d33170cf4f0e732c8b257f315",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

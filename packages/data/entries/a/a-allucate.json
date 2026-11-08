@@ -1,0 +1,24 @@
+{
+  "id": "a-allucate",
+  "headword": "allucate",
+  "variants": [
+    "alluchète"
+  ],
+  "senses": [
+    {
+      "it": "seduto",
+      "en": "seated, sitting",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allucate, alluchète: seduto",
+    "rawHash": "ca5448cabd324f7657f8a031a9b345e1f7a946ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

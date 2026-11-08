@@ -1,0 +1,26 @@
+{
+  "id": "a-annanzi",
+  "headword": "annànzi",
+  "senses": [
+    {
+      "it": "davanti",
+      "en": "in front",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "anteriore",
+      "en": "front, anterior",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "annànzi: davanti, anteriore",
+    "rawHash": "3bb0f9d1fabacf3bc0631d312343d288a041dac3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

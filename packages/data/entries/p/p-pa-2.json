@@ -1,0 +1,24 @@
+{
+  "id": "p-pa-2",
+  "headword": "pà",
+  "senses": [
+    {
+      "it": "pane",
+      "en": "bread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "tags": [
+    "possible-duplicate"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pà: pane",
+    "rawHash": "d33374ce3706ff67b5e57cee47bc46d971c1cfc0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

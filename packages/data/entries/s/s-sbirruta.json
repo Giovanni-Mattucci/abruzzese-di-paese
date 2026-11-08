@@ -1,0 +1,21 @@
+{
+  "id": "s-sbirruta",
+  "headword": "sbirrutà",
+  "senses": [
+    {
+      "it": "srotolare",
+      "en": "to unroll",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbirrutà: srotolare",
+    "rawHash": "69cbc06a4b09dcfee4f40313db954818ebde5303",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

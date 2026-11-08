@@ -1,0 +1,22 @@
+{
+  "id": "m-melegranate",
+  "headword": "melegranate",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "melograno",
+      "en": "pomegranate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "melegranate (lu): melograno",
+    "rawHash": "55573ea2bfe2cbbb9c83db71bb9e3b7a59b0348a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}
