@@ -1,0 +1,21 @@
+{
+  "id": "z-zuppettone",
+  "headword": "zuppettone",
+  "senses": [
+    {
+      "it": "lesso con brodo",
+      "en": "boiled meat with broth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zuppettone: lesso con brodo",
+    "rawHash": "d8203d89c7320b52a869afbed505a9d65fae1cda",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

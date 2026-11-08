@@ -1,0 +1,26 @@
+{
+  "id": "n-ndasate",
+  "headword": "'ndàsate",
+  "senses": [
+    {
+      "it": "compresso",
+      "en": "compressed, packed",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "occluso",
+      "en": "blocked, clogged",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndàsate: compresso, occluso",
+    "rawHash": "b2b9744fb77066f32a703be5eeeedd9ea1163db0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "r-ritiroccele",
+  "headword": "ritiròccele",
+  "senses": [
+    {
+      "it": "carrucola",
+      "en": "pulley",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ritiròccele: carrucola",
+    "rawHash": "4c3cf99ddea91d3f4152c0cfab8e7fcb5a91a445",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

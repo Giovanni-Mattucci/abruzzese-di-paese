@@ -1,0 +1,22 @@
+{
+  "id": "c-checheme",
+  "headword": "chêcheme",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "recipiente in rame con manico, posizionato vicino al fuoco per fare acqua calda",
+      "en": "copper vessel with a handle, placed near the fire to heat water",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chêcheme (lu): recipiente in rame con manico, posizionato vicino al fuoco per fare acqua calda",
+    "rawHash": "6632d4705320c1220380a9304be16e699ea6a1f7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

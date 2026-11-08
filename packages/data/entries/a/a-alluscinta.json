@@ -1,0 +1,21 @@
+{
+  "id": "a-alluscinta",
+  "headword": "alluscìnta",
+  "senses": [
+    {
+      "it": "in quel modo",
+      "en": "in that way",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "alluscìnta: in quel modo",
+    "rawHash": "95cc71a3a58c718e743dbd73852802d4b0c19528",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

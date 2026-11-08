@@ -1,0 +1,36 @@
+{
+  "id": "a-abbuccate",
+  "headword": "abbuccate",
+  "senses": [
+    {
+      "it": "ha abboccato",
+      "en": "he/she took the bait",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci è cascato",
+      "en": "he/she fell for it",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "è caduto in trappola",
+      "en": "he/she fell into the trap",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci ha creduto",
+      "en": "he/she believed it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbuccate: ha abboccato, ci è cascato, è caduto in trappola, ci ha creduto",
+    "rawHash": "2e6c9f9d87304eb3616149e5de305a5b521c0728",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

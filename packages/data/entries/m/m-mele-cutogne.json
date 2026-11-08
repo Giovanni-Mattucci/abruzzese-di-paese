@@ -1,0 +1,21 @@
+{
+  "id": "m-mele-cutogne",
+  "headword": "mele cutogne",
+  "senses": [
+    {
+      "it": "tipo di mela",
+      "en": "type of apple (quince)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mele cutogne: tipo di mela",
+    "rawHash": "141593390395ad52e91b2f3c78be93f27549a308",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

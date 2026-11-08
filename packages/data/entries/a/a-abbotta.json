@@ -1,0 +1,21 @@
+{
+  "id": "a-abbotta",
+  "headword": "abbotta",
+  "senses": [
+    {
+      "it": "gonfia",
+      "en": "swells, puffs up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbotta: gonfia",
+    "rawHash": "861b6bcfcbe3b803e52b2e0e9f95bf5364aee3ac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

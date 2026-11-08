@@ -1,0 +1,26 @@
+{
+  "id": "z-zelle",
+  "headword": "zelle",
+  "senses": [
+    {
+      "it": "sella",
+      "en": "saddle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "('n zelle: in sella)",
+      "en": "('n zelle: in the saddle)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zelle: sella, ('n zelle: in sella).",
+    "rawHash": "cbbc0d12ce55e6cd480261ed2edcd38552236df5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

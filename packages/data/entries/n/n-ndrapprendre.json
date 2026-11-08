@@ -1,0 +1,21 @@
+{
+  "id": "n-ndrapprendre",
+  "headword": "'ndrapprendre",
+  "senses": [
+    {
+      "it": "intraprendere",
+      "en": "to undertake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndrapprendre: intraprendere",
+    "rawHash": "e445ab81a0bbcb1dabbe88cb8d0a5d763bfcfdda",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mastrijete",
+  "headword": "mastrijète",
+  "senses": [
+    {
+      "it": "ingegnatevi",
+      "en": "work it out yourselves, contrive",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mastrijète: ingegnatevi",
+    "rawHash": "38cc3bb477e88a043f671f389949ea5e6006497e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

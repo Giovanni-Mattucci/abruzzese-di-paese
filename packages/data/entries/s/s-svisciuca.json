@@ -1,0 +1,21 @@
+{
+  "id": "s-svisciuca",
+  "headword": "svisciucà",
+  "senses": [
+    {
+      "it": "mettere le mani per cercare in modo disordinato",
+      "en": "to rummage, to search through things in a disorderly way",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "svisciucà: mettere le mani per cercare in modo disordinato",
+    "rawHash": "4c4a83b6da9a06129e60b448ccc6f00b889bca60",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

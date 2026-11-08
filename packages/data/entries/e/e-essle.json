@@ -1,0 +1,21 @@
+{
+  "id": "e-essle",
+  "headword": "èssle",
+  "senses": [
+    {
+      "it": "eccolo",
+      "en": "here he is, here it is",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "èssle: eccolo",
+    "rawHash": "acf73051e345db8efc741c713e47a1aabe9db772",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

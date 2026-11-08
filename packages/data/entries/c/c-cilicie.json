@@ -1,0 +1,21 @@
+{
+  "id": "c-cilicie",
+  "headword": "cilicie",
+  "senses": [
+    {
+      "it": "cintura ruvidissima e nodosa da portarsi sulle carni per penitenza",
+      "en": "very rough, knotted belt worn against the flesh as a penance (hair shirt)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cilicie: cintura ruvidissima e nodosa da portarsi sulle carni per penitenza",
+    "rawHash": "4e96e7d44abba60b759c6e839bf35eebf6f13abf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

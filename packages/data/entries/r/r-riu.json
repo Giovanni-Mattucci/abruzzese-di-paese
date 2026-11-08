@@ -1,0 +1,21 @@
+{
+  "id": "r-riu",
+  "headword": "rìu",
+  "senses": [
+    {
+      "it": "fiume",
+      "en": "river",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rìu: fiume",
+    "rawHash": "ee5088bfceab08553df6d11d0fb7238ccc037592",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

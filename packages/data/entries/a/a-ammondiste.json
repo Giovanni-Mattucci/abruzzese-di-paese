@@ -1,0 +1,26 @@
+{
+  "id": "a-ammondiste",
+  "headword": "ammondiste",
+  "senses": [
+    {
+      "it": "verso l'alto",
+      "en": "upwards",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in su",
+      "en": "up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammondiste: verso l'alto, in su",
+    "rawHash": "8bfb52ddcf8fa2233b6035617ecf24689091f10e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

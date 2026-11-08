@@ -1,0 +1,21 @@
+{
+  "id": "b-bijette",
+  "headword": "bijètte",
+  "senses": [
+    {
+      "it": "biglietto",
+      "en": "ticket, note",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bijètte: biglietto",
+    "rawHash": "e032ec259eab67f96cf1d9428b87931378fd8dee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

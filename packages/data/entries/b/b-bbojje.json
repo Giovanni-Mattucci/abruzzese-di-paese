@@ -1,0 +1,21 @@
+{
+  "id": "b-bbojje",
+  "headword": "bbojje",
+  "senses": [
+    {
+      "it": "boia",
+      "en": "executioner",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbojje: boia.",
+    "rawHash": "b5bfd794176bce0dd7a63529625c06a0169ec57f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

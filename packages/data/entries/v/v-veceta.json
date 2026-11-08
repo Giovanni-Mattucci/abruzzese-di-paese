@@ -1,0 +1,21 @@
+{
+  "id": "v-veceta",
+  "headword": "veceta",
+  "senses": [
+    {
+      "it": "avvicendamento delle colture",
+      "en": "crop rotation",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "veceta: avvicendamento delle colture",
+    "rawHash": "4538f439af7ae930a396c5ebb7f77b108f40478e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

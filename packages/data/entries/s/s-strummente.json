@@ -1,0 +1,21 @@
+{
+  "id": "s-strummente",
+  "headword": "strummènte",
+  "senses": [
+    {
+      "it": "atto notarile",
+      "en": "notarial deed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strummènte: atto notarile",
+    "rawHash": "8ccc4960ce12459354500249633d641c8052183a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

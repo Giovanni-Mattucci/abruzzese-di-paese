@@ -1,0 +1,21 @@
+{
+  "id": "p-pizza-doce",
+  "headword": "pizza doce",
+  "senses": [
+    {
+      "it": "torta",
+      "en": "cake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pizza doce: torta",
+    "rawHash": "c3d7eb7b881ffd94993d4ecd2300cf0352d1dfa0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

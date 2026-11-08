@@ -1,0 +1,21 @@
+{
+  "id": "c-culle",
+  "headword": "culle",
+  "senses": [
+    {
+      "it": "culla",
+      "en": "cradle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "culle: culla",
+    "rawHash": "3143fb49b75f1277a9e232489df59445aef4531a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

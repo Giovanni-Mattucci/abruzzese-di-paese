@@ -1,0 +1,21 @@
+{
+  "id": "s-spargine",
+  "headword": "spargine",
+  "senses": [
+    {
+      "it": "asparago",
+      "en": "asparagus",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spargine: asparago",
+    "rawHash": "46e5aca6bdeb5499ca1a9d750216697fb6f415d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

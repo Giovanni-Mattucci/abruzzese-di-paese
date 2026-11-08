@@ -1,0 +1,21 @@
+{
+  "id": "d-ditelle",
+  "headword": "ditèlle",
+  "senses": [
+    {
+      "it": "mignolo",
+      "en": "little finger",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "ditèlle: mignolo",
+    "rawHash": "1de8743bfd966ccf2711615dc9fae56f0df37131",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

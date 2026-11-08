@@ -1,0 +1,26 @@
+{
+  "id": "a-arvuteca",
+  "headword": "arvutecà",
+  "senses": [
+    {
+      "it": "rovesciare",
+      "en": "to overturn, to spill",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rivoltare",
+      "en": "to turn over",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arvutecà: rovesciare, rivoltare",
+    "rawHash": "b5113e103af0de1c86968f31649c4d9beead1d0a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

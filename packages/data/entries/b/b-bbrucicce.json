@@ -1,0 +1,31 @@
+{
+  "id": "b-bbrucicce",
+  "headword": "bbrucìcce",
+  "senses": [
+    {
+      "it": "avanzo di materiale bruciato",
+      "en": "remains of burnt material",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "odore",
+      "en": "smell",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "puzzo di bruciaticcio",
+      "en": "stench of something burnt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbrucìcce: avanzo di materiale bruciato, odore, puzzo di bruciaticcio",
+    "rawHash": "c8ba2fcd492d549e2b2a9bdb68f248111f3b1298",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

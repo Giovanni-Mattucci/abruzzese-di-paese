@@ -1,0 +1,21 @@
+{
+  "id": "s-surgitte",
+  "headword": "surgitte",
+  "senses": [
+    {
+      "it": "gnocchi di patate",
+      "en": "potato gnocchi",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "surgitte: gnocchi di patate",
+    "rawHash": "ec94346fa5445d2a222ae719b763578d0937ac3b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

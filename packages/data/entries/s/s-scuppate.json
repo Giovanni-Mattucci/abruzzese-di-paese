@@ -1,0 +1,21 @@
+{
+  "id": "s-scuppate",
+  "headword": "scuppàte",
+  "senses": [
+    {
+      "it": "calvo",
+      "en": "bald",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scuppàte: calvo",
+    "rawHash": "62e960290a50f252b7d8adf4fef0a301cb900b42",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

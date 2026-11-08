@@ -1,0 +1,21 @@
+{
+  "id": "v-vusseme",
+  "headword": "vussème",
+  "senses": [
+    {
+      "it": "spingiamo",
+      "en": "we push",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vussème: spingiamo",
+    "rawHash": "815acd1e5b0e63aa3fefe89e78dd738c671a2a6c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

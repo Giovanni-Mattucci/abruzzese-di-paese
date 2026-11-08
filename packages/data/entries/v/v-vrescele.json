@@ -1,0 +1,22 @@
+{
+  "id": "v-vrescele",
+  "headword": "vrèscele",
+  "article": "li",
+  "senses": [
+    {
+      "it": "amarene",
+      "en": "sour cherries",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrèscele (li): amarene",
+    "rawHash": "23608aa676f79195eb9571a5c9a32b9f127090fe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

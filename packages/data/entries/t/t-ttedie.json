@@ -1,0 +1,31 @@
+{
+  "id": "t-ttedie",
+  "headword": "ttedie",
+  "senses": [
+    {
+      "it": "tedio",
+      "en": "tedium",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "noia",
+      "en": "boredom",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "uggioso",
+      "en": "dreary",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "ttedie : tedio, noia, uggioso",
+    "rawHash": "6bf4b2440ccd47f67123c87db5ac13270b351ff8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

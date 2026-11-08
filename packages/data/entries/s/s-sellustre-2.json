@@ -1,0 +1,21 @@
+{
+  "id": "s-sellustre-2",
+  "headword": "sellustre",
+  "senses": [
+    {
+      "it": "accidente",
+      "en": "accident, mishap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sellustre: accidente",
+    "rawHash": "7c863b34ea939e9b537e90382fb066f7b1fb8e92",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

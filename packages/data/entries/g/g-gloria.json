@@ -1,0 +1,21 @@
+{
+  "id": "g-gloria",
+  "headword": "gloria",
+  "senses": [
+    {
+      "it": "falo'",
+      "en": "bonfire",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gloria: falo'",
+    "rawHash": "e4c9773a839c7e0fa9b01229e9fd8580bdcfbfc1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

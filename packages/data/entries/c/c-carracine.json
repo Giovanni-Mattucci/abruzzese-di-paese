@@ -1,0 +1,21 @@
+{
+  "id": "c-carracine",
+  "headword": "carracìne",
+  "senses": [
+    {
+      "it": "fichi secchi",
+      "en": "dried figs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carracìne: fichi secchi",
+    "rawHash": "2b3039853d3f513a76aa59e1e992c37442a6f74f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-pure",
+  "headword": "pure",
+  "senses": [
+    {
+      "it": "tuttavia",
+      "en": "however, nevertheless",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "nonostante",
+      "en": "despite, although",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pure: tuttavia, nonostante",
+    "rawHash": "2de72cf8bbce391f01f394814e28682720ff14f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

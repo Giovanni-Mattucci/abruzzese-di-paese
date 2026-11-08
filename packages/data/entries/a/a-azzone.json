@@ -1,0 +1,21 @@
+{
+  "id": "a-azzone",
+  "headword": "azzone",
+  "senses": [
+    {
+      "it": "moscone",
+      "en": "bluebottle, large fly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "azzone: moscone",
+    "rawHash": "fe51ed72124075ef3a3ac47c1db2fc29d8701411",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

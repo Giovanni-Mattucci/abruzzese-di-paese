@@ -1,0 +1,21 @@
+{
+  "id": "m-mocche",
+  "headword": "mòcche",
+  "senses": [
+    {
+      "it": "in bocca",
+      "en": "in the mouth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mòcche: in bocca",
+    "rawHash": "c6bf164f8d1d84d15731139ee2bea5ffe5a526cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

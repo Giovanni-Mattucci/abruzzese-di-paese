@@ -1,0 +1,25 @@
+{
+  "id": "q-quatrare-bambino",
+  "headword": "quatrare bambino",
+  "variants": [
+    "ragazzo quatrare"
+  ],
+  "article": "lu",
+  "senses": [
+    {
+      "it": "ragazzo",
+      "en": "boy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quatrare (lu) bambino, ragazzo quatrare: ragazzo",
+    "rawHash": "2791baacc8bfc503669bf98077d242fc3071d8b4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

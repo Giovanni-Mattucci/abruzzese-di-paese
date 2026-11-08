@@ -1,0 +1,26 @@
+{
+  "id": "f-furasteche",
+  "headword": "furasteche",
+  "senses": [
+    {
+      "it": "selvaggio",
+      "en": "wild",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "poco accomodante",
+      "en": "not very accommodating",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "furasteche: selvaggio, poco accomodante",
+    "rawHash": "272a93aaf8da97820af4ae1aac7c1ed12e9ea435",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

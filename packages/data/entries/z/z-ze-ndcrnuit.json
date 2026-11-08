@@ -1,0 +1,24 @@
+{
+  "id": "z-ze-ndcrnuit",
+  "headword": "ze ndcrnuit",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "è dimagrito",
+      "en": "he has lost weight",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "ze ndcrnuit: è dimagrito (M. sul S.)",
+    "rawHash": "63216e2d7e3dc027cfd724c8ba9e0b3e5da1f220",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

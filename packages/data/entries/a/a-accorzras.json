@@ -1,0 +1,21 @@
+{
+  "id": "a-accorzras",
+  "headword": "accorzras",
+  "senses": [
+    {
+      "it": "accorgersi",
+      "en": "to notice, to realize",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accorzras: accorgersi",
+    "rawHash": "c93393b82f2a4bfaa6c6f0f87b6a6fb698fad3ac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

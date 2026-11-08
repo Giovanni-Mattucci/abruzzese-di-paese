@@ -1,0 +1,21 @@
+{
+  "id": "o-onte",
+  "headword": "ònte",
+  "senses": [
+    {
+      "it": "unto",
+      "en": "greasy, oily",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "o",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/o.html",
+    "raw": "ònte: unto",
+    "rawHash": "c57f3147b25aea6e9edfba3be5a3db96bb6c7e49",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

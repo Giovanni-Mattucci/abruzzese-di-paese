@@ -1,0 +1,21 @@
+{
+  "id": "u-ultimamende",
+  "headword": "ultimamènde",
+  "senses": [
+    {
+      "it": "da ultimo",
+      "en": "lately, at last",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "ultimamènde: da ultimo",
+    "rawHash": "ec6ca341bc7b90544f00079aa7f401afed65871f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

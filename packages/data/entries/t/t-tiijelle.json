@@ -1,0 +1,22 @@
+{
+  "id": "t-tiijelle",
+  "headword": "tiijélle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "teglia",
+      "en": "baking pan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tiijélle (la): teglia",
+    "rawHash": "2bce54d7f541d624499f423bfd076b69dc3e6d06",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

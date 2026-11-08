@@ -1,0 +1,21 @@
+{
+  "id": "c-ciavaja",
+  "headword": "ciavajà",
+  "senses": [
+    {
+      "it": "balbettare",
+      "en": "to stutter, to stammer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciavajà: balbettare",
+    "rawHash": "efab6396fdc1c4cb410e39785b35f308d7a51348",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

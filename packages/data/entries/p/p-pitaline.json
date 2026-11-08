@@ -1,0 +1,21 @@
+{
+  "id": "p-pitaline",
+  "headword": "pitalìne",
+  "senses": [
+    {
+      "it": "parte del piede della scarpa",
+      "en": "foot part of a shoe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pitalìne: parte del piede della scarpa",
+    "rawHash": "10f5398696067eff2c70d12c7f379b591f694864",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

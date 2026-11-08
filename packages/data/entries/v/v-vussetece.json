@@ -1,0 +1,21 @@
+{
+  "id": "v-vussetece",
+  "headword": "vussètece",
+  "senses": [
+    {
+      "it": "spingeteci",
+      "en": "push us (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vussètece: spingeteci",
+    "rawHash": "6888e17f1b1aafe538224dd24a041614c98088a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

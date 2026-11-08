@@ -1,0 +1,22 @@
+{
+  "id": "p-pretelecce",
+  "headword": "pretelécce",
+  "article": "la",
+  "senses": [
+    {
+      "it": "piccolo sgabello",
+      "en": "small stool",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pretelécce (la): piccolo sgabello",
+    "rawHash": "0bd417855f1fd4c1ac2d84aa31dbb56b4cacab4b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-arecunda",
+  "headword": "arecundà",
+  "senses": [
+    {
+      "it": "raccontare",
+      "en": "to tell, to recount",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arecundà: raccontare",
+    "rawHash": "27a645f87d2bbb9e72aae1ceb7db3de4e362c1f1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

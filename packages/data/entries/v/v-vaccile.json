@@ -1,0 +1,26 @@
+{
+  "id": "v-vaccile",
+  "headword": "vaccìle",
+  "senses": [
+    {
+      "it": "bacile",
+      "en": "basin",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bacinella",
+      "en": "small basin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vaccìle: bacile, bacinella",
+    "rawHash": "894ccb2b5c0fb9657b5ea7c6bfa8b989228b8bfc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

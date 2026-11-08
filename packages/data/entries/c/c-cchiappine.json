@@ -1,0 +1,21 @@
+{
+  "id": "c-cchiappine",
+  "headword": "cchiappine",
+  "senses": [
+    {
+      "it": "albero di pino",
+      "en": "pine tree",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cchiappine: albero di pino",
+    "rawHash": "7836c3deb8e6efe374d2a707b14d27d0daec718a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

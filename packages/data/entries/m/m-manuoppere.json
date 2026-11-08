@@ -1,0 +1,21 @@
+{
+  "id": "m-manuoppere",
+  "headword": "manuòppere",
+  "senses": [
+    {
+      "it": "covone di grano",
+      "en": "sheaf of wheat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "manuòppere: covone di grano",
+    "rawHash": "b6aadf4921be1f4fbd76d4da5c3fc5e67f785fdd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

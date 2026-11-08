@@ -1,0 +1,31 @@
+{
+  "id": "s-sfarfaja",
+  "headword": "sfarfajà",
+  "senses": [
+    {
+      "it": "raccontare",
+      "en": "to tell, to recount",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "quasi fantasticando",
+      "en": "almost fantasizing",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mitizzando",
+      "en": "mythologizing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfarfajà: raccontare, quasi fantasticando, mitizzando",
+    "rawHash": "00fc4a8b151cde3ce03b7cd2750b929389a4773f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

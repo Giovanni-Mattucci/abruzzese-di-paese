@@ -1,0 +1,26 @@
+{
+  "id": "a-accimenta",
+  "headword": "accimentà",
+  "senses": [
+    {
+      "it": "stuzzicare",
+      "en": "to tease, to provoke",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dare fastidio",
+      "en": "to bother, to annoy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accimentà: stuzzicare, dare fastidio",
+    "rawHash": "7be8caf2a7982b0f2f78962137146e3cbd76e7d8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

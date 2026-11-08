@@ -1,0 +1,21 @@
+{
+  "id": "v-vocialonghe",
+  "headword": "vocialonghe",
+  "senses": [
+    {
+      "it": "voce lunga. Questo modo di chiamare viene usato dai nostri contadini modulando la voce affinché l'eco si propaghi nel fondo delle valli",
+      "en": "long voice. This way of calling is used by our farmers, modulating the voice so that the echo carries to the bottom of the valleys",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vocialonghe: voce lunga. Questo modo di chiamare viene usato dai nostri contadini modulando la voce affinché l'eco si propaghi nel fondo delle valli",
+    "rawHash": "29d966f9b2d442c4031d67061c4554cc0ea018e7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

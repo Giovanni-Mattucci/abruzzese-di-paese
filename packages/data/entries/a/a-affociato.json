@@ -1,0 +1,21 @@
+{
+  "id": "a-affociato",
+  "headword": "affociàto",
+  "senses": [
+    {
+      "it": "che si è tirato su le maniche",
+      "en": "having rolled up one's sleeves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "affociàto: che si è tirato su le maniche",
+    "rawHash": "6386266bc2e846ce660a5bb454e1dfd84632477f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

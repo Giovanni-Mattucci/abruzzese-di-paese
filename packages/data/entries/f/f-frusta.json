@@ -1,0 +1,21 @@
+{
+  "id": "f-frusta",
+  "headword": "frusta",
+  "senses": [
+    {
+      "it": "spinello (lancianese)",
+      "en": "joint, spliff (Lanciano dialect)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frusta: spinello (lancianese)",
+    "rawHash": "4d30d1a192de7e6b69018626e30a8a09275cc13c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

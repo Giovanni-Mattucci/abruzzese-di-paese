@@ -1,0 +1,21 @@
+{
+  "id": "f-fregne",
+  "headword": "frègne",
+  "senses": [
+    {
+      "it": "in gamba, adoperato soprattutto per indicare qualcuno in gamba o qualcosa di interessante o bello",
+      "en": "great, used especially to indicate someone capable or something interesting or beautiful",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frègne: in gamba, adoperato soprattutto per indicare qualcuno in gamba o qualcosa di interessante o bello",
+    "rawHash": "39e5e3bf37db0f90a0f4b1443c93c5a4feb4354f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

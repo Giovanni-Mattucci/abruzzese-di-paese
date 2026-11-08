@@ -1,0 +1,21 @@
+{
+  "id": "p-pijeme",
+  "headword": "pijème",
+  "senses": [
+    {
+      "it": "prendiamo",
+      "en": "we take, let us take",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pijème: prendiamo",
+    "rawHash": "b860ec41c6d525166055586dba1306b3468a906e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

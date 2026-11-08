@@ -1,0 +1,21 @@
+{
+  "id": "r-rabboita",
+  "headword": "rabboità",
+  "senses": [
+    {
+      "it": "fare bufera",
+      "en": "to storm, to blow a gale",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rabboità: fare bufera",
+    "rawHash": "417446fac6841d88b26e2574a615e58428b39f40",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

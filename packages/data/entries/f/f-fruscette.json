@@ -1,0 +1,25 @@
+{
+  "id": "f-fruscette",
+  "headword": "fruscétte",
+  "variants": [
+    "frucette"
+  ],
+  "article": "la",
+  "senses": [
+    {
+      "it": "attrezzo infilato nelle narici dei buoi per guidarli",
+      "en": "tool inserted into the nostrils of oxen to guide them",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fruscétte, frucette (la): attrezzo infilato nelle narici dei buoi per guidarli",
+    "rawHash": "e38328ab73f22c7235ba3d8b62ada9e7c5243837",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

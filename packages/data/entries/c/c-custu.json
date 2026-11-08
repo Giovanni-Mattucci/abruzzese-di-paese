@@ -1,0 +1,21 @@
+{
+  "id": "c-custu",
+  "headword": "custù",
+  "senses": [
+    {
+      "it": "questo",
+      "en": "this",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "custù: questo",
+    "rawHash": "1ea37f4763095c149d36898f322bfb964e8b6c44",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

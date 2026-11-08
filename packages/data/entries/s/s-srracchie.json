@@ -1,0 +1,22 @@
+{
+  "id": "s-srracchie",
+  "headword": "srracchie",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "sega grande",
+      "en": "large saw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "srracchie (lu): sega grande",
+    "rawHash": "01656039f6718ed04f833d5b76f6647ab9160011",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

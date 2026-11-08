@@ -1,0 +1,21 @@
+{
+  "id": "a-arruta",
+  "headword": "arrutà",
+  "senses": [
+    {
+      "it": "rifilare la lama di un coltello, forbice, ecc",
+      "en": "to sharpen the blade of a knife, scissors, etc.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrutà: rifilare la lama di un coltello, forbice, ecc.",
+    "rawHash": "f337d6ecdeaf31d925c09474a7c6fcbc2d42f20c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

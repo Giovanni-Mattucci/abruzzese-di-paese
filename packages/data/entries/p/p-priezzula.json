@@ -1,0 +1,21 @@
+{
+  "id": "p-priezzula",
+  "headword": "priezzula",
+  "senses": [
+    {
+      "it": "piccola sedia",
+      "en": "small chair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "priezzula: piccola sedia",
+    "rawHash": "b9872eb5639364d686af4d31a90d981191289bbb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

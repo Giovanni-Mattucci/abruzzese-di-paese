@@ -1,0 +1,21 @@
+{
+  "id": "t-tijanelle",
+  "headword": "tijanelle",
+  "senses": [
+    {
+      "it": "piccole tegame",
+      "en": "small pan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tijanelle: piccole tegame",
+    "rawHash": "9e036476aaaff559d8bc1dd1622a3d7f30b94cd8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

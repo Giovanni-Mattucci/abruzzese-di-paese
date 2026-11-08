@@ -1,0 +1,21 @@
+{
+  "id": "s-sgarrete-nne",
+  "headword": "sgarrete (nne)",
+  "senses": [
+    {
+      "it": "non sbagliate",
+      "en": "do not make mistakes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgarrete (nne): non sbagliate",
+    "rawHash": "fd0ddb8fce12901fac496eb5995e6a10e4f834e9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

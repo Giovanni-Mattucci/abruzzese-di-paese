@@ -1,0 +1,21 @@
+{
+  "id": "j-juppite",
+  "headword": "juppìte",
+  "senses": [
+    {
+      "it": "là in fondo",
+      "en": "down at the far end, over there at the bottom",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "juppìte: là in fondo,",
+    "rawHash": "3dd05e8478ccd17460e862d9c70b139813c2c78a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

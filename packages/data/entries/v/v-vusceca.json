@@ -1,0 +1,25 @@
+{
+  "id": "v-vusceca",
+  "headword": "vuscecà",
+  "variants": [
+    "vuscechì",
+    "vuscicà"
+  ],
+  "senses": [
+    {
+      "it": "rimescolare",
+      "en": "to stir up, to mix again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vuscecà, vuscechì, vuscicà: rimescolare",
+    "rawHash": "4621cbde70e79ae01a583b895d4cd089be59b183",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

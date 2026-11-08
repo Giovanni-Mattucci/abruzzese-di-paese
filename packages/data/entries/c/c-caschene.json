@@ -1,0 +1,21 @@
+{
+  "id": "c-caschene",
+  "headword": "càschene",
+  "senses": [
+    {
+      "it": "cadono",
+      "en": "they fall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "càschene. cadono",
+    "rawHash": "cd6366a2bcae15d47872abfef35a2f6dea647cc5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

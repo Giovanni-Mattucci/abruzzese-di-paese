@@ -1,0 +1,21 @@
+{
+  "id": "h-hanghe",
+  "headword": "hànghe",
+  "senses": [
+    {
+      "it": "mascella",
+      "en": "jaw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hànghe: mascella",
+    "rawHash": "4f55832607a288fda74e20f0a37b4cdd6a1c41a4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "i-iecchce",
+  "headword": "iècchce",
+  "senses": [
+    {
+      "it": "nei dintorni (iècchce attuorre)",
+      "en": "in the surroundings, around here (iècchce attuorre)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "iècchce: nei dintorni (iècchce attuorre)",
+    "rawHash": "59f43ef988385e60e7ee001b095828db248de98f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

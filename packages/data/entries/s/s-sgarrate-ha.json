@@ -1,0 +1,21 @@
+{
+  "id": "s-sgarrate-ha",
+  "headword": "sgarrate (ha)",
+  "senses": [
+    {
+      "it": "ha sbagliato",
+      "en": "he/she made a mistake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgarrate (ha): ha sbagliato",
+    "rawHash": "9d56af5d89649510b651be38e8e5514df3e2a0b1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-arduvaje-2",
+  "headword": "arduvàje",
+  "senses": [
+    {
+      "it": "rattoppo",
+      "en": "patch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arduvàje: rattoppo",
+    "rawHash": "dc9fd3609ac560f6ca4c8a9c6d55219d6dd814bf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

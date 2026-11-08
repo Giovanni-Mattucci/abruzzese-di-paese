@@ -1,0 +1,21 @@
+{
+  "id": "l-lebbre",
+  "headword": "lébbre",
+  "senses": [
+    {
+      "it": "libro",
+      "en": "book",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lébbre: libro",
+    "rawHash": "fd291d8f574ea90dcae03a952eb52d31ed5d582d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

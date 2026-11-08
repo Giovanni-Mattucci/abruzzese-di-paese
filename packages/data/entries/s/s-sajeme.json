@@ -1,0 +1,21 @@
+{
+  "id": "s-sajeme",
+  "headword": "sajème",
+  "senses": [
+    {
+      "it": "saliamo",
+      "en": "we go up, let us go up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sajème: saliamo",
+    "rawHash": "e807bc3f7d5170298988f0675bd9c213d2678d1b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

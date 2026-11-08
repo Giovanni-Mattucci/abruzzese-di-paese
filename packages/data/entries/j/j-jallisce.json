@@ -1,0 +1,26 @@
+{
+  "id": "j-jallisce",
+  "headword": "jallisce",
+  "senses": [
+    {
+      "it": "lisciare",
+      "en": "to smooth",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gli liscia",
+      "en": "he smooths it for him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jallisce: lisciare, gli liscia",
+    "rawHash": "5c0e30d46a50b566d22f1f1550eda483f8a88b3d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

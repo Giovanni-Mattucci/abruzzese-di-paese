@@ -1,0 +1,21 @@
+{
+  "id": "p-pampele",
+  "headword": "pàmpele",
+  "senses": [
+    {
+      "it": "foglia della vigna",
+      "en": "vine leaf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pàmpele: foglia della vigna",
+    "rawHash": "2efca52ae89249d9cd918637ab0c0d8b5ddcde66",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

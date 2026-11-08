@@ -1,0 +1,22 @@
+{
+  "id": "l-lumine",
+  "headword": "lumìne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "scorreggia silenziosa",
+      "en": "silent fart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lumìne (lu): scorreggia silenziosa",
+    "rawHash": "ee13afd1f23582f546e22eba30ac12456b51d7ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

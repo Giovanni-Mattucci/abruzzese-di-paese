@@ -1,0 +1,21 @@
+{
+  "id": "h-ha-scite",
+  "headword": "ha scìte",
+  "senses": [
+    {
+      "it": "è uscito",
+      "en": "he has gone out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "ha scìte: è uscito",
+    "rawHash": "d55a80b2cc8cde31ed1c645127f77e3334c8c727",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

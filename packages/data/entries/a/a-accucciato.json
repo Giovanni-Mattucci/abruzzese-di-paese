@@ -1,0 +1,21 @@
+{
+  "id": "a-accucciato",
+  "headword": "accucciàto",
+  "senses": [
+    {
+      "it": "accovacciato",
+      "en": "crouched, squatting",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accucciàto: accovacciato",
+    "rawHash": "0d44a5eeebe03cb18d2c07d8acb230df1fdfba4c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

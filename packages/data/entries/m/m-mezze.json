@@ -1,0 +1,21 @@
+{
+  "id": "m-mezze",
+  "headword": "mêzze",
+  "senses": [
+    {
+      "it": "guasto",
+      "en": "broken, spoiled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mêzze: guasto",
+    "rawHash": "846b505b383596551a2fab09da3bab5eb3880fd5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

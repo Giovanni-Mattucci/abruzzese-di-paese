@@ -1,0 +1,29 @@
+{
+  "id": "s-sigge-2",
+  "headword": "sìgge",
+  "senses": [
+    {
+      "it": "ritirare denaro",
+      "en": "to withdraw money",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "aspìtteme, mò vaje a sìgge",
+      "it": "Aspettami, adesso vado a riscuotere",
+      "en": "Wait for me, I am going to collect the money now",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sìgge: ritirare denaro. Es.: aspìtteme, mò vaje a sìgge: Aspettami, adesso vado a riscuotere",
+    "rawHash": "6b7f83e78e482d1f0516c759fc51ed3ac8ed6b80",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

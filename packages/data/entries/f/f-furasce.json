@@ -1,0 +1,21 @@
+{
+  "id": "f-furasce",
+  "headword": "furàsce",
+  "senses": [
+    {
+      "it": "selvaggio",
+      "en": "wild",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "furàsce: selvaggio",
+    "rawHash": "b9463d382e38b72edb2f399380ecc5c1c823e70c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

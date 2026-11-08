@@ -1,0 +1,22 @@
+{
+  "id": "c-ciutrone",
+  "headword": "ciutròne",
+  "article": "la",
+  "senses": [
+    {
+      "it": "cocomero ciuvìre : vecchio carretto con una ruota e due stanghe per trasportare il letame",
+      "en": "watermelon ciuvìre : old cart with one wheel and two shafts for carrying manure",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciutròne: cocomero ciuvìre (la): vecchio carretto con una ruota e due stanghe per trasportare il letame",
+    "rawHash": "fc55ccdf0ef4b8315f4954390cfe64bc518ff86e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

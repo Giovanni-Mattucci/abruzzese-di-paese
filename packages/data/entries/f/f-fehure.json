@@ -1,0 +1,21 @@
+{
+  "id": "f-fehure",
+  "headword": "fehure",
+  "senses": [
+    {
+      "it": "figura",
+      "en": "figure",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fehure: figura",
+    "rawHash": "4d4524b9b5b1a4343164fed274d1df699fd38f78",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "t-tresemarene",
+  "headword": "tresemarène",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "rosmarino",
+      "en": "rosemary",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tresemarène (lu): rosmarino",
+    "rawHash": "748f7fba43b2f26a968baad9a3e693a8402a24d6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

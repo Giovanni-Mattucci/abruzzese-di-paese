@@ -1,0 +1,21 @@
+{
+  "id": "c-ciuhette",
+  "headword": "ciuhètte",
+  "senses": [
+    {
+      "it": "civetta",
+      "en": "owl",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciuhètte: civetta",
+    "rawHash": "dfc119c8e5329811f38d0ff777cc16d8c40774d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

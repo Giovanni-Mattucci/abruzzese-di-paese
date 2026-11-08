@@ -1,0 +1,26 @@
+{
+  "id": "d-diasille",
+  "headword": "diasille",
+  "senses": [
+    {
+      "it": "litania",
+      "en": "litany",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "preghiera ripetitiva",
+      "en": "repetitive prayer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "diasille: litania, preghiera ripetitiva",
+    "rawHash": "878c89bc8dc82ea348c23a2e51bdc398b58099fc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

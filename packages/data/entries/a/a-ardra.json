@@ -1,0 +1,21 @@
+{
+  "id": "a-ardra",
+  "headword": "ardrà",
+  "senses": [
+    {
+      "it": "rientrare",
+      "en": "to go back in, to return home",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardrà: rientrare",
+    "rawHash": "ef8961e0f2eb88b2502908c1cbbf1d05204c9140",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

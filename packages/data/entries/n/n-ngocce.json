@@ -1,0 +1,26 @@
+{
+  "id": "n-ngocce",
+  "headword": "'ngocce",
+  "senses": [
+    {
+      "it": "in testa",
+      "en": "on the head",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "battere in testa",
+      "en": "to hit on the head",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngocce: in testa, battere in testa",
+    "rawHash": "9a9bd4907e8be98e079aa1f6d4283324aafc8ee0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sciuertola",
+  "headword": "sciuèrtola",
+  "senses": [
+    {
+      "it": "donna poco seria",
+      "en": "frivolous woman, woman of loose morals",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciuèrtola: donna poco seria",
+    "rawHash": "55d142bb9b00639b13fdbc4c95c482965e8d2938",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

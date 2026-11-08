@@ -1,0 +1,21 @@
+{
+  "id": "d-dende",
+  "headword": "dende",
+  "senses": [
+    {
+      "it": "dente",
+      "en": "tooth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dende: dente",
+    "rawHash": "76cd73a449aab9fa4e2e9d5f1f4456812196b5cd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

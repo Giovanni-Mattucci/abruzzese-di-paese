@@ -1,0 +1,21 @@
+{
+  "id": "a-acciuite",
+  "headword": "acciuite",
+  "senses": [
+    {
+      "it": "appagato",
+      "en": "satisfied, contented",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciuite: appagato",
+    "rawHash": "872ab528777ad0d5bc7057f921386bb981b643b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

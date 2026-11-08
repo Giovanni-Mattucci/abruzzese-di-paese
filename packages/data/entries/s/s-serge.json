@@ -1,0 +1,22 @@
+{
+  "id": "s-serge",
+  "headword": "sêrge",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "topo",
+      "en": "mouse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sêrge (lu): topo",
+    "rawHash": "287d49eda1305ee941efeffaa8f8210756e3e5f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

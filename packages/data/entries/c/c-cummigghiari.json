@@ -1,0 +1,21 @@
+{
+  "id": "c-cummigghiari",
+  "headword": "cummigghiàri",
+  "senses": [
+    {
+      "it": "coprire",
+      "en": "to cover",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummigghiàri: coprire",
+    "rawHash": "9c660c0330a282e685e4d9b3fbd4a226cdd04e01",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

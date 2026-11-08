@@ -1,0 +1,24 @@
+{
+  "id": "p-pecchiete",
+  "headword": "pecchiete",
+  "variants": [
+    "picchiate"
+  ],
+  "senses": [
+    {
+      "it": "pazzo",
+      "en": "crazy, mad",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pecchiete, picchiate: pazzo",
+    "rawHash": "d52912e7a8aace29aafcc2a60d2ffce5e557bb9f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

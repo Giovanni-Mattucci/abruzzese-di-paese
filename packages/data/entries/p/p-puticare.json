@@ -1,0 +1,21 @@
+{
+  "id": "p-puticare",
+  "headword": "puticàre",
+  "senses": [
+    {
+      "it": "bottegaio",
+      "en": "shopkeeper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "puticàre: bottegaio",
+    "rawHash": "c719097a0f916bf1d583b9a6f4f65a955a370a29",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

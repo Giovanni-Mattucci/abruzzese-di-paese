@@ -1,0 +1,21 @@
+{
+  "id": "c-chiuvette",
+  "headword": "chiuvètte",
+  "senses": [
+    {
+      "it": "chiodino",
+      "en": "small nail, tack",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiuvètte: chiodino",
+    "rawHash": "b779aea1f9ee4ef1e41b3625554f8623dac74c30",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

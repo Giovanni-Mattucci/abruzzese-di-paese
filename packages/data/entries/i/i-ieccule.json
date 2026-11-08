@@ -1,0 +1,21 @@
+{
+  "id": "i-ieccule",
+  "headword": "ièccule",
+  "senses": [
+    {
+      "it": "fune corta e sottile usata per fissare il carico sul basto (mmuaste)",
+      "en": "short thin rope used to secure the load on the packsaddle (mmuaste)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ièccule: fune corta e sottile usata per fissare il carico sul basto (mmuaste)",
+    "rawHash": "88ef05b9706810b2307e0a65a10c6856faeca92a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

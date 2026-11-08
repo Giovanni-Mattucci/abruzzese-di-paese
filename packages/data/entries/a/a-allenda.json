@@ -1,0 +1,39 @@
+{
+  "id": "a-allenda",
+  "headword": "allendà",
+  "variants": [
+    "allindè"
+  ],
+  "senses": [
+    {
+      "it": "porre termine",
+      "en": "to put an end to",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "allentare",
+      "en": "to loosen, to slacken",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "smettere",
+      "en": "to stop",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "finire",
+      "en": "to finish",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allendà, allindè: porre termine, allentare, smettere, finire",
+    "rawHash": "d9d54fbdbcbec23419b37d1b537e8bd4b7404567",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-armocceche",
+  "headword": "armòcceche",
+  "senses": [
+    {
+      "it": "che morde di nuovo, si adopera per dire a qualcuno che qualcosa di fastidioso lo sta tormentando",
+      "en": "that bites again; used to tell someone that something annoying is tormenting them",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "armòcceche: che morde di nuovo, si adopera per dire a qualcuno che qualcosa di fastidioso lo sta tormentando",
+    "rawHash": "7c9fe4b3715a48aa7d7f99b2d83bda68ffda796f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

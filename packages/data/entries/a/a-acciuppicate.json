@@ -1,0 +1,21 @@
+{
+  "id": "a-acciuppicate",
+  "headword": "acciuppicàte",
+  "senses": [
+    {
+      "it": "azzoppato",
+      "en": "lamed, made lame",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciuppicàte: azzoppato",
+    "rawHash": "4410b1659bb86293d48b640ff80298cadf080a5a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,31 @@
+{
+  "id": "s-schiatte",
+  "headword": "schiàtte",
+  "senses": [
+    {
+      "it": "muore",
+      "en": "he/she dies",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "muori",
+      "en": "die (imperative)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "crepa",
+      "en": "drop dead",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiàtte: muore, muori, crepa",
+    "rawHash": "1c29125e7813f3e3698615e3c3dcf059e95bd845",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

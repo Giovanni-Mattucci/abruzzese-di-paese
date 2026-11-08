@@ -1,0 +1,29 @@
+{
+  "id": "c-caparce",
+  "headword": "capàrce",
+  "variants": [
+    "capèrce"
+  ],
+  "senses": [
+    {
+      "it": "entrare (in un contenitore",
+      "en": "to fit (in a container)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "pe' n'tra' ju dentre bisogna capàrce, capèrce.)"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capàrce, capèrce: entrare (in un contenitore. Es: pe' n'tra' ju dentre bisogna capàrce, capèrce.)",
+    "rawHash": "f2e57a5c98fdedb96cd357f23b9611f2c166708d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

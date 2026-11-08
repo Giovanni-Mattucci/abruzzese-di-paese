@@ -1,0 +1,31 @@
+{
+  "id": "s-sciambrecone",
+  "headword": "sciambrecone",
+  "senses": [
+    {
+      "it": "detto di soggetto sciagurato",
+      "en": "said of a wretched person",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "alto e secco",
+      "en": "tall and thin",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "trascurato",
+      "en": "unkempt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciambrecone: detto di soggetto sciagurato, ma anche alto e secco, trascurato",
+    "rawHash": "d8a0a83098446c98cfafd0904764b5cfb3c21063",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

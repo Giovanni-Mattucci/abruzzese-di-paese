@@ -1,0 +1,26 @@
+{
+  "id": "a-argira",
+  "headword": "argirà",
+  "senses": [
+    {
+      "it": "rigirare",
+      "en": "to turn over, to turn around",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "raggirare",
+      "en": "to swindle, to deceive",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "argirà: rigirare, raggirare",
+    "rawHash": "48529d4f8174b3eecf0050c5be28ddafb296214a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

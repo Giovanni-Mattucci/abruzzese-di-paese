@@ -1,0 +1,21 @@
+{
+  "id": "b-biccacce",
+  "headword": "biccàcce",
+  "senses": [
+    {
+      "it": "beccaccia",
+      "en": "woodcock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "biccàcce: beccaccia",
+    "rawHash": "d0a84e0de8739ba567da0968582d7ee674cbc718",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-ciocchele",
+  "headword": "ciòcchele",
+  "senses": [
+    {
+      "it": "si dice delle cose inutile",
+      "en": "said of useless things",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciòcchele: si dice delle cose inutile",
+    "rawHash": "c2ab56c9c0411f63ad2d1c7502828b61750c408c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

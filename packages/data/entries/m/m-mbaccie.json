@@ -1,0 +1,26 @@
+{
+  "id": "m-mbaccie",
+  "headword": "'mbaccie",
+  "senses": [
+    {
+      "it": "vicino",
+      "en": "near",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "di fronte",
+      "en": "opposite, in front of",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbaccie: vicino, di fronte",
+    "rawHash": "a9bc8f9aa40e01353c11290a5f6d29df647908a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

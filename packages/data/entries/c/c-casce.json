@@ -1,0 +1,22 @@
+{
+  "id": "c-casce",
+  "headword": "càsce",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "formaggio",
+      "en": "cheese",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "càsce (lu): formaggio",
+    "rawHash": "b5c152e1366797ed0332dc21f7c0e6cf8652a57e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

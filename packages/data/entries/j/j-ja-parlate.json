@@ -1,0 +1,26 @@
+{
+  "id": "j-ja-parlate",
+  "headword": "ja parlate",
+  "senses": [
+    {
+      "it": "gli ha parlato",
+      "en": "he spoke to him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ha parlato con lui",
+      "en": "he talked with him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja parlate: gli ha parlato, ha parlato con lui",
+    "rawHash": "a152f4831edd766584fbadb5ed3d6635d718c24a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

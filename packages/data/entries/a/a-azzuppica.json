@@ -1,0 +1,21 @@
+{
+  "id": "a-azzuppica",
+  "headword": "azzuppicà",
+  "senses": [
+    {
+      "it": "azzoppare",
+      "en": "to lame, to cripple",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "azzuppicà: azzoppare",
+    "rawHash": "73f6e25f2a054860bb6f254142372d7fb30a3464",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

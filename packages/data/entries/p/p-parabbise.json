@@ -1,0 +1,21 @@
+{
+  "id": "p-parabbise",
+  "headword": "parabbìse",
+  "senses": [
+    {
+      "it": "sembra",
+      "en": "it seems",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "parabbìse: sembra",
+    "rawHash": "059431d2a1be516b01371dae8aa1f3fa9583aa5d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

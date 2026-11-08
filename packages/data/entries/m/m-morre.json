@@ -1,0 +1,35 @@
+{
+  "id": "m-morre",
+  "headword": "morre",
+  "senses": [
+    {
+      "it": "gruppo",
+      "en": "group",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "frotta di gente",
+      "en": "crowd of people",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "nugolo",
+      "en": "swarm",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Typo corrected in review: the source has \"grotta di gente\".",
+    "Source line: morre: gruppo, frotta, nugolo"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "morre: grotta di gente",
+    "rawHash": "2462b6b07a909e839d8e65c56f4e64720b07547c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

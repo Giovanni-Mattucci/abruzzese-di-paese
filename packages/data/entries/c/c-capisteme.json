@@ -1,0 +1,21 @@
+{
+  "id": "c-capisteme",
+  "headword": "capistème",
+  "senses": [
+    {
+      "it": "calpestiamo",
+      "en": "we trample",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capistème: calpestiamo",
+    "rawHash": "2f106c50f0c0e179dd1379ac8b121fe0d0b409ef",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

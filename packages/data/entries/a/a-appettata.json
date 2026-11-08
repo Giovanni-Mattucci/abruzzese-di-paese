@@ -1,0 +1,21 @@
+{
+  "id": "a-appettata",
+  "headword": "appettàta",
+  "senses": [
+    {
+      "it": "salita",
+      "en": "climb, uphill slope",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appettàta: salita",
+    "rawHash": "57465a8bf988e51653456ceef73236ab5caee301",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

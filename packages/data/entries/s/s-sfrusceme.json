@@ -1,0 +1,26 @@
+{
+  "id": "s-sfrusceme",
+  "headword": "sfruscème",
+  "senses": [
+    {
+      "it": "scialacquiamo",
+      "en": "we squander",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spendiamo",
+      "en": "we spend",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfruscème: scialacquiamo, spendiamo",
+    "rawHash": "03812769d59563e39d23ce2d76466652254a5b4b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "m-m-attocche",
+  "headword": "m' attòcche",
+  "senses": [
+    {
+      "it": "mi tocca",
+      "en": "it is my turn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tocca pure a me",
+      "en": "it is my turn too",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m' attòcche: mi tocca, tocca pure a me",
+    "rawHash": "ecd5fd00221a5daebc73f175132fab15d2a03c45",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-furesteca",
+  "headword": "furèsteca",
+  "senses": [
+    {
+      "it": "forestiera",
+      "en": "stranger, outsider (female)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "furèsteca: forestiera",
+    "rawHash": "9788d32d12cccce7d28a66f3293b374213cf8e48",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

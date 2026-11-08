@@ -1,0 +1,21 @@
+{
+  "id": "l-lerfone",
+  "headword": "lerfòne",
+  "senses": [
+    {
+      "it": "sberla",
+      "en": "slap, smack",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lerfòne: sberla",
+    "rawHash": "b65934c78ff74144067be47a07c40c38df506d42",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "z-zimba",
+  "headword": "zimba",
+  "senses": [
+    {
+      "it": "panno tessuto a mano",
+      "en": "hand-woven cloth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zimba: panno tessuto a mano",
+    "rawHash": "51fe6f60c909f3e5381684661054a14798dbf3f8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

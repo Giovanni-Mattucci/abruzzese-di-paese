@@ -1,0 +1,21 @@
+{
+  "id": "a-arbucche",
+  "headword": "arbùcche",
+  "senses": [
+    {
+      "it": "rabboccare (arbùcche la runchette: rifare il taglio alla falce )",
+      "en": "to top up (arbùcche la runchette: to re-sharpen the edge of the sickle)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arbùcche: rabboccare (arbùcche la runchette: rifare il taglio alla falce )",
+    "rawHash": "2f6d6c40718887c6874e40ea6e8334f92bfb2666",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

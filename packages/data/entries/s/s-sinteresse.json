@@ -1,0 +1,21 @@
+{
+  "id": "s-sinteresse",
+  "headword": "s'interèsse",
+  "senses": [
+    {
+      "it": "eredità",
+      "en": "inheritance",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "s'interèsse: eredità",
+    "rawHash": "ab39ee76c0c9e219d01d6f89c9d8d81d6febcc61",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

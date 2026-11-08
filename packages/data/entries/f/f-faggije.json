@@ -1,0 +1,21 @@
+{
+  "id": "f-faggije",
+  "headword": "faggìje",
+  "senses": [
+    {
+      "it": "falce",
+      "en": "scythe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "faggìje: falce",
+    "rawHash": "8739a848bb05001e188dc0c3f867f525ec08afbb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

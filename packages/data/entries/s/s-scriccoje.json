@@ -1,0 +1,29 @@
+{
+  "id": "s-scriccoje",
+  "headword": "scriccòje",
+  "senses": [
+    {
+      "it": "buccia",
+      "en": "peel, skin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "le scriccoje de pummadore",
+      "it": "la buccia del pomodoro",
+      "en": "the skin of the tomato",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scriccòje: buccia (es.: le scriccoje de pummadore: la buccia del pomodoro)",
+    "rawHash": "edb9750316cf1a1855995aaaff2c0156ef548739",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

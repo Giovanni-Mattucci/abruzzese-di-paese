@@ -1,0 +1,21 @@
+{
+  "id": "a-arbocche",
+  "headword": "arbocche",
+  "senses": [
+    {
+      "it": "rabbocca, aggiunge altro liquido a quello già esistente",
+      "en": "tops up, adds more liquid to what is already there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arbocche: rabbocca, aggiunge altro liquido a quello già esistente",
+    "rawHash": "9798e2682e9ee72d51fe984100ee48f831bf6c17",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

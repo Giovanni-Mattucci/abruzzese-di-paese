@@ -1,0 +1,21 @@
+{
+  "id": "a-assurbi",
+  "headword": "assurbì",
+  "senses": [
+    {
+      "it": "assorbire",
+      "en": "to absorb",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assurbì: assorbire",
+    "rawHash": "722155525ecc9fc27e6f6e67fb6acc6c21979fcb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vintresche",
+  "headword": "vintresche",
+  "senses": [
+    {
+      "it": "grasso e magro di maiale",
+      "en": "fat and lean pork",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vintresche: grasso e magro di maiale",
+    "rawHash": "27d14857b55111db62434e83132558713b6e1676",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

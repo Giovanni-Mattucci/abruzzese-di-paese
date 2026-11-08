@@ -1,0 +1,21 @@
+{
+  "id": "c-chienche",
+  "headword": "Chienche",
+  "senses": [
+    {
+      "it": "macelleria. Termine arcaico quasi in disuso, è d'importazione partenopea. L'origine della parola va ricercata nel basso latino ed in particolare nel termine \"planca\" (palanca, tavola lignea) che, in napoletano, divenne \"chianca\". Poiché originariamente l'esposizione e la vendita al minuto delle carni macellate avveniva tenendole poggiate su un tavolo di legno (una palanca, appunto), è facile risalire all'etimologia della parola: la macelleria è un luogo ove si trovino una o più tavole di legno",
+      "en": "butcher's shop. An archaic term almost out of use, imported from Naples. The origin of the word is to be sought in Low Latin, and in particular in the term \"planca\" (plank, wooden board), which in Neapolitan became \"chianca\". Since butchered meat was originally displayed and sold at retail resting on a wooden table (a plank, precisely), the etymology of the word is easy to trace: the butcher's shop is a place where one or more wooden boards are found",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "Chienche: macelleria. Termine arcaico quasi in disuso, è d'importazione partenopea. L'origine della parola va ricercata nel basso latino ed in particolare nel termine \"planca\" (palanca, tavola lignea) che, in napoletano, divenne \"chianca\". Poiché originariamente l'esposizione e la vendita al minuto delle carni macellate avveniva tenendole poggiate su un tavolo di legno (una palanca, appunto), è facile risalire all'etimologia della parola: la macelleria è un luogo ove si trovino una o più tavole di legno",
+    "rawHash": "6e78dbf1a303b62585643fc659523c846ec948c1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

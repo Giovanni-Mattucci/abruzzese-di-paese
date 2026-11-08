@@ -1,0 +1,24 @@
+{
+  "id": "c-cacigne",
+  "headword": "cacìgne",
+  "variants": [
+    "cascìgne"
+  ],
+  "senses": [
+    {
+      "it": "cicoria",
+      "en": "chicory",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cacìgne, cascìgne: cicoria",
+    "rawHash": "8672f96e0d0b563a4591bd29f2412b789e7e31ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a-ammasciate",
+  "headword": "ammasciate",
+  "senses": [
+    {
+      "it": "faccenda",
+      "en": "matter, business",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "commissione",
+      "en": "errand",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammasciate: faccenda, commissione",
+    "rawHash": "1013c2bec48344af1e6f83b7e503425c4d343dfe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

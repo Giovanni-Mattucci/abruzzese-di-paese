@@ -1,0 +1,21 @@
+{
+  "id": "s-saddonene",
+  "headword": "s'addònene",
+  "senses": [
+    {
+      "it": "si accorgono",
+      "en": "they notice, they realize",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "s'addònene: si accorgono",
+    "rawHash": "4f2361f24c57dfdb4e615a867e4f99e468c228b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

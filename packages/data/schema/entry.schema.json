@@ -1,0 +1,187 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Giovanni-Mattucci/abruzzese-di-paese/packages/data/schema/entry.schema.json",
+  "title": "Dictionary entry",
+  "description": "One dialect word or phrase. Stored at entries/{letter}/{id}.json; the file name must equal id and the folder must equal source.letter.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "headword", "senses", "source", "schemaVersion"],
+  "properties": {
+    "id": {
+      "description": "Unique slug: the source letter, a hyphen, then the headword in lower-case ASCII words joined by hyphens. Add -2, -3 for homographs. Must match the file name, e.g. a-are.",
+      "type": "string",
+      "pattern": "^[a-z]-[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "headword": {
+      "description": "The dialect word or phrase as it is spelled in the dictionary, without the article, e.g. are.",
+      "type": "string",
+      "minLength": 1
+    },
+    "variants": {
+      "description": "Other dialect spellings or forms of the headword, e.g. a plural or a regional variant.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "article": {
+      "description": "Dialect article recorded with the headword, e.g. lu, la, li, le.",
+      "type": "string",
+      "minLength": 1
+    },
+    "pos": {
+      "description": "Part of speech as an Italian dictionary abbreviation, e.g. s.m., s.f., v., agg., avv., prep. art., pron., cong., pl.",
+      "type": "string",
+      "minLength": 1
+    },
+    "pronunciation": {
+      "description": "Pronunciation hint written in plain letters, e.g. ajou. Not IPA.",
+      "type": "string",
+      "minLength": 1
+    },
+    "locality": {
+      "description": "Towns or areas where this form is recorded, e.g. Montebello sul Sangro. Leave out when the word is general.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "senses": {
+      "description": "Meanings of the headword, one object per meaning, most common first. Must not be empty unless tags includes needs-review.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["it"],
+        "properties": {
+          "it": {
+            "description": "Italian meaning. Plain text only: HTML and Markdown are shown literally.",
+            "type": "string",
+            "minLength": 1
+          },
+          "en": {
+            "description": "English meaning. Plain text only. Put the part of speech in pos, not here.",
+            "type": "string",
+            "minLength": 1
+          },
+          "enTranslateStatus": {
+            "description": "machine: unchecked machine translation, shown with an 'unverified' badge. reviewed: checked by a person.",
+            "type": "string",
+            "enum": ["machine", "reviewed"]
+          },
+          "notes": {
+            "description": "Short note about this meaning only, e.g. usage or register.",
+            "type": "string"
+          }
+        }
+      }
+    },
+    "examples": {
+      "description": "Usage examples in dialect, with optional Italian and English translations.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["abr"],
+        "properties": {
+          "abr": {
+            "description": "The example sentence in Abruzzese dialect.",
+            "type": "string",
+            "minLength": 1
+          },
+          "it": {
+            "description": "Italian translation of the example.",
+            "type": "string"
+          },
+          "en": {
+            "description": "English translation of the example, or null when there is none yet.",
+            "type": ["string", "null"]
+          },
+          "enTranslateStatus": {
+            "description": "machine: unchecked machine translation. reviewed: checked by a person.",
+            "type": "string",
+            "enum": ["machine", "reviewed"]
+          }
+        }
+      }
+    },
+    "etymology": {
+      "description": "Origin of the word, e.g. from Latin area.",
+      "type": "string"
+    },
+    "grammarNotes": {
+      "description": "Longer explanations shown as a collapsed note under the meanings: grammar, usage, cultural or local background. One paragraph per item.",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "description": "Editorial notes for maintainers, such as the original source line when an entry was split or corrected.",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "description": "Maintenance flags. needs-review: the entry is incomplete or uncertain (allows empty senses). possible-duplicate: may repeat another entry.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["needs-review", "possible-duplicate"]
+      }
+    },
+    "source": {
+      "description": "Where the entry was taken from. Keep as scraped; it links readers to the original line and detects duplicates.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["site", "letter", "url", "raw", "rawHash", "scrapedAt"],
+      "properties": {
+        "site": {
+          "description": "Source website. Always abruzzo.fm.",
+          "type": "string",
+          "const": "abruzzo.fm"
+        },
+        "letter": {
+          "description": "Letter page of the source dictionary. Must match the entries/ folder and the first letter of id.",
+          "type": "string",
+          "pattern": "^[a-z]$"
+        },
+        "url": {
+          "description": "URL of the source letter page.",
+          "type": "string",
+          "format": "uri"
+        },
+        "raw": {
+          "description": "The original source line, unchanged. Do not edit; correct the other fields instead.",
+          "type": "string",
+          "minLength": 1
+        },
+        "rawHash": {
+          "description": "SHA-1 hex digest of raw. Must be unique across entries; update it only if raw changes.",
+          "type": "string",
+          "pattern": "^[0-9a-f]{40}$"
+        },
+        "scrapedAt": {
+          "description": "Date the source line was scraped, as YYYY-MM-DD.",
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "contributors": {
+      "description": "GitHub usernames of people who edited this entry, e.g. Giovanni-Mattucci.",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "schemaVersion": {
+      "description": "Version of this schema. Always 1.",
+      "type": "integer",
+      "const": 1
+    }
+  }
+}

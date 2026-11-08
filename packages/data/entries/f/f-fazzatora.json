@@ -1,0 +1,21 @@
+{
+  "id": "f-fazzatora",
+  "headword": "fazzatora",
+  "senses": [
+    {
+      "it": "tavola per impastare",
+      "en": "kneading board",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fazzatora: tavola per impastare",
+    "rawHash": "5dd7a0a09b31f3b84499ce3cadb913ca6bee6e00",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

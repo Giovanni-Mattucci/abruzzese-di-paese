@@ -1,0 +1,24 @@
+{
+  "id": "r-riviltrizze",
+  "headword": "riviltrizze",
+  "senses": [
+    {
+      "it": "folata di vento, turbine. Il termine deriva probabilmente dalla parola rivoltare (dal latino revolùtus, participio passato di revòlvere, volgere indietro). Il vocabolo è solitamente usato quando si parla di un freddo vento invernale molto forte e che solleva addirittura la neve da terra",
+      "en": "gust of wind, whirlwind. The term probably derives from the word rivoltare (from Latin revolùtus, past participle of revòlvere, to turn back). The word is usually used when one speaks of a very strong, cold winter wind that even lifts the snow off the ground",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: parla di un freddo vento invernale molto forte e che solleva addirittura la neve da terra."
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "riviltrizze: folata di vento, turbine. Il termine deriva probabilmente dalla parola rivoltare (dal latino revolùtus, participio passato di revòlvere, volgere indietro). Il vocabolo è solitamente usato quando si",
+    "rawHash": "a579398d965a7cefc66cee776b70755e442709df",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

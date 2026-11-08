@@ -1,0 +1,21 @@
+{
+  "id": "p-pipindone-cucente",
+  "headword": "pipindòne cucènte",
+  "senses": [
+    {
+      "it": "peperone piccante",
+      "en": "hot pepper, chili pepper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pipindòne cucènte: peperone piccante",
+    "rawHash": "380912678c1d41ece0d7cccac1c4b82440064d47",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

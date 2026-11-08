@@ -1,0 +1,21 @@
+{
+  "id": "b-bumbardamente",
+  "headword": "bumbardamènte",
+  "senses": [
+    {
+      "it": "bombardamento",
+      "en": "bombing, bombardment",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bumbardamènte: bombardamento",
+    "rawHash": "8f44072eec87189bc8dbfa563f9e568d2f027f63",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

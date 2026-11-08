@@ -1,0 +1,21 @@
+{
+  "id": "s-strupelune",
+  "headword": "strupelune",
+  "senses": [
+    {
+      "it": "ciarpame",
+      "en": "junk, rubbish",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strupelune: ciarpame",
+    "rawHash": "cf458022059b79a2d831a70c2747937079697cc0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

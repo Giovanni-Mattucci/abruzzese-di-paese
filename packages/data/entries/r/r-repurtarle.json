@@ -1,0 +1,21 @@
+{
+  "id": "r-repurtarle",
+  "headword": "repurtarle",
+  "senses": [
+    {
+      "it": "riportarle",
+      "en": "to bring them back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "repurtarle: riportarle.",
+    "rawHash": "3f23fc8eac1ccc0774fee2cfb5bd17d3ca70d8bb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

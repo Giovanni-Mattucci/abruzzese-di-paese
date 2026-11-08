@@ -1,0 +1,21 @@
+{
+  "id": "s-sdirrinene",
+  "headword": "sdirrìnene",
+  "senses": [
+    {
+      "it": "picchiano",
+      "en": "they beat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdirrìnene: picchiano",
+    "rawHash": "a0734b395eeabb793956de9d6baede668b70b175",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

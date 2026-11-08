@@ -1,0 +1,21 @@
+{
+  "id": "a-accusa",
+  "headword": "accusà",
+  "senses": [
+    {
+      "it": "accusare",
+      "en": "to accuse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accusà: accusare",
+    "rawHash": "d717c80dcdc61810ca832807ef0bcecf1b8ef92e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

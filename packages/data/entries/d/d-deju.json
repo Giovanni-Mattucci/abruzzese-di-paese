@@ -1,0 +1,21 @@
+{
+  "id": "d-deju",
+  "headword": "deju",
+  "senses": [
+    {
+      "it": "del",
+      "en": "of the (masculine singular)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "deju: del",
+    "rawHash": "25004e8cb7361043df51e0df6bd2bf2358ce9595",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vicce-vicce",
+  "headword": "vicce vicce",
+  "senses": [
+    {
+      "it": "viscido viscido",
+      "en": "very slimy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vicce vicce: viscido viscido",
+    "rawHash": "19fb40f4e8b00506f5508eb2c422070c4d3e6407",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

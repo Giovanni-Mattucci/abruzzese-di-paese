@@ -1,0 +1,21 @@
+{
+  "id": "b-boffa-2",
+  "headword": "boffa",
+  "senses": [
+    {
+      "it": "sesso femminile",
+      "en": "female genitals",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "boffa: sesso femminile",
+    "rawHash": "0a2c879004af51f8ce2d3ac1af2c1ca9bed74f2f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

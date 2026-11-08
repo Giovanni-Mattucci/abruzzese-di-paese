@@ -1,0 +1,21 @@
+{
+  "id": "s-sbattamure",
+  "headword": "sbattamure",
+  "senses": [
+    {
+      "it": "gioco consistente nello sbattere qualcosa che rimbalza su di un muro, per ricadere vicino a una linea prefissata o come da accordo fra le parti",
+      "en": "game consisting of throwing something so that it bounces off a wall and lands near a set line, or as agreed between the players",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbattamure: gioco consistente nello sbattere qualcosa che rimbalza su di un muro, per ricadere vicino a una linea prefissata o come da accordo fra le parti",
+    "rawHash": "2872dcd1ab57e9bac303c568f788056bd604744a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

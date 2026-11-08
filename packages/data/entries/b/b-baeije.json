@@ -1,0 +1,22 @@
+{
+  "id": "b-baeije",
+  "headword": "baéije",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "baule",
+      "en": "trunk, chest",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "baéije (lu): baule",
+    "rawHash": "5b4772dfe1fa421212daaf7b57ce7e7b2e765ab9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

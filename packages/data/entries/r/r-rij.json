@@ -1,0 +1,21 @@
+{
+  "id": "r-rij",
+  "headword": "rìj",
+  "senses": [
+    {
+      "it": "ridi",
+      "en": "laugh, you laugh",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rìj: ridi",
+    "rawHash": "d879e1997362ca267684ba828b3c8975518248a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

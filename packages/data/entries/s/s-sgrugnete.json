@@ -1,0 +1,21 @@
+{
+  "id": "s-sgrugnete",
+  "headword": "sgrugnète",
+  "senses": [
+    {
+      "it": "graffiate",
+      "en": "you (plural) scratch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgrugnète: graffiate",
+    "rawHash": "b2a51c50e0ce5141d0f915efc8d7235ca260a979",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

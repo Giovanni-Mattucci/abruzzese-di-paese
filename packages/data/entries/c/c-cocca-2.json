@@ -1,0 +1,21 @@
+{
+  "id": "c-cocca-2",
+  "headword": "cocca",
+  "senses": [
+    {
+      "it": "gallo",
+      "en": "rooster",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cocca: gallo",
+    "rawHash": "285f582dceb279e10d3aa4e1492824169fd3785e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

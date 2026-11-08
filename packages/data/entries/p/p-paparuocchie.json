@@ -1,0 +1,21 @@
+{
+  "id": "p-paparuocchie",
+  "headword": "paparuocchie",
+  "senses": [
+    {
+      "it": "ragnatela",
+      "en": "spiderweb, cobweb",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paparuocchie: ragnatela",
+    "rawHash": "2e77cb295b59df3cd3e86b31592eedba4ffe9fd2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-capistorne",
+  "headword": "capistòrne",
+  "senses": [
+    {
+      "it": "capogiro",
+      "en": "dizziness, dizzy spell",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capistòrne: capogiro",
+    "rawHash": "cd058b460643bdb841b6f804e4803d0195f66a97",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

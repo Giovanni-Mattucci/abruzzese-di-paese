@@ -1,0 +1,21 @@
+{
+  "id": "u-uazze",
+  "headword": "uazze",
+  "senses": [
+    {
+      "it": "rugiada",
+      "en": "dew",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "uazze: rugiada",
+    "rawHash": "c26151997c021da0dd38ba76ac1a7adbd69a72a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

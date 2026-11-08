@@ -1,0 +1,21 @@
+{
+  "id": "c-crilla",
+  "headword": "crillà",
+  "senses": [
+    {
+      "it": "scricchiolare",
+      "en": "to creak",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crillà: scricchiolare",
+    "rawHash": "b13ba0d3970ef17251828adb99bc437aed69befb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-aute",
+  "headword": "àute",
+  "senses": [
+    {
+      "it": "contenitore di legno usato per il trasporto del pane",
+      "en": "wooden container used for carrying bread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "àute: contenitore di legno usato per il trasporto del pane",
+    "rawHash": "5eb2bcef84d984f1ab9d71258e993f946a166bc4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

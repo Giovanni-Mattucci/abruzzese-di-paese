@@ -1,0 +1,21 @@
+{
+  "id": "b-bbella",
+  "headword": "bbella",
+  "senses": [
+    {
+      "it": "bella ( na bbella cuccone: una bella donna )",
+      "en": "beautiful (na bbella cuccone: a beautiful woman)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbella : bella ( na bbella cuccone: una bella donna )",
+    "rawHash": "ed00957e33b48e9bf744ed6b6eca092a7862f93a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

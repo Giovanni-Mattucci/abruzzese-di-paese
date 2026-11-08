@@ -1,0 +1,21 @@
+{
+  "id": "s-sfriscia",
+  "headword": "sfriscià",
+  "senses": [
+    {
+      "it": "rigare una superfice",
+      "en": "to scratch a surface",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfriscià. rigare una superfice",
+    "rawHash": "4ed860174cc75cf676b4b0c0ff309867f608f453",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-culle-4",
+  "headword": "cullè",
+  "senses": [
+    {
+      "it": "quella - riferita a persona",
+      "en": "that one (feminine) - referring to a person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cullè: quella - riferita a persona",
+    "rawHash": "f04528186bf3b06affd0411a26352ca719ad5a72",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

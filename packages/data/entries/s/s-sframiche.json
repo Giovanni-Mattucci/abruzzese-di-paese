@@ -1,0 +1,21 @@
+{
+  "id": "s-sframiche",
+  "headword": "sfràmiche",
+  "senses": [
+    {
+      "it": "sbriciolo",
+      "en": "I crumble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfràmiche: sbriciolo",
+    "rawHash": "fcbcc67191515a08d489250513286da4fa629633",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

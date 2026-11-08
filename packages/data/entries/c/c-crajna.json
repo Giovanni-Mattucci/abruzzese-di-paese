@@ -1,0 +1,21 @@
+{
+  "id": "c-crajna",
+  "headword": "cràjna",
+  "senses": [
+    {
+      "it": "piccone",
+      "en": "pickaxe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cràjna: piccone",
+    "rawHash": "4cd4a452fc9c349d2bfcb60d1172fabc50cc5919",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

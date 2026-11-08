@@ -1,0 +1,21 @@
+{
+  "id": "r-reoplane",
+  "headword": "reoplane",
+  "senses": [
+    {
+      "it": "aeroplano",
+      "en": "aeroplane",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "reoplane: aeroplano",
+    "rawHash": "2c6c4366f1f3b6676657c2d3c2b4107d5e44ea10",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

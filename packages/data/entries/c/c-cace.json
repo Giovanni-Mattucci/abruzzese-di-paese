@@ -1,0 +1,21 @@
+{
+  "id": "c-cace",
+  "headword": "cace",
+  "senses": [
+    {
+      "it": "formaggio",
+      "en": "cheese",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cace: formaggio",
+    "rawHash": "33088ce9e80a8687bd8ecf1510d1ebdff475b403",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

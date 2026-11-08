@@ -1,0 +1,32 @@
+{
+  "id": "c-caccinelle",
+  "headword": "caccinelle",
+  "variants": [
+    "cacciunèlle"
+  ],
+  "senses": [
+    {
+      "it": "cucciolo",
+      "en": "puppy",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cagnolino",
+      "en": "little dog",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: cacciunèlle cucciolo, cagnolino"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caccinelle, cacciunelle: cucciolo",
+    "rawHash": "d3b5cf23fff9620376470e225d9816c3faa5f30a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

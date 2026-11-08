@@ -1,0 +1,29 @@
+{
+  "id": "p-pute",
+  "headword": "pute'",
+  "senses": [
+    {
+      "it": "potere",
+      "en": "to be able",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "inteso come verbo",
+      "en": "understood as a verb",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j pozze, tu pu'. esse po', nu putème, vu putète, isse ponne. Io posso, tu puoi, egli può, noi possiamo, voi potete, essi possono)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pute': potere, inteso come verbo ( j pozze, tu pu'. esse po', nu putème, vu putète, isse ponne. Io posso, tu puoi, egli può, noi possiamo, voi potete, essi possono)",
+    "rawHash": "5962ef617e7c84768c09c0ebcc0e90ccf5351122",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

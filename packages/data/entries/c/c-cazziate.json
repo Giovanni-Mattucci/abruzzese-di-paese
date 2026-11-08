@@ -1,0 +1,26 @@
+{
+  "id": "c-cazziate",
+  "headword": "cazziàte",
+  "senses": [
+    {
+      "it": "forte rimprovero",
+      "en": "harsh reprimand",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sgridata",
+      "en": "scolding",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cazziàte: forte rimprovero, sgridata",
+    "rawHash": "5d600d56f6ed10b28fa68d586aa0a0c7db03079f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

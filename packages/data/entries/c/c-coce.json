@@ -1,0 +1,21 @@
+{
+  "id": "c-coce",
+  "headword": "còce",
+  "senses": [
+    {
+      "it": "scotta",
+      "en": "it burns, it is scalding hot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "còce: scotta",
+    "rawHash": "9210c854da8aac3f3d77590854c317db599ac919",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b-bencunte",
+  "headword": "bencunte",
+  "senses": [
+    {
+      "it": "insomma",
+      "en": "in short, well then",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bencunte: insomma",
+    "rawHash": "07f3f15e095e512c3b619a325e6b4daf210950b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

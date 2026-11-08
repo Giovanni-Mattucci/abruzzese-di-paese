@@ -1,0 +1,24 @@
+{
+  "id": "c-chaja-fa-ca",
+  "headword": "ch'aja fà",
+  "variants": [
+    "ca jia fà"
+  ],
+  "senses": [
+    {
+      "it": "che devo fare",
+      "en": "what must I do",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ch'aja fà, ca jia fà che devo fare",
+    "rawHash": "f49c788c1c217525a7ebd8c7687f6e5b607329fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-piccantu",
+  "headword": "piccantù",
+  "senses": [
+    {
+      "it": "ghiacciolo",
+      "en": "icicle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piccantù: ghiacciolo",
+    "rawHash": "7f1fe32f13b52e6455a26450502cde36f754d907",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

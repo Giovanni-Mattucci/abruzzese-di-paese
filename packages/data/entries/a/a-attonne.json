@@ -1,0 +1,21 @@
+{
+  "id": "a-attonne",
+  "headword": "attonne",
+  "senses": [
+    {
+      "it": "netto, reciso (si dice del taglio)",
+      "en": "clean, sharp (said of a cut)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "attonne: netto, reciso (si dice del taglio).",
+    "rawHash": "7b78bc0c0fe13c43fa490b939482fd03abb961ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

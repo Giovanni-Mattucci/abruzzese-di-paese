@@ -1,0 +1,21 @@
+{
+  "id": "a-angene",
+  "headword": "angene",
+  "senses": [
+    {
+      "it": "bastone di legno",
+      "en": "wooden stick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "angene: bastone di legno",
+    "rawHash": "339c7de5eeb223bc829539263ed6085e824a783f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

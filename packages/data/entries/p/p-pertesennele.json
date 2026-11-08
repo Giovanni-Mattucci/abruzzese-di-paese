@@ -1,0 +1,22 @@
+{
+  "id": "p-pertesennele",
+  "headword": "pertesennele",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "prezzemolo",
+      "en": "parsley",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pertesennele (lu): prezzemolo",
+    "rawHash": "8850c677a0cdb5dff0006220da5686d12cbdba6a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

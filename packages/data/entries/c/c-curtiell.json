@@ -1,0 +1,24 @@
+{
+  "id": "c-curtiell",
+  "headword": "curtiell",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "coltello",
+      "en": "knife",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "curtiell: coltello (M. sul S.)",
+    "rawHash": "181fd7d218136be22b0bf5f35777161f8597d728",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

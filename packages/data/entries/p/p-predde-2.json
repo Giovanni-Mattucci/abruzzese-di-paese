@@ -1,0 +1,21 @@
+{
+  "id": "p-predde-2",
+  "headword": "prèdde",
+  "senses": [
+    {
+      "it": "tipico arnese che serviva per tenere sollevate le coperte dal letto ed inserirvi un braciere per riscaldarlo",
+      "en": "typical implement used to hold the blankets raised off the bed so that a brazier could be placed inside to warm it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prèdde: tipico arnese che serviva per tenere sollevate le coperte dal letto ed inserirvi un braciere per riscaldarlo",
+    "rawHash": "ea51621b4be79855c8b5e9e13214eea7a1c44848",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

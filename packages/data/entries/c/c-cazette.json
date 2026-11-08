@@ -1,0 +1,21 @@
+{
+  "id": "c-cazette",
+  "headword": "cazètte",
+  "senses": [
+    {
+      "it": "calze",
+      "en": "socks, stockings",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cazètte: calze",
+    "rawHash": "1445a2a439aaa2a4c7b77afbafc166c0e3f5b541",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

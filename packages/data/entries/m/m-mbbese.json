@@ -1,0 +1,26 @@
+{
+  "id": "m-mbbese",
+  "headword": "'mbbese",
+  "senses": [
+    {
+      "it": "appendere",
+      "en": "to hang (up)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "impiccare",
+      "en": "to hang (execute)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbbese: appendere, impiccare.",
+    "rawHash": "9727b98d6eeace373aa038bc74b36422b0301074",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sciore",
+  "headword": "sciòre",
+  "senses": [
+    {
+      "it": "nonno",
+      "en": "grandfather",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciòre: nonno",
+    "rawHash": "e09f1bf140743cec848568eb316c98fb8a5b0cff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

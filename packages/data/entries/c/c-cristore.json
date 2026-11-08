@@ -1,0 +1,21 @@
+{
+  "id": "c-cristore",
+  "headword": "cristore",
+  "senses": [
+    {
+      "it": "scopa, realizzata di solito legando insieme, intorno ad un bastone, alcune piante di ginestra",
+      "en": "broom, usually made by tying together some broom plants around a stick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cristore: scopa, realizzata di solito legando insieme, intorno ad un bastone, alcune piante di ginestra",
+    "rawHash": "07c222f5e40334c4e5755e7f3bd74887a7ffc086",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

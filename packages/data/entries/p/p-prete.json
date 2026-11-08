@@ -1,0 +1,26 @@
+{
+  "id": "p-prete",
+  "headword": "prète",
+  "senses": [
+    {
+      "it": "pietra",
+      "en": "stone",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sasso",
+      "en": "rock, pebble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prète: pietra, sasso",
+    "rawHash": "7a21e7c569736929bed5c7ef56840282fef9a2f7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

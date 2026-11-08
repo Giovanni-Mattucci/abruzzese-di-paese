@@ -1,0 +1,21 @@
+{
+  "id": "v-vallanza",
+  "headword": "vallanza",
+  "senses": [
+    {
+      "it": "confidenza",
+      "en": "familiarity, confidence",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vallanza: confidenza",
+    "rawHash": "a5feb13625cdf14f77c61f56e4407a21143523d3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a-allina",
+  "headword": "allìna",
+  "variants": [
+    "hallìna"
+  ],
+  "senses": [
+    {
+      "it": "gallina",
+      "en": "hen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allìna, hallìna: gallina",
+    "rawHash": "461c6624b2565b3b1f20eed7589e04804d909e75",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

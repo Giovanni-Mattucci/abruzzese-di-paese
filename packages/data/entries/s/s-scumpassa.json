@@ -1,0 +1,26 @@
+{
+  "id": "s-scumpassa",
+  "headword": "scumpassà",
+  "senses": [
+    {
+      "it": "superare",
+      "en": "to surpass",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sorpassare",
+      "en": "to overtake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scumpassà: superare, sorpassare",
+    "rawHash": "cd110326d9467686d3ae82ffd6200f021e08e7ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

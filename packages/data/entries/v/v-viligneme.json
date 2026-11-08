@@ -1,0 +1,21 @@
+{
+  "id": "v-viligneme",
+  "headword": "vilignème",
+  "senses": [
+    {
+      "it": "vendemmiamo",
+      "en": "we harvest grapes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vilignème: vendemmiamo",
+    "rawHash": "8295767c4d2af5343de0262194b80c64e56f9d18",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

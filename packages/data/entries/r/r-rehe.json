@@ -1,0 +1,22 @@
+{
+  "id": "r-rehe",
+  "headword": "réhe",
+  "article": "la",
+  "senses": [
+    {
+      "it": "vicolo",
+      "en": "alley, lane",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "réhe (la): vicolo",
+    "rawHash": "f7bf0618b710adaa7c9343d3a8cc2e47dd149a46",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-coppele",
+  "headword": "còppele",
+  "senses": [
+    {
+      "it": "berretto",
+      "en": "cap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "còppele : berretto",
+    "rawHash": "4295e0c017a4e526a97bb55fdb38514ef8ed9429",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

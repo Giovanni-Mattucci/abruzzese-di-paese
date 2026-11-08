@@ -1,0 +1,31 @@
+{
+  "id": "c-ciarfajeve",
+  "headword": "ciarfajeve",
+  "senses": [
+    {
+      "it": "raccontare",
+      "en": "to tell, to recount",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "quasi fantasticando",
+      "en": "almost fantasising",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mitizzando",
+      "en": "mythologising",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciarfajeve: raccontare, quasi fantasticando, mitizzando.",
+    "rawHash": "59d8695665d74dbb2a38e2e332d723c3875a80ad",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

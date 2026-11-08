@@ -1,0 +1,21 @@
+{
+  "id": "n-natrichettante",
+  "headword": "n'atrichettante",
+  "senses": [
+    {
+      "it": "altrettanto",
+      "en": "as much, likewise",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "n'atrichettante: altrettanto",
+    "rawHash": "7a436a1e47309c119bd1ca8d7d34c60e5e7214d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

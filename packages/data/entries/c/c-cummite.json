@@ -1,0 +1,21 @@
+{
+  "id": "c-cummite",
+  "headword": "cummite",
+  "senses": [
+    {
+      "it": "scampagnata",
+      "en": "outing in the countryside, picnic",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummite: scampagnata",
+    "rawHash": "b13eb5f5a8ae76731b2c21df8db5268d64b82d39",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-treschenne",
+  "headword": "treschènne",
+  "senses": [
+    {
+      "it": "trebbiando",
+      "en": "threshing (gerund)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "treschènne: trebbiando",
+    "rawHash": "670147f01f8827b4345630ee8d97cc8370d0ab14",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

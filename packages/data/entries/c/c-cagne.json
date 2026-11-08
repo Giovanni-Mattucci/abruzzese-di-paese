@@ -1,0 +1,31 @@
+{
+  "id": "c-cagne",
+  "headword": "cagne",
+  "senses": [
+    {
+      "it": "cambio",
+      "en": "change, exchange",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cambiare",
+      "en": "to change",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "(cagne jòche: cambia gioco)",
+      "en": "(cagne jòche: change the game)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cagne: cambio, cambiare, (cagne jòche: cambia gioco)",
+    "rawHash": "62920bc220b82b70e8a594ae24f9bb430b59a4a4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

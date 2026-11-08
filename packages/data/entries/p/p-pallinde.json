@@ -1,0 +1,21 @@
+{
+  "id": "p-pallinde",
+  "headword": "pallinde",
+  "senses": [
+    {
+      "it": "ciotoli",
+      "en": "pebbles",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pallinde: ciotoli",
+    "rawHash": "b0b50df0d0a34c1a5b75c3c05672cabf3730e263",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

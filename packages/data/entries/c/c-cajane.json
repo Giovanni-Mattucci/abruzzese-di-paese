@@ -1,0 +1,21 @@
+{
+  "id": "c-cajane",
+  "headword": "cajàne",
+  "senses": [
+    {
+      "it": "gabbiano, ma si si dice così anche di un tipo di cappello",
+      "en": "seagull, but also said of a type of hat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cajàne: gabbiano, ma si si dice così anche di un tipo di cappello",
+    "rawHash": "3700c4d0c784929d11039021b10cc749c89ad53d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

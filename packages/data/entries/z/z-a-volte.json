@@ -1,0 +1,21 @@
+{
+  "id": "z-a-volte",
+  "headword": "( a volte",
+  "senses": [
+    {
+      "it": "attend' a la zambogne = sta attenta alla tua pelle, alla tua vita)",
+      "en": "attend' a la zambogne = watch out for your skin, for your life)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "( a volte : attend' a la zambogne = sta attenta alla tua pelle, alla tua vita)",
+    "rawHash": "2115e3b78f5fb2a4b282fcf4eab5ddb1b39ea0e8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

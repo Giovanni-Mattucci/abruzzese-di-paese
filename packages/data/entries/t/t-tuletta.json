@@ -1,0 +1,21 @@
+{
+  "id": "t-tuletta",
+  "headword": "tuletta",
+  "senses": [
+    {
+      "it": "toletta",
+      "en": "dressing table, toilette",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tuletta: toletta",
+    "rawHash": "000a9b917486007f0f3870103f0557344d231dc7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

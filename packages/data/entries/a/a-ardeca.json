@@ -1,0 +1,27 @@
+{
+  "id": "a-ardeca",
+  "headword": "ardeca",
+  "variants": [
+    "ardeche"
+  ],
+  "senses": [
+    {
+      "it": "ortica",
+      "en": "nettle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: ardeche: ortica"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardeca, ardeche: ortica",
+    "rawHash": "be425d4ac5d947e191c4b0af0cb42749b932b181",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

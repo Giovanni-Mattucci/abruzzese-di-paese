@@ -1,0 +1,26 @@
+{
+  "id": "c-ciavucuate",
+  "headword": "ciavucuate",
+  "senses": [
+    {
+      "it": "bucato",
+      "en": "holed, pierced",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "perforato",
+      "en": "perforated",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciavucuate: bucato, perforato",
+    "rawHash": "302d4a496ebbf557fa91d3bddf8bfa0549f2100d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

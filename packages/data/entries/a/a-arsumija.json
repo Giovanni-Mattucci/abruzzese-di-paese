@@ -1,0 +1,29 @@
+{
+  "id": "a-arsumija",
+  "headword": "arsumijà",
+  "variants": [
+    "arsumij'"
+  ],
+  "senses": [
+    {
+      "it": "rassomigliare",
+      "en": "to resemble",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "somigliare",
+      "en": "to look like",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arsumijà, arsumij': rassomigliare, somigliare",
+    "rawHash": "420155360d0876b5f0717c9a73cdd740edeb2c8f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

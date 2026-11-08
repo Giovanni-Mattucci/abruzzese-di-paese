@@ -1,0 +1,21 @@
+{
+  "id": "a-arvineje",
+  "headword": "arvinèje",
+  "senses": [
+    {
+      "it": "tornava",
+      "en": "was coming back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arvinèje: tornava",
+    "rawHash": "8fecb267ffcc0795592078a3e41634b8301c7c61",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

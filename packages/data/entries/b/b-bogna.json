@@ -1,0 +1,26 @@
+{
+  "id": "b-bogna",
+  "headword": "bògna",
+  "senses": [
+    {
+      "it": "gonfiore",
+      "en": "swelling",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bubbone",
+      "en": "bubo, boil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bògna: gonfiore, bubbone",
+    "rawHash": "c182ab6fd8d55744607fcdf66fd330611a6d0c36",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

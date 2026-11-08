@@ -1,0 +1,21 @@
+{
+  "id": "m-murtale",
+  "headword": "murtale",
+  "senses": [
+    {
+      "it": "mortaio",
+      "en": "mortar",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "murtale: mortaio",
+    "rawHash": "7c85dabf153228fc4e1323a30af113debea01db5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

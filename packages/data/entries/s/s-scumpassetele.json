@@ -1,0 +1,26 @@
+{
+  "id": "s-scumpassetele",
+  "headword": "scumpassètele",
+  "senses": [
+    {
+      "it": "superatelo",
+      "en": "surpass him (pl.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sorpassatelo",
+      "en": "overtake him (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scumpassètele: superatelo, sorpassatelo",
+    "rawHash": "d6f17e86b322bd2637bf99bee44d2080a776deb4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

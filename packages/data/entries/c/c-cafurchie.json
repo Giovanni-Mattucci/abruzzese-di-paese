@@ -1,0 +1,22 @@
+{
+  "id": "c-cafurchie",
+  "headword": "cafurchie",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "stamberga",
+      "en": "hovel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cafurchie (lu): stamberga",
+    "rawHash": "bd7c78305f1ed6c033cbb48821ea7286c7e40073",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

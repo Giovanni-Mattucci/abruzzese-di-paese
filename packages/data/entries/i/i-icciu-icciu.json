@@ -1,0 +1,21 @@
+{
+  "id": "i-icciu-icciu",
+  "headword": "icciu - icciu",
+  "senses": [
+    {
+      "it": "paura",
+      "en": "fear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "icciu - icciu: paura",
+    "rawHash": "cee7e1dfe3b7511f8d595321aa92d0c53f64e4d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

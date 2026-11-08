@@ -1,0 +1,21 @@
+{
+  "id": "z-zizzittu",
+  "headword": "zizzìttu",
+  "senses": [
+    {
+      "it": "fazzoletto annodato",
+      "en": "knotted handkerchief",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zizzìttu: fazzoletto annodato",
+    "rawHash": "d019d280f43070b5e337e2280fa8d295f784cbdc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

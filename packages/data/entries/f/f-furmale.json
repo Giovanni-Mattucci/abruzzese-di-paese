@@ -1,0 +1,22 @@
+{
+  "id": "f-furmale",
+  "headword": "furmale",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "canale per l'acqua",
+      "en": "water channel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "furmale (lu): canale per l'acqua",
+    "rawHash": "09c6ebaa8f5d90c6ed0c75780202a670a3599d59",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

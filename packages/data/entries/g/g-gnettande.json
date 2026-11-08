@@ -1,0 +1,21 @@
+{
+  "id": "g-gnettande",
+  "headword": "gnettande",
+  "senses": [
+    {
+      "it": "come tanti",
+      "en": "like many others",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnettande: come tanti",
+    "rawHash": "1014603ba476ccd96cc0aec1ea202e724cee420c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

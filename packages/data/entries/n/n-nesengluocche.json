@@ -1,0 +1,21 @@
+{
+  "id": "n-nesengluocche",
+  "headword": "nesengluocche",
+  "senses": [
+    {
+      "it": "pianta commestibile",
+      "en": "edible plant",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nesengluocche: pianta commestibile",
+    "rawHash": "3aed40864afd64aceef6b992a43343ea7dd4dd60",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

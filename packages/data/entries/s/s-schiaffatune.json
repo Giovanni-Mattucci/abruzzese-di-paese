@@ -1,0 +1,21 @@
+{
+  "id": "s-schiaffatune",
+  "headword": "schiaffatune",
+  "senses": [
+    {
+      "it": "schiaffi",
+      "en": "slaps",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiaffatune: schiaffi",
+    "rawHash": "aa1832a4f24f690e222e16c7f4fc31ff25e32a19",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

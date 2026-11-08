@@ -1,0 +1,21 @@
+{
+  "id": "p-pappafiche",
+  "headword": "pappafiche",
+  "senses": [
+    {
+      "it": "asta di legno adoperata per sostenere il fieno",
+      "en": "wooden pole used to support hay",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pappafiche: asta di legno adoperata per sostenere il fieno",
+    "rawHash": "2d076540c1130762f025db5c0ab53c549f4a4c32",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

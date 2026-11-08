@@ -1,0 +1,26 @@
+{
+  "id": "n-nguculeteve",
+  "headword": "'nguculèteve",
+  "senses": [
+    {
+      "it": "abbassatevi",
+      "en": "crouch down (plural)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "piegatevi sulle ginocchia",
+      "en": "bend at the knees (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nguculèteve: abbassatevi, piegatevi sulle ginocchia",
+    "rawHash": "8525f6d95a88f0ffcc14143c9cc2d1e01f9a5da4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-capadduzie",
+  "headword": "capaddùzie",
+  "senses": [
+    {
+      "it": "capopopolo",
+      "en": "leader of the people, demagogue",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capaddùzie: capopopolo",
+    "rawHash": "ee2e0213b93f933cbc91f7427135fa29a6a4aa7d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

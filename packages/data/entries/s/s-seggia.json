@@ -1,0 +1,21 @@
+{
+  "id": "s-seggia",
+  "headword": "sèggia",
+  "senses": [
+    {
+      "it": "sedia",
+      "en": "chair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sèggia: sedia",
+    "rawHash": "8c8f7b5c509cb73f407b1a03f3d1bddfb957ba3d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

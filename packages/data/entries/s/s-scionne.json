@@ -1,0 +1,21 @@
+{
+  "id": "s-scionne",
+  "headword": "sciònne",
+  "senses": [
+    {
+      "it": "ala",
+      "en": "wing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciònne: ala",
+    "rawHash": "3a1c62393adea9f5f1c77a7a60d75596fe1a4ea3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

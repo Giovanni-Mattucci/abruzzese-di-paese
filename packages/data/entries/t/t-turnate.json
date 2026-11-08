@@ -1,0 +1,31 @@
+{
+  "id": "t-turnate",
+  "headword": "turnate",
+  "senses": [
+    {
+      "it": "tornante",
+      "en": "hairpin bend",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "svolta alla sommità",
+      "en": "turn at the summit",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "il punto più alto",
+      "en": "the highest point",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "turnate: tornante, svolta alla sommità, il punto più alto",
+    "rawHash": "45486a313ac4a852b71e6f4947f3b6708d3f4b84",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

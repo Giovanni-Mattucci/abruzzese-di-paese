@@ -1,0 +1,21 @@
+{
+  "id": "s-spingula",
+  "headword": "spingula",
+  "senses": [
+    {
+      "it": "spilla",
+      "en": "pin, brooch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spingula: spilla",
+    "rawHash": "b30af9c8f71093440237d1af61c6d4c65c2a09ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

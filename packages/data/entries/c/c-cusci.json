@@ -1,0 +1,27 @@
+{
+  "id": "c-cusci",
+  "headword": "cuscì",
+  "variants": [
+    "accuscì"
+  ],
+  "senses": [
+    {
+      "it": "così",
+      "en": "so, thus",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: accuscì: così"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuscì, accuscì: così",
+    "rawHash": "78fc1a602e894549c7798051ecdd4539cedf35ac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

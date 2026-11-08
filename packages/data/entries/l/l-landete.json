@@ -1,0 +1,21 @@
+{
+  "id": "l-landete",
+  "headword": "landète",
+  "senses": [
+    {
+      "it": "lasciate",
+      "en": "you leave (pl.), leave!",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "landète: lasciate",
+    "rawHash": "617477cd0f0822dd988940de475d226f452c99de",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cuppine",
+  "headword": "cuppìne",
+  "senses": [
+    {
+      "it": "schiaffo",
+      "en": "slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuppìne: schiaffo",
+    "rawHash": "8538c5d6179b6c538c9dc4dd65bcd85698518e5c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

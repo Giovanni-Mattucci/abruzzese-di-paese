@@ -1,0 +1,24 @@
+{
+  "id": "b-bbre",
+  "headword": "bbré",
+  "variants": [
+    "bbrèhe"
+  ],
+  "senses": [
+    {
+      "it": "talismano, amuleto che si porta al collo contro ogni fattura",
+      "en": "talisman, amulet worn around the neck against any spell",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbré, bbrèhe: talismano, amuleto che si porta al collo contro ogni fattura",
+    "rawHash": "0536d1f07ddb6abe55533b92d708ba46c21f428a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

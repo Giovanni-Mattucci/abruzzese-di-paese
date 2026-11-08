@@ -1,0 +1,21 @@
+{
+  "id": "a-ammuccua",
+  "headword": "ammuccuà",
+  "senses": [
+    {
+      "it": "capovolgere",
+      "en": "to overturn, to turn upside down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammuccuà: capovolgere",
+    "rawHash": "9534caebe03f4ab640d13e43ab6c7f5a87700656",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

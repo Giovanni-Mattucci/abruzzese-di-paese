@@ -1,0 +1,21 @@
+{
+  "id": "s-sacicce",
+  "headword": "sacìcce",
+  "senses": [
+    {
+      "it": "salsiccia",
+      "en": "sausage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sacìcce: salsiccia",
+    "rawHash": "624ec6fe8f8e09498a9128771ea7348684e84f44",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f-felarelle",
+  "headword": "felarélle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "arcolaio",
+      "en": "yarn winder, reel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "felarélle (lu): arcolaio",
+    "rawHash": "48e7dc9023451747d116db52ab8eb6c6a4d41722",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

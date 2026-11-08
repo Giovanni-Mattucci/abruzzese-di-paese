@@ -1,0 +1,26 @@
+{
+  "id": "l-leccamusse",
+  "headword": "leccamusse",
+  "senses": [
+    {
+      "it": "schiaffo",
+      "en": "slap",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "manrovescio. Letteralmente: lecca muso",
+      "en": "backhanded slap. Literally: lick-snout",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "leccamusse: schiaffo, manrovescio. Letteralmente: lecca muso",
+    "rawHash": "c57f93ce758a28d2644422a6069d3063bdd863a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-muccica",
+  "headword": "muccicà",
+  "senses": [
+    {
+      "it": "mordere",
+      "en": "to bite",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muccicà: mordere",
+    "rawHash": "e96d679d0d7b093361e18b5715c4007e8bf162df",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "m-murgene",
+  "headword": "murgêne",
+  "article": "la",
+  "senses": [
+    {
+      "it": "donna scontrosa",
+      "en": "surly, grumpy woman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "murgêne (la): donna scontrosa",
+    "rawHash": "1ea2052484e94177ed599d32b63e25775866ca68",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

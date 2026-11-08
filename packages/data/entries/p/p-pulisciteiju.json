@@ -1,0 +1,21 @@
+{
+  "id": "p-pulisciteiju",
+  "headword": "puliscitèiju",
+  "senses": [
+    {
+      "it": "puliscitelo tu",
+      "en": "clean it yourself",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "puliscitèiju: puliscitelo tu",
+    "rawHash": "2d15975f86a8ac9c2c01c2f1fabc8a7dd57692ed",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

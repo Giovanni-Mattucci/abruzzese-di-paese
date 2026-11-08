@@ -1,0 +1,21 @@
+{
+  "id": "t-trezzechi",
+  "headword": "trezzechì",
+  "senses": [
+    {
+      "it": "dondolare",
+      "en": "to swing, to rock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trezzechì: dondolare",
+    "rawHash": "8fda72f69ae78f1c55fc9d1753b013bb23395818",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "n-nserra",
+  "headword": "'nserrà",
+  "senses": [
+    {
+      "it": "chiudere",
+      "en": "to close, to shut",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nserrà: chiudere",
+    "rawHash": "e5f7081ce0c30825e90bdecfbb89f938c9093555",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

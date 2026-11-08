@@ -1,0 +1,21 @@
+{
+  "id": "v-vistajje",
+  "headword": "vistajje",
+  "senses": [
+    {
+      "it": "vestaglia",
+      "en": "dressing gown",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vistajje: vestaglia",
+    "rawHash": "31b9670c1169ee2e0cfff403a83acb413e24ea97",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

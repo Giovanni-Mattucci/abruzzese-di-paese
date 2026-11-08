@@ -1,0 +1,26 @@
+{
+  "id": "d-dote",
+  "headword": "dote",
+  "senses": [
+    {
+      "it": "donazione",
+      "en": "donation",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dote",
+      "en": "dowry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dote: donazione, dote",
+    "rawHash": "486d7445b9250693621ed275fd1f26e5ca2b5058",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

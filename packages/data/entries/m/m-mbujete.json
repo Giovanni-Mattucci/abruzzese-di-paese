@@ -1,0 +1,21 @@
+{
+  "id": "m-mbujete",
+  "headword": "'mbùjete",
+  "senses": [
+    {
+      "it": "fermati",
+      "en": "stop (imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbùjete: fermati",
+    "rawHash": "103acc8a5ac197fd2f75d1debfeaaf3b72558bbd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "l-lecena",
+  "headword": "lècena",
+  "senses": [
+    {
+      "it": "prugna",
+      "en": "plum",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lècena: prugna",
+    "rawHash": "c9055db1054534b6d96b7d1d158901b7a6af62d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

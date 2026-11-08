@@ -1,0 +1,21 @@
+{
+  "id": "s-saje",
+  "headword": "saje",
+  "senses": [
+    {
+      "it": "sali",
+      "en": "go up, you go up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "saje: sali",
+    "rawHash": "3e6e196b8f47ae7d9f43d90e333c087a1a4200ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

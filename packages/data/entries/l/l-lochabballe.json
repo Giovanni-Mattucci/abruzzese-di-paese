@@ -1,0 +1,21 @@
+{
+  "id": "l-lochabballe",
+  "headword": "loch'abballe",
+  "senses": [
+    {
+      "it": "laggiù (distante)",
+      "en": "down there (far away)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "loch'abballe: laggiù (distante)",
+    "rawHash": "2c67c90d9a3a35c9b4d6f98ceefa34339c1fd73f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

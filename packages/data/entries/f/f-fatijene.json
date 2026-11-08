@@ -1,0 +1,21 @@
+{
+  "id": "f-fatijene",
+  "headword": "fatìjene",
+  "senses": [
+    {
+      "it": "lavorano",
+      "en": "they work",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fatìjene: lavorano",
+    "rawHash": "7201a38fcba743330d71cdb9baeb1e9fec39724e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

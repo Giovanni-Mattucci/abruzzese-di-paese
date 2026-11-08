@@ -1,0 +1,21 @@
+{
+  "id": "b-bbardisce",
+  "headword": "bbardìsce",
+  "senses": [
+    {
+      "it": "ragazzi",
+      "en": "boys",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbardìsce: ragazzi.",
+    "rawHash": "a9338ed97a8e04dd464c03249610aef5fd701048",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

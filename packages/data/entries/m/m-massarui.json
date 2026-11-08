@@ -1,0 +1,24 @@
+{
+  "id": "m-massarui",
+  "headword": "massarui",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "la masseria",
+      "en": "the farmstead",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "massarui: la masseria (M.sul S.)",
+    "rawHash": "e0a09638adea0a5f1a5c369b13603c47ae873927",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

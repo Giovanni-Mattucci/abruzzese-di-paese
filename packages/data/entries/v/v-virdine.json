@@ -1,0 +1,21 @@
+{
+  "id": "v-virdine",
+  "headword": "virdine",
+  "senses": [
+    {
+      "it": "arnese per fare fori",
+      "en": "tool for making holes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "virdine: arnese per fare fori",
+    "rawHash": "b66935a34e7cdb31942b3d5efd63e524fc83f6cb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

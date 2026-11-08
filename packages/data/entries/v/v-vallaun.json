@@ -1,0 +1,24 @@
+{
+  "id": "v-vallaun",
+  "headword": "vallaun",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "ruscello",
+      "en": "stream, brook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vallaun: ruscello (M. sul S.)",
+    "rawHash": "6994c2583ce0d94fe7a037186a858e4e22353735",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

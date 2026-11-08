@@ -1,0 +1,21 @@
+{
+  "id": "l-lota",
+  "headword": "lota",
+  "senses": [
+    {
+      "it": "immondizia",
+      "en": "rubbish, garbage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lota: immondizia",
+    "rawHash": "86ee813567955227136092b6c36a1ba5f740c994",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "g-gnettechi",
+  "headword": "gnettechì",
+  "senses": [
+    {
+      "it": "impaurire",
+      "en": "to frighten",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnettechì: impaurire",
+    "rawHash": "2992870428d23e2e8d0c97956f48c14e08766ffb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

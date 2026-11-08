@@ -1,0 +1,21 @@
+{
+  "id": "s-sframica",
+  "headword": "sframicà",
+  "senses": [
+    {
+      "it": "sbriciolare",
+      "en": "to crumble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sframicà: sbriciolare",
+    "rawHash": "489ff17f6c1442976e7c98fcea8ffed9750d2e34",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

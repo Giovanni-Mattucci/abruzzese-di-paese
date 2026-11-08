@@ -1,0 +1,21 @@
+{
+  "id": "c-cippitielle",
+  "headword": "cippitielle",
+  "senses": [
+    {
+      "it": "pezzetti di legno di scarto delle fascine. Utilizzati per ravvivare il fuoco",
+      "en": "small scraps of wood left over from bundles of kindling. Used to revive the fire",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cippitielle: pezzetti di legno di scarto delle fascine. Utilizzati per ravvivare il fuoco",
+    "rawHash": "5c21320eadbaef9a7e8a7818273dc1d0b7ec6d81",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

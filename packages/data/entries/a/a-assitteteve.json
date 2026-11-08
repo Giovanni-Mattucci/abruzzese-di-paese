@@ -1,0 +1,21 @@
+{
+  "id": "a-assitteteve",
+  "headword": "assittèteve",
+  "senses": [
+    {
+      "it": "sedetevi",
+      "en": "sit down (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assittèteve: sedetevi",
+    "rawHash": "3a863a46bdc25113f840c5657156f89479d5462d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-stricche",
+  "headword": "stricche",
+  "senses": [
+    {
+      "it": "stanchi",
+      "en": "tired (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stricche: stanchi",
+    "rawHash": "8f6c25933464a25421249e4bf0b249deba213b90",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

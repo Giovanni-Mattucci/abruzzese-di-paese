@@ -1,0 +1,22 @@
+{
+  "id": "s-surge",
+  "headword": "surge",
+  "article": "le",
+  "senses": [
+    {
+      "it": "topi",
+      "en": "mice",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "surge (le): topi",
+    "rawHash": "e4bb8b6d7ec473c1c97a7f6d578385b3760a9bb3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

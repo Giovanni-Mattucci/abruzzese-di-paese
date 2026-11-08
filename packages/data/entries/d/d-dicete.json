@@ -1,0 +1,21 @@
+{
+  "id": "d-dicete",
+  "headword": "dicète",
+  "senses": [
+    {
+      "it": "dite",
+      "en": "you say (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dicète: dite",
+    "rawHash": "d564be00dedf03f969bd7de1929ac18de0ec6d69",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

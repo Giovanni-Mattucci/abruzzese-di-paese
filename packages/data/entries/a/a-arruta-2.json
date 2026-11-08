@@ -1,0 +1,31 @@
+{
+  "id": "a-arruta-2",
+  "headword": "arrutà",
+  "senses": [
+    {
+      "it": "investire con macchina",
+      "en": "to run over with a car",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "moto",
+      "en": "motorcycle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mettere sotto qualcuno",
+      "en": "to run someone over",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrutà: investire con macchina, moto, mettere sotto qualcuno",
+    "rawHash": "bab819b950fd08a220c27394363d4c2be63bc58d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

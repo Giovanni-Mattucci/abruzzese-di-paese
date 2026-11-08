@@ -1,0 +1,21 @@
+{
+  "id": "c-ciarrapiche",
+  "headword": "ciarrapìche",
+  "senses": [
+    {
+      "it": "brinata del mattino",
+      "en": "morning frost",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciarrapìche: brinata del mattino",
+    "rawHash": "a92aadd8b9bc0372fcb3dc8f9aae9d3681db3741",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

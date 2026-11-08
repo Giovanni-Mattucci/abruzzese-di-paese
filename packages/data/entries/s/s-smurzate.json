@@ -1,0 +1,21 @@
+{
+  "id": "s-smurzate",
+  "headword": "smurzàte",
+  "senses": [
+    {
+      "it": "spento",
+      "en": "extinguished, put out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smurzàte: spento",
+    "rawHash": "451c4c074e4796208a75ba9fb367bda4904e4d3f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-pese-j",
+  "headword": "pese ( j )",
+  "senses": [
+    {
+      "it": "io peso",
+      "en": "I weigh",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pese ( j ): io peso",
+    "rawHash": "856b7643957e1c700fb7a7b4f528c0f5931ab43a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

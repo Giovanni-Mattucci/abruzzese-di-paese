@@ -1,0 +1,26 @@
+{
+  "id": "m-mazzamurrille",
+  "headword": "mazzamurrille",
+  "senses": [
+    {
+      "it": "gnomi",
+      "en": "gnomes",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "folletti",
+      "en": "sprites, goblins",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mazzamurrille: gnomi, folletti",
+    "rawHash": "d180cd90b2ac998ae7918b64c66e268ea79e348f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

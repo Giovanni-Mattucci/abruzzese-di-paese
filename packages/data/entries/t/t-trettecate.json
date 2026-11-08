@@ -1,0 +1,21 @@
+{
+  "id": "t-trettecate",
+  "headword": "trettecàte",
+  "senses": [
+    {
+      "it": "scossa (anche di terremoto)",
+      "en": "shake, tremor (also of an earthquake)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trettecàte: scossa (anche di terremoto)",
+    "rawHash": "a3798bbfb5406c56f9820bd2ecdd721c9b24c198",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

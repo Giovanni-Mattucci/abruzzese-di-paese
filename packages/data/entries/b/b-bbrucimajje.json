@@ -1,0 +1,21 @@
+{
+  "id": "b-bbrucimajje",
+  "headword": "bbrucimajje",
+  "senses": [
+    {
+      "it": "misto di sterpaglie",
+      "en": "mixture of brushwood",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbrucimajje: misto di sterpaglie",
+    "rawHash": "504778ddb4944f8b5a1864f2f5c68cc3bc997509",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

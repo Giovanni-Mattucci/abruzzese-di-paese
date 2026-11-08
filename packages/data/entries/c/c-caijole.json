@@ -1,0 +1,22 @@
+{
+  "id": "c-caijole",
+  "headword": "caijòle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "gabbia per uccelli",
+      "en": "birdcage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caijòle (la): gabbia per uccelli",
+    "rawHash": "45f58f7a50230e1ae21dbb8fac7fa679e3f4f8dd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

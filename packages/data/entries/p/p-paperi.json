@@ -1,0 +1,21 @@
+{
+  "id": "p-paperi",
+  "headword": "papèri",
+  "senses": [
+    {
+      "it": "carta",
+      "en": "paper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "papèri: carta",
+    "rawHash": "fa14a99f2a999cc9f8212848b74b10de04359914",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

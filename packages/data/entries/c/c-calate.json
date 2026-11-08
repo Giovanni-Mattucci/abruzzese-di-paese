@@ -1,0 +1,21 @@
+{
+  "id": "c-calate",
+  "headword": "calate",
+  "senses": [
+    {
+      "it": "bevuta",
+      "en": "drink, swig",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calate: bevuta",
+    "rawHash": "af086b6073ee16c7fd776eab8ec0e1c379f22582",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

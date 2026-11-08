@@ -1,0 +1,22 @@
+{
+  "id": "s-scimmie",
+  "headword": "scimmie",
+  "article": "la",
+  "senses": [
+    {
+      "it": "sbornia) (Lanciano)",
+      "en": "drunkenness) (Lanciano)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scimmie (la): sbornia) (Lanciano)",
+    "rawHash": "14dadc51d02302d21f757350eb3223dd7c2b7563",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

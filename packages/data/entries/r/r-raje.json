@@ -1,0 +1,21 @@
+{
+  "id": "r-raje",
+  "headword": "raje",
+  "senses": [
+    {
+      "it": "raglio",
+      "en": "bray",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "raje: raglio",
+    "rawHash": "333d764de249d56e2271f80e2589cf924a52811d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

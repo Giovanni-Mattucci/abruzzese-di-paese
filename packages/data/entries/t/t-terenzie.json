@@ -1,0 +1,25 @@
+{
+  "id": "t-terenzie",
+  "headword": "Terenzie",
+  "senses": [
+    {
+      "it": "Terenzii Michelangelo di Città Sant'Angelo, marito di Anna la Noce, sorella di Filippo, fu costretto davanti alla testa mozza del cognato ad applaudire e gridare: viva al Re, morte ai carbonari!",
+      "en": "Terenzii Michelangelo of Città Sant'Angelo, husband of Anna la Noce, sister of Filippo, was forced to applaud in front of his brother-in-law's severed head and shout: Long live the King, death to the Carbonari!",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: sorella di Filippo, fu costretto davanti alla testa mozza del cognato ad applaudire",
+    "Source line: e gridare: viva al Re, morte ai carbonari!"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "Terenzie: Terenzii Michelangelo di Città Sant'Angelo, marito di Anna la Noce,",
+    "rawHash": "03ed6b08089043618d47118129c33ff25eca987b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

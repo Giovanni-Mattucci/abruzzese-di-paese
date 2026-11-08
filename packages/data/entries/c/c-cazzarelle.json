@@ -1,0 +1,22 @@
+{
+  "id": "c-cazzarelle",
+  "headword": "cazzarelle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "peperoncino",
+      "en": "chilli pepper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cazzarelle (lu): peperoncino",
+    "rawHash": "a3856b557a778cb462ddd0092c43341526ecbc36",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

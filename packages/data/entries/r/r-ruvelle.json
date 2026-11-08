@@ -1,0 +1,21 @@
+{
+  "id": "r-ruvelle",
+  "headword": "ruvelle",
+  "senses": [
+    {
+      "it": "vecchia strada",
+      "en": "old road",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ruvelle: vecchia strada",
+    "rawHash": "32bfb412ba0f06ba7447dcbda4bd385076d512f9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

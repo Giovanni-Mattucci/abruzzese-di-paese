@@ -1,0 +1,21 @@
+{
+  "id": "p-peteca",
+  "headword": "peteca",
+  "senses": [
+    {
+      "it": "bottega",
+      "en": "shop, workshop",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "peteca: bottega",
+    "rawHash": "39d820fc6c6add7867054b77ed62abcfe0574fc5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

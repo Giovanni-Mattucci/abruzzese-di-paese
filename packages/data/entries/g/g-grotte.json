@@ -1,0 +1,21 @@
+{
+  "id": "g-grotte",
+  "headword": "grotte",
+  "senses": [
+    {
+      "it": "grotta",
+      "en": "cave",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "grotte: grotta",
+    "rawHash": "150ca36316955e04abecf59986d546761b41bf53",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mupe",
+  "headword": "mupe",
+  "senses": [
+    {
+      "it": "sornione",
+      "en": "sly, quietly cunning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mupe: sornione",
+    "rawHash": "fcb767e1f5aaf447089c872f3b6f17ebc9cf3881",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "v-venne-essi",
+  "headword": "vènne (essi",
+  "variants": [
+    "loro)"
+  ],
+  "senses": [
+    {
+      "it": "vengono",
+      "en": "they come",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vènne (essi, loro): vengono",
+    "rawHash": "9c91755cf5acb6993d77955c69fda7198a4fad3d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b-bbacucche",
+  "headword": "bbacùcche",
+  "senses": [
+    {
+      "it": "di persona rimbecillita dall'età",
+      "en": "of a person made senile by age",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbacùcche: di persona rimbecillita dall'età.",
+    "rawHash": "85dcb21fe425636a282c7a2723cf60fb1321eaff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-stagnarole",
+  "headword": "stagnaròle",
+  "senses": [
+    {
+      "it": "scatola di latta",
+      "en": "tin box, tin can",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stagnaròle: scatola di latta",
+    "rawHash": "6e829f3775e79eb56c53dcdb17fc9e1b1cdf8116",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

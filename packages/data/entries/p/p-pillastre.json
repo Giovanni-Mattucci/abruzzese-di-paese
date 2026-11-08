@@ -1,0 +1,21 @@
+{
+  "id": "p-pillastre",
+  "headword": "pillàstre",
+  "senses": [
+    {
+      "it": "pollastro",
+      "en": "young chicken, cockerel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pillàstre: pollastro",
+    "rawHash": "6e81471c83ad6c333bb30c8da1ff49fc7f200679",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

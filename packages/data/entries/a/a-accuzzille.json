@@ -1,0 +1,21 @@
+{
+  "id": "a-accuzzille",
+  "headword": "accuzzille",
+  "senses": [
+    {
+      "it": "giocare a mmazze e ccuzze, gioco di ragazzi che si fa con bastoni",
+      "en": "to play mmazze e ccuzze, a boys' game played with sticks",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accuzzille: giocare a mmazze e ccuzze, gioco di ragazzi che si fa con bastoni",
+    "rawHash": "950b696fac98430974a479e3215257d13379e1e2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

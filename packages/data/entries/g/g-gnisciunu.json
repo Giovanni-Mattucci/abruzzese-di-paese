@@ -1,0 +1,21 @@
+{
+  "id": "g-gnisciunu",
+  "headword": "gnisciunu",
+  "senses": [
+    {
+      "it": "nessuno",
+      "en": "nobody, no one",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnisciunu: nessuno",
+    "rawHash": "d1b99be98b7d028dafc0b5201ba31030cae540ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

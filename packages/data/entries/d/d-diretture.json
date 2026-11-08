@@ -1,0 +1,21 @@
+{
+  "id": "d-diretture",
+  "headword": "diretture",
+  "senses": [
+    {
+      "it": "direttore",
+      "en": "director",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "diretture: direttore",
+    "rawHash": "41d185b835891941b22f979361a8bad036f6b57e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

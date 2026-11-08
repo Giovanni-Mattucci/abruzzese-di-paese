@@ -1,0 +1,21 @@
+{
+  "id": "f-freechete",
+  "headword": "freèchete",
+  "senses": [
+    {
+      "it": "esclamazione di sorpresa",
+      "en": "exclamation of surprise",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "freèchete: esclamazione di sorpresa",
+    "rawHash": "c63f479729cfebc769b02723a549badcb721fed2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

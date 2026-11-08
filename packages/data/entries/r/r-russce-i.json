@@ -1,0 +1,26 @@
+{
+  "id": "r-russce-i",
+  "headword": "russce (i)",
+  "senses": [
+    {
+      "it": "i rossi",
+      "en": "the reds",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "i comunisti",
+      "en": "the communists",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "russce (i): i rossi, i comunisti",
+    "rawHash": "6bd2a062347af6da23fd3acb467a38ac4bb41b90",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

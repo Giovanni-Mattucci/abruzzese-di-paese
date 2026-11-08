@@ -1,0 +1,21 @@
+{
+  "id": "n-ndresciarella",
+  "headword": "'ndresciarèlla",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndresciarèlla: altalena",
+    "rawHash": "ce39cbbc42b565ea0b1f53ff24a44ec5d59e068b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

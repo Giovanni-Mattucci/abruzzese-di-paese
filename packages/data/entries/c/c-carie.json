@@ -1,0 +1,21 @@
+{
+  "id": "c-carie",
+  "headword": "carie",
+  "senses": [
+    {
+      "it": "guasto, deteriorato carnassciàle: carnevale, (ttande carnassciàle = tante carnevalate)",
+      "en": "rotten, deteriorated; carnassciàle: carnival, (ttande carnassciàle = so many carnival antics)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carie: guasto, deteriorato carnassciàle: carnevale, (ttande carnassciàle = tante carnevalate).",
+    "rawHash": "27736b1456d6221638436e61390f987d1b7182fa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-strittichetele",
+  "headword": "strittichètele",
+  "senses": [
+    {
+      "it": "scuotetelo",
+      "en": "shake it (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strittichètele: scuotetelo",
+    "rawHash": "6c93362d40387cf1c8c65f07cfbb469902864382",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

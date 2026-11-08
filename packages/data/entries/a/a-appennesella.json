@@ -1,0 +1,21 @@
+{
+  "id": "a-appennesella",
+  "headword": "appennesèlla",
+  "senses": [
+    {
+      "it": "serenata",
+      "en": "serenade",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appennesèlla: serenata",
+    "rawHash": "bdaea3104bd07e6b664dc71099c60e6897e32358",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

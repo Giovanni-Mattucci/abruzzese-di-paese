@@ -1,0 +1,24 @@
+{
+  "id": "m-mbujne-isse-essi",
+  "headword": "'mbùjne",
+  "senses": [
+    {
+      "it": "essi, loro si fermano",
+      "en": "they stop",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: isse"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbùjne (isse) essi, loro si fermano",
+    "rawHash": "a9123192230b1c0870483ad58a3a7e3c45043052",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

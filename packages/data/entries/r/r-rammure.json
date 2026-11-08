@@ -1,0 +1,21 @@
+{
+  "id": "r-rammure",
+  "headword": "rammure",
+  "senses": [
+    {
+      "it": "spegni",
+      "en": "turn off, put out (imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rammure: spegni",
+    "rawHash": "a1bb044fdc8ca18d73678b6b78441e14bd2b31cb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

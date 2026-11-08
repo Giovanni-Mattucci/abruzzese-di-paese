@@ -1,0 +1,22 @@
+{
+  "id": "m-menacene",
+  "headword": "menàcene",
+  "article": "la",
+  "senses": [
+    {
+      "it": "albicocca",
+      "en": "apricot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "menàcene (la): albicocca",
+    "rawHash": "b4e02284a5876dc265e389e5d8df6593a10c535b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

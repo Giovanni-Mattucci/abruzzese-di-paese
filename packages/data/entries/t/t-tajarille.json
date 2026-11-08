@@ -1,0 +1,21 @@
+{
+  "id": "t-tajarille",
+  "headword": "tajarille",
+  "senses": [
+    {
+      "it": "tagliolini, tipo di pasta fatta in casa",
+      "en": "tagliolini, a type of homemade pasta",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tajarille: tagliolini, tipo di pasta fatta in casa",
+    "rawHash": "1fd4615cc4fc230a0b211ff3ea72f879af86d789",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

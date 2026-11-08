@@ -1,0 +1,21 @@
+{
+  "id": "m-mistecotte",
+  "headword": "mistecotte",
+  "senses": [
+    {
+      "it": "mosto cotto",
+      "en": "cooked grape must",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mistecotte: mosto cotto",
+    "rawHash": "2ceaaa48caa4cdf1578e33232f30f37e24b2a672",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-scarvusceje",
+  "headword": "scarvuscèje",
+  "senses": [
+    {
+      "it": "frugava",
+      "en": "he/she was rummaging",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarvuscèje: frugava",
+    "rawHash": "79f33c7a4dbaa68beb5c8c91985514153e00be90",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

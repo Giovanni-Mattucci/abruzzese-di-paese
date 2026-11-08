@@ -1,0 +1,26 @@
+{
+  "id": "a-ammupate",
+  "headword": "ammupate",
+  "senses": [
+    {
+      "it": "mogio",
+      "en": "downcast, dejected",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "triste",
+      "en": "sad",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammupate: mogio, triste",
+    "rawHash": "d997d823fae98c29fa869731be72f174a01f2bd1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

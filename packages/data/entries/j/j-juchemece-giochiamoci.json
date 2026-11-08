@@ -1,0 +1,21 @@
+{
+  "id": "j-juchemece-giochiamoci",
+  "headword": "juchèmece",
+  "senses": [
+    {
+      "it": "giochiamoci",
+      "en": "let's play for it; let's bet it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "juchèmece giochiamoci",
+    "rawHash": "c8209fdfe08a19968d9f2110e9b9c3b93d84b653",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

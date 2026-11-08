@@ -1,0 +1,21 @@
+{
+  "id": "r-rasora",
+  "headword": "rasora",
+  "senses": [
+    {
+      "it": "rasoio",
+      "en": "razor",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rasora: rasoio",
+    "rawHash": "4921d964db476e026d9ba5ca8881c356bbe6c7e5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

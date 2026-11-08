@@ -1,0 +1,26 @@
+{
+  "id": "r-rattuocchele",
+  "headword": "rattuocchele",
+  "senses": [
+    {
+      "it": "pettegolezzo",
+      "en": "gossip",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "discorso",
+      "en": "talk, speech",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rattuocchele: pettegolezzo, discorso",
+    "rawHash": "988943418693c1fa296b2aff63c4d4fe5905dc62",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

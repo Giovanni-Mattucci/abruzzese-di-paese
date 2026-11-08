@@ -1,0 +1,24 @@
+{
+  "id": "d-ddiasilla",
+  "headword": "ddiasìlla",
+  "variants": [
+    "ddiasille"
+  ],
+  "senses": [
+    {
+      "it": "imprecazione",
+      "en": "curse, swear word",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "ddiasìlla, ddiasille: imprecazione",
+    "rawHash": "5e15bd8ad11d2f71b527ac4981da5baf57c5cc37",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

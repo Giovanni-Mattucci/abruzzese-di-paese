@@ -1,0 +1,24 @@
+{
+  "id": "s-svedeprat",
+  "headword": "svedeprat",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "scatenato",
+      "en": "unleashed, wild",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "svedeprat: scatenato (Montebello sul Sangro)",
+    "rawHash": "11638a3883dd64195ced3a38710c47f0ef4657c8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "q-quajarelle",
+  "headword": "quajarelle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "diarrea",
+      "en": "diarrhoea",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quajarelle (la): diarrea",
+    "rawHash": "9ef8f38009d4acdf624043d79a33a96ffee5d095",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

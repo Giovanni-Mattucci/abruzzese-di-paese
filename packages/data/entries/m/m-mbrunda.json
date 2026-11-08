@@ -1,0 +1,21 @@
+{
+  "id": "m-mbrunda",
+  "headword": "'mbrundà",
+  "senses": [
+    {
+      "it": "improntarembujarse: fermarsi",
+      "en": "improntarembujarse: to stop",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbrundà: improntarembujarse: fermarsi",
+    "rawHash": "d0e6c0004600a9d262da04f93d09c09afbbcbc44",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

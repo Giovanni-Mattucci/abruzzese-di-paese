@@ -1,0 +1,22 @@
+{
+  "id": "s-sgreije",
+  "headword": "sgrêije",
+  "article": "la",
+  "senses": [
+    {
+      "it": "canna tagliata a becco di clarino",
+      "en": "reed cut like a clarinet mouthpiece",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgrêije (la): canna tagliata a becco di clarino",
+    "rawHash": "7e07739eeb81024fedf6bbe07799bcc01d9ef1d4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

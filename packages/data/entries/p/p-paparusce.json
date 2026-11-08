@@ -1,0 +1,21 @@
+{
+  "id": "p-paparusce",
+  "headword": "paparusce",
+  "senses": [
+    {
+      "it": "ragnatele",
+      "en": "spiderwebs, cobwebs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paparusce: ragnatele",
+    "rawHash": "a8ad756bad60dbc49b3dcce56cba2b9528e4f72a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

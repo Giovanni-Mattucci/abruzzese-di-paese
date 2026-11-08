@@ -1,0 +1,21 @@
+{
+  "id": "m-micaragne",
+  "headword": "micaragne",
+  "senses": [
+    {
+      "it": "ragno",
+      "en": "spider",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "micaragne: ragno",
+    "rawHash": "16f92a497bfceac4239c6b647f5cf2ac13d3195e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

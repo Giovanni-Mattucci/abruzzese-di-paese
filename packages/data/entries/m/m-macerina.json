@@ -1,0 +1,21 @@
+{
+  "id": "m-macerina",
+  "headword": "macerina",
+  "senses": [
+    {
+      "it": "muretto a secco",
+      "en": "dry-stone wall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "macerina: muretto a secco",
+    "rawHash": "6cb75b0331b23a6624baa96a8abf650525e7032a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

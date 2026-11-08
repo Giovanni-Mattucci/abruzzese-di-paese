@@ -1,0 +1,21 @@
+{
+  "id": "a-aradel",
+  "headword": "aradèl",
+  "senses": [
+    {
+      "it": "aratro",
+      "en": "plough",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aradèl: aratro",
+    "rawHash": "35ea3487eaac6f320639b2ea6a8186f6bd3d331e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

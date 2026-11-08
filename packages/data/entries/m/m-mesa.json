@@ -1,0 +1,24 @@
+{
+  "id": "m-mesa",
+  "headword": "mesa",
+  "variants": [
+    "mese"
+  ],
+  "senses": [
+    {
+      "it": "madia",
+      "en": "kneading trough, bread chest",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mesa, mese: madia",
+    "rawHash": "5c9963463d6b4e337e46888c71d163ee97746ae8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-ammuscilli",
+  "headword": "ammuscillì",
+  "senses": [
+    {
+      "it": "ammosciare",
+      "en": "to go limp, to wilt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammuscillì: ammosciare",
+    "rawHash": "b9300ee3e9fcea7a7ecb2f4ab92696971dd67479",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

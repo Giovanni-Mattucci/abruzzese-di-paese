@@ -1,0 +1,21 @@
+{
+  "id": "p-peccise",
+  "headword": "peccìse",
+  "senses": [
+    {
+      "it": "capriccioso",
+      "en": "capricious, whiny",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "peccìse: capriccioso",
+    "rawHash": "9259d1353cab319e5b2698160bb08c903cfd0857",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

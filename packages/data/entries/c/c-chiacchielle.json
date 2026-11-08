@@ -1,0 +1,21 @@
+{
+  "id": "c-chiacchielle",
+  "headword": "chiacchielle",
+  "senses": [
+    {
+      "it": "fanfarone",
+      "en": "braggart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiacchielle: fanfarone",
+    "rawHash": "32aa89108040f43bd2c16b46873c7261364d2db9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

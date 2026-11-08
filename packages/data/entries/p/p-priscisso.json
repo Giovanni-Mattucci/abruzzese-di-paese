@@ -1,0 +1,21 @@
+{
+  "id": "p-priscisso",
+  "headword": "priscisso'",
+  "senses": [
+    {
+      "it": "processione",
+      "en": "procession",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "priscisso': processione",
+    "rawHash": "b5db649016f4784d8e2fb89be428e1ffa0e3c63d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

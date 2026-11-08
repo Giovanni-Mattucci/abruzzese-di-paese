@@ -1,0 +1,27 @@
+{
+  "id": "n-ndese",
+  "headword": "'ndêse",
+  "article": "la",
+  "senses": [
+    {
+      "it": "udito",
+      "en": "heard",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sentito",
+      "en": "heard, felt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndêse (la): udito, sentito",
+    "rawHash": "cafaf39a00a484e617ebe07c5b8f2d4abdec4ca5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

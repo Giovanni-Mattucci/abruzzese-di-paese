@@ -1,0 +1,24 @@
+{
+  "id": "p-pese",
+  "headword": "pese",
+  "senses": [
+    {
+      "it": "egli pesa",
+      "en": "he weighs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: esse"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pese (esse): egli pesa",
+    "rawHash": "e4295967c323254d68db172d4fd40d1b7d3dcb53",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

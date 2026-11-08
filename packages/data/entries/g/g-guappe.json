@@ -1,0 +1,22 @@
+{
+  "id": "g-guappe",
+  "headword": "guappe",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "tipo che la sa lunga",
+      "en": "a fellow who knows a thing or two, a wise guy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "guappe (lu): tipo che la sa lunga",
+    "rawHash": "9bc66e21c6fc06422ce647e9f64be650bb6e605f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

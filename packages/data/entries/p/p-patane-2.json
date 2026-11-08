@@ -1,0 +1,21 @@
+{
+  "id": "p-patane-2",
+  "headword": "patàne",
+  "senses": [
+    {
+      "it": "figa",
+      "en": "pussy (vulgar: vulva)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "patàne: figa",
+    "rawHash": "b2a230dfee0911eb50c9181b2fb8c6101dc444ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

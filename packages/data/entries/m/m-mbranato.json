@@ -1,0 +1,21 @@
+{
+  "id": "m-mbranato",
+  "headword": "'mbranato",
+  "senses": [
+    {
+      "it": "impacciato",
+      "en": "awkward, clumsy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbranato: impacciato",
+    "rawHash": "99c2d53fb5d36ab776cc923301105c7db9e10c27",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

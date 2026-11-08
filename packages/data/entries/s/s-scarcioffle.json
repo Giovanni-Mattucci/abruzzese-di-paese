@@ -1,0 +1,21 @@
+{
+  "id": "s-scarcioffle",
+  "headword": "scàrcioffle",
+  "senses": [
+    {
+      "it": "carciofo",
+      "en": "artichoke",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scàrcioffle: carciofo",
+    "rawHash": "fb25a2f724011b0f1d21a6f633e8cde20c25e4b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

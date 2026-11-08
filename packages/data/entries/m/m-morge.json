@@ -1,0 +1,22 @@
+{
+  "id": "m-morge",
+  "headword": "morge",
+  "article": "la",
+  "senses": [
+    {
+      "it": "grossa pietra",
+      "en": "large stone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "morge (la): grossa pietra",
+    "rawHash": "8183d0ce24b7a351e3e562ed5b5c1dd65777804d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

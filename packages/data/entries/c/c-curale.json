@@ -1,0 +1,21 @@
+{
+  "id": "c-curale",
+  "headword": "curale",
+  "senses": [
+    {
+      "it": "da coro, (lirica curale: destinata ad essere recitata a più voci)",
+      "en": "choral, (lirica curale: meant to be recited by several voices)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "curale: da coro, (lirica curale: destinata ad essere recitata a più voci)",
+    "rawHash": "d9de7ee280f090294625c5ac6addf26064a53b96",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

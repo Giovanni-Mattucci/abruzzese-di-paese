@@ -1,0 +1,21 @@
+{
+  "id": "s-struppeja",
+  "headword": "struppejà",
+  "senses": [
+    {
+      "it": "picchiare con forza",
+      "en": "to beat hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "struppejà: picchiare con forza",
+    "rawHash": "3a9e435f5a475e0396e5d3783e2ac170df701c4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

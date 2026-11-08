@@ -1,0 +1,21 @@
+{
+  "id": "t-tritticheme",
+  "headword": "trittichème",
+  "senses": [
+    {
+      "it": "smuoiamo",
+      "en": "we shift",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trittichème: smuoiamo",
+    "rawHash": "11bc9b92e8ef53b37e21ec55429c38a00862cc81",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mbujate",
+  "headword": "'mbujàte",
+  "senses": [
+    {
+      "it": "fermo",
+      "en": "still, stopped",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbujàte: fermo",
+    "rawHash": "8ec24f2ccb3f4f423c5fb6914fdc3191b184d2f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

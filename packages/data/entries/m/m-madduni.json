@@ -1,0 +1,24 @@
+{
+  "id": "m-madduni",
+  "headword": "maddùni",
+  "variants": [
+    "madùne"
+  ],
+  "senses": [
+    {
+      "it": "mattone",
+      "en": "brick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "maddùni, madùne: mattone",
+    "rawHash": "d7c503a1c02f938624967041647b8b019e5f1e71",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

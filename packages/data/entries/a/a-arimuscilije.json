@@ -1,0 +1,21 @@
+{
+  "id": "a-arimuscilije",
+  "headword": "arimuscilijè",
+  "senses": [
+    {
+      "it": "frugare, mettere in leggero disordine tentando di trovare qualcosa",
+      "en": "to rummage, to make a slight mess while trying to find something",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arimuscilijè: frugare, mettere in leggero disordine tentando di trovare qualcosa",
+    "rawHash": "eb4d5156b1a5950d539fb7e303fb5ea79c5806d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

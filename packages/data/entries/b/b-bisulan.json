@@ -1,0 +1,26 @@
+{
+  "id": "b-bisulan",
+  "headword": "bisulan",
+  "senses": [
+    {
+      "it": "ciambella",
+      "en": "ring-shaped cake, doughnut",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "buccellato",
+      "en": "buccellato, ring-shaped sweet bread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bisulan: ciambella, buccellato",
+    "rawHash": "eea34904d9e302db5833ee12a347eb3934fb9269",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "n-ngastra",
+  "headword": "'ngastrà",
+  "senses": [
+    {
+      "it": "incastrare",
+      "en": "to wedge in, to fit in",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngastrà: incastrare",
+    "rawHash": "a3df56b67ce38846967082d01dee95c9961513e7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

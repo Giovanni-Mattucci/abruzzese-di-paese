@@ -1,0 +1,26 @@
+{
+  "id": "c-cuturne",
+  "headword": "cuturne",
+  "senses": [
+    {
+      "it": "stivaletto",
+      "en": "ankle boot",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "calzari",
+      "en": "footwear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuturne: stivaletto, calzari",
+    "rawHash": "b2268be7ba3cde3207bafb32d8e054b2cf013f90",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

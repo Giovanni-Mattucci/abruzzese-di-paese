@@ -1,0 +1,21 @@
+{
+  "id": "s-sfrusscione",
+  "headword": "sfrussciòne",
+  "senses": [
+    {
+      "it": "chi spende in maniera esagerata",
+      "en": "one who spends excessively",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrussciòne: chi spende in maniera esagerata",
+    "rawHash": "00c5ab73225a36801d3f5068e38d4d4b5a9dba9f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

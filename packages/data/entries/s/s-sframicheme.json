@@ -1,0 +1,21 @@
+{
+  "id": "s-sframicheme",
+  "headword": "sframichème",
+  "senses": [
+    {
+      "it": "sbricioliamo",
+      "en": "we crumble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sframichème: sbricioliamo",
+    "rawHash": "d786381100a1cb31926969488614840e69cba6d8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

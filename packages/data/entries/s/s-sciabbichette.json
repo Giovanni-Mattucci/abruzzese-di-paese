@@ -1,0 +1,26 @@
+{
+  "id": "s-sciabbichette",
+  "headword": "sciabbichette",
+  "senses": [
+    {
+      "it": "rete da pesca",
+      "en": "fishing net",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "barca a sciabica",
+      "en": "seine-net boat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciabbichette: rete da pesca, barca a sciabica",
+    "rawHash": "33da17ce8d5dfa9c980c67e851f618b8b31cf6ea",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

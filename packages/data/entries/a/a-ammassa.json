@@ -1,0 +1,21 @@
+{
+  "id": "a-ammassa",
+  "headword": "ammassà",
+  "senses": [
+    {
+      "it": "impastare",
+      "en": "to knead",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammassà: impastare",
+    "rawHash": "0cec5634dfca6a3cc1954aaa4322f18e83e6f9aa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

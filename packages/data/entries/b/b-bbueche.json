@@ -1,0 +1,21 @@
+{
+  "id": "b-bbueche",
+  "headword": "bbueche",
+  "senses": [
+    {
+      "it": "sacchetto che si lega io collo del cavallo e che si riempie con la profenda (razione di biada)",
+      "en": "nosebag, bag tied around a horse's neck and filled with feed (ration of fodder)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbueche: sacchetto che si lega io collo del cavallo e che si riempie con la profenda (razione di biada)",
+    "rawHash": "6c6737e1916fd3e46a522d51e5f9b331400f073d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

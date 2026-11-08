@@ -1,0 +1,21 @@
+{
+  "id": "s-spicciatere",
+  "headword": "spicciatére",
+  "senses": [
+    {
+      "it": "bandiera metallica che sta in cima alle torri ed indica il verso del vento",
+      "en": "metal flag on top of towers that indicates the wind direction; weathervane",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spicciatére: bandiera metallica che sta in cima alle torri ed indica il verso del vento",
+    "rawHash": "32bfbf73311c98b083922c7c2d182867d8a42424",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

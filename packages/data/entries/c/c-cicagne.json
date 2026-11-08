@@ -1,0 +1,21 @@
+{
+  "id": "c-cicagne",
+  "headword": "cicagne",
+  "senses": [
+    {
+      "it": "sonno",
+      "en": "sleep, drowsiness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cicagne: sonno",
+    "rawHash": "b5da5600d281bebcba850a644aa64dc1758fdb70",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

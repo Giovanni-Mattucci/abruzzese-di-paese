@@ -1,0 +1,21 @@
+{
+  "id": "j-ja-spente",
+  "headword": "ja spente",
+  "senses": [
+    {
+      "it": "gli ha spento",
+      "en": "he turned (it) off on him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja spente: gli ha spento",
+    "rawHash": "5a931eb4fa5fe71c367a4427412f5895e80f029d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

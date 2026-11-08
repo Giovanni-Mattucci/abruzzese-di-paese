@@ -1,0 +1,21 @@
+{
+  "id": "p-piante-2",
+  "headword": "piante",
+  "senses": [
+    {
+      "it": "albero",
+      "en": "tree",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piante: albero",
+    "rawHash": "4e8e026c36bcbafd657422e9b8518076ff34875f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "l-langianese",
+  "headword": "langianese",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "abitante di Lanciano (CH)",
+      "en": "inhabitant of Lanciano (CH)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "langianese (lu): abitante di Lanciano (CH)",
+    "rawHash": "d8976ed05b3c75e0b6529b8bed4ce8672f3c777f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

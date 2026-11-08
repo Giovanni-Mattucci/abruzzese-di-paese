@@ -1,0 +1,21 @@
+{
+  "id": "c-cunucella",
+  "headword": "cunucella",
+  "senses": [
+    {
+      "it": "rivolo d'acqua",
+      "en": "rivulet of water",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cunucella: rivolo d'acqua",
+    "rawHash": "0df3b0d65317df87407b04b7e808c56174a0b552",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

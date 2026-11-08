@@ -1,0 +1,21 @@
+{
+  "id": "m-me-a-ju",
+  "headword": "me à ju",
+  "senses": [
+    {
+      "it": "mi vuoi",
+      "en": "do you want me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "me à ju: mi vuoi",
+    "rawHash": "cf8c026a56a2e027ecf0220aaaf544860187cc12",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

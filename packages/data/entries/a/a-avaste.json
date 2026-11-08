@@ -1,0 +1,21 @@
+{
+  "id": "a-avaste",
+  "headword": "avaste",
+  "senses": [
+    {
+      "it": "basta",
+      "en": "enough",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "avaste: basta",
+    "rawHash": "4a55555cdc7c8604114f7c1cd9afb3053a6ac6e8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

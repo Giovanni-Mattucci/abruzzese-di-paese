@@ -1,0 +1,21 @@
+{
+  "id": "n-ngascia",
+  "headword": "'ngascià",
+  "senses": [
+    {
+      "it": "innevare",
+      "en": "to cover with snow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngascià: innevare",
+    "rawHash": "d7779a61f6d1775fe3611de08baf750ad0993134",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

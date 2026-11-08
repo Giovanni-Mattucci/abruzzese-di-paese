@@ -1,0 +1,21 @@
+{
+  "id": "a-adorie",
+  "headword": "adòrie",
+  "senses": [
+    {
+      "it": "accudire le bestie",
+      "en": "to tend the livestock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "adòrie: accudire le bestie",
+    "rawHash": "4b0824328c5f5f579a5a1eaf007b865dddb502c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-feta",
+  "headword": "fetà",
+  "senses": [
+    {
+      "it": "fare l'uovo",
+      "en": "to lay an egg",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fetà: fare l'uovo",
+    "rawHash": "8838cef6b524ca44309533a45fe42c097d275498",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a-arrubbe",
+  "headword": "arrubbè",
+  "variants": [
+    "arrubbà"
+  ],
+  "senses": [
+    {
+      "it": "rubare",
+      "en": "to steal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrubbè, arrubbà: rubare",
+    "rawHash": "7fbc64c3f9cb8fa24633a0bb81bb7456d302de85",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

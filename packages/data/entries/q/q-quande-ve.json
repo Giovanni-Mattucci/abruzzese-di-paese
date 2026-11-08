@@ -1,0 +1,21 @@
+{
+  "id": "q-quande-ve",
+  "headword": "quande ve'?",
+  "senses": [
+    {
+      "it": "quando viene?",
+      "en": "when is he/she coming?",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quande ve'?: quando viene?",
+    "rawHash": "ef02af0af61f1887f0d592386ca4a700da01a183",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

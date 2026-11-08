@@ -1,0 +1,26 @@
+{
+  "id": "b-belinzime",
+  "headword": "belinzime",
+  "senses": [
+    {
+      "it": "portami",
+      "en": "bring me",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dammi",
+      "en": "give me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "belinzime: portami, dammi",
+    "rawHash": "b9ba2aa160b3f8c0a999c69c03607c4eadbf8ed4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

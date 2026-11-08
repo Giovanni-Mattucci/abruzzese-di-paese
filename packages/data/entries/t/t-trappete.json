@@ -1,0 +1,25 @@
+{
+  "id": "t-trappete",
+  "headword": "trappète",
+  "variants": [
+    "trappìte"
+  ],
+  "article": "lu",
+  "senses": [
+    {
+      "it": "frantoio",
+      "en": "olive press",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trappète, trappìte (lu): frantoio",
+    "rawHash": "c638de38d13ddbf1c705e36e8d0d3e214933fe6a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

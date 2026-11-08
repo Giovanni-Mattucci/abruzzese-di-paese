@@ -1,0 +1,21 @@
+{
+  "id": "a-assutte",
+  "headword": "assutte",
+  "senses": [
+    {
+      "it": "asciutto",
+      "en": "dry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assutte: asciutto",
+    "rawHash": "5ee81dd64975cdc0ba93dc3efd2470015188c04a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

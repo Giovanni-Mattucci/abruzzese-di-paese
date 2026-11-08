@@ -1,0 +1,26 @@
+{
+  "id": "m-mbirate",
+  "headword": "'mbiràte",
+  "senses": [
+    {
+      "it": "teso dal freddo",
+      "en": "stiff with cold",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rigido",
+      "en": "rigid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbiràte: teso dal freddo, rigido",
+    "rawHash": "eab5971fe56c5041c32827957a9e098404ef1322",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

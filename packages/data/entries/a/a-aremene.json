@@ -1,0 +1,21 @@
+{
+  "id": "a-aremene",
+  "headword": "aremenè",
+  "senses": [
+    {
+      "it": "tornare",
+      "en": "to return, to come back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aremenè: tornare",
+    "rawHash": "5ba61d717c3b984ffa95a2fe15c82d5f77ee40f6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

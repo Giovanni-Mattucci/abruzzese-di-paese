@@ -1,0 +1,21 @@
+{
+  "id": "c-custatelle",
+  "headword": "custatelle",
+  "senses": [
+    {
+      "it": "costata",
+      "en": "rib steak, chop",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "custatelle: costata",
+    "rawHash": "0c8b8c659cb462e56e11436e46145401517a92f3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

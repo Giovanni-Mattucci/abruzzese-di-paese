@@ -1,0 +1,21 @@
+{
+  "id": "v-vussete",
+  "headword": "vussète",
+  "senses": [
+    {
+      "it": "spingete",
+      "en": "you (plural) push",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vussète: spingete",
+    "rawHash": "9fa3537d7a3489eef350e9f01863eb8d785c2b80",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

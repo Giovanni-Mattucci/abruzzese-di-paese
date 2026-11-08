@@ -1,0 +1,21 @@
+{
+  "id": "c-criscenne",
+  "headword": "criscènne",
+  "senses": [
+    {
+      "it": "crescendo",
+      "en": "growing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "criscènne: crescendo",
+    "rawHash": "0cdd6c0baf8cc51cbb80ff6315cb1985a1e1e14d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

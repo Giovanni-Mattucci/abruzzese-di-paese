@@ -1,0 +1,21 @@
+{
+  "id": "b-buffu",
+  "headword": "bùffu",
+  "senses": [
+    {
+      "it": "debito",
+      "en": "debt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bùffu: debito",
+    "rawHash": "f598d9ab987b2408e9c445a67908bd8415adb78d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

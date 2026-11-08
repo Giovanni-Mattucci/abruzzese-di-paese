@@ -1,0 +1,21 @@
+{
+  "id": "j-jlacce",
+  "headword": "jlacce",
+  "senses": [
+    {
+      "it": "brina",
+      "en": "frost",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jlacce: brina",
+    "rawHash": "b7e28aaad7f70201efaba2e1e6ae1519499695b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

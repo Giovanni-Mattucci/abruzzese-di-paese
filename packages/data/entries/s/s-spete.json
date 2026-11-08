@@ -1,0 +1,22 @@
+{
+  "id": "s-spete",
+  "headword": "spête",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "spiedo",
+      "en": "spit (for roasting)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spête (lu): spiedo",
+    "rawHash": "0ecf0953274eb973bbd908b2dbfe657041cd439d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,49 @@
+name: Suggest a word
+description: Propose a new Abruzzese word or expression. No coding needed.
+title: '[Word] '
+labels: [word-suggestion]
+body:
+  - type: input
+    id: word
+    attributes:
+      label: Abruzzese word or expression
+      placeholder: ardeca
+    validations:
+      required: true
+  - type: input
+    id: variants
+    attributes:
+      label: Spelling variants (comma-separated)
+      placeholder: ardeche
+  - type: input
+    id: italian
+    attributes:
+      label: Italian meaning
+      placeholder: ortica
+    validations:
+      required: true
+  - type: input
+    id: english
+    attributes:
+      label: English meaning (optional)
+      placeholder: nettle
+  - type: textarea
+    id: example
+    attributes:
+      label: Example sentence, with Italian translation if you can
+      placeholder: 'le ardeche pungene: le ortiche pungono'
+  - type: input
+    id: locality
+    attributes:
+      label: Town or area where this form is used (optional)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (grammar, etymology, anything else)
+  - type: checkboxes
+    id: licence
+    attributes:
+      label: Licence
+      options:
+        - label: I agree to release this contribution under CC BY-SA 4.0.
+          required: true

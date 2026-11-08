@@ -1,0 +1,24 @@
+{
+  "id": "c-c-i-arviste",
+  "headword": "c-i-arvìste",
+  "variants": [
+    "c'arvìste"
+  ],
+  "senses": [
+    {
+      "it": "ci ha visto un'altra volta, di nuovo",
+      "en": "he/she has seen us once more, again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arvìste, c'arvìste: ci ha visto un'altra volta, di nuovo",
+    "rawHash": "b42d0f41d67f863d128bc1c5fae7b18dcf241472",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-ciuccule-nire",
+  "headword": "ciuccule nire",
+  "senses": [
+    {
+      "it": "cozze",
+      "en": "mussels",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciuccule nire: cozze",
+    "rawHash": "07d301e25242a57436896cd189870b7e6b5495ad",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

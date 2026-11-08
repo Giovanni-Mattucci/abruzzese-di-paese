@@ -1,0 +1,24 @@
+{
+  "id": "a-allusche",
+  "headword": "allusche",
+  "senses": [
+    {
+      "it": "vede",
+      "en": "sees",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: ci-ha"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allusche (ci-ha): vede",
+    "rawHash": "1bea9f75687095d7c68a3a5428c37c168df6697a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

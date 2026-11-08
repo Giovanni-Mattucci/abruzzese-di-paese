@@ -1,0 +1,21 @@
+{
+  "id": "n-nzo",
+  "headword": "'nzo",
+  "senses": [
+    {
+      "it": "non ho",
+      "en": "I do not have",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nzo: non ho",
+    "rawHash": "67ba83f57d5ad03e4bdfd3f6773bff8d487a1895",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

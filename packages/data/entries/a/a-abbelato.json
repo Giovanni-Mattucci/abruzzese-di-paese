@@ -1,0 +1,26 @@
+{
+  "id": "a-abbelato",
+  "headword": "abbelato",
+  "senses": [
+    {
+      "it": "sotterrato",
+      "en": "buried",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ricoperto",
+      "en": "covered over",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbelato: sotterrato, ricoperto",
+    "rawHash": "c13cc7003e7e5dc717bd4f0064411bd6a1798f35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

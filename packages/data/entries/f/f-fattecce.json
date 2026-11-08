@@ -1,0 +1,42 @@
+{
+  "id": "f-fattecce",
+  "headword": "fattecce",
+  "variants": [
+    "fatticce"
+  ],
+  "senses": [
+    {
+      "it": "doppio",
+      "en": "double, thick",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "che ha spessore",
+      "en": "that has thickness",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spesso",
+      "en": "thick",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "largo",
+      "en": "wide",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: fatticce: spesso, largo"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fattecce, fatticce: doppio, che ha spessore",
+    "rawHash": "0d267d91aa434613f26061ad1bb4ae9f316563f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

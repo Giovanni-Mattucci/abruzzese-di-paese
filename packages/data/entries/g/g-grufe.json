@@ -1,0 +1,35 @@
+{
+  "id": "g-grufe",
+  "headword": "grufe",
+  "senses": [
+    {
+      "it": "broncio, cipiglio. Termine di cui si trovano pochissime tracce del corrispettivo italiano. Solitamente una persona con \"la grufe\" è colui che ha la fronte aggrottata, ma genericamente il vocabolo è utilizzato anche per indicare un individuo dall'aspetto poco solare. Il termine potrebbe derivare dal verbo grufolare, azione che fa il maiale nel cercare il cibo e che lo costringe quindi ad arricciare il muso. La parola la troviamo però anche in un antico documento risalente al 1700 (\"La Pragmatica\" degli Ebrei Romani del secolo XVII) che di seguito riportiamo: \"… Com'anco si proibisce espressamente alle Donne maritate il portar capelli con gricci avanti alla fronte, come quelli, che si dicono grufe, ...\". In questo caso quindi il termine \"grufe\" è utilizzato per indicare un modo di portare i capelli: arricciati sulla fronte dando così l'impressione di avere la stessa aggrottata",
+      "en": "sulk, frown. A term of which very few traces of an Italian equivalent can be found. Usually a person with \"la grufe\" is one who has a furrowed brow, but generically the word is also used to indicate a person of gloomy appearance. The term may derive from the verb grufolare (to root about), the action a pig performs when searching for food, which therefore forces it to wrinkle its snout. The word is also found in an old document dating from the 1700s (\"La Pragmatica\" of the Roman Jews of the 17th century), quoted here: \"… Likewise married women are expressly forbidden to wear their hair in curls over the forehead, such as those called grufe, ...\". In this case, then, the term \"grufe\" indicates a way of wearing the hair: curled over the forehead, giving the impression that the forehead itself is furrowed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "E rite 'na 'nzegne, ca tiè sempre la grufe!",
+      "it": "e sorridi un po', che sei sempre imbronciato!",
+      "en": "smile a little, you are always sulking!",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: arricciare il muso. La parola la troviamo però anche in un antico documento risalente al 1700 (\"La Pragmatica\" degli Ebrei Romani del secolo XVII) che di seguito riportiamo:",
+    "Source line: … Com'anco si proibisce espressamente alle Donne maritate il portar capelli con gricci avanti alla fronte, come quelli, che si dicono grufe, ...",
+    "Source line: In questo caso quindi il termine \"grufe\" è utilizzato per indicare un modo di portare i capelli: arricciati sulla fronte dando così l'impressione di avere la stessa aggrottata. Modi di dire:",
+    "Source line: \"E rite 'na 'nzegne, ca tiè sempre la grufe!\" (e sorridi un po', che sei sempre imbronciato!)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "grufe: broncio, cipiglio. Termine di cui si trovano pochissime tracce del corrispettivo italiano. Solitamente una persona con \"la grufe\" è colui che ha la fronte aggrottata, ma genericamente il vocabolo è utilizzato anche per indicare un individuo dall'aspetto poco solare. Il termine potrebbe derivare dal verbo grufolare, azione che fa il maiale nel cercare il cibo e che lo costringe quindi ad",
+    "rawHash": "70a21ad780a32f1220b583b78cdfe07344ec590e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

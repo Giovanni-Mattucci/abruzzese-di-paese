@@ -1,0 +1,21 @@
+{
+  "id": "a-arrizza-2",
+  "headword": "arrizzà",
+  "senses": [
+    {
+      "it": "drizzare",
+      "en": "to straighten, to stand upright",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrizzà: drizzare",
+    "rawHash": "8bbee79ee00a9154358c0d31c4c88b7168090d0c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

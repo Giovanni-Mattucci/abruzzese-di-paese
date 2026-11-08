@@ -1,0 +1,26 @@
+{
+  "id": "r-recapatu",
+  "headword": "recapàtu",
+  "senses": [
+    {
+      "it": "scelto",
+      "en": "chosen",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ritrovato",
+      "en": "found again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "recapàtu: scelto, ritrovato",
+    "rawHash": "bc05eacc6b1e5e033f8c60ac823817dd486095eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

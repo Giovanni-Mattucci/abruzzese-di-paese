@@ -1,0 +1,21 @@
+{
+  "id": "m-mmaste",
+  "headword": "mmàste",
+  "senses": [
+    {
+      "it": "basto",
+      "en": "packsaddle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mmàste: basto",
+    "rawHash": "849ccd3161f58ed7875a774f47626594126572b9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

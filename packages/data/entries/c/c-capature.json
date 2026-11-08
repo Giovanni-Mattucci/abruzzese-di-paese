@@ -1,0 +1,31 @@
+{
+  "id": "c-capature",
+  "headword": "capatùre",
+  "senses": [
+    {
+      "it": "cernita",
+      "en": "sorting",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scelta",
+      "en": "choice",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dal verbo capàre",
+      "en": "from the verb capàre",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capatùre: cernita, scelta, dal verbo capàre",
+    "rawHash": "4ae55e962fe27b7da0ed32a0c20e86424234e304",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

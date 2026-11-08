@@ -1,0 +1,26 @@
+{
+  "id": "c-capabballe",
+  "headword": "capabballe",
+  "senses": [
+    {
+      "it": "in giù",
+      "en": "downwards",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in discesa",
+      "en": "downhill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capabballe: in giù, in discesa",
+    "rawHash": "5e5d7686c96db4caa2a728792d351074bdb07bb2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

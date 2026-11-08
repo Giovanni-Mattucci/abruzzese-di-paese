@@ -1,0 +1,21 @@
+{
+  "id": "g-gargarozze",
+  "headword": "gargarozze",
+  "senses": [
+    {
+      "it": "pomo di Adamo",
+      "en": "Adam's apple",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gargarozze: pomo di Adamo",
+    "rawHash": "d7fc47dc11e6ab366658c783ebf5909e51bf62da",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

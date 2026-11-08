@@ -1,0 +1,22 @@
+{
+  "id": "s-scarecarille",
+  "headword": "scarecarille",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "trappola per uccelli",
+      "en": "bird trap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarecarille (lu): trappola per uccelli",
+    "rawHash": "a65c9a92ef06b74d512d69eec9ab28dad392c7fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

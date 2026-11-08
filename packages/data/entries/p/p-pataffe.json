@@ -1,0 +1,26 @@
+{
+  "id": "p-pataffe",
+  "headword": "pataffe",
+  "senses": [
+    {
+      "it": "rosa di sparo del trombone",
+      "en": "shot pattern of a blunderbuss",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "detto anche di persona che le spara grosse",
+      "en": "also said of a person who tells tall tales",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pataffe: rosa di sparo del trombone; detto anche di persona che le spara grosse",
+    "rawHash": "9333add358464dde11b26b41b6c25edcdf098fe6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

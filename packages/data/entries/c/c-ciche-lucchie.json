@@ -1,0 +1,21 @@
+{
+  "id": "c-ciche-lucchie",
+  "headword": "cìche l'ucchie",
+  "senses": [
+    {
+      "it": "chiudere gli occhi",
+      "en": "to close one's eyes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cìche l'ucchie: chiudere gli occhi",
+    "rawHash": "a52ab90376f61836b1c7c4d6e593bdf9f4e29d5f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

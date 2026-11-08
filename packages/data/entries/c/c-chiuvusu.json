@@ -1,0 +1,21 @@
+{
+  "id": "c-chiuvusu",
+  "headword": "chiuvusu",
+  "senses": [
+    {
+      "it": "piovoso",
+      "en": "rainy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiuvusu: piovoso",
+    "rawHash": "0780d6f014ea1b091b8be374a6739ef417405705",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

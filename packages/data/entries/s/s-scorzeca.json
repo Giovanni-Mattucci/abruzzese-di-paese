@@ -1,0 +1,21 @@
+{
+  "id": "s-scorzeca",
+  "headword": "scorzeca",
+  "senses": [
+    {
+      "it": "corteccia",
+      "en": "bark",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scorzeca: corteccia",
+    "rawHash": "9e6cd04da269d316e9dcb77086528a6c50fce46e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "l-lvuov",
+  "headword": "l'vuov",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "i buoi",
+      "en": "the oxen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "l'vuov: i buoi (Montebello sul Sangro)",
+    "rawHash": "0627ff4be0e0c85d687c0a3cb3ed34dec0e2f2ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

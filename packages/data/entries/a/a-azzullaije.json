@@ -1,0 +1,21 @@
+{
+  "id": "a-azzullaije",
+  "headword": "azzullaije",
+  "senses": [
+    {
+      "it": "abbottonare",
+      "en": "to button up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "azzullaije: abbottonare",
+    "rawHash": "edf7d4d4044745155de2aac6cdb5d88e8afd1bee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

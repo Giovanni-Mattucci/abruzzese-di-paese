@@ -1,0 +1,21 @@
+{
+  "id": "s-strangaganasse",
+  "headword": "strangaganasse",
+  "senses": [
+    {
+      "it": "castagne secche e crude",
+      "en": "dried raw chestnuts",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strangaganasse: castagne secche e crude",
+    "rawHash": "325a2b03fd919ed1ec78808a33f68a4a81fd594a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

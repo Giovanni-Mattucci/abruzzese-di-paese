@@ -1,0 +1,21 @@
+{
+  "id": "p-pete",
+  "headword": "pete",
+  "senses": [
+    {
+      "it": "piede",
+      "en": "foot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pete: piede",
+    "rawHash": "63e537cb0f06efb45facd2c8c4fb588f65cb1130",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

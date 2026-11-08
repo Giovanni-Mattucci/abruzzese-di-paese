@@ -1,0 +1,22 @@
+{
+  "id": "s-sa-mmaldine",
+  "headword": "Sa Mmaldine",
+  "variants": [
+    "Sa Mmalindine"
+  ],
+  "senses": [
+    {
+      "it": "San Valentino in Abruzzo Citeriore (PE)"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "Sa Mmaldine, Sa Mmalindine: San Valentino in Abruzzo Citeriore (PE)",
+    "rawHash": "30c234579fc639e0f848a6eec28cfd6d3bb65396",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

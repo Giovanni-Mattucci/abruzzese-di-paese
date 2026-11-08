@@ -1,0 +1,21 @@
+{
+  "id": "p-pescolla",
+  "headword": "pescòlla",
+  "senses": [
+    {
+      "it": "pozzanghera",
+      "en": "puddle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pescòlla: pozzanghera",
+    "rawHash": "e9f7116ff733b678c92130386528633c0908c264",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

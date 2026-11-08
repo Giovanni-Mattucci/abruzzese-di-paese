@@ -1,0 +1,26 @@
+{
+  "id": "a-arcote",
+  "headword": "arcòte",
+  "senses": [
+    {
+      "it": "ha raccolto",
+      "en": "he/she has gathered",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ha raccolto nuovamente",
+      "en": "he/she has gathered again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcòte: ha raccolto, ha raccolto nuovamente",
+    "rawHash": "e0280be1bd82d1f3af8dfa8a83c80b173ca72a14",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

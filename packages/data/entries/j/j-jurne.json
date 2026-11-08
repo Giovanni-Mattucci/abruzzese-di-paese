@@ -1,0 +1,27 @@
+{
+  "id": "j-jurne",
+  "headword": "jùrne",
+  "variants": [
+    "jornu"
+  ],
+  "senses": [
+    {
+      "it": "giorno",
+      "en": "day",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: jurne giorno"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jùrne, jornu: giorno",
+    "rawHash": "4ba30dd5226e2cca1ea983e2d0d43b636fe322f2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

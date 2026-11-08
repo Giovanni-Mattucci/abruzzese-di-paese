@@ -1,0 +1,21 @@
+{
+  "id": "a-arvoteche",
+  "headword": "arvòteche",
+  "senses": [
+    {
+      "it": "schiaffo dato con il dorso della mano",
+      "en": "backhanded slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arvòteche: schiaffo dato con il dorso della mano",
+    "rawHash": "1f7ffe296a74f9396b3908501d531999296e5fe0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

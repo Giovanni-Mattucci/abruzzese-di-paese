@@ -1,0 +1,22 @@
+{
+  "id": "f-fircine",
+  "headword": "fircine",
+  "article": "la",
+  "senses": [
+    {
+      "it": "forchetta",
+      "en": "fork",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fircine (la): forchetta",
+    "rawHash": "52b1a79b41c656c5e80966bffa5914723ace81d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

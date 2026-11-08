@@ -1,0 +1,21 @@
+{
+  "id": "u-uje",
+  "headword": "uje",
+  "senses": [
+    {
+      "it": "oggi",
+      "en": "today",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "uje: oggi",
+    "rawHash": "86015830875ca1fe8c28318cbb0574322528c45e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "h-hobbe",
+  "headword": "hòbbe",
+  "senses": [
+    {
+      "it": "gobba",
+      "en": "hump",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hòbbe: gobba",
+    "rawHash": "d783d4afc391ff83f8254bac1277efe2f959ca93",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

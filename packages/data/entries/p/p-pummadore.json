@@ -1,0 +1,21 @@
+{
+  "id": "p-pummadore",
+  "headword": "pummadòre",
+  "senses": [
+    {
+      "it": "pomodoro",
+      "en": "tomato",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pummadòre: pomodoro",
+    "rawHash": "0a40ec22f51a83c7ec215c3fee0fbb9bbb7b6fa7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

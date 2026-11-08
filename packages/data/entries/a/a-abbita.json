@@ -1,0 +1,25 @@
+{
+  "id": "a-abbita",
+  "headword": "abbità",
+  "senses": [
+    {
+      "it": "abitare",
+      "en": "to live, to dwell",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j àbbite, tu ìjbbite, esse àbbite, nu abbitème, vu abbitète, jsse àbbitene ( io abito, tu abiti, egli abita, noi abitiamo, voi abitate, essi abitano).",
+    "Passato prossimo: j abbitèje, tu abbitìe, esse abbitèje, nu abbitavàme, vu abbitavàte, jsse abbitèjene (io abitavo, tu abitavi egli abitava, noi abitavamo, voi abitavate, essi abitavano). Passato remoto: j abbitìve, tu abbitìste, esse abbitò, nu abbitèmme, vu abbitèste, jsse abbitèttere (io abitai, tu abitasti, egli abitò, noi abitammo, voi abitaste, essi abitarono)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbità: abitare, j àbbite, tu ìjbbite, esse àbbite, nu abbitème, vu abbitète, jsse àbbitene ( io abito, tu abiti, egli abita, noi abitiamo, voi abitate, essi abitano). Passato prossimo: j abbitèje, tu abbitìe, esse abbitèje, nu abbitavàme, vu abbitavàte, jsse abbitèjene (io abitavo, tu abitavi egli abitava, noi abitavamo, voi abitavate, essi abitavano). Passato remoto: j abbitìve, tu abbitìste, esse abbitò, nu abbitèmme, vu abbitèste, jsse abbitèttere (io abitai, tu abitasti, egli abitò, noi abitammo, voi abitaste, essi abitarono)",
+    "rawHash": "c67597a19370efd8001c9c0e20b4d83f94763368",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

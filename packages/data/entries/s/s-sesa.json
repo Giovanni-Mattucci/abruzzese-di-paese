@@ -1,0 +1,28 @@
+{
+  "id": "s-sesa",
+  "headword": "sesa",
+  "variants": [
+    "sise",
+    "sesasise"
+  ],
+  "senses": [
+    {
+      "it": "mammella",
+      "en": "breast, udder",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: sise: mammelle"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sesa, sise, sesasise: mammella",
+    "rawHash": "37fca6a54e0d5c29e1cdc0fac45ff4a4cc528024",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

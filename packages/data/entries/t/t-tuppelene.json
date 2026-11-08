@@ -1,0 +1,22 @@
+{
+  "id": "t-tuppelene",
+  "headword": "tuppelêne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "grossa zolla di terra",
+      "en": "large clod of earth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tuppelêne (lu): grossa zolla di terra",
+    "rawHash": "4e0469f6de92df2e699dca3fe59e42fcd63a4091",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

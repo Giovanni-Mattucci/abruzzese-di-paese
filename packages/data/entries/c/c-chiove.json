@@ -1,0 +1,26 @@
+{
+  "id": "c-chiove",
+  "headword": "chiove",
+  "senses": [
+    {
+      "it": "chiodo",
+      "en": "nail",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pensiero fisso",
+      "en": "fixed idea, obsession",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiove: chiodo, pensiero fisso",
+    "rawHash": "da1f9ab1a0ad8cf2825be96b879ccc9e8f1d586d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

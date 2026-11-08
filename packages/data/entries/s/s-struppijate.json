@@ -1,0 +1,39 @@
+{
+  "id": "s-struppijate",
+  "headword": "struppijàte",
+  "senses": [
+    {
+      "it": "stanco",
+      "en": "tired",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "esausto",
+      "en": "exhausted",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "malconcio",
+      "en": "battered",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "stanco morto, usato anche per dire di chi si sente male dopo essere stato picchiato o è talmente stanco da avvertire dolori dappertutto",
+      "en": "dead tired, also used of someone who feels ill after being beaten or is so tired as to feel pain all over",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: struppijàte: stanco morto, usato anche per dire di chi si sente male dopo essere stato picchiato o è talmente stanco da avvertire dolori dappertutto"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "struppijàte: stanco, esausto, malconcio",
+    "rawHash": "937ea877d6406c0e13fdd85973cefa80a0fa38ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

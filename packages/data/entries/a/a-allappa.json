@@ -1,0 +1,21 @@
+{
+  "id": "a-allappa",
+  "headword": "allappà",
+  "senses": [
+    {
+      "it": "cucire l'orlo",
+      "en": "to sew the hem",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allappà: cucire l'orlo",
+    "rawHash": "2714329634e20c46738dae9dee5e331e6b32e104",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

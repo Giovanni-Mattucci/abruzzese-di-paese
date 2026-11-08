@@ -1,0 +1,24 @@
+{
+  "id": "n-ncuoll",
+  "headword": "'ncuoll",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "a tracolla",
+      "en": "across the shoulder, slung over the shoulder",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncuoll: a tracolla (Montebello sul S.)",
+    "rawHash": "139ca3b583c2530fce15abd11468b4c29f5775cc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

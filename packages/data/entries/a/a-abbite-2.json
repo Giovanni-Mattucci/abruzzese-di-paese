@@ -1,0 +1,24 @@
+{
+  "id": "a-abbite-2",
+  "headword": "àbbite",
+  "senses": [
+    {
+      "it": "abito",
+      "en": "dress, suit; I live",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: io"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "àbbite (io): abito",
+    "rawHash": "5fc7af6b6d92d6ff9ab9b18c5539f1b5180bc7c7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

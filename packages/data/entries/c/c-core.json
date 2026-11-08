@@ -1,0 +1,21 @@
+{
+  "id": "c-core",
+  "headword": "còre",
+  "senses": [
+    {
+      "it": "cuore",
+      "en": "heart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "còre: cuore",
+    "rawHash": "fc00134e2d22db7624cc79677228399b55c27a95",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

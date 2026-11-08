@@ -1,0 +1,26 @@
+{
+  "id": "m-mbare",
+  "headword": "'mbare",
+  "senses": [
+    {
+      "it": "impara",
+      "en": "he/she learns",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "insegna",
+      "en": "he/she teaches",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbare: impara, insegna",
+    "rawHash": "93e72f16a7d22f1f3903bbc566c0d239fb7f0775",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

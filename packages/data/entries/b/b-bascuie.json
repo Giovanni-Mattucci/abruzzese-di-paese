@@ -1,0 +1,26 @@
+{
+  "id": "b-bascuie",
+  "headword": "bascùie",
+  "senses": [
+    {
+      "it": "bascula",
+      "en": "platform scale",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "grossa bilancia",
+      "en": "large scale",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bascùie: bascula, grossa bilancia",
+    "rawHash": "e714eb7b002a5d1c797c0aa1caffb1e873287548",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

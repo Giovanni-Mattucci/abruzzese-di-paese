@@ -1,0 +1,21 @@
+{
+  "id": "s-stannarde",
+  "headword": "stannarde",
+  "senses": [
+    {
+      "it": "stendardo",
+      "en": "standard, banner",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stannarde: stendardo",
+    "rawHash": "82beaad304c1980c9856b00b9908132ac4232532",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

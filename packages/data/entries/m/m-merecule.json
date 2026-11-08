@@ -1,0 +1,22 @@
+{
+  "id": "m-merecule",
+  "headword": "merècule",
+  "article": "li",
+  "senses": [
+    {
+      "it": "more",
+      "en": "blackberries, mulberries",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "merècule (li): more",
+    "rawHash": "c2fb97120807253f8c495f41176a42c55e228e4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

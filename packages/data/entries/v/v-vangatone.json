@@ -1,0 +1,21 @@
+{
+  "id": "v-vangatone",
+  "headword": "vangatone",
+  "senses": [
+    {
+      "it": "schiaffo molto forte",
+      "en": "very hard slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vangatone: schiaffo molto forte",
+    "rawHash": "c88af7e1292d5964f124586d8a24db3e73bd3a04",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

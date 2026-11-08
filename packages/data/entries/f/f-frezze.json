@@ -1,0 +1,21 @@
+{
+  "id": "f-frezze",
+  "headword": "frèzze",
+  "senses": [
+    {
+      "it": "fionda",
+      "en": "slingshot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frèzze: fionda",
+    "rawHash": "f6f1284b94d7ac79d95bb0f0543c8ec4bab6032c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

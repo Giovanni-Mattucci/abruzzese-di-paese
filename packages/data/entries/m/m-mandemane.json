@@ -1,0 +1,26 @@
+{
+  "id": "m-mandemane",
+  "headword": "mandemàne",
+  "senses": [
+    {
+      "it": "stamattina",
+      "en": "this morning",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "questa mattina",
+      "en": "this morning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mandemàne: stamattina, questa mattina",
+    "rawHash": "220941b3f8d359c0b00f6d008ee40c1fb42a7d5c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-abbruscia",
+  "headword": "abbruscià",
+  "senses": [
+    {
+      "it": "bruciare",
+      "en": "to burn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbruscià: bruciare",
+    "rawHash": "a43df3a103766c9b3182f8a13f326867dad9dc85",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

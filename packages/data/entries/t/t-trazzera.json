@@ -1,0 +1,21 @@
+{
+  "id": "t-trazzera",
+  "headword": "trazzera",
+  "senses": [
+    {
+      "it": "sentiero per le pecore",
+      "en": "sheep track",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trazzera: sentiero per le pecore",
+    "rawHash": "044845088ea0b340a217e28cf2760a73e72043ed",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

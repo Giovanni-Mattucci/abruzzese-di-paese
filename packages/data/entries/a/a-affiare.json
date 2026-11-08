@@ -1,0 +1,21 @@
+{
+  "id": "a-affiare",
+  "headword": "affiàre",
+  "senses": [
+    {
+      "it": "il bruciacchiarsi dei lini troppo accostati alla fiamma",
+      "en": "the singeing of linens held too close to the flame",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "affiàre: il bruciacchiarsi dei lini troppo accostati alla fiamma",
+    "rawHash": "ac8eba89aff7ba3de1f13c60a6661958a89bfd13",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

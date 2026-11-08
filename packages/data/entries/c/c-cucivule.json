@@ -1,0 +1,21 @@
+{
+  "id": "c-cucivule",
+  "headword": "cucivule",
+  "senses": [
+    {
+      "it": "garbato",
+      "en": "polite, courteous",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucivule: garbato",
+    "rawHash": "5485192ef3d7e8186d1a62f2bf1b7ef4c5e65bb1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

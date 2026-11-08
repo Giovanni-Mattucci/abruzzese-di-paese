@@ -1,0 +1,33 @@
+{
+  "id": "s-speziale",
+  "headword": "speziale",
+  "variants": [
+    "spiziàle",
+    "spizijàle"
+  ],
+  "senses": [
+    {
+      "it": "farmacista",
+      "en": "pharmacist",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "uomo di medicina",
+      "en": "medicine man",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: spiziàle, spizijàle, speziale: farmacista"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "speziale, spiziale, spizijale: farmacista, uomo di medicina",
+    "rawHash": "6d6be04985179500dea3ce7bd79c904f1b270a64",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

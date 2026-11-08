@@ -1,0 +1,21 @@
+{
+  "id": "s-sciambilille",
+  "headword": "sciambilìlle",
+  "senses": [
+    {
+      "it": "scivolo",
+      "en": "slide",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciambilìlle: scivolo",
+    "rawHash": "7238348bd426e514e7a3c6e002ebfe9cd88d08a4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

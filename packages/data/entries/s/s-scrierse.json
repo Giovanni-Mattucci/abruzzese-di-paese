@@ -1,0 +1,26 @@
+{
+  "id": "s-scrierse",
+  "headword": "scrierse",
+  "senses": [
+    {
+      "it": "allontanarsi",
+      "en": "to go away",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scomparire",
+      "en": "to disappear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scrierse: allontanarsi, scomparire",
+    "rawHash": "9d80c0d860e3af007bebc0d698c5f1f3a8e81ea5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

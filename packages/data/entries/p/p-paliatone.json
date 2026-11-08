@@ -1,0 +1,21 @@
+{
+  "id": "p-paliatone",
+  "headword": "paliatòne",
+  "senses": [
+    {
+      "it": "botte da orbi",
+      "en": "a severe beating",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paliatòne: botte da orbi",
+    "rawHash": "24ba2414c4b09489c9ed91ae179288069f1712e4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

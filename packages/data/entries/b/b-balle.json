@@ -1,0 +1,21 @@
+{
+  "id": "b-balle",
+  "headword": "balle",
+  "senses": [
+    {
+      "it": "danza",
+      "en": "dance",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "balle: danza",
+    "rawHash": "130a5e220f7e2b308b74e52bb7b6721dcf2a8748",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

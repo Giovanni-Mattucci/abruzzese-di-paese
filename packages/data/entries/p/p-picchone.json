@@ -1,0 +1,26 @@
+{
+  "id": "p-picchone",
+  "headword": "picchone",
+  "senses": [
+    {
+      "it": "attrezzo da cantiere",
+      "en": "pickaxe, construction site tool",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "grosso pene",
+      "en": "large penis",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "picchone: attrezzo da cantiere, grosso pene",
+    "rawHash": "b212cffc7d597c3923c4f6cba2d6f12ead32c2ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

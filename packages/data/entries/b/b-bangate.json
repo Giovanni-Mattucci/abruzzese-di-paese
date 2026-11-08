@@ -1,0 +1,22 @@
+{
+  "id": "b-bangate",
+  "headword": "bangate",
+  "article": "la",
+  "senses": [
+    {
+      "it": "impalcatura",
+      "en": "scaffolding",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bangate (la): impalcatura",
+    "rawHash": "b95eed182ca1e415105ec13fa4bcb6e9d9ffac39",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

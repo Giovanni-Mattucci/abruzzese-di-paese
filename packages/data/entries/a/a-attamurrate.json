@@ -1,0 +1,21 @@
+{
+  "id": "a-attamurrate",
+  "headword": "attamurrate",
+  "senses": [
+    {
+      "it": "indurito",
+      "en": "hardened",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "attamurrate : indurito",
+    "rawHash": "dde9d829b66fe361fe2a5f18a624d7e825a4abb8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

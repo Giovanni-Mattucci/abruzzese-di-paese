@@ -1,0 +1,24 @@
+{
+  "id": "s-scupnare",
+  "headword": "scupnàre",
+  "variants": [
+    "scupinàre"
+  ],
+  "senses": [
+    {
+      "it": "zampugnaro",
+      "en": "bagpiper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scupnàre, scupinàre: zampugnaro",
+    "rawHash": "a4a0b969d921710345ed355aaa5cdd0c357e71c3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

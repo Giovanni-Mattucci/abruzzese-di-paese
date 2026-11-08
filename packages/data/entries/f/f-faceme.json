@@ -1,0 +1,21 @@
+{
+  "id": "f-faceme",
+  "headword": "facème",
+  "senses": [
+    {
+      "it": "facciamo",
+      "en": "we do",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "facème: facciamo",
+    "rawHash": "457d3775f281756b9cd41010154a391df91cec35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

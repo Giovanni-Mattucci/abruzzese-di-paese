@@ -1,0 +1,21 @@
+{
+  "id": "s-sdijunete",
+  "headword": "sdijunète",
+  "senses": [
+    {
+      "it": "fate colazione",
+      "en": "you have breakfast (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdijunète: fate colazione",
+    "rawHash": "6e3028822572a1068505269f2a5aa6d97332264a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

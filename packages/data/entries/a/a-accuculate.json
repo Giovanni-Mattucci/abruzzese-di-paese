@@ -1,0 +1,24 @@
+{
+  "id": "a-accuculate",
+  "headword": "accuculàte",
+  "senses": [
+    {
+      "it": "accoccolarsi (dalla serie onomatopeica co... co..., che ricorda il verso e, quindi, l'atto della chioccia)",
+      "en": "to crouch down, to huddle up (from the onomatopoeic series co... co..., which recalls the call, and so the action, of the brooding hen)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: verso e, quindi, l'atto della chioccia)."
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accuculàte: accoccolarsi, (dalla serie onomatopeica co... co..., che ricorda il",
+    "rawHash": "938737f2e24a51f0a4156387978af550b9cd04c3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

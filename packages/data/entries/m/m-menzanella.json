@@ -1,0 +1,21 @@
+{
+  "id": "m-menzanella",
+  "headword": "menzanèlla",
+  "senses": [
+    {
+      "it": "scodella",
+      "en": "bowl",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "menzanèlla: scodella",
+    "rawHash": "96e50d153b05950d9aebbf9fec10578132044d35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

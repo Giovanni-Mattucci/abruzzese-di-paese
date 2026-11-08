@@ -1,0 +1,21 @@
+{
+  "id": "r-raccia",
+  "headword": "raccia",
+  "senses": [
+    {
+      "it": "braccia",
+      "en": "arms",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "raccia: braccia",
+    "rawHash": "0948a4c6420b070519483f001e607d83d4d6e39d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

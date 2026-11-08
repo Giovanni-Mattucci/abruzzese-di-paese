@@ -1,0 +1,21 @@
+{
+  "id": "a-apprezza",
+  "headword": "apprezzà",
+  "senses": [
+    {
+      "it": "scagliare",
+      "en": "to hurl, to throw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "apprezzà: scagliare",
+    "rawHash": "2be169224c89fdc71941a7e3e8f3920456d8f5e4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

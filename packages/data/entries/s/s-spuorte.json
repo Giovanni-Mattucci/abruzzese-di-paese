@@ -1,0 +1,21 @@
+{
+  "id": "s-spuorte",
+  "headword": "spuorte",
+  "senses": [
+    {
+      "it": "supporto",
+      "en": "support",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spuorte: supporto",
+    "rawHash": "0a516cc14355c6053c5e1713e330cf05e0a882a1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

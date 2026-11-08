@@ -1,0 +1,21 @@
+{
+  "id": "a-acchetugna",
+  "headword": "acchetugnà",
+  "senses": [
+    {
+      "it": "malmenare",
+      "en": "to beat up, to manhandle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acchetugnà: malmenare",
+    "rawHash": "91ede3317e29b114a9a9e8e1839b1608c183cd7c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

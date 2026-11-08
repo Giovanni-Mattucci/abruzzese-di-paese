@@ -1,0 +1,24 @@
+{
+  "id": "p-puorc",
+  "headword": "puorc",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "maiale",
+      "en": "pig",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "puorc: maiale (M. sul S.)",
+    "rawHash": "b6e60389cc89b957f81b55b815ab2dedd36d1192",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

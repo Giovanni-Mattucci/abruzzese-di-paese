@@ -1,0 +1,21 @@
+{
+  "id": "a-assittarse",
+  "headword": "assittarse",
+  "senses": [
+    {
+      "it": "sedersi",
+      "en": "to sit down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assittarse: sedersi",
+    "rawHash": "a21c632b28fd7a788fddf12898a0ff788a9f1df0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

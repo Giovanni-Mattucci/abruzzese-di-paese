@@ -1,0 +1,21 @@
+{
+  "id": "c-chela",
+  "headword": "chela",
+  "senses": [
+    {
+      "it": "parecchi",
+      "en": "several, quite a few",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chela: parecchi",
+    "rawHash": "92dcaa5b80b322c2e6a90d83eaadab9eb6a98446",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

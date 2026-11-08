@@ -1,0 +1,21 @@
+{
+  "id": "v-votte",
+  "headword": "votte",
+  "senses": [
+    {
+      "it": "botte",
+      "en": "cask, barrel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "votte: botte",
+    "rawHash": "baf069440890d993cc46447e4343c562d3658e48",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

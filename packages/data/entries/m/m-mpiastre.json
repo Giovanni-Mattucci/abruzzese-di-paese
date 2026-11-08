@@ -1,0 +1,21 @@
+{
+  "id": "m-mpiastre",
+  "headword": "'mpiastre",
+  "senses": [
+    {
+      "it": "ragazzo",
+      "en": "boy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mpiastre: ragazzo",
+    "rawHash": "528cfeb02d1022bc34094969d837c406399ed1ae",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

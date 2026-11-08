@@ -1,0 +1,21 @@
+{
+  "id": "s-stellende",
+  "headword": "stellende",
+  "senses": [
+    {
+      "it": "che irradia vivida luce (luna stellende: luna brillante)",
+      "en": "that radiates bright light (luna stellende: bright moon)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stellende: che irradia vivida luce (luna stellende: luna brillante)",
+    "rawHash": "2401542e1cb1e9dacb26b428292db78dfc44c524",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

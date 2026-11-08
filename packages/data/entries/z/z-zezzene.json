@@ -1,0 +1,22 @@
+{
+  "id": "z-zezzene",
+  "headword": "zêzzene",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "sporcaccione",
+      "en": "filthy person, slob",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zêzzene (lu): sporcaccione",
+    "rawHash": "d4231851d216fdce3bf4185ab61da2f88957e2f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sdentate",
+  "headword": "sdentate",
+  "senses": [
+    {
+      "it": "senza denti",
+      "en": "toothless",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdentate: senza denti",
+    "rawHash": "5ef0897fb3d2321f3773dbf16babf476371e3522",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

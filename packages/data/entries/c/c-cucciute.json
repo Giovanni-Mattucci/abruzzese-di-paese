@@ -1,0 +1,21 @@
+{
+  "id": "c-cucciute",
+  "headword": "cucciùte",
+  "senses": [
+    {
+      "it": "caparbio",
+      "en": "stubborn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucciùte: caparbio",
+    "rawHash": "ae2a773b24c8f07e2b728dd7f91968633d208554",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

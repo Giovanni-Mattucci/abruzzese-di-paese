@@ -1,0 +1,26 @@
+{
+  "id": "m-munna",
+  "headword": "munnà",
+  "senses": [
+    {
+      "it": "spazzare",
+      "en": "to sweep",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scopare",
+      "en": "to sweep with a broom",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "munnà: spazzare, scopare",
+    "rawHash": "c364e1c5c6263f45e212397a7624059a57704e65",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

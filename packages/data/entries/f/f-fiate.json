@@ -1,0 +1,26 @@
+{
+  "id": "f-fiate",
+  "headword": "fiate",
+  "senses": [
+    {
+      "it": "alito",
+      "en": "breath",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "respiri",
+      "en": "breaths",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fiate: alito, respiri",
+    "rawHash": "2403ea1e90b6d040e9a6f1a3033288514de67545",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

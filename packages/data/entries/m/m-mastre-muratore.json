@@ -1,0 +1,21 @@
+{
+  "id": "m-mastre-muratore",
+  "headword": "mastre muratore",
+  "senses": [
+    {
+      "it": "capomastro",
+      "en": "master builder, foreman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mastre muratore: capomastro",
+    "rawHash": "0f64ccc8ef0375066290f63f31e95b7d5bc57130",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-curiale",
+  "headword": "curiale",
+  "senses": [
+    {
+      "it": "membri della giuria",
+      "en": "members of the jury",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "curiale: membri della giuria",
+    "rawHash": "1ef95dee005f2f1b3ffa67c295bab9b3b1750f4f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

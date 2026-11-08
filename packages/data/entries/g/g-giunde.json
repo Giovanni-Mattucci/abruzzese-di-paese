@@ -1,0 +1,21 @@
+{
+  "id": "g-giunde",
+  "headword": "giunde",
+  "senses": [
+    {
+      "it": "giunture",
+      "en": "joints",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "giunde: giunture",
+    "rawHash": "90ee92e478c0b6c75cf8c10f2aa6b0e2b4551ae0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

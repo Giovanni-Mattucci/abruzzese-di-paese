@@ -1,0 +1,21 @@
+{
+  "id": "a-ave",
+  "headword": "avè",
+  "senses": [
+    {
+      "it": "avere",
+      "en": "to have",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "avè: avere",
+    "rawHash": "580c4c2bb0f426e8bfac4b5d7e7c6647ca8e7912",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

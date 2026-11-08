@@ -1,0 +1,26 @@
+{
+  "id": "m-mbaremece",
+  "headword": "'mbarèmece",
+  "senses": [
+    {
+      "it": "impariamo",
+      "en": "let us learn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "impariamoci",
+      "en": "let us learn (reflexive)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbarèmece: impariamo, impariamoci",
+    "rawHash": "ddf351c842252a59cce1c1879e553aeb49b604d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

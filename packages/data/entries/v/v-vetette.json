@@ -1,0 +1,21 @@
+{
+  "id": "v-vetette",
+  "headword": "vetètte",
+  "senses": [
+    {
+      "it": "vide",
+      "en": "he/she saw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vetètte: vide",
+    "rawHash": "b8191f4ee35785067a4c6d219e5d1f0b0088ddf5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

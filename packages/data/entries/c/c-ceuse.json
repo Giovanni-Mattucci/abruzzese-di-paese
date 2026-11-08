@@ -1,0 +1,26 @@
+{
+  "id": "c-ceuse",
+  "headword": "ceuse",
+  "senses": [
+    {
+      "it": "mal ridotto",
+      "en": "in a bad state, battered",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "poco di buono",
+      "en": "good-for-nothing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ceuse: mal ridotto, poco di buono",
+    "rawHash": "4627b69e514ccb948e3949f215e8bafca1e4acec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

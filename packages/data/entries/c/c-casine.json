@@ -1,0 +1,21 @@
+{
+  "id": "c-casine",
+  "headword": "casìne",
+  "senses": [
+    {
+      "it": "bordello casone: rifugio",
+      "en": "brothel; casone: shelter, refuge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "casìne: bordello casone: rifugio",
+    "rawHash": "5796631f9a8a871670512fc3700cd798dd067c9f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

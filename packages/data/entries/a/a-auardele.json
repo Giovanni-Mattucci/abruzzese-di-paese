@@ -1,0 +1,21 @@
+{
+  "id": "a-auardele",
+  "headword": "auàrdele",
+  "senses": [
+    {
+      "it": "guardalo",
+      "en": "look at him/it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "auàrdele: guardalo",
+    "rawHash": "d9a318f92ad5596b8a5ff4abb9e527414b392417",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

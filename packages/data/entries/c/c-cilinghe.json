@@ -1,0 +1,26 @@
+{
+  "id": "c-cilinghe",
+  "headword": "cilinghe",
+  "senses": [
+    {
+      "it": "cocci di vetro",
+      "en": "shards of glass",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "termine onomatopeico",
+      "en": "onomatopoeic term",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cilinghe: cocci di vetro, termine onomatopeico",
+    "rawHash": "22a77cc0348fc081780a94f8ddcde839a32aa9a2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

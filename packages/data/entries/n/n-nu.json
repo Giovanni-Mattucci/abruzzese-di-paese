@@ -1,0 +1,31 @@
+{
+  "id": "n-nu",
+  "headword": "nu",
+  "senses": [
+    {
+      "it": "non",
+      "en": "not",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "un",
+      "en": "a, an",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "uno,noi",
+      "en": "one, we",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nu: non, un, uno,noi",
+    "rawHash": "d67fc3d37ab97183bdb69f50f1c33146efd0db86",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

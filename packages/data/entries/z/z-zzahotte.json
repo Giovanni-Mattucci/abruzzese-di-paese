@@ -1,0 +1,22 @@
+{
+  "id": "z-zzahotte",
+  "headword": "zzahotte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "discolo",
+      "en": "unruly child, rascal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zzahotte (lu): discolo",
+    "rawHash": "dab74f5854606052466ea8902c7631af62160b45",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

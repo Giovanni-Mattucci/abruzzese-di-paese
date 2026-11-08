@@ -1,0 +1,21 @@
+{
+  "id": "v-vavacce",
+  "headword": "vavacce",
+  "senses": [
+    {
+      "it": "gozzo",
+      "en": "goitre, crop",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vavacce: gozzo",
+    "rawHash": "3c9eb3d1acea069679d7678f92e463f991d09065",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

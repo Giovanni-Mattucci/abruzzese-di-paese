@@ -1,0 +1,21 @@
+{
+  "id": "a-aneglio",
+  "headword": "anèglio",
+  "senses": [
+    {
+      "it": "anello",
+      "en": "ring",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "anèglio: anello",
+    "rawHash": "d87c45a2180d2247a15da2c0718b077c497bcdb2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a-allucca",
+  "headword": "alluccà",
+  "senses": [
+    {
+      "it": "urlare",
+      "en": "to yell",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "strillare",
+      "en": "to shriek",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gridare",
+      "en": "to shout",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "alluccà: urlare, strillare, gridare",
+    "rawHash": "bde08a7975054b81c5b912b19de0750a5c3bf1eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

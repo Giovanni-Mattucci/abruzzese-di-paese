@@ -1,0 +1,22 @@
+{
+  "id": "c-cende",
+  "headword": "cênde",
+  "article": "la",
+  "senses": [
+    {
+      "it": "cintura",
+      "en": "belt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cênde (la): cintura",
+    "rawHash": "6ed09ff24de26e276f59d47de5db1fbd75c4c06e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

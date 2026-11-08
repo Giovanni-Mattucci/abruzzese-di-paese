@@ -1,0 +1,24 @@
+{
+  "id": "l-la-laut",
+  "headword": "la laut",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "il fango",
+      "en": "the mud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "la laut: il fango (Montebello sul Sangro)",
+    "rawHash": "b2900efb690c73389ada43d4cc06e6a9f7d92a52",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

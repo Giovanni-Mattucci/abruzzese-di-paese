@@ -1,0 +1,21 @@
+{
+  "id": "s-sfriscete",
+  "headword": "sfriscète",
+  "senses": [
+    {
+      "it": "rigate",
+      "en": "you scratch (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfriscète: rigate",
+    "rawHash": "0236da161ddd85835350c418ee3dc771c7dd7a92",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

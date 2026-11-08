@@ -1,0 +1,21 @@
+{
+  "id": "a-apparicchia",
+  "headword": "apparicchià",
+  "senses": [
+    {
+      "it": "apparecchiare",
+      "en": "to set the table",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "apparicchià: apparecchiare",
+    "rawHash": "ea727475e85ab2707cf518c4059dc3ec94466418",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

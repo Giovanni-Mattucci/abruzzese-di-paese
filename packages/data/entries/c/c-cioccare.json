@@ -1,0 +1,26 @@
+{
+  "id": "c-cioccare",
+  "headword": "cioccare",
+  "senses": [
+    {
+      "it": "ciocco",
+      "en": "log",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "legna grossa",
+      "en": "thick firewood",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cioccare: ciocco, legna grossa",
+    "rawHash": "bf72850e9b6d6c198e5d6c3f080afc555d5dc968",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

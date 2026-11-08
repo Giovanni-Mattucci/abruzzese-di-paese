@@ -1,0 +1,19 @@
+{
+  "id": "v-vitto",
+  "headword": "Vittò",
+  "senses": [
+    {
+      "it": "Vittorio"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "Vittò: Vittorio",
+    "rawHash": "088d686717cf99420b95c45232df1882daa9c79c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

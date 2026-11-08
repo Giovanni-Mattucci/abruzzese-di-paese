@@ -1,0 +1,24 @@
+{
+  "id": "n-ndrangulete",
+  "headword": "'ndrangulète",
+  "variants": [
+    "'ndrangulite'"
+  ],
+  "senses": [
+    {
+      "it": "crepuscolo",
+      "en": "twilight, dusk",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndrangulète, 'ndrangulite': crepuscolo",
+    "rawHash": "421ca4e3270e01953bcecb9b5d7b53fe5764616e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

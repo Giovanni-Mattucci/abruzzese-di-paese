@@ -1,0 +1,26 @@
+{
+  "id": "j-ju-rrete",
+  "headword": "ju rrete",
+  "senses": [
+    {
+      "it": "dietro",
+      "en": "behind",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "là dietro",
+      "en": "back there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ju rrete: dietro, là dietro",
+    "rawHash": "f3414a4f7c13e58e7bfb7c55dac72d2103bdebac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

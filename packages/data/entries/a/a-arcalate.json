@@ -1,0 +1,26 @@
+{
+  "id": "a-arcalate",
+  "headword": "arcalàte",
+  "senses": [
+    {
+      "it": "è risceso",
+      "en": "he/she has come back down",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "è sceso di nuovo",
+      "en": "he/she has gone down again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcalàte: è risceso, è sceso di nuovo",
+    "rawHash": "d6701cef558014092cab443aff0e40f3dee48b11",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vussassate",
+  "headword": "vussassàte",
+  "senses": [
+    {
+      "it": "spingeste",
+      "en": "you (plural) pushed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vussassàte: spingeste",
+    "rawHash": "b4e0cc91c210c6a2b7185735fddcb09ebb138749",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

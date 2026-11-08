@@ -1,0 +1,21 @@
+{
+  "id": "p-pinzete",
+  "headword": "pinzète",
+  "senses": [
+    {
+      "it": "pensate",
+      "en": "you (plural) think",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinzète: pensate",
+    "rawHash": "5147df613e6f267c7fedf172a0421685be17eac8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

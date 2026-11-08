@@ -1,0 +1,26 @@
+{
+  "id": "n-ngandone",
+  "headword": "'ngandone",
+  "senses": [
+    {
+      "it": "di lato",
+      "en": "to the side",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vicino",
+      "en": "near, nearby",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngandone: di lato, vicino",
+    "rawHash": "1c2b9b1da1bf4755be97c2610e325428d552520c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

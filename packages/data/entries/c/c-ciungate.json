@@ -1,0 +1,31 @@
+{
+  "id": "c-ciungate",
+  "headword": "ciungàte",
+  "senses": [
+    {
+      "it": "offeso",
+      "en": "injured",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rovinato",
+      "en": "ruined",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "picchiato con violenza",
+      "en": "violently beaten",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciungàte: offeso, rovinato, picchiato con violenza",
+    "rawHash": "5620ffa66e6825c0b2b914d13159644a24e28499",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

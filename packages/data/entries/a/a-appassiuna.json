@@ -1,0 +1,21 @@
+{
+  "id": "a-appassiuna",
+  "headword": "appassiunà",
+  "senses": [
+    {
+      "it": "appassionare",
+      "en": "to excite, to fill with passion",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appassiunà: appassionare",
+    "rawHash": "cfded66b741e228ccc264689f3a9c45dee82b2db",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

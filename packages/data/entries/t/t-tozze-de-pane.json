@@ -1,0 +1,21 @@
+{
+  "id": "t-tozze-de-pane",
+  "headword": "tozze de pane",
+  "senses": [
+    {
+      "it": "pezzo di pane",
+      "en": "piece of bread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tozze de pane: pezzo di pane",
+    "rawHash": "3ca61139c5ef74b6bfd90609a97c23862a19203b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

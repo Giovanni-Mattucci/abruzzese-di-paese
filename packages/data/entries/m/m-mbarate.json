@@ -1,0 +1,26 @@
+{
+  "id": "m-mbarate",
+  "headword": "'mbarate",
+  "senses": [
+    {
+      "it": "imparato",
+      "en": "learned",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "insegnato",
+      "en": "taught",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbarate: imparato, insegnato",
+    "rawHash": "57aba2edaec3816ca5a9aea0595de1135fe523ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

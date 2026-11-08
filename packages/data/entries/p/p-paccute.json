@@ -1,0 +1,26 @@
+{
+  "id": "p-paccute",
+  "headword": "paccute",
+  "senses": [
+    {
+      "it": "spesso",
+      "en": "thick",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "doppio",
+      "en": "double",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paccute: spesso, doppio",
+    "rawHash": "a7aa477c08738f2480f1d000615ee1c69b2fbb2b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

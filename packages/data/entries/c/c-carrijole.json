@@ -1,0 +1,22 @@
+{
+  "id": "c-carrijole",
+  "headword": "carrijòle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "carretto con una ruota",
+      "en": "wheelbarrow, one-wheeled cart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carrijòle (la): carretto con una ruota",
+    "rawHash": "38e660c27f48ca390b5fd951ab3032f75749843a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

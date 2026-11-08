@@ -1,0 +1,21 @@
+{
+  "id": "p-prene",
+  "headword": "prène",
+  "senses": [
+    {
+      "it": "incinta",
+      "en": "pregnant",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prène: incinta",
+    "rawHash": "3a9c82f661d3f62aff7d12d9a9c247ae645497db",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

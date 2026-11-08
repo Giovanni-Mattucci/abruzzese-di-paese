@@ -1,0 +1,21 @@
+{
+  "id": "d-du",
+  "headword": "'du",
+  "senses": [
+    {
+      "it": "due, si scrive con una d, ma si legge come se fosserò due, molto forte",
+      "en": "two, written with one d, but read as if there were two, very strongly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "'du: due, si scrive con una d, ma si legge come se fosserò due, molto forte",
+    "rawHash": "1a03a4bd641f20263998e1e6c6f6c822e01cb0c8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

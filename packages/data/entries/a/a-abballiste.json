@@ -1,0 +1,26 @@
+{
+  "id": "a-abballiste",
+  "headword": "abballiste",
+  "senses": [
+    {
+      "it": "verso il basso",
+      "en": "downwards",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "giù",
+      "en": "down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abballiste: verso il basso, giù",
+    "rawHash": "793d5148549369ccd5145bfe97ec5cc16cc05588",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

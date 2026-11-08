@@ -1,0 +1,26 @@
+{
+  "id": "n-nguculasse",
+  "headword": "'nguculàsse",
+  "senses": [
+    {
+      "it": "accoccolarsi",
+      "en": "to crouch down",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "abbassarsi pegando le ginocchia",
+      "en": "to lower oneself by bending the knees",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nguculàsse: accoccolarsi, abbassarsi pegando le ginocchia",
+    "rawHash": "6b8b91e442e46cd4610b3b30ffae384867ca6a0e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

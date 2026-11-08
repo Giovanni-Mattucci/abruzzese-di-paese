@@ -1,0 +1,21 @@
+{
+  "id": "v-vrisciate",
+  "headword": "vrisciate",
+  "senses": [
+    {
+      "it": "frustate",
+      "en": "lashes, whippings",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrisciate: frustate",
+    "rawHash": "c1dc123d3a04640a0f1cd44fda31df35b229bf63",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

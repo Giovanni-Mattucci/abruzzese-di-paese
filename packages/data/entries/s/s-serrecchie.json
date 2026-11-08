@@ -1,0 +1,24 @@
+{
+  "id": "s-serrecchie",
+  "headword": "serrecchie",
+  "variants": [
+    "serrecche"
+  ],
+  "senses": [
+    {
+      "it": "falce per segare il grano, còncola",
+      "en": "sickle for reaping wheat, còncola",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "serrecchie, serrecche: falce per segare il grano, còncola",
+    "rawHash": "fa8f3568c549f2f4a3cb9c9b03abb758797daeb0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

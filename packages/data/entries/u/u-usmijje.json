@@ -1,0 +1,26 @@
+{
+  "id": "u-usmijje",
+  "headword": "usmijje",
+  "senses": [
+    {
+      "it": "osmia",
+      "en": "mason bee (Osmia)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "della famiglia apidi. Nidifica entro buche che divide in cellette mediante strati argillosi",
+      "en": "of the Apidae family. It nests in holes that it divides into small cells by means of layers of clay",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "usmijje: osmia; della famiglia apidi. Nidifica entro buche che divide in cellette mediante strati argillosi",
+    "rawHash": "2aabd1423c7e7f915a2f321871b268b917c63121",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

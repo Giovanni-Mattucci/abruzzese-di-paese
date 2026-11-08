@@ -1,0 +1,21 @@
+{
+  "id": "a-alanne",
+  "headword": "alanne",
+  "senses": [
+    {
+      "it": "alare, i due arnesi da focolare o da caminetto, per lo più di ferro o altro metallo, usati per tenere sospesa la legna sì che arda meglio",
+      "en": "andiron, the two hearth or fireplace implements, mostly of iron or other metal, used to hold the firewood raised so that it burns better",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "alanne: alare, i due arnesi da focolare o da caminetto, per lo più di ferro o altro metallo, usati per tenere sospesa la legna sì che arda meglio.",
+    "rawHash": "42e55145cc0f810d475b4db41593ae3809157d55",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

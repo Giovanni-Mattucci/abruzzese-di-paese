@@ -1,0 +1,21 @@
+{
+  "id": "c-citilone",
+  "headword": "citilòne",
+  "senses": [
+    {
+      "it": "bambinone",
+      "en": "big child, overgrown child",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "citilòne: bambinone",
+    "rawHash": "1ce5342c17e740213139169affeb0af1555b4eed",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

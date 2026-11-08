@@ -1,0 +1,21 @@
+{
+  "id": "c-cussu",
+  "headword": "cussù",
+  "senses": [
+    {
+      "it": "questo - riferito a persona –",
+      "en": "this one - referring to a male person –",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cussù: questo - riferito a persona –",
+    "rawHash": "cd917f4728eb41e316e45156d14a2e667b5e092f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

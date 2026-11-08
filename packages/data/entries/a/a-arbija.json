@@ -1,0 +1,21 @@
+{
+  "id": "a-arbija",
+  "headword": "arbijà",
+  "senses": [
+    {
+      "it": "ricominciare",
+      "en": "to start again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arbijà: ricominciare",
+    "rawHash": "0501ac77f7b2506e487304df3536c0a8d1c3ca6f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

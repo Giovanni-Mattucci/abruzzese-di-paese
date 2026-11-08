@@ -1,0 +1,22 @@
+{
+  "id": "b-bbezzeche",
+  "headword": "bbézzeche",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "piccolo recipiente con beccuccio per versare l'olio",
+      "en": "small spouted vessel for pouring oil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbézzeche (lu): piccolo recipiente con beccuccio per versare l'olio",
+    "rawHash": "848882670e5240c16790d6928b5d61d6aaedb720",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

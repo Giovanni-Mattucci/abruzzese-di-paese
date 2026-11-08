@@ -1,0 +1,21 @@
+{
+  "id": "p-partgalle",
+  "headword": "partgalle",
+  "senses": [
+    {
+      "it": "arancia",
+      "en": "orange",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "partgalle: arancia",
+    "rawHash": "591ae9d4901d8f639389c0511c1fb99df8b1ece4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}
