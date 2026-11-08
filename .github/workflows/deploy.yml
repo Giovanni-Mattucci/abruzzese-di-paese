@@ -27,7 +27,7 @@ jobs:
         with:
           # The commit CI tested, not whatever main points at by now.
           ref: ${{ github.event.workflow_run.head_sha || github.sha }}
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
       - uses: actions/setup-node@v5
         with:
           node-version: 24

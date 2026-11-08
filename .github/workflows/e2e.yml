@@ -24,7 +24,7 @@ jobs:
       PLAYWRIGHT_BROWSERS: ${{ github.ref == 'refs/heads/main' && 'chromium webkit' || 'chromium' }}
     steps:
       - uses: actions/checkout@v5
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
       - uses: actions/setup-node@v5
         with:
           node-version: 24
