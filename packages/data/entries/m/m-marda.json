@@ -1,0 +1,26 @@
+{
+  "id": "m-marda",
+  "headword": "m'ardà",
+  "senses": [
+    {
+      "it": "mi ridà",
+      "en": "he/she gives it back to me",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mi restituisce",
+      "en": "he/she returns it to me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m'ardà: mi ridà, mi restituisce",
+    "rawHash": "f05e60b1be2262ce07633c4d3926ed731a6413d5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

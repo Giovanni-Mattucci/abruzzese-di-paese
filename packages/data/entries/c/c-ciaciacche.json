@@ -1,0 +1,21 @@
+{
+  "id": "c-ciaciacche",
+  "headword": "ciaciacche",
+  "senses": [
+    {
+      "it": "la poltiglia che si forma negli scoli delle stalle, liquame",
+      "en": "the sludge that forms in the drains of stables, slurry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciaciacche: la poltiglia che si forma negli scoli delle stalle, liquame",
+    "rawHash": "17eb7c588bd466ae6802e5fc87271d37a0b2f692",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-pazziarelle-2",
+  "headword": "pazziarelle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "giocattolo",
+      "en": "toy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pazziarelle (lu): giocattolo",
+    "rawHash": "1aaf2ab022973e2457c24f48832aae3a791759a1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

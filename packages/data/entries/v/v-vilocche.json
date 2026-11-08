@@ -1,0 +1,21 @@
+{
+  "id": "v-vilocche",
+  "headword": "vilocche",
+  "senses": [
+    {
+      "it": "chioccia",
+      "en": "brood hen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vilocche: chioccia",
+    "rawHash": "dd98bdf30b0bf519d6cc0d2ae5838be3ac1cbbab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

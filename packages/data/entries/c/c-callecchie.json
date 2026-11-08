@@ -1,0 +1,21 @@
+{
+  "id": "c-callecchie",
+  "headword": "callècchie",
+  "senses": [
+    {
+      "it": "foro fatto al cocomero o al melone per controllarne la maturazione",
+      "en": "hole cut in a watermelon or melon to check its ripeness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "callècchie. foro fatto al cocomero o al melone per controllarne la maturazione",
+    "rawHash": "661cf001c962278720cc2a333027ed34f6da0e2c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

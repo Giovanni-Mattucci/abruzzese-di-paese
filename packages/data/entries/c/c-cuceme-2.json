@@ -1,0 +1,21 @@
+{
+  "id": "c-cuceme-2",
+  "headword": "cucème",
+  "senses": [
+    {
+      "it": "cuciamo",
+      "en": "we sew",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucème: cuciamo",
+    "rawHash": "3545d730d455a6fa39ae874793872a33ad7f3c07",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

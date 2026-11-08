@@ -1,0 +1,22 @@
+{
+  "id": "p-presedende",
+  "headword": "presedende",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "presidente",
+      "en": "president",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "presedende (lu): presidente",
+    "rawHash": "f80496fa234457d88c169b2971ffc41b923c5a01",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

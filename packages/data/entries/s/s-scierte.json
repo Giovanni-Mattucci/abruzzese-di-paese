@@ -1,0 +1,22 @@
+{
+  "id": "s-scierte",
+  "headword": "scierte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "deviatore d'acqua",
+      "en": "water diverter",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scierte (lu): deviatore d'acqua",
+    "rawHash": "5cbb0c9635a8d69ab1127ab7f701b9a3167e3444",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

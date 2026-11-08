@@ -1,0 +1,22 @@
+{
+  "id": "s-strezze",
+  "headword": "strèzze",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "venticello freddo",
+      "en": "cold breeze",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strèzze (lu): venticello freddo",
+    "rawHash": "71f2b61253af1aadb801bc32e4b3a7f2ed57f7ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

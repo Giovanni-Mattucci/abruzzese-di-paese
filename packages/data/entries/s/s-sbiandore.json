@@ -1,0 +1,21 @@
+{
+  "id": "s-sbiandore",
+  "headword": "sbiandore",
+  "senses": [
+    {
+      "it": "splendore (biandore fruste: splendore logoro, appassito)",
+      "en": "splendour (biandore fruste: worn, faded splendour)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbiandore: splendore (biandore fruste: splendore logoro, appassito)",
+    "rawHash": "5d829331d380579998988614b3c3e7f64933294e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

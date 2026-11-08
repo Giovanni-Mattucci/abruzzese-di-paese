@@ -1,0 +1,21 @@
+{
+  "id": "a-arhintre",
+  "headword": "arhintre",
+  "senses": [
+    {
+      "it": "rientra",
+      "en": "goes back in, returns home",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arhintre: rientra",
+    "rawHash": "573321200c8aad7dc9c1004e3c15b9f45460efbe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

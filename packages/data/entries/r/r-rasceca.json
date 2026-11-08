@@ -1,0 +1,21 @@
+{
+  "id": "r-rasceca",
+  "headword": "rascecà",
+  "senses": [
+    {
+      "it": "grattare",
+      "en": "to scratch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rascecà: grattare",
+    "rawHash": "1aa479341aabb1ebe311717b66007ea5162fa2ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

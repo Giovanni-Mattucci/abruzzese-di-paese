@@ -1,0 +1,21 @@
+{
+  "id": "f-fraffuse",
+  "headword": "fraffuse",
+  "senses": [
+    {
+      "it": "moccioso",
+      "en": "snotty-nosed brat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fraffuse: moccioso",
+    "rawHash": "834f8d0098a5f8ad4b8849f981586d3849a9a2f6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d-ddummerse",
+  "headword": "ddummerse",
+  "senses": [
+    {
+      "it": "a rovescio",
+      "en": "inside out, upside down, the wrong way round",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "ddummerse: a rovescio",
+    "rawHash": "bce0aca77470a125b731c50ca7c638118dae3079",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

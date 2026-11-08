@@ -1,0 +1,31 @@
+{
+  "id": "g-gnirrichite",
+  "headword": "gnirrichìte",
+  "senses": [
+    {
+      "it": "ridotto pelle e ossa",
+      "en": "reduced to skin and bones",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "deperito",
+      "en": "wasted away",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "magro",
+      "en": "thin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnirrichìte: ridotto pelle e ossa, deperito, magro",
+    "rawHash": "cda4c4fc1adcb1dc0bf7d70fa2e45bc26c02c623",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

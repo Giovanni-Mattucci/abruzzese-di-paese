@@ -1,0 +1,21 @@
+{
+  "id": "c-citolo",
+  "headword": "cìtolo",
+  "senses": [
+    {
+      "it": "ragazzino",
+      "en": "little boy, kid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cìtolo: ragazzino",
+    "rawHash": "abbbea4157272c0b08c89ce8139deeface6866cc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

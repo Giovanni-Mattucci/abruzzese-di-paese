@@ -1,0 +1,21 @@
+{
+  "id": "m-mazzitte",
+  "headword": "mazzitte",
+  "senses": [
+    {
+      "it": "batacchio",
+      "en": "clapper (of a bell), door knocker",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mazzitte: batacchio",
+    "rawHash": "4e4ae106df5f2fc39475d57a413a2f43dbd179e2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

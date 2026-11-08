@@ -1,0 +1,21 @@
+{
+  "id": "s-sgrogne",
+  "headword": "sgrògne",
+  "senses": [
+    {
+      "it": "graffio riferito a cose soprattutto di coccio, ceramica, ecc",
+      "en": "scratch, referring to objects especially of earthenware, ceramic, etc.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgrògne: graffio riferito a cose soprattutto di coccio, ceramica, ecc.",
+    "rawHash": "22299eb229b6544151680f1ae01f43a6daafc760",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mbrizzichele",
+  "headword": "'mbrizzìchele",
+  "senses": [
+    {
+      "it": "infilzalo",
+      "en": "pierce it, skewer it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbrizzìchele: infilzalo",
+    "rawHash": "3c08a889c48f0c43b7fbca01ad4e2021b21acc0c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

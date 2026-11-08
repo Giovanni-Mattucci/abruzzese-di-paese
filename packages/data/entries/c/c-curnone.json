@@ -1,0 +1,21 @@
+{
+  "id": "c-curnone",
+  "headword": "curnone",
+  "senses": [
+    {
+      "it": "angolo",
+      "en": "corner",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "curnone: angolo",
+    "rawHash": "0be2d3731e312d03472f6ef16a6e0c05b084f873",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "j-jozza",
+  "headword": "jozza",
+  "senses": [
+    {
+      "it": "rifiuti",
+      "en": "rubbish, refuse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jozza: rifiuti",
+    "rawHash": "369e9e547d6ee8afe4a1a8d27882d1a5cf01cebc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

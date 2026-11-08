@@ -1,0 +1,26 @@
+{
+  "id": "a-arcunteme",
+  "headword": "arcùnteme",
+  "senses": [
+    {
+      "it": "raccontami",
+      "en": "tell me",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "contami di nuovo",
+      "en": "count again for me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcùnteme: raccontami, contami di nuovo",
+    "rawHash": "3b684c209a60b8e93e0fd82fe293419e65cc7148",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

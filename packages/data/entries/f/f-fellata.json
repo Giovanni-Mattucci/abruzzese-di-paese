@@ -1,0 +1,21 @@
+{
+  "id": "f-fellata",
+  "headword": "fellata",
+  "senses": [
+    {
+      "it": "pecora di due anni",
+      "en": "two-year-old sheep",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fellata: pecora di due anni",
+    "rawHash": "269ef5bff8f18b2e3c2bb48bd95dd31dbe0bfa15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vise",
+  "headword": "vise",
+  "senses": [
+    {
+      "it": "vite",
+      "en": "vine; screw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vise: vite",
+    "rawHash": "2fca081abbe8f688f54125e33c39073ef3b7b4e7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

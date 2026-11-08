@@ -1,0 +1,21 @@
+{
+  "id": "v-vutine",
+  "headword": "vùtine",
+  "senses": [
+    {
+      "it": "contenitore di legno ottenuto di solito tagliando una botte in senso trasversale",
+      "en": "wooden container usually made by cutting a cask crosswise",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vùtine: contenitore di legno ottenuto di solito tagliando una botte in senso trasversale",
+    "rawHash": "4de92f79c410426220b654ec10bc29e5a0ac5456",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

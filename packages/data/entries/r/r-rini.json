@@ -1,0 +1,21 @@
+{
+  "id": "r-rini",
+  "headword": "rìni",
+  "senses": [
+    {
+      "it": "reni",
+      "en": "kidneys",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rìni: reni",
+    "rawHash": "c248070c936c4cd53684ddce8071c7788afe7ccc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

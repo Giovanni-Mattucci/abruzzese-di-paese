@@ -1,0 +1,21 @@
+{
+  "id": "m-mbusse",
+  "headword": "'mbusse",
+  "senses": [
+    {
+      "it": "bagnato",
+      "en": "wet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbusse: bagnato",
+    "rawHash": "b699cf759df6232e16f15be0831e234243826aa8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

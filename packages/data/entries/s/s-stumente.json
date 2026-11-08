@@ -1,0 +1,26 @@
+{
+  "id": "s-stumente",
+  "headword": "stumènte",
+  "senses": [
+    {
+      "it": "atto notarile",
+      "en": "notarial deed",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "contratto",
+      "en": "contract",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stumènte: atto notarile, contratto",
+    "rawHash": "9bd6bb85cf2e35e161b6c0785dcc5ac875fd7c97",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

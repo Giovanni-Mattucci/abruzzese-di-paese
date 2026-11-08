@@ -1,0 +1,21 @@
+{
+  "id": "c-cagnu",
+  "headword": "cagnu",
+  "senses": [
+    {
+      "it": "cambio",
+      "en": "change, exchange",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cagnu: cambio",
+    "rawHash": "80d9b4ca0caec602fcebc0f37f2bbc2113957632",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b-bartocchie",
+  "headword": "bartocchie",
+  "senses": [
+    {
+      "it": "martelletto della campana",
+      "en": "bell clapper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bartocchie: martelletto della campana",
+    "rawHash": "0cfee5ab6d154a97b529126851efec02747b24c8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

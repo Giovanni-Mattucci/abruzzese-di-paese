@@ -1,0 +1,21 @@
+{
+  "id": "c-clliu",
+  "headword": "clliu",
+  "senses": [
+    {
+      "it": "chiodo",
+      "en": "nail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "clliu: chiodo",
+    "rawHash": "19be8013bf668c3406e9e38967802d69899a5ba0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

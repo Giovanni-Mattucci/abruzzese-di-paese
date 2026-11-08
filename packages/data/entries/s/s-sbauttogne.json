@@ -1,0 +1,21 @@
+{
+  "id": "s-sbauttogne",
+  "headword": "sbauttògne",
+  "senses": [
+    {
+      "it": "nato con qualche problema fisico",
+      "en": "born with some physical problem",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbauttògne: nato con qualche problema fisico",
+    "rawHash": "22d8c7a4963e023003aa7dac76c104e1b1423253",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

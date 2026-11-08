@@ -1,0 +1,21 @@
+{
+  "id": "s-suffiature",
+  "headword": "suffiature",
+  "senses": [
+    {
+      "it": "tubo di metallo per soffiare sul fuoco e alimentarlo",
+      "en": "metal tube for blowing on the fire to feed it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "suffiature: tubo di metallo per soffiare sul fuoco e alimentarlo",
+    "rawHash": "bb4da2919a3b3d99a90712847e06a4056439cd42",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

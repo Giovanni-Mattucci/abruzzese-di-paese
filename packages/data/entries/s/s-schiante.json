@@ -1,0 +1,21 @@
+{
+  "id": "s-schiante",
+  "headword": "schiànte",
+  "senses": [
+    {
+      "it": "grappolo",
+      "en": "bunch, cluster (of grapes)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiànte: grappolo",
+    "rawHash": "7a1ff512bfe1aa6801ae96dc353e6979bb0ec208",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

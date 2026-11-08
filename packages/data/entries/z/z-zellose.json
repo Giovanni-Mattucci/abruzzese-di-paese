@@ -1,0 +1,26 @@
+{
+  "id": "z-zellose",
+  "headword": "zellose",
+  "senses": [
+    {
+      "it": "permaloso",
+      "en": "touchy, easily offended",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "attaccabrighe",
+      "en": "quarrelsome person, troublemaker",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zellose: permaloso, attaccabrighe",
+    "rawHash": "5b4245bcc8260c1c3b52562795d3d3fa4acbd0f2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

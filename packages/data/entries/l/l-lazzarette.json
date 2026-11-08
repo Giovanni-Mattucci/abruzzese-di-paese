@@ -1,0 +1,21 @@
+{
+  "id": "l-lazzarette",
+  "headword": "lazzarètte",
+  "senses": [
+    {
+      "it": "peperone piccante",
+      "en": "hot chili pepper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lazzarètte: peperone piccante",
+    "rawHash": "516bb4b1bf532c1c47b365fcacc2c322d4f463a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

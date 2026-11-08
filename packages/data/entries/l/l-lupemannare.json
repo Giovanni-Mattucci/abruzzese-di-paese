@@ -1,0 +1,21 @@
+{
+  "id": "l-lupemannare",
+  "headword": "lupemannare",
+  "senses": [
+    {
+      "it": "lupo mannaro",
+      "en": "werewolf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lupemannare: lupo mannaro",
+    "rawHash": "b23d6da8724b55f73aebe0c2ac64a1281c9249a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

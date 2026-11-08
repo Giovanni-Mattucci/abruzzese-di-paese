@@ -1,0 +1,21 @@
+{
+  "id": "j-jacce",
+  "headword": "jacce",
+  "senses": [
+    {
+      "it": "stazzo",
+      "en": "sheepfold",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jacce: stazzo",
+    "rawHash": "bb3e7024a62689d23a27bf36f96810c4ebbfc3d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

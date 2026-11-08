@@ -1,0 +1,21 @@
+{
+  "id": "c-corre",
+  "headword": "corre",
+  "senses": [
+    {
+      "it": "correre, dope lu corre: dopo la corsa",
+      "en": "to run, dope lu corre: after the run",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "corre: correre, dope lu corre: dopo la corsa",
+    "rawHash": "35ca6ba4548dcf7a65439fa1c7bb963623ad190e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

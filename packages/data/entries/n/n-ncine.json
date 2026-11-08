@@ -1,0 +1,21 @@
+{
+  "id": "n-ncine",
+  "headword": "'ncine",
+  "senses": [
+    {
+      "it": "bastone da pastore",
+      "en": "shepherd's crook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncine: bastone da pastore",
+    "rawHash": "debd371fe24da62d490e54e68a7da30d16962df7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

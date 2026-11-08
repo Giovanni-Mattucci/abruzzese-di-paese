@@ -1,0 +1,21 @@
+{
+  "id": "s-scengeneta",
+  "headword": "scengeneta",
+  "senses": [
+    {
+      "it": "disordinata",
+      "en": "untidy, messy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scengeneta: disordinata",
+    "rawHash": "2dab40323371d60fde7c525fc77f033e249c60f9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

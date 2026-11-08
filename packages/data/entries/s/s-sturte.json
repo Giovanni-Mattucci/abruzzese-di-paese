@@ -1,0 +1,26 @@
+{
+  "id": "s-sturte",
+  "headword": "stùrte",
+  "senses": [
+    {
+      "it": "distorto",
+      "en": "twisted, crooked",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "on in linea",
+      "en": "not in line",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stùrte: distorto, on in linea",
+    "rawHash": "c775ca761e99e17ce174afef52a950d942b2442c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

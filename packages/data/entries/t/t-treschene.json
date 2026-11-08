@@ -1,0 +1,22 @@
+{
+  "id": "t-treschene",
+  "headword": "treschêne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "gazzarra scomposta",
+      "en": "unruly din",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "treschêne (lu): gazzarra scomposta",
+    "rawHash": "e7c71e6b70214958693d180cc874aee0df302c1f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

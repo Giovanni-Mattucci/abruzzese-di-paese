@@ -1,0 +1,21 @@
+{
+  "id": "s-sciucche",
+  "headword": "sciucche",
+  "senses": [
+    {
+      "it": "lunga camicia con bottoni da portare sui pantaloni",
+      "en": "long shirt with buttons worn over the trousers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciucche: lunga camicia con bottoni da portare sui pantaloni",
+    "rawHash": "109866fdbe7af6982397b69a7bdee6dfe2494871",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "n-ncotte",
+  "headword": "'ncotte",
+  "senses": [
+    {
+      "it": "scaldato",
+      "en": "heated, warmed up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncotte: scaldato",
+    "rawHash": "2f5742b5e197900ad6fced75783fc1d3b0ac1edf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

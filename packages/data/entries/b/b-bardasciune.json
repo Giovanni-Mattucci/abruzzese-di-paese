@@ -1,0 +1,21 @@
+{
+  "id": "b-bardasciune",
+  "headword": "bardasciùne",
+  "senses": [
+    {
+      "it": "adolescenti",
+      "en": "adolescents",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bardasciùne: adolescenti",
+    "rawHash": "b9a340f58407c4d01744c5a08fca5ec5b03a33ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

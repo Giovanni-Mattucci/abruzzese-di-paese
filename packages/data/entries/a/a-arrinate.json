@@ -1,0 +1,21 @@
+{
+  "id": "a-arrinate",
+  "headword": "arrinàte",
+  "senses": [
+    {
+      "it": "arenato",
+      "en": "run aground, stranded",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrinàte: arenato",
+    "rawHash": "4fbf1d61191d4e4ed5f2f153e2a48853c843e595",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

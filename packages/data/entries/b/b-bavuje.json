@@ -1,0 +1,21 @@
+{
+  "id": "b-bavuje",
+  "headword": "bavùje",
+  "senses": [
+    {
+      "it": "baule",
+      "en": "trunk, chest",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bavùje: baule",
+    "rawHash": "cc6387477122a627d57a39bdfc038c8fecf843fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

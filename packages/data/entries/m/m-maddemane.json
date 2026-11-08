@@ -1,0 +1,21 @@
+{
+  "id": "m-maddemane",
+  "headword": "maddemane",
+  "senses": [
+    {
+      "it": "questa mattina",
+      "en": "this morning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "maddemane: questa mattina",
+    "rawHash": "aced0ce79e08d296cc5a0dbb4d2e05e8650e3211",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

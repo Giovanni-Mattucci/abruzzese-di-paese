@@ -1,0 +1,21 @@
+{
+  "id": "f-frieffe",
+  "headword": "frieffe",
+  "senses": [
+    {
+      "it": "muco moccio",
+      "en": "mucus, snot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frieffe: muco moccio",
+    "rawHash": "75fad482d8947d597b2e5fe7f5124964f567cd08",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d-disigna",
+  "headword": "disignà",
+  "senses": [
+    {
+      "it": "disegnare",
+      "en": "to draw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "disignà: disegnare",
+    "rawHash": "54597e38e1dccd29b6ff527b483da902ead0bb2e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-ardamme",
+  "headword": "ardàmme",
+  "senses": [
+    {
+      "it": "ridammi",
+      "en": "give it back to me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardàmme: ridammi",
+    "rawHash": "307cfb01f559be0f8e89fdfcc033dc54296ddc48",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

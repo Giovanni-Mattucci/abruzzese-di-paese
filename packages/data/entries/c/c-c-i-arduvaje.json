@@ -1,0 +1,24 @@
+{
+  "id": "c-c-i-arduvaje",
+  "headword": "c-i-arduvàje",
+  "variants": [
+    "c'arduvàje"
+  ],
+  "senses": [
+    {
+      "it": "ci procura",
+      "en": "he/she gets it for us, procures it for us",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arduvàje, c'arduvàje: ci procura",
+    "rawHash": "c64423725851829aa06d2e20cfa35de59d76d74e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

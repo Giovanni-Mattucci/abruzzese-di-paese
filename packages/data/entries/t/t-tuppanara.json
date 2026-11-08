@@ -1,0 +1,21 @@
+{
+  "id": "t-tuppanara",
+  "headword": "tuppanara",
+  "senses": [
+    {
+      "it": "talpa",
+      "en": "mole",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tuppanara: talpa",
+    "rawHash": "9d70f5f832c7efd5fec3b56bf5da9753971e2158",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

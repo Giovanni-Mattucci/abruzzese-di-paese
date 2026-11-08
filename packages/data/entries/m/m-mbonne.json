@@ -1,0 +1,26 @@
+{
+  "id": "m-mbonne",
+  "headword": "'mbonne",
+  "senses": [
+    {
+      "it": "bagnare",
+      "en": "to wet",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "intingere",
+      "en": "to dip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbonne: bagnare, intingere",
+    "rawHash": "a2de14d8b56e708fea2eb5edcaac992f6946d209",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

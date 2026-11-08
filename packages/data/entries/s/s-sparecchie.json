@@ -1,0 +1,21 @@
+{
+  "id": "s-sparecchie",
+  "headword": "sparècchie",
+  "senses": [
+    {
+      "it": "spaiato",
+      "en": "odd, unpaired",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sparècchie: spaiato",
+    "rawHash": "03a01951b04190f7dd9eb61d67a976231de278b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

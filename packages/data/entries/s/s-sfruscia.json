@@ -1,0 +1,31 @@
+{
+  "id": "s-sfruscia",
+  "headword": "sfruscià",
+  "senses": [
+    {
+      "it": "scialacquare",
+      "en": "to squander",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spendere",
+      "en": "to spend",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dissipare",
+      "en": "to dissipate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfruscià. scialacquare, spendere, dissipare",
+    "rawHash": "fac5d0b67152141437c19b0168a3a705d22f0b35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

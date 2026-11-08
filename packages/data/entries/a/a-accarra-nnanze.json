@@ -1,0 +1,21 @@
+{
+  "id": "a-accarra-nnanze",
+  "headword": "accarrà nnànze",
+  "senses": [
+    {
+      "it": "travolgere",
+      "en": "to run over, to sweep away",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accarrà nnànze: travolgere",
+    "rawHash": "50b38efa1210001007094edea56c3554794d8dc4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

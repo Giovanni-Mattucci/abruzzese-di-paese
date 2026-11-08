@@ -1,0 +1,22 @@
+{
+  "id": "f-feleppene",
+  "headword": "feleppène",
+  "article": "la",
+  "senses": [
+    {
+      "it": "vento freddo",
+      "en": "cold wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "feleppène (la): vento freddo",
+    "rawHash": "af8250430fbf29eedfa04f7fe7115a6d6a2a60d8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

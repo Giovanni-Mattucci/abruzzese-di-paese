@@ -1,0 +1,22 @@
+{
+  "id": "s-siggette",
+  "headword": "siggêtte",
+  "article": "la",
+  "senses": [
+    {
+      "it": "piccola sedia",
+      "en": "small chair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "siggêtte (la): piccola sedia",
+    "rawHash": "7a0e8e02464814ab9e574e6b8e47b22a896bd9c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

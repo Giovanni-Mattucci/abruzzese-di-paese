@@ -1,0 +1,22 @@
+{
+  "id": "m-misciulene",
+  "headword": "misciulène",
+  "article": "la",
+  "senses": [
+    {
+      "it": "moìna",
+      "en": "cuddle, fawning gesture",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "misciulène (la): moìna",
+    "rawHash": "c0413f40d9d219c3f51b6ea20007ccea5858d801",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

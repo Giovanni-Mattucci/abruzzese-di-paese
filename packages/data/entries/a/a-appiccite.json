@@ -1,0 +1,39 @@
+{
+  "id": "a-appiccite",
+  "headword": "appiccìte",
+  "senses": [
+    {
+      "it": "acceso",
+      "en": "lit, switched on",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tenuto per mano",
+      "en": "held by the hand",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "andare mano nella mano",
+      "en": "to go hand in hand",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "vanne appiccìte",
+      "it": "camminano tenendosi per mano",
+      "en": "they walk holding hands",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appiccìte: acceso, ma anche tenuto per mano, andare mano nella mano, es.: vanne appiccìte: camminano tenendosi per mano",
+    "rawHash": "ae3dfa94e5fb73dd34d3499b2d9b4ad820d84aa1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

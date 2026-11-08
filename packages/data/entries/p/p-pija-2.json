@@ -1,0 +1,21 @@
+{
+  "id": "p-pija-2",
+  "headword": "pijà",
+  "senses": [
+    {
+      "it": "ardere ( sta pijà foche: sta a prendere fuoco, si sta accendendo)",
+      "en": "to burn, to catch fire (sta pijà foche: it is catching fire, it is lighting up)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pijà: ardere ( sta pijà foche: sta a prendere fuoco, si sta accendendo)",
+    "rawHash": "9d4e3a115d1fbaf7e1d09de29364c853a9a6425d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

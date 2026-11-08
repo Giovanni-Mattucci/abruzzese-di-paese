@@ -1,0 +1,22 @@
+{
+  "id": "s-segge",
+  "headword": "ségge",
+  "article": "la",
+  "senses": [
+    {
+      "it": "sedia",
+      "en": "chair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "ségge (la): sedia",
+    "rawHash": "8bd5d324f34ab7bfe6dbaa606e167a51e593f3c8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

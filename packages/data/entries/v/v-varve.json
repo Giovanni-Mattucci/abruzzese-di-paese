@@ -1,0 +1,22 @@
+{
+  "id": "v-varve",
+  "headword": "varve",
+  "article": "la",
+  "senses": [
+    {
+      "it": "barba",
+      "en": "beard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varve (la): barba",
+    "rawHash": "f00e1b493bc43b59aa49b479ec2ce3d3b0f2b6a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

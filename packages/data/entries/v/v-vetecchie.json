@@ -1,0 +1,22 @@
+{
+  "id": "v-vetecchie",
+  "headword": "vetècchie",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "vitalba",
+      "en": "old man's beard (clematis)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vetècchie (lu): vitalba",
+    "rawHash": "8b160f3026216d74e4c35a470798fd4364fa359b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

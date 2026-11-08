@@ -1,0 +1,26 @@
+{
+  "id": "f-fine",
+  "headword": "fìne",
+  "senses": [
+    {
+      "it": "fieno",
+      "en": "hay",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "erba secca",
+      "en": "dry grass",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fìne: fieno, erba secca",
+    "rawHash": "361a1fb1524fe762a3fb44b029a97d4e40931e63",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

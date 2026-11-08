@@ -1,0 +1,21 @@
+{
+  "id": "s-sfracchieme",
+  "headword": "sfracchieme",
+  "senses": [
+    {
+      "it": "sfracchiamo",
+      "en": "we smash",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfracchieme: sfracchiamo",
+    "rawHash": "49374b302e9264e0a98a93a76422e35ba3ff43a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

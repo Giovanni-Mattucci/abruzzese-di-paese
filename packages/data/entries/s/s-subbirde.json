@@ -1,0 +1,21 @@
+{
+  "id": "s-subbirde",
+  "headword": "subbirde",
+  "senses": [
+    {
+      "it": "mentuccia",
+      "en": "pennyroyal, wild mint",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "subbirde: mentuccia",
+    "rawHash": "753294f4fd5eb075b8b869f855ab96430dcf1998",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

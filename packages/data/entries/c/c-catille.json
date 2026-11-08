@@ -1,0 +1,26 @@
+{
+  "id": "c-catille",
+  "headword": "catille",
+  "senses": [
+    {
+      "it": "lappole",
+      "en": "burrs",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "adoperato anche per cavillo",
+      "en": "also used for quibble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "catille: lappole, adoperato anche per cavillo",
+    "rawHash": "ff5d7ac73056be23f1e9bf370ec97c280f675657",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

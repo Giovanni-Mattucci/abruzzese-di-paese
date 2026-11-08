@@ -1,0 +1,21 @@
+{
+  "id": "q-quatre",
+  "headword": "quàtre",
+  "senses": [
+    {
+      "it": "soldi",
+      "en": "money",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quàtre: soldi",
+    "rawHash": "30fd4694976aa6c16d1bf729ab10dd79e93c1d9a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c-cincio",
+  "headword": "cinciò",
+  "senses": [
+    {
+      "it": "cencioso",
+      "en": "ragged",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "usato come insulto",
+      "en": "used as an insult",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cinciò: cencioso, usato come insulto",
+    "rawHash": "2d382692d893d68e1a0ef922e6e019729025ebcc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

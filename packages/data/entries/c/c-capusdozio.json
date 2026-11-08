@@ -1,0 +1,21 @@
+{
+  "id": "c-capusdozio",
+  "headword": "capusdòzio",
+  "senses": [
+    {
+      "it": "principale",
+      "en": "chief, principal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capusdòzio: principale",
+    "rawHash": "ae3754d819e79151bf2ba31a88b8e27a97dd8b66",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

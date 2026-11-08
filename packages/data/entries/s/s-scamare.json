@@ -1,0 +1,21 @@
+{
+  "id": "s-scamare",
+  "headword": "scamàre",
+  "senses": [
+    {
+      "it": "capire, comprendere, intuire intenzioni, fatti di avvenimenti o discorsi",
+      "en": "to understand, to comprehend, to sense intentions, the facts of events or conversations",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scamàre: capire, comprendere, intuire intenzioni, fatti di avvenimenti o discorsi",
+    "rawHash": "82c2a7788b751147367b183efb135c45f1a186be",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

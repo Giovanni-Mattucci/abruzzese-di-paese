@@ -1,0 +1,26 @@
+{
+  "id": "c-credenze",
+  "headword": "credenze",
+  "senses": [
+    {
+      "it": "credito",
+      "en": "credit",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "(sta credenze: questo credito)",
+      "en": "(sta credenze: this credit)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "credenze: credito, (sta credenze: questo credito)",
+    "rawHash": "79ee7acfea9f532594840074c3beade12822b3c2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

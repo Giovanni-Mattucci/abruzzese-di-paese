@@ -1,0 +1,21 @@
+{
+  "id": "d-dilore",
+  "headword": "dìlore",
+  "senses": [
+    {
+      "it": "dolore",
+      "en": "pain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dìlore: dolore",
+    "rawHash": "3c07c2d961dce75def417160fc61d491494785b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

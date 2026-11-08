@@ -1,0 +1,21 @@
+{
+  "id": "b-bbanghe",
+  "headword": "bbanghe",
+  "senses": [
+    {
+      "it": "panca",
+      "en": "bench",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbanghe: panca",
+    "rawHash": "f9b412ca4d125f5b6cd6ee1d4424052ad4cc02e0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

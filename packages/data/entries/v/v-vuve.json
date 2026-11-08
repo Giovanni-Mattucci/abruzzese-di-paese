@@ -1,0 +1,22 @@
+{
+  "id": "v-vuve",
+  "headword": "vùve",
+  "pos": "pl.",
+  "senses": [
+    {
+      "it": "buoi",
+      "en": "oxen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vùve (pl.): buoi",
+    "rawHash": "ba7fdf2fdcd4df16d020478465192d84584daedc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

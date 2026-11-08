@@ -1,0 +1,21 @@
+{
+  "id": "a-acquacciate",
+  "headword": "acquacciàte",
+  "senses": [
+    {
+      "it": "porsi coccoloni, cioè piegare le ginocchia come per sedersi sui calcagni",
+      "en": "to squat down, that is, to bend the knees as if to sit on one's heels",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acquacciàte: porsi coccoloni, cioè piegare le ginocchia come per sedersi sui calcagni",
+    "rawHash": "7f1f853519e274b5f3fc296365a7c55137b12826",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

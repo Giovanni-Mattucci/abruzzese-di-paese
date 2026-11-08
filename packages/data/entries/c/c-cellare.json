@@ -1,0 +1,21 @@
+{
+  "id": "c-cellare",
+  "headword": "cellàre",
+  "senses": [
+    {
+      "it": "gabbia, (dendr'a na cellàre: messe in gabbia)",
+      "en": "cage, (dendr'a na cellàre: put in a cage)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cellàre: gabbia, (dendr'a na cellàre: messe in gabbia)",
+    "rawHash": "d86d3136e568b083e30006dfe1022e9ca5b028ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

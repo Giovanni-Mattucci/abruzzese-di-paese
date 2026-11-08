@@ -1,0 +1,21 @@
+{
+  "id": "h-hajarcoje",
+  "headword": "haj'arcoje",
+  "senses": [
+    {
+      "it": "devo raccogliere",
+      "en": "I have to gather, I have to pick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "haj'arcoje: devo raccogliere",
+    "rawHash": "d6f1ee9681e4cf37f9a720a61e85e245f713e73e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

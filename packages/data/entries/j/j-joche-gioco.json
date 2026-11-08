@@ -1,0 +1,21 @@
+{
+  "id": "j-joche-gioco",
+  "headword": "joche",
+  "senses": [
+    {
+      "it": "gioco",
+      "en": "game",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "joche gioco",
+    "rawHash": "1fcfab070fc6299ba858da041ac47fd0f2ebb6eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

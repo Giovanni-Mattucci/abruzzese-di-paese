@@ -1,0 +1,21 @@
+{
+  "id": "s-sajete",
+  "headword": "sajète",
+  "senses": [
+    {
+      "it": "salite",
+      "en": "you (plural) go up, go up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sajète: salite",
+    "rawHash": "82cd8a9b8a2da4e474b4df810f4ec2aaaa931f22",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

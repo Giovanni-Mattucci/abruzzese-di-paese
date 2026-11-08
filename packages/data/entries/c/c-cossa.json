@@ -1,0 +1,22 @@
+{
+  "id": "c-cossa",
+  "headword": "cossa",
+  "article": "la",
+  "senses": [
+    {
+      "it": "gambe",
+      "en": "legs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cossa (la): gambe",
+    "rawHash": "100b1eb18c4fa39946383682bcf41fae8eec4971",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "j-jattu",
+  "headword": "jattu",
+  "senses": [
+    {
+      "it": "gatto",
+      "en": "cat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jattu: gatto",
+    "rawHash": "edeedd67b138a5e53bb56a517ff29f6929d9e4ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

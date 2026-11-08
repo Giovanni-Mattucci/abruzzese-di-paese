@@ -1,0 +1,21 @@
+{
+  "id": "s-sdijuneme",
+  "headword": "sdijunème",
+  "senses": [
+    {
+      "it": "facciamo colazione",
+      "en": "we have breakfast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdijunème: facciamo colazione",
+    "rawHash": "90c9827093b54cc71b810ce238807bafe1fc2820",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

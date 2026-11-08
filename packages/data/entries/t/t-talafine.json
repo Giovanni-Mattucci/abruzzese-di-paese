@@ -1,0 +1,26 @@
+{
+  "id": "t-talafine",
+  "headword": "talafine",
+  "senses": [
+    {
+      "it": "delfino",
+      "en": "dolphin",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "termine arcaico",
+      "en": "archaic term",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "talafine: delfino, termine arcaico",
+    "rawHash": "248496e62eacfe831cfe968cfe063995d713524d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a-allutanne",
+  "headword": "allutanne",
+  "variants": [
+    "'llutanne",
+    "tanne"
+  ],
+  "senses": [
+    {
+      "it": "allora",
+      "en": "then, at that time",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allutanne, 'llutanne, tanne: allora",
+    "rawHash": "16e0df116d246200154f0c4b00699cc55afcd403",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

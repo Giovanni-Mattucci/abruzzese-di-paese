@@ -1,0 +1,22 @@
+{
+  "id": "s-simigge",
+  "headword": "simigge",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "sbornia",
+      "en": "drunkenness, binge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "simigge (lu): sbornia",
+    "rawHash": "e7fefc891ebf36630aa19c2d147c562617bbd617",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

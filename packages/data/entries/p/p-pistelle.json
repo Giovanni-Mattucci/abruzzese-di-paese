@@ -1,0 +1,21 @@
+{
+  "id": "p-pistelle",
+  "headword": "pistelle",
+  "senses": [
+    {
+      "it": "pestello del mortaio per pestare, frantumare",
+      "en": "mortar pestle, for pounding and crushing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pistelle: pestello del mortaio per pestare, frantumare",
+    "rawHash": "512f2b4d1eb9faae1cb4d4ed44e67c92b6862a30",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

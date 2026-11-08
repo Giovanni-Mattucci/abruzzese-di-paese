@@ -1,0 +1,21 @@
+{
+  "id": "f-fijate",
+  "headword": "fijàte",
+  "senses": [
+    {
+      "it": "partorita",
+      "en": "having given birth, delivered",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fijàte: partorita",
+    "rawHash": "fefe9ea99c8ec4f09dfe9bc9695e5dcab6ad3d91",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

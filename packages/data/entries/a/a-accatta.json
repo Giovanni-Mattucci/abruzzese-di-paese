@@ -1,0 +1,21 @@
+{
+  "id": "a-accatta",
+  "headword": "accattà",
+  "senses": [
+    {
+      "it": "comprare",
+      "en": "to buy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accattà: comprare",
+    "rawHash": "854612d16ca2a010791b7909f32ae02211eb965b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

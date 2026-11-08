@@ -1,0 +1,21 @@
+{
+  "id": "d-di-sechenaenze",
+  "headword": "di sechenaènze",
+  "senses": [
+    {
+      "it": "usato",
+      "en": "second-hand, used",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "di sechenaènze: usato",
+    "rawHash": "41c1fd23e495b1412cb41dcb28f86dc71a891888",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

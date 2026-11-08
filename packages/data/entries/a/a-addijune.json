@@ -1,0 +1,21 @@
+{
+  "id": "a-addijune",
+  "headword": "addijùne",
+  "senses": [
+    {
+      "it": "digiuno",
+      "en": "fasting, fast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "addijùne: digiuno",
+    "rawHash": "7b596b9e8990c9888b504496155ca60ea1d38200",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

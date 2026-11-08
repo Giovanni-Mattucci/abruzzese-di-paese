@@ -1,0 +1,22 @@
+{
+  "id": "i-ijacce",
+  "headword": "ijacce",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "giaciglio",
+      "en": "pallet, makeshift bed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ijacce (lu): giaciglio",
+    "rawHash": "6c091ed440c148471ab24b637d36cd9f5843dfbd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

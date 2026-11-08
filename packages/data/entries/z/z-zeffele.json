@@ -1,0 +1,22 @@
+{
+  "id": "z-zeffele",
+  "headword": "zéffele",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "fischietto",
+      "en": "whistle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zéffele (lu): fischietto",
+    "rawHash": "8614fcc3f555aaaadba44414401f27df6262b19a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

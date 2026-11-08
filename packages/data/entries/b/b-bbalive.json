@@ -1,0 +1,22 @@
+{
+  "id": "b-bbalive",
+  "headword": "bbalìve",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "messo comunale",
+      "en": "municipal bailiff, town messenger",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbalìve (lu): messo comunale.",
+    "rawHash": "8f3016883224a752c77bc366f49560b519474a20",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

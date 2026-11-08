@@ -1,0 +1,21 @@
+{
+  "id": "f-frustune",
+  "headword": "frustune",
+  "senses": [
+    {
+      "it": "mortificato",
+      "en": "mortified",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frustune: mortificato",
+    "rawHash": "2b118e772db5e49740aec2b1209e491db2ad8b36",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

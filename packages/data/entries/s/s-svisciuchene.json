@@ -1,0 +1,21 @@
+{
+  "id": "s-svisciuchene",
+  "headword": "svisciùchene",
+  "senses": [
+    {
+      "it": "cercano",
+      "en": "they search",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "svisciùchene. cercano",
+    "rawHash": "0632792e1a5563113ba8739fc88e9da7f789ca46",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a-axoo",
+  "headword": "axòo",
+  "pronunciation": "ajou",
+  "senses": [
+    {
+      "it": "aceto",
+      "en": "vinegar",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "axòo (pr. ajou): aceto",
+    "rawHash": "c50a59d2c4cce4abe11f9d2a144232127ad878e2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

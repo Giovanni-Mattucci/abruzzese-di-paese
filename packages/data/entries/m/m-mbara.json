@@ -1,0 +1,26 @@
+{
+  "id": "m-mbara",
+  "headword": "'mbarà",
+  "senses": [
+    {
+      "it": "imparare",
+      "en": "to learn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "insegnare",
+      "en": "to teach",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbarà: imparare, insegnare",
+    "rawHash": "5a80d2a3e2dc6cdc703d66470754cb0dd9f90473",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

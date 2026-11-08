@@ -1,0 +1,26 @@
+{
+  "id": "c-chiappe-dembese",
+  "headword": "chiappe dèmbese",
+  "senses": [
+    {
+      "it": "pendaglio da forca",
+      "en": "gallows bird",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pezzo di merda",
+      "en": "piece of shit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiappe dèmbese: pendaglio da forca, pezzo di merda",
+    "rawHash": "375b642678bcd4bc713a7cdcd3411a263d91ae2c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

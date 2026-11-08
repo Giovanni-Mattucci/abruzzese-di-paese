@@ -1,0 +1,21 @@
+{
+  "id": "a-arcapa",
+  "headword": "arcapà",
+  "senses": [
+    {
+      "it": "scegliere separando le cose",
+      "en": "to pick out, to sort by separating things",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcapà: scegliere separando le cose",
+    "rawHash": "760658c704c39440a6af6a75e117481512828980",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

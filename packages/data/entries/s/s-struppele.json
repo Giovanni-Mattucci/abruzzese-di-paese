@@ -1,0 +1,21 @@
+{
+  "id": "s-struppele",
+  "headword": "struppele",
+  "senses": [
+    {
+      "it": "scuse, giustificazioni (mò nne j cercà le struppele: ara non andare a cercare scuse)",
+      "en": "excuses, justifications (mò nne j cercà le struppele: now do not go looking for excuses)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "struppele: scuse, giustificazioni (mò nne j cercà le struppele: ara non andare a cercare scuse)",
+    "rawHash": "0f6b49bd33c70687b008ca10e02eb8a23d602ba9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

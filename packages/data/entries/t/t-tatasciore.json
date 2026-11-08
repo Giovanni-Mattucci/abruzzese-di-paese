@@ -1,0 +1,21 @@
+{
+  "id": "t-tatasciore",
+  "headword": "tatasciòre",
+  "senses": [
+    {
+      "it": "nonno",
+      "en": "grandfather",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tatasciòre: nonno",
+    "rawHash": "f868331fa564c1547738b529b0491631dcb2988d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

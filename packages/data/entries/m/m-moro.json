@@ -1,0 +1,26 @@
+{
+  "id": "m-moro",
+  "headword": "mòro",
+  "senses": [
+    {
+      "it": "moro",
+      "en": "dark-skinned, dark-haired",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "negro",
+      "en": "black person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mòro: moro, negro",
+    "rawHash": "0321866db0efe78751e62629c8765576ebb43198",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

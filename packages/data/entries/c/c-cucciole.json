@@ -1,0 +1,22 @@
+{
+  "id": "c-cucciole",
+  "headword": "cucciole",
+  "article": "la",
+  "senses": [
+    {
+      "it": "tellina",
+      "en": "wedge clam, tellin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucciole (la): tellina",
+    "rawHash": "cebf5ae1e0bcfd09a55aab055d5844da5d7cc0fa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

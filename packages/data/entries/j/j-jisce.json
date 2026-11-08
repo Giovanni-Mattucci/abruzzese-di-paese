@@ -1,0 +1,26 @@
+{
+  "id": "j-jisce",
+  "headword": "jisce",
+  "senses": [
+    {
+      "it": "esci",
+      "en": "go out, come out",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vien fuori",
+      "en": "come out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jisce: esci, vien fuori",
+    "rawHash": "a6565cdee5fd675b6b17b22125b9c46f15127a1c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

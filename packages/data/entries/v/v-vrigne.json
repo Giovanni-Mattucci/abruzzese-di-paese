@@ -1,0 +1,21 @@
+{
+  "id": "v-vrigne",
+  "headword": "vrigne",
+  "senses": [
+    {
+      "it": "mangiatoia per i maiali",
+      "en": "pig trough",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrigne: mangiatoia per i maiali",
+    "rawHash": "a7dfaa1e0514a9029aa9cd42ca92614011a91299",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

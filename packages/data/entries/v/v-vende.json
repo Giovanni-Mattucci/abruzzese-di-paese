@@ -1,0 +1,21 @@
+{
+  "id": "v-vende",
+  "headword": "vende",
+  "senses": [
+    {
+      "it": "vento",
+      "en": "wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vende: vento",
+    "rawHash": "e7a9f28fba9b854621990c2d0be54b836ea21c2d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

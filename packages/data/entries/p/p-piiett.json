@@ -1,0 +1,24 @@
+{
+  "id": "p-piiett",
+  "headword": "piiett",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "piatti",
+      "en": "plates, dishes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piiett: piatti (M sul S.)",
+    "rawHash": "7764c31bc26347d8b9494939c90ac9a98f30621c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

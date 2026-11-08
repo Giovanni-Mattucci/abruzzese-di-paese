@@ -1,0 +1,21 @@
+{
+  "id": "h-haja-strippa-le-capille",
+  "headword": "haja strippà le capille",
+  "senses": [
+    {
+      "it": "devo tirare i capelli",
+      "en": "I have to pull the hair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "haja strippà le capille: devo tirare i capelli",
+    "rawHash": "09b7b5acbfb985038870a57a7f69dac5c4dfe058",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-tippone",
+  "headword": "tippòne",
+  "senses": [
+    {
+      "it": "zolla di terra",
+      "en": "clod of earth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tippòne. zolla di terra",
+    "rawHash": "c0d96af142abf8511f020a008a2cc64808bb1169",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

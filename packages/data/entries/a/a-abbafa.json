@@ -1,0 +1,21 @@
+{
+  "id": "a-abbafa",
+  "headword": "abbafà",
+  "senses": [
+    {
+      "it": "abbeverare",
+      "en": "to water (animals), to give to drink",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbafà: abbeverare",
+    "rawHash": "947cf3f9e61f21d0862a722826dfe428b018086e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

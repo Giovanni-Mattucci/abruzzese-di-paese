@@ -1,0 +1,22 @@
+{
+  "id": "c-cocle",
+  "headword": "cocle",
+  "article": "le",
+  "senses": [
+    {
+      "it": "bocce",
+      "en": "bowls, boules",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cocle (le): bocce",
+    "rawHash": "aaa697582813a985bb9f5c9ebc481a5cb5d9c813",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

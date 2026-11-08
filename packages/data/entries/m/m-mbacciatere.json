@@ -1,0 +1,22 @@
+{
+  "id": "m-mbacciatere",
+  "headword": "'mbacciatêre",
+  "article": "la",
+  "senses": [
+    {
+      "it": "affronto",
+      "en": "affront, insult",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbacciatêre (la): affronto",
+    "rawHash": "2aed544516221fffa18f8c0a0e823015180c96aa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

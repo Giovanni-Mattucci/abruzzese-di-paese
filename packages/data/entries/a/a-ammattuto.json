@@ -1,0 +1,34 @@
+{
+  "id": "a-ammattuto",
+  "headword": "ammattùto",
+  "senses": [
+    {
+      "it": "trovarsi lì per caso",
+      "en": "to happen to be there by chance",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "coincidenza",
+      "en": "coincidence",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "ti cci si ammattuto",
+      "it": "ti sei trovato là per caso",
+      "en": "you happened to be there by chance",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammattùto: trovarsi lì per caso, coincidenza, es.: ti cci si ammattuto: ti sei trovato là per caso",
+    "rawHash": "cd200f2159023f5ac2b6fdc5a167792857015335",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

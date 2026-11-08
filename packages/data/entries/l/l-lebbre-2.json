@@ -1,0 +1,21 @@
+{
+  "id": "l-lebbre-2",
+  "headword": "lèbbre",
+  "senses": [
+    {
+      "it": "lepre",
+      "en": "hare",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lèbbre: lepre",
+    "rawHash": "948bd95c5d26bf94d148a7bfe059144dda8d6f17",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

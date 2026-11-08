@@ -1,0 +1,26 @@
+{
+  "id": "s-sbafagne",
+  "headword": "sbafagne",
+  "senses": [
+    {
+      "it": "puzza",
+      "en": "stink",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cattivo odore",
+      "en": "bad smell",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbafagne: puzza, cattivo odore",
+    "rawHash": "95c48e7aad80e6e2619c96fa2b1119449cdfcd40",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

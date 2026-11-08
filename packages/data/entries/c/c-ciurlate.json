@@ -1,0 +1,21 @@
+{
+  "id": "c-ciurlate",
+  "headword": "ciurlate",
+  "senses": [
+    {
+      "it": "raggirato",
+      "en": "swindled, cheated",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciurlate: raggirato",
+    "rawHash": "a3f92ab6c93a821a60dd8135d3ac5f415a41766e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

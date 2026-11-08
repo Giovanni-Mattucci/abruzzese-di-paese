@@ -1,0 +1,21 @@
+{
+  "id": "m-mocciche",
+  "headword": "mocciche",
+  "senses": [
+    {
+      "it": "morde",
+      "en": "he/she bites",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mocciche: morde",
+    "rawHash": "cf2b960d32308c80c9d551e1456da67dc16c8102",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

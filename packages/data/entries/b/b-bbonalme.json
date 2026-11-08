@@ -1,0 +1,21 @@
+{
+  "id": "b-bbonalme",
+  "headword": "bbonàlme",
+  "senses": [
+    {
+      "it": "buonanima (con senso di rispettosa memoria)",
+      "en": "the late, the dear departed (with a sense of respectful remembrance)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbonàlme: buonanima (con senso di rispettosa memoria)",
+    "rawHash": "e9ab6e2baf6aedf9d525c2cfd6a7345302cd1f0b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

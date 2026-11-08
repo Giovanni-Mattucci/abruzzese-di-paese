@@ -1,0 +1,24 @@
+{
+  "id": "s-spranzone",
+  "headword": "spranzone",
+  "variants": [
+    "speranzone"
+  ],
+  "senses": [
+    {
+      "it": "persona scansafatiche e sempre a spasso",
+      "en": "lazy person who is always loafing about",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spranzone, speranzone: persona scansafatiche e sempre a spasso",
+    "rawHash": "9d903c9077239ef92f04037c68726bc4e524a4b5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-scenneje-nninte",
+  "headword": "scènneje 'nninte",
+  "senses": [
+    {
+      "it": "vagli incontro",
+      "en": "go and meet him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scènneje 'nninte: vagli incontro",
+    "rawHash": "0cb590b0af62592d4c52242a2cbca4c7ca56ddc3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

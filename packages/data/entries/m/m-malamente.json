@@ -1,0 +1,21 @@
+{
+  "id": "m-malamente",
+  "headword": "malamènte",
+  "senses": [
+    {
+      "it": "cattivo",
+      "en": "bad, wicked",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "malamènte: cattivo",
+    "rawHash": "bcc3d817419ed11d9046ff39317ddc3f43f2b5c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

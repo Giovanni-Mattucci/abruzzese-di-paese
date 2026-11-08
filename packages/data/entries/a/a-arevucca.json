@@ -1,0 +1,21 @@
+{
+  "id": "a-arevucca",
+  "headword": "arevuccà",
+  "senses": [
+    {
+      "it": "fuoruscire da un recipiente troppo pieno",
+      "en": "to spill out of an overfull container",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arevuccà: fuoruscire da un recipiente troppo pieno",
+    "rawHash": "b87b4313a657af1856677ecd2ef1af8920728db7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

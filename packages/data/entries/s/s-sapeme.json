@@ -1,0 +1,21 @@
+{
+  "id": "s-sapeme",
+  "headword": "sapème",
+  "senses": [
+    {
+      "it": "sappiamo",
+      "en": "we know",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sapème: sappiamo",
+    "rawHash": "6af13307445f914638e6d3f7e6e802862131e9c8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

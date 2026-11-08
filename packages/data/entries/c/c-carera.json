@@ -1,0 +1,21 @@
+{
+  "id": "c-carera",
+  "headword": "carèra",
+  "senses": [
+    {
+      "it": "osteria",
+      "en": "tavern, inn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carèra: osteria",
+    "rawHash": "952ca99771c582cd8a2cf9322e67aa8822912aff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

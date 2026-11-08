@@ -1,0 +1,21 @@
+{
+  "id": "s-sfracchiemeje",
+  "headword": "sfracchiemeje",
+  "senses": [
+    {
+      "it": "sfracchiamogli",
+      "en": "let us smash him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfracchiemeje: sfracchiamogli",
+    "rawHash": "f7a92f5f2f78762b7e29803c79fe8215e4f792e1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

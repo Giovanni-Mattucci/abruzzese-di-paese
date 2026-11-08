@@ -1,0 +1,21 @@
+{
+  "id": "r-recuttale",
+  "headword": "recuttale",
+  "senses": [
+    {
+      "it": "cestello per la ricotta",
+      "en": "ricotta basket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "recuttale: cestello per la ricotta",
+    "rawHash": "1400a9cc7f6e591205fabbcb0caf789faa23b71f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

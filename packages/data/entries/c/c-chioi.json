@@ -1,0 +1,21 @@
+{
+  "id": "c-chioi",
+  "headword": "chioi",
+  "senses": [
+    {
+      "it": "chiodi",
+      "en": "nails",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chioi: chiodi",
+    "rawHash": "26a9c68fdaa065e553cabd29fd14c1bcff2fe263",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

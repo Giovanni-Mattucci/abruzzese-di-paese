@@ -1,0 +1,21 @@
+{
+  "id": "r-rittiche",
+  "headword": "rittiche",
+  "senses": [
+    {
+      "it": "ortica",
+      "en": "nettle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rittiche: ortica",
+    "rawHash": "cc71867616b9542768c22ce9bd954753632a9d3c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

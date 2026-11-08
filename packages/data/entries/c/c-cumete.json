@@ -1,0 +1,21 @@
+{
+  "id": "c-cumete",
+  "headword": "cumète",
+  "senses": [
+    {
+      "it": "aquilone",
+      "en": "kite",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cumète: aquilone",
+    "rawHash": "9e5da5f2369fb762d0ea1eb57486d3298b0fae1d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

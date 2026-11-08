@@ -1,0 +1,21 @@
+{
+  "id": "v-vecicchia",
+  "headword": "vecicchia",
+  "senses": [
+    {
+      "it": "carne essiccata di pecora",
+      "en": "dried sheep meat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vecicchia: carne essiccata di pecora",
+    "rawHash": "6896cbb0fe4e4a4a000735d2cac1f91280fe153e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

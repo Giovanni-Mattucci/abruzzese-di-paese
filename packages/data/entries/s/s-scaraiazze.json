@@ -1,0 +1,21 @@
+{
+  "id": "s-scaraiazze",
+  "headword": "scaraiazze",
+  "senses": [
+    {
+      "it": "tettoia",
+      "en": "shed, lean-to roof",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scaraiazze: tettoia",
+    "rawHash": "d5421bcb23ba43de1931c60b8a5523eb8539326d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-smandate",
+  "headword": "smandàte",
+  "senses": [
+    {
+      "it": "scoperto",
+      "en": "uncovered",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smandàte: scoperto",
+    "rawHash": "a15317d46293921fd83e15c3f821dc1901163bb2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

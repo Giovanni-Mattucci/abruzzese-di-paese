@@ -1,0 +1,22 @@
+{
+  "id": "s-statiere",
+  "headword": "statiere",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "grande bilancia sorretta da due persone, sulle spalle",
+      "en": "large scale carried on the shoulders by two people",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "statiere (lu): grande bilancia sorretta da due persone, sulle spalle",
+    "rawHash": "7582c68453b88a36751be3f6c588d07034324fe8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

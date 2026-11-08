@@ -1,0 +1,24 @@
+{
+  "id": "c-c-i-asveje",
+  "headword": "c-i-asveje",
+  "variants": [
+    "c'asvèje"
+  ],
+  "senses": [
+    {
+      "it": "ci sveglia",
+      "en": "he/she wakes us up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-asveje, c'asvèje: ci sveglia",
+    "rawHash": "54c184d1325a06d916a05b669a46c4d44e8d59f1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b-battocchie",
+  "headword": "battòcchie",
+  "senses": [
+    {
+      "it": "batacchio",
+      "en": "clapper, knocker",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pene",
+      "en": "penis",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "battòcchie: batacchio, pene",
+    "rawHash": "f3801611af471dd2d17aed3e33a7f7c816902e94",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

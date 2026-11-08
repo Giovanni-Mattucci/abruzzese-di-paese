@@ -1,0 +1,21 @@
+{
+  "id": "a-assulete",
+  "headword": "assuléte",
+  "senses": [
+    {
+      "it": "senza altri ingredienti",
+      "en": "plain, without other ingredients",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assuléte: senza altri ingredienti",
+    "rawHash": "b896000f6baaeadb1a98e00a7a4f407de40d21f8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

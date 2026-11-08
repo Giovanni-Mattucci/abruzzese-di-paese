@@ -1,0 +1,22 @@
+{
+  "id": "g-gnannere",
+  "headword": "gnannére",
+  "article": "la",
+  "senses": [
+    {
+      "it": "ghiandola gnelite: gelato",
+      "en": "gland; gnelite: ice cream",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnannére (la): ghiandola gnelite: gelato",
+    "rawHash": "ea7173f82b8da3b90a155ed64ff1a1c5579f535b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

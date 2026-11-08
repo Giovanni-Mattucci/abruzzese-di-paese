@@ -1,0 +1,21 @@
+{
+  "id": "r-rambalupine",
+  "headword": "rambalupine",
+  "senses": [
+    {
+      "it": "erba sulla",
+      "en": "sulla, French honeysuckle (Hedysarum)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rambalupine: erba sulla",
+    "rawHash": "261662c4905fae666f146eb0745af39bf06f4a7e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

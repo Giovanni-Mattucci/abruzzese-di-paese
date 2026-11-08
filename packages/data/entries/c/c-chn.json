@@ -1,0 +1,24 @@
+{
+  "id": "c-chn",
+  "headword": "ch'n'",
+  "variants": [
+    "chène"
+  ],
+  "senses": [
+    {
+      "it": "cane",
+      "en": "dog",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ch'n', chène: cane",
+    "rawHash": "8cc6dc1458e091a05f55564700cbeacd2e6d5e7f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d-diasellenne",
+  "headword": "diasellènne",
+  "senses": [
+    {
+      "it": "recitando il Dies irae. Qui, per biascicare a mo' di litania",
+      "en": "reciting the Dies irae. Here, meaning to mumble as if reciting a litany",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "diasellènne: recitando il Dies irae. Qui, per biascicare a mo' di litania",
+    "rawHash": "e76abab23a878eee064a4da8376836223ba92929",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

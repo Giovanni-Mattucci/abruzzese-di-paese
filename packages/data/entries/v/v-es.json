@@ -1,0 +1,21 @@
+{
+  "id": "v-es",
+  "headword": "(es.",
+  "senses": [
+    {
+      "it": "chi vajjizzò puzzèssre mmaledètte: chi vi sobillò possa essere maledetto)",
+      "en": "chi vajjizzò puzzèssre mmaledètte: may whoever incited you be cursed)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "(es.:chi vajjizzò puzzèssre mmaledètte: chi vi sobillò possa essere maledetto)",
+    "rawHash": "058f4f931c44a23aca77ff60d56fff7274d0cc52",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

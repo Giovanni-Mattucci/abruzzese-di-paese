@@ -1,0 +1,21 @@
+{
+  "id": "a-ammocca",
+  "headword": "ammoccà",
+  "senses": [
+    {
+      "it": "versare",
+      "en": "to pour",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammoccà: versare",
+    "rawHash": "802ecc55410d23fadb557ab5b1a2a80a5f2bcfe9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-pire",
+  "headword": "pire",
+  "senses": [
+    {
+      "it": "piolo di legno",
+      "en": "wooden peg",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bastone",
+      "en": "stick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pire: piolo di legno, bastone",
+    "rawHash": "51ccdca3b067be959c005dedf8f8aad39e4e6085",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

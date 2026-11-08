@@ -1,0 +1,21 @@
+{
+  "id": "p-pertose",
+  "headword": "pertòse",
+  "senses": [
+    {
+      "it": "cerniera",
+      "en": "hinge, zipper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pertòse: cerniera",
+    "rawHash": "678101dea09c82c4cc73a6a76045a89b4a40b907",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

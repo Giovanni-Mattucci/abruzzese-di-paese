@@ -1,0 +1,21 @@
+{
+  "id": "s-smazza",
+  "headword": "smazzà",
+  "senses": [
+    {
+      "it": "usare per la prima volta un mazzo di carte",
+      "en": "to use a deck of cards for the first time",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smazzà: usare per la prima volta un mazzo di carte",
+    "rawHash": "dee9b1c2f54c75aaf51f49f48147c03c993c869a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

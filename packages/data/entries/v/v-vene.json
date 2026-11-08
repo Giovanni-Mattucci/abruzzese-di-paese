@@ -1,0 +1,21 @@
+{
+  "id": "v-vene",
+  "headword": "vène",
+  "senses": [
+    {
+      "it": "vena",
+      "en": "vein",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vène: vena",
+    "rawHash": "fb89c9f394903e5835256a3fff46ed068ad9d373",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

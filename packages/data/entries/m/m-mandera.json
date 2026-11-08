@@ -1,0 +1,26 @@
+{
+  "id": "m-mandera",
+  "headword": "mandera",
+  "senses": [
+    {
+      "it": "manto",
+      "en": "cloak, mantle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "grembiule",
+      "en": "apron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mandera: manto, grembiule",
+    "rawHash": "4de416014370bf1b9e651221eaa74740e9dd66a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

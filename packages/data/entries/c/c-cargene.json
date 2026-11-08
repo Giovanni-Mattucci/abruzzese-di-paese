@@ -1,0 +1,22 @@
+{
+  "id": "c-cargene",
+  "headword": "cargène",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "fico secco",
+      "en": "dried fig",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cargène (lu): fico secco",
+    "rawHash": "9354ac04937321e0872f115dd695dd6f3093a961",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

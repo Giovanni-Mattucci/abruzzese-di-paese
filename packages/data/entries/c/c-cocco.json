@@ -1,0 +1,29 @@
+{
+  "id": "c-cocco",
+  "headword": "cocco",
+  "variants": [
+    "cocca"
+  ],
+  "senses": [
+    {
+      "it": "caro",
+      "en": "dear (masculine)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cara - affettivo",
+      "en": "dear (feminine) - term of endearment",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cocco, cocca: caro, cara - affettivo",
+    "rawHash": "516dbcc984d333c998c30031a9a2fe75e09101ea",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

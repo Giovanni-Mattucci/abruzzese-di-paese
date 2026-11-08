@@ -1,0 +1,21 @@
+{
+  "id": "l-lochammonte",
+  "headword": "loch'ammonte",
+  "senses": [
+    {
+      "it": "lassù (distante)",
+      "en": "up there (far away)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "loch'ammonte: lassù (distante)",
+    "rawHash": "f094374b2bf4b374dd257df783218a223c3b11c6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

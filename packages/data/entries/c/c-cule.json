@@ -1,0 +1,36 @@
+{
+  "id": "c-cule",
+  "headword": "cule",
+  "senses": [
+    {
+      "it": "culo",
+      "en": "arse",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sedere",
+      "en": "bottom",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "posteriore",
+      "en": "backside",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "il di dietro",
+      "en": "the rear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cule: culo, sedere, posteriore, il di dietro",
+    "rawHash": "2955cbaedda4b6e1775e3496a731d9f920c9197a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

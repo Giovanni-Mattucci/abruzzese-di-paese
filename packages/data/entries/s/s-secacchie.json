@@ -1,0 +1,21 @@
+{
+  "id": "s-secacchie",
+  "headword": "secacchie",
+  "senses": [
+    {
+      "it": "seghetto",
+      "en": "small saw, hacksaw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "secacchie: seghetto",
+    "rawHash": "ff8ce46717ceba888197c03e4ed72b5fe2a3c20a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

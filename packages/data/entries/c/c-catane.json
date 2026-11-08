@@ -1,0 +1,21 @@
+{
+  "id": "c-catane",
+  "headword": "catane",
+  "senses": [
+    {
+      "it": "tasca della parte interna della giacca",
+      "en": "inside pocket of a jacket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "catane: tasca della parte interna della giacca",
+    "rawHash": "a54083f8b5e72fb7bef813b2bb4e8d4b78520be7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-ammestecate",
+  "headword": "ammestecate",
+  "senses": [
+    {
+      "it": "mescolati",
+      "en": "mixed (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammestecate: mescolati",
+    "rawHash": "9a8a8dc3dbd5e8a4c44344c8c903ec032fc58fdc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

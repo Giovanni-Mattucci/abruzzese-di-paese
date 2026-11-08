@@ -1,0 +1,26 @@
+{
+  "id": "a-appezzuti",
+  "headword": "appezzutì",
+  "senses": [
+    {
+      "it": "appuntire",
+      "en": "to sharpen",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fare la punta",
+      "en": "to make a point",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appezzutì: appuntire, fare la punta",
+    "rawHash": "3212a9767db6b5dba0de9ba668c076f2a01149fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

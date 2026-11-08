@@ -1,0 +1,21 @@
+{
+  "id": "n-ntritili",
+  "headword": "'ntrìtili",
+  "senses": [
+    {
+      "it": "pasta grattugiata",
+      "en": "grated pasta",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ntrìtili: pasta grattugiata",
+    "rawHash": "f979a22a1ebee1511f22f2e90e18dcaf9b7c78ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cullu",
+  "headword": "cullù",
+  "senses": [
+    {
+      "it": "quello. riferita a persona",
+      "en": "that one (masculine). referring to a person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cullù: quello . riferita a persona",
+    "rawHash": "2f8f62a03210d9e62e8f30a3cc0f1d1f8f61aef1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-felle",
+  "headword": "fèlle",
+  "senses": [
+    {
+      "it": "fetta",
+      "en": "slice",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fèlle: fetta",
+    "rawHash": "5f89f98c1ff011e68e82b0645f078fd90f7ab07d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

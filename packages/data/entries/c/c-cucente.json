@@ -1,0 +1,31 @@
+{
+  "id": "c-cucente",
+  "headword": "cucènte",
+  "senses": [
+    {
+      "it": "che scotta",
+      "en": "scalding",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cocente",
+      "en": "burning hot",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "che brucia",
+      "en": "that burns",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucènte: che scotta, cocente, che brucia",
+    "rawHash": "fa5903d9898f1a092938e11f8b07666c82756455",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

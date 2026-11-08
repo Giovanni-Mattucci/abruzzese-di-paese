@@ -1,0 +1,21 @@
+{
+  "id": "s-sdelluffemele",
+  "headword": "sdelluffèmele",
+  "senses": [
+    {
+      "it": "picchiamolo",
+      "en": "let us beat him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdelluffèmele: picchiamolo",
+    "rawHash": "4b6c2a7b2a61f903906bbf4c02cd1732424333ef",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

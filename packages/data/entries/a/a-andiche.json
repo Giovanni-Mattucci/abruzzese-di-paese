@@ -1,0 +1,21 @@
+{
+  "id": "a-andiche",
+  "headword": "andìche",
+  "senses": [
+    {
+      "it": "antico",
+      "en": "ancient, old",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "andìche: antico",
+    "rawHash": "286db7da976d64abf9220458102fddd4f03adb94",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

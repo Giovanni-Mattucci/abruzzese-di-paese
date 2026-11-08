@@ -1,0 +1,21 @@
+{
+  "id": "s-sturiate",
+  "headword": "sturiate",
+  "senses": [
+    {
+      "it": "istoriato",
+      "en": "decorated with figures, historiated",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sturiate: istoriato",
+    "rawHash": "52f5ef419ac11b3db127b1c6f170394fa8ae5e56",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

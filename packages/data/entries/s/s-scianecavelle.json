@@ -1,0 +1,21 @@
+{
+  "id": "s-scianecavelle",
+  "headword": "scianecavèlle",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scianecavèlle: altalena",
+    "rawHash": "dfefd2fe9024ec248bba78b589b4d6ee6f2ba9c3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

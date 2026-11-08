@@ -1,0 +1,22 @@
+{
+  "id": "c-ciavardelle",
+  "headword": "ciavardélle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "ragazza di facili costumi",
+      "en": "girl of easy virtue",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciavardélle (la): ragazza di facili costumi",
+    "rawHash": "52d639e06617cf7a1c5c008aaeb102845f9bd925",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

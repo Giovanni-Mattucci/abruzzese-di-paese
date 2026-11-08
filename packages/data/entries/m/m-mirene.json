@@ -1,0 +1,21 @@
+{
+  "id": "m-mirene",
+  "headword": "mirène",
+  "senses": [
+    {
+      "it": "amarena",
+      "en": "sour cherry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mirène: amarena",
+    "rawHash": "9644fa56ac7dcee327fcf3db5af1224d2d44fbec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

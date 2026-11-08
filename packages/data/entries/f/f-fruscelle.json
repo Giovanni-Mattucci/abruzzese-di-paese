@@ -1,0 +1,21 @@
+{
+  "id": "f-fruscelle",
+  "headword": "fruscelle",
+  "senses": [
+    {
+      "it": "contenitore in vimini per formaggi freschi (solitamente ricotta). Chiamato anche frusciarole",
+      "en": "wicker container for fresh cheeses (usually ricotta). Also called frusciarole",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fruscelle: contenitore in vimini per formaggi freschi (solitamente ricotta). Chiamato anche frusciarole.",
+    "rawHash": "0208c2cd5b4fad26d9193a4d84a17d5e329cd4c4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

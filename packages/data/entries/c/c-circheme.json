@@ -1,0 +1,26 @@
+{
+  "id": "c-circheme",
+  "headword": "circhème",
+  "senses": [
+    {
+      "it": "cerchiamo",
+      "en": "we look for, we seek",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "chiediamo",
+      "en": "we ask",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "circhème: cerchiamo, chiediamo",
+    "rawHash": "7539cbeec11fc8578a49794772e0b006f031735d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

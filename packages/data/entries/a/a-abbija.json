@@ -1,0 +1,35 @@
+{
+  "id": "a-abbija",
+  "headword": "abbijà",
+  "senses": [
+    {
+      "it": "iniziare",
+      "en": "to begin",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "avviare",
+      "en": "to start",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cominciare",
+      "en": "to commence",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j abbìje, tu abbìje, esse abbìje, nu abbijème, vu abbijète, jsse abbìjene (io inizio, tu inizi, egli inzia, noi iniziamo, voi iniziate, essi iniziano).",
+    "Passato remoto: j abbijve, tu abbijste, esse abbijò, nu abbujèmme, vu abbijèste, jsse abbijèrene (io iniziai, tu iniziasti, egli iniziò, noi iniziammo, voi iniziaste, essi iniziarono)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbijà: iniziare, avviare, cominciare, j abbìje, tu abbìje, esse abbìje, nu abbijème, vu abbijète, jsse abbìjene (io inizio, tu inizi, egli inzia, noi iniziamo, voi iniziate, essi iniziano). Passato remoto: j abbijve, tu abbijste, esse abbijò, nu abbujèmme, vu abbijèste, jsse abbijèrene (io iniziai, tu iniziasti, egli iniziò, noi iniziammo, voi iniziaste, essi iniziarono)",
+    "rawHash": "055e0111591a7c5dc4ece409f37c16b55817c1fb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

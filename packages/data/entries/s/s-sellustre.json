@@ -1,0 +1,26 @@
+{
+  "id": "s-sellustre",
+  "headword": "sellustre",
+  "senses": [
+    {
+      "it": "lampo",
+      "en": "lightning",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "baleno",
+      "en": "flash",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sellustre: lampo, baleno",
+    "rawHash": "845f0acd3253a773609fe028f22a827db977b3ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

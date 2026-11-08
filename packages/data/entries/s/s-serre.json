@@ -1,0 +1,21 @@
+{
+  "id": "s-serre",
+  "headword": "serre",
+  "senses": [
+    {
+      "it": "mucchio",
+      "en": "heap, pile",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "serre : mucchio",
+    "rawHash": "00fcf73f163f94685d4806daee77b8b30f52f8ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

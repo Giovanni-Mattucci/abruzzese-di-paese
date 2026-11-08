@@ -1,0 +1,21 @@
+{
+  "id": "a-arraja",
+  "headword": "arrajà",
+  "senses": [
+    {
+      "it": "arrabbiare",
+      "en": "to make angry, to get angry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrajà: arrabbiare",
+    "rawHash": "d979ecedfc651223f0adc31c865cf0fcdd3f6adc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a-ajuttete",
+  "headword": "ajuttete",
+  "senses": [
+    {
+      "it": "sbrigati",
+      "en": "hurry up",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "muoviti",
+      "en": "get a move on",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ajuttete: sbrigati, muoviti",
+    "rawHash": "08acf6dcf1c83bb70a7983f2ca058ba62dfed201",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

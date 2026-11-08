@@ -1,0 +1,21 @@
+{
+  "id": "s-sbirrutene",
+  "headword": "sbirrùtene",
+  "senses": [
+    {
+      "it": "srotolano",
+      "en": "they unroll",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbirrùtene. srotolano",
+    "rawHash": "9d7a68277fda9584e5f369d305e459fe12ce15fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

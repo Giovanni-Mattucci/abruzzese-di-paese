@@ -1,0 +1,22 @@
+{
+  "id": "m-marrocche",
+  "headword": "marrocche",
+  "article": "la",
+  "senses": [
+    {
+      "it": "pannocchia",
+      "en": "cob, ear of corn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "marrocche (la): pannocchia",
+    "rawHash": "906e4056022f16deb25e27f76e4e97808939278a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

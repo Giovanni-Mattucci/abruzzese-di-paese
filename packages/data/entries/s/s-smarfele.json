@@ -1,0 +1,21 @@
+{
+  "id": "s-smarfele",
+  "headword": "smàrfele",
+  "senses": [
+    {
+      "it": "muco",
+      "en": "mucus",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smàrfele: muco",
+    "rawHash": "200885c784f5af76c665b5d5de69351e90dfe267",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

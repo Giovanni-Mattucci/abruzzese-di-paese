@@ -1,0 +1,21 @@
+{
+  "id": "c-capestate",
+  "headword": "capestàte",
+  "senses": [
+    {
+      "it": "calpestata",
+      "en": "trampled (feminine)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capestàte: calpestata",
+    "rawHash": "3fce3e25fdeee94369db371dbbbf16f5a1ee8a5d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

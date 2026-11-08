@@ -1,0 +1,21 @@
+{
+  "id": "a-archengiele",
+  "headword": "archengièle",
+  "senses": [
+    {
+      "it": "arcobaleno",
+      "en": "rainbow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "archengièle: arcobaleno",
+    "rawHash": "2b138cad9730eae36508c39716c56ca25b57b74b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

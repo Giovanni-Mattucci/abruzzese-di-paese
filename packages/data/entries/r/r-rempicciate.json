@@ -1,0 +1,21 @@
+{
+  "id": "r-rempicciate",
+  "headword": "rempicciàte",
+  "senses": [
+    {
+      "it": "rimpicciolite",
+      "en": "shrunk, made smaller",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rempicciàte: rimpicciolite",
+    "rawHash": "114480c5cc2896a302d004536a95f3d650a83640",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

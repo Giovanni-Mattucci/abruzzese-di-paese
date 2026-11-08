@@ -1,0 +1,25 @@
+{
+  "id": "a-abbilli",
+  "headword": "abbillì",
+  "senses": [
+    {
+      "it": "abbellire",
+      "en": "to embellish, to beautify",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j abbillisce, tu abbìllisce, esse abbellisce, nu abbillème, vu abbillète, jsse abbillìscene (io abbellisco, tu abbellisci, egli abbellisce, noi abbelliamo, voi abbellite, esi abbelliscono).",
+    "Passato:j abbillìve, tu abbillìste, esse abbillò, nu abbillèmme, vu abbillèste, jsse abbillèrene (io abbellii, tu abbellisti, egli abbellì, noi abbellimmo, voi abbelliste, essi abbellirono)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbillì: abbellire, j abbillisce, tu abbìllisce, esse abbellisce, nu abbillème, vu abbillète, jsse abbillìscene (io abbellisco, tu abbellisci, egli abbellisce, noi abbelliamo, voi abbellite, esi abbelliscono). Passato:j abbillìve, tu abbillìste, esse abbillò, nu abbillèmme, vu abbillèste, jsse abbillèrene (io abbellii, tu abbellisti, egli abbellì, noi abbellimmo, voi abbelliste, essi abbellirono)",
+    "rawHash": "1da7ddcf2bc42cafd79fea0eab094303c6877199",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

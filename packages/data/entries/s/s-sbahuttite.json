@@ -1,0 +1,35 @@
+{
+  "id": "s-sbahuttite",
+  "headword": "sbahuttite",
+  "variants": [
+    "sbauttàte",
+    "sbauttite"
+  ],
+  "senses": [
+    {
+      "it": "sbigottito",
+      "en": "dismayed, stunned",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "atterrito",
+      "en": "terrified",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "impaurito",
+      "en": "frightened",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbahuttite, sbauttàte, sbauttite : sbigottito, atterrito, impaurito",
+    "rawHash": "0032697beaf4a735d9ccfab5631aa1b2284078ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,27 @@
+{
+  "id": "s-scumpasseje",
+  "headword": "scumpassèje",
+  "article": "le",
+  "senses": [
+    {
+      "it": "lo superava",
+      "en": "he/she was surpassing him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lo sorpassava",
+      "en": "he/she was overtaking him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scumpassèje (le): lo superava, lo sorpassava",
+    "rawHash": "e98ae0077d6e8df72a16d58a0c301e1305b35669",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sfrunnate",
+  "headword": "sfrunnàte",
+  "senses": [
+    {
+      "it": "senza foglie",
+      "en": "leafless",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrunnàte: senza foglie",
+    "rawHash": "5cc6c2b29578ed0b8b983361bac276e7b61559c2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

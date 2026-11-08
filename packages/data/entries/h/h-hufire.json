@@ -1,0 +1,22 @@
+{
+  "id": "h-hufire",
+  "headword": "hufìre",
+  "article": "la",
+  "senses": [
+    {
+      "it": "ondata di vento",
+      "en": "gust of wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hufìre (la): ondata di vento",
+    "rawHash": "4e2848d9a87277bbc1b2280679a9ebedcb4dd4cd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

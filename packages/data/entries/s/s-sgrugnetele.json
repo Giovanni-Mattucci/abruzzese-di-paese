@@ -1,0 +1,21 @@
+{
+  "id": "s-sgrugnetele",
+  "headword": "sgrugnètele",
+  "senses": [
+    {
+      "it": "graffiatelo",
+      "en": "scratch it (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgrugnètele: graffiatelo",
+    "rawHash": "f549d71e1923f4e0162319c15b4baf0bcf307f24",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

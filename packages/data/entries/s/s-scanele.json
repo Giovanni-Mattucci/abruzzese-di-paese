@@ -1,0 +1,21 @@
+{
+  "id": "s-scanele",
+  "headword": "scànele",
+  "senses": [
+    {
+      "it": "sedile",
+      "en": "seat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scànele: sedile",
+    "rawHash": "bf9d2431013f814fc13c4432b694e71322c5c906",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

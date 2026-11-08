@@ -1,0 +1,21 @@
+{
+  "id": "h-hate",
+  "headword": "hàte",
+  "senses": [
+    {
+      "it": "alto",
+      "en": "tall, high",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hàte: alto",
+    "rawHash": "aaa8f8ac43b34fe6dbad338d053d5a47a782775d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

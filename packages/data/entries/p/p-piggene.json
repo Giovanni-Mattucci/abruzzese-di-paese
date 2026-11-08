@@ -1,0 +1,22 @@
+{
+  "id": "p-piggene",
+  "headword": "piggène",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "pulcino",
+      "en": "chick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piggène (lu): pulcino",
+    "rawHash": "6966d85d9e059cf4227498598d72f2b453c636c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

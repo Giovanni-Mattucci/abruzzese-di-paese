@@ -1,0 +1,21 @@
+{
+  "id": "b-bucche",
+  "headword": "bùcche",
+  "senses": [
+    {
+      "it": "sacco contenente mangiare per gli animali, il piacere di mangiare",
+      "en": "sack containing feed for animals; the pleasure of eating",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bùcche: sacco contenente mangiare per gli animali, il piacere di mangiare",
+    "rawHash": "8c76f4b94b3af0f644b8bf2562a0085ac2ff7bd5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

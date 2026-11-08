@@ -1,0 +1,27 @@
+{
+  "id": "b-bbaldracche",
+  "headword": "bbaldràcche",
+  "article": "la",
+  "senses": [
+    {
+      "it": "donna di malavita",
+      "en": "woman of ill repute",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "puttana",
+      "en": "whore",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbaldràcche (la): donna di malavita, puttana.",
+    "rawHash": "374641cdadaab8357921663a83799dbfa1a5fe05",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

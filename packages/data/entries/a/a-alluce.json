@@ -1,0 +1,39 @@
+{
+  "id": "a-alluce",
+  "headword": "allùce",
+  "senses": [
+    {
+      "it": "allucciare",
+      "en": "to eye, to peer at",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "guardare attentmente",
+      "en": "to look at carefully",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fissare",
+      "en": "to stare",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "che se t'allùcce",
+      "it": "che se ti guarda",
+      "en": "look how he/she is looking at you",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allùce: allucciare, guardare attentmente, fissare, es.: che se t'allùcce: che se ti guarda",
+    "rawHash": "87788a2c77e4980bcb1bfd18c9a2b12c026379ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

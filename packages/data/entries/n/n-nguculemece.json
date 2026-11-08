@@ -1,0 +1,26 @@
+{
+  "id": "n-nguculemece",
+  "headword": "'nguculèmece",
+  "senses": [
+    {
+      "it": "abbassiamoci",
+      "en": "let us crouch down",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pieghiamoci sulle ginocchia",
+      "en": "let us bend at the knees",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nguculèmece: abbassiamoci, pieghiamoci sulle ginocchia",
+    "rawHash": "34890e3c6792f5cf5245600acffc3b63503db5a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

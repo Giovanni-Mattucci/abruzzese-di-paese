@@ -1,0 +1,21 @@
+{
+  "id": "c-ciammareche",
+  "headword": "ciammarèche",
+  "senses": [
+    {
+      "it": "lumache (pasta)",
+      "en": "snails (pasta shape)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciammarèche: lumache (pasta)",
+    "rawHash": "8441a23e8b3533544827389e2f622e6f8ac58466",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,27 @@
+{
+  "id": "l-lecene",
+  "headword": "lêcene",
+  "article": "la",
+  "senses": [
+    {
+      "it": "susina acerba",
+      "en": "unripe plum",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "prugna",
+      "en": "plum",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lêcene (la): susina acerba, prugna",
+    "rawHash": "7afce62c1d5f8d09c58716b8998e54a78109c030",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

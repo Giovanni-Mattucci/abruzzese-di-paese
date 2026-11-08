@@ -1,0 +1,26 @@
+{
+  "id": "r-rittu",
+  "headword": "rìttu",
+  "senses": [
+    {
+      "it": "in piedi",
+      "en": "standing",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ritto",
+      "en": "upright",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rìttu: in piedi, ritto",
+    "rawHash": "09674f4fbe2ad8de50dbf5318c54592aa55a89b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

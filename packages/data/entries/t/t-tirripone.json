@@ -1,0 +1,21 @@
+{
+  "id": "t-tirripone",
+  "headword": "tirripòne",
+  "senses": [
+    {
+      "it": "zolla di terra",
+      "en": "clod of earth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tirripòne: zolla di terra",
+    "rawHash": "c0ee041aa9f27950b24f026d1ffc4575c275ce0a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

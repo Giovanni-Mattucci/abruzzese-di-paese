@@ -1,0 +1,21 @@
+{
+  "id": "r-ragane",
+  "headword": "ràgane",
+  "senses": [
+    {
+      "it": "ramarro",
+      "en": "green lizard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ràgane: ramarro",
+    "rawHash": "6b7e2ae06672bd4f92a6d3ad08eda2e3063eb0a9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

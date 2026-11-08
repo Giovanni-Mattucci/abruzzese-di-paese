@@ -1,0 +1,21 @@
+{
+  "id": "a-azzemate",
+  "headword": "azzemate",
+  "senses": [
+    {
+      "it": "vestito e ripulito con cura insistente e insolita",
+      "en": "dressed and spruced up with unusual and insistent care",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "azzemate: vestito e ripulito con cura insistente e insolita",
+    "rawHash": "949b0d367a9d6c43cedc649873d0e9377fb5355d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

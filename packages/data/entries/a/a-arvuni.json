@@ -1,0 +1,21 @@
+{
+  "id": "a-arvuni",
+  "headword": "arvunì",
+  "senses": [
+    {
+      "it": "riunirsi",
+      "en": "to gather, to get together",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arvunì: riunirsi",
+    "rawHash": "d10a749cfa48d63fde3f26859bf752bb09cd518b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

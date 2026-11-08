@@ -1,0 +1,33 @@
+{
+  "id": "f-firsore",
+  "headword": "firsòre",
+  "variants": [
+    "fissòre",
+    "firzòre"
+  ],
+  "senses": [
+    {
+      "it": "padella",
+      "en": "frying pan",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "padella per friggere",
+      "en": "frying pan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: firzore: padella per friggere"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "firsòre, fissòre, firzòre: padella",
+    "rawHash": "fa480775626d48a334e5b8976585a927afc9323d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

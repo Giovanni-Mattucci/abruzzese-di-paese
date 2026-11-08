@@ -1,0 +1,31 @@
+{
+  "id": "a-allucche",
+  "headword": "allùcche",
+  "senses": [
+    {
+      "it": "grida",
+      "en": "shouts",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "strilla",
+      "en": "shrieks",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "urla",
+      "en": "yells",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allùcche: grida, strilla, urla",
+    "rawHash": "39503398c144c602d9ec62916e619aeeb8c57717",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

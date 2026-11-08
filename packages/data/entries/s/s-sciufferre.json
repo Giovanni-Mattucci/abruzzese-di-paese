@@ -1,0 +1,21 @@
+{
+  "id": "s-sciufferre",
+  "headword": "sciufferre",
+  "senses": [
+    {
+      "it": "autista",
+      "en": "driver, chauffeur",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciufferre: autista",
+    "rawHash": "0a8c58b80c99052a21559eaa81f12bf699c562fc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

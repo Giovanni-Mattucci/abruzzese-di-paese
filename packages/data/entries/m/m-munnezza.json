@@ -1,0 +1,21 @@
+{
+  "id": "m-munnezza",
+  "headword": "munnezza",
+  "senses": [
+    {
+      "it": "immondizia",
+      "en": "rubbish, garbage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "munnezza: immondizia",
+    "rawHash": "998769143f7692001f4c3d8e1f540698230cd0c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

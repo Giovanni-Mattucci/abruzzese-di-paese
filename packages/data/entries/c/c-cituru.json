@@ -1,0 +1,26 @@
+{
+  "id": "c-cituru",
+  "headword": "cìturu",
+  "senses": [
+    {
+      "it": "lattante",
+      "en": "infant, nursling",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bambino",
+      "en": "child",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cìturu: lattante, bambino",
+    "rawHash": "ec854a650664fe10a6aa0ce72b78aa70c60cdec4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

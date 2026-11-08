@@ -1,0 +1,21 @@
+{
+  "id": "r-ristruppele",
+  "headword": "ristrùppele",
+  "senses": [
+    {
+      "it": "zolla di terra",
+      "en": "clod of earth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ristrùppele: zolla di terra",
+    "rawHash": "35705fe97187bcf77619b91267f57180f2fdf2b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

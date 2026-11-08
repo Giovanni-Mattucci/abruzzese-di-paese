@@ -1,0 +1,21 @@
+{
+  "id": "v-varrette",
+  "headword": "varrette",
+  "senses": [
+    {
+      "it": "palo",
+      "en": "pole",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varrette: palo",
+    "rawHash": "a6515df35f97a03b7d580ce99c96bbb00a18e5cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

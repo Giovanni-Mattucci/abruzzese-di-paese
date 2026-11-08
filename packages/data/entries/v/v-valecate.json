@@ -1,0 +1,26 @@
+{
+  "id": "v-valecate",
+  "headword": "valecàte",
+  "senses": [
+    {
+      "it": "battere (anche della lana)",
+      "en": "to beat (also of wool)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "infeltrito",
+      "en": "felted",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "valecàte: battere (anche della lana), infeltrito",
+    "rawHash": "66b2d198737b00594a59de5da4527775772ff2cc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

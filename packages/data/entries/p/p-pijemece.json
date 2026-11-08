@@ -1,0 +1,21 @@
+{
+  "id": "p-pijemece",
+  "headword": "pijèmece",
+  "senses": [
+    {
+      "it": "prendiamoci",
+      "en": "let us take for ourselves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pijèmece: prendiamoci",
+    "rawHash": "f89fa0520c55ed579162d22c965d38bad25680df",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

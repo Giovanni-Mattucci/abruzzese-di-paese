@@ -1,0 +1,21 @@
+{
+  "id": "c-capefamije",
+  "headword": "capefamije",
+  "senses": [
+    {
+      "it": "capofamiglia",
+      "en": "head of the family",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capefamije: capofamiglia",
+    "rawHash": "f6fd3320adec191aeb47d300ec300c9cc25ee7fb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

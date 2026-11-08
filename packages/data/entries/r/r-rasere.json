@@ -1,0 +1,22 @@
+{
+  "id": "r-rasere",
+  "headword": "rasére",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "rasoio",
+      "en": "razor",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rasére (lu): rasoio",
+    "rawHash": "3639adbf5bb7254e4c04f3755c49ae8834cc4b81",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

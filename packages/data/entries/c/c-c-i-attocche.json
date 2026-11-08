@@ -1,0 +1,34 @@
+{
+  "id": "c-c-i-attocche",
+  "headword": "c-i-attòcche",
+  "variants": [
+    "c'attòcche"
+  ],
+  "senses": [
+    {
+      "it": "ci tocca",
+      "en": "it falls to us, it is our turn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci spetta",
+      "en": "it is due to us",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "è nostro",
+      "en": "it is ours",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-attòcche, c'attòcche: ci tocca, ci spetta, è nostro",
+    "rawHash": "8ab75e0ffd41783089b6836a2f689573698a5d11",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "c-ciummenire",
+  "headword": "ciummenire",
+  "variants": [
+    "ciumminìre"
+  ],
+  "article": "la",
+  "senses": [
+    {
+      "it": "camino",
+      "en": "fireplace, chimney",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ciminiera",
+      "en": "chimney stack",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciummenire, ciumminìre (la): camino, ciminiera",
+    "rawHash": "4f02afac5c616ba9c62e78e7fb668078408903a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

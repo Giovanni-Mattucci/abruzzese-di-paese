@@ -1,0 +1,21 @@
+{
+  "id": "a-assugate",
+  "headword": "assugàte",
+  "senses": [
+    {
+      "it": "asciugato",
+      "en": "dried",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assugàte: asciugato",
+    "rawHash": "f2441a5e75c3d16bc95b6524f7adb56726f0d088",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

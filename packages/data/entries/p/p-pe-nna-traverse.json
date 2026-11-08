@@ -1,0 +1,24 @@
+{
+  "id": "p-pe-nna-traverse",
+  "headword": "pe' nna travèrse",
+  "variants": [
+    "pì nna travèrse"
+  ],
+  "senses": [
+    {
+      "it": "di traverso",
+      "en": "crosswise, askew",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pe' nna travèrse, pì nna travèrse: di traverso",
+    "rawHash": "46e94fc0899e58decfe8b1d9a088f6b5b96cbd6e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

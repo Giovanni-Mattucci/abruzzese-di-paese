@@ -1,0 +1,26 @@
+{
+  "id": "f-frechete",
+  "headword": "frèchete",
+  "senses": [
+    {
+      "it": "fregato",
+      "en": "cheated",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "buggerato",
+      "en": "swindled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frèchete: fregato, buggerato",
+    "rawHash": "71c4aadd14bc037ba2189c8abc677d9040652678",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

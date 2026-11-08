@@ -1,0 +1,21 @@
+{
+  "id": "h-hue",
+  "headword": "hué!",
+  "senses": [
+    {
+      "it": "oh !",
+      "en": "hey!",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hué!: oh !",
+    "rawHash": "b1da302f51da6b85e171f735c7ca29cc5554019d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

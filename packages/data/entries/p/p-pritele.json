@@ -1,0 +1,22 @@
+{
+  "id": "p-pritele",
+  "headword": "prìtele",
+  "article": "la",
+  "senses": [
+    {
+      "it": "sgabello basso",
+      "en": "low stool",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prìtele (la): sgabello basso",
+    "rawHash": "29a19f186524e38b2ae3124e1f2c5041b19b66a1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

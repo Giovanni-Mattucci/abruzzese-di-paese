@@ -1,0 +1,21 @@
+{
+  "id": "a-arduvaje",
+  "headword": "arduvaje",
+  "senses": [
+    {
+      "it": "procura",
+      "en": "procures, obtains",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arduvaje: procura",
+    "rawHash": "b304ce1422281d95b30e7d68d075a3380a1e2471",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

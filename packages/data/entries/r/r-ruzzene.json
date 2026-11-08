@@ -1,0 +1,21 @@
+{
+  "id": "r-ruzzene",
+  "headword": "rùzzene",
+  "senses": [
+    {
+      "it": "ruggine",
+      "en": "rust",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rùzzene: ruggine",
+    "rawHash": "15d44c9b5070b5fbeeb7206b578f239cef4e7e26",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

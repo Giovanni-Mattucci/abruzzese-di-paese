@@ -1,0 +1,21 @@
+{
+  "id": "s-smande",
+  "headword": "smànde",
+  "senses": [
+    {
+      "it": "scopri",
+      "en": "uncover (imperative); you uncover",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smànde: scopri",
+    "rawHash": "ed3c1872e0a89fecb26f734527bff04de7e9ded2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

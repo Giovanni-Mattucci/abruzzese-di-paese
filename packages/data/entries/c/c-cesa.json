@@ -1,0 +1,21 @@
+{
+  "id": "c-cesa",
+  "headword": "cèsa",
+  "senses": [
+    {
+      "it": "terreno sterile",
+      "en": "barren land",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cèsa: terreno sterile",
+    "rawHash": "a5d096d775a50c6cf6f630f5b524599bb90abb7e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

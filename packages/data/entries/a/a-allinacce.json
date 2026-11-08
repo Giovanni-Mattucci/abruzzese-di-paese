@@ -1,0 +1,29 @@
+{
+  "id": "a-allinacce",
+  "headword": "allinàcce",
+  "variants": [
+    "hallinàcce"
+  ],
+  "senses": [
+    {
+      "it": "gallinaccio",
+      "en": "turkey cock",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tacchino",
+      "en": "turkey",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allinàcce, hallinàcce: gallinaccio, tacchino",
+    "rawHash": "d40a4c8a60f58b901c633fcc9b27c6080ba6dfa6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

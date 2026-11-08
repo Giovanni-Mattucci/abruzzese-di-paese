@@ -1,0 +1,21 @@
+{
+  "id": "t-tresca",
+  "headword": "trescà",
+  "senses": [
+    {
+      "it": "trebbiare",
+      "en": "to thresh",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trescà: trebbiare",
+    "rawHash": "d5d800711a0d085ad85d6a5c0750135a5090d3b1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

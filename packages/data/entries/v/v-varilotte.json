@@ -1,0 +1,21 @@
+{
+  "id": "v-varilotte",
+  "headword": "varilòtte",
+  "senses": [
+    {
+      "it": "barilotto",
+      "en": "small barrel, keg",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varilòtte: barilotto",
+    "rawHash": "bdf795bf315feb847064bddeef40a4200f6787fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

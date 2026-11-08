@@ -1,0 +1,21 @@
+{
+  "id": "a-artira",
+  "headword": "artirà",
+  "senses": [
+    {
+      "it": "ritirare",
+      "en": "to withdraw, to take back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "artirà: ritirare",
+    "rawHash": "9eb4329b69dc8b1c8fc04ef9591958f9ab496cb3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

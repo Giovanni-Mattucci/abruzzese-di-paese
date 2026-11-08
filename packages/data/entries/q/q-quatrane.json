@@ -1,0 +1,21 @@
+{
+  "id": "q-quatrane",
+  "headword": "quatràne",
+  "senses": [
+    {
+      "it": "ragazzo",
+      "en": "boy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quatràne: ragazzo",
+    "rawHash": "6733bc46160f2cd08ca56189c47a6105746d627a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

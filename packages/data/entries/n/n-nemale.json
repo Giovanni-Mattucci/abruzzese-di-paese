@@ -1,0 +1,21 @@
+{
+  "id": "n-nemale",
+  "headword": "nemale",
+  "senses": [
+    {
+      "it": "animale",
+      "en": "animal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nemale: animale",
+    "rawHash": "1c52933d3b74dd121d2016c0f5534c93b3a0d69b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

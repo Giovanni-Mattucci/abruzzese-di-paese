@@ -1,0 +1,21 @@
+{
+  "id": "s-scrupetille",
+  "headword": "scrupetille",
+  "senses": [
+    {
+      "it": "cespuglio",
+      "en": "bush",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scrupetille: cespuglio",
+    "rawHash": "d1b7a561cbc7cbd8518554d81b316f76af792f3a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

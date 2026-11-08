@@ -1,0 +1,21 @@
+{
+  "id": "s-strippemeje",
+  "headword": "strippèmeje",
+  "senses": [
+    {
+      "it": "afferriamo e tiriamo con forza",
+      "en": "let us grab and pull hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strippèmeje: afferriamo e tiriamo con forza",
+    "rawHash": "dda0180c78d80761effe2efd8de7bc8d24a1e565",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

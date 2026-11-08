@@ -1,0 +1,27 @@
+{
+  "id": "d-denghe",
+  "headword": "denghe",
+  "variants": [
+    "dinghe"
+  ],
+  "senses": [
+    {
+      "it": "dò",
+      "en": "I give",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: dinghe: dò"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "denghe, dinghe: dò",
+    "rawHash": "f5a2d77eef2e7cfc7a96e48816062906a5b7b973",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

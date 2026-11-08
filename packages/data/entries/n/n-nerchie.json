@@ -1,0 +1,21 @@
+{
+  "id": "n-nerchie",
+  "headword": "nèrchie",
+  "senses": [
+    {
+      "it": "pene",
+      "en": "penis",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nèrchie: pene",
+    "rawHash": "fce1aa2eff3c859f4b35b6ae314647a054b1a558",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

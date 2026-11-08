@@ -1,0 +1,21 @@
+{
+  "id": "s-scingia",
+  "headword": "scingià",
+  "senses": [
+    {
+      "it": "mettere in disordine",
+      "en": "to mess up, to put in disorder",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scingià: mettere in disordine",
+    "rawHash": "661568783b0198dd24991b40374e2df9491c92eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

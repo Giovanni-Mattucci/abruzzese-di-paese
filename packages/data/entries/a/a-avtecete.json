@@ -1,0 +1,26 @@
+{
+  "id": "a-avtecete",
+  "headword": "avtecète",
+  "senses": [
+    {
+      "it": "d'alto lignaggio",
+      "en": "of high lineage",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "nobile",
+      "en": "noble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "avtecète: d'alto lignaggio, nobile",
+    "rawHash": "bb3f44935ab3376617c7ab0d7144e4490695c2f0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

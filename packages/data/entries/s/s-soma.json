@@ -1,0 +1,21 @@
+{
+  "id": "s-soma",
+  "headword": "soma",
+  "senses": [
+    {
+      "it": "carico",
+      "en": "load",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "soma: carico",
+    "rawHash": "bf0ba9c01eca2d450a23aca111454c6f6aedf152",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

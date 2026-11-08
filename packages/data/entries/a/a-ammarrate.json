@@ -1,0 +1,29 @@
+{
+  "id": "a-ammarrate",
+  "headword": "ammarràte",
+  "variants": [
+    "ammarrunite"
+  ],
+  "senses": [
+    {
+      "it": "che taglia poco",
+      "en": "that cuts poorly",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "che ha poca affilatura",
+      "en": "that has little edge, blunt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammarràte o ammarrunite: che taglia poco, che ha poca affilatura",
+    "rawHash": "c68d6f7e8057075f51d4b097caebbabff0914662",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

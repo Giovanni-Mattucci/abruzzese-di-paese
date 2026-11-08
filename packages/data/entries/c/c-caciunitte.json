@@ -1,0 +1,24 @@
+{
+  "id": "c-caciunitte",
+  "headword": "caciunìtte",
+  "variants": [
+    "caggiunìtte"
+  ],
+  "senses": [
+    {
+      "it": "dolci di pasta ammassata fatti a Natale e ripieni di marmellata",
+      "en": "sweets of kneaded dough made at Christmas and filled with jam",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caciunìtte, caggiunìtte: dolci di pasta ammassata fatti a Natale e ripieni di marmellata",
+    "rawHash": "3b5b139af1877060448668cd2f0779019421362f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

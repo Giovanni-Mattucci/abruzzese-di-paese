@@ -1,0 +1,24 @@
+{
+  "id": "c-capesta",
+  "headword": "capestà",
+  "variants": [
+    "capistà"
+  ],
+  "senses": [
+    {
+      "it": "calpestare",
+      "en": "to trample",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capestà, capistà: calpestare",
+    "rawHash": "1e36804692f46edf2f6250654c2f2557888dc666",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "z-zire",
+  "headword": "zirè",
+  "senses": [
+    {
+      "it": "lippa",
+      "en": "tipcat (children's game played with a stick and a small peg)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zirè: lippa",
+    "rawHash": "81f12f9b7920fa239146a734ed2726e216588665",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

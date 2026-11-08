@@ -1,0 +1,26 @@
+{
+  "id": "b-bballe",
+  "headword": "bballe",
+  "senses": [
+    {
+      "it": "ubriacatura",
+      "en": "drunkenness, binge",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ubriacarsi",
+      "en": "to get drunk",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bballe : ubriacatura, ubriacarsi",
+    "rawHash": "c32e0f5b337281d7fded7d53db2b24be62940e88",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

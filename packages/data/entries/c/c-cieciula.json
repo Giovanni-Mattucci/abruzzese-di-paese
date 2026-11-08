@@ -1,0 +1,21 @@
+{
+  "id": "c-cieciula",
+  "headword": "cieciula",
+  "senses": [
+    {
+      "it": "pancia",
+      "en": "belly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cieciula: pancia",
+    "rawHash": "b57b0ddad704eec9030141119f990c4652f59b81",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

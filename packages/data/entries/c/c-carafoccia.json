@@ -1,0 +1,21 @@
+{
+  "id": "c-carafoccia",
+  "headword": "carafoccia",
+  "senses": [
+    {
+      "it": "tasca della gonna",
+      "en": "skirt pocket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carafoccia: tasca della gonna",
+    "rawHash": "3c3b1c14d9c4471b723840480875172d6d6e2820",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-pintone",
+  "headword": "pintòne",
+  "senses": [
+    {
+      "it": "angolo",
+      "en": "corner",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pintòne: angolo",
+    "rawHash": "b34b434628187848ed178446ced0421a1a77e153",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

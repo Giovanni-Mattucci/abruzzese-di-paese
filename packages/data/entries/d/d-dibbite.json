@@ -1,0 +1,22 @@
+{
+  "id": "d-dibbite",
+  "headword": "dìbbite",
+  "pos": "pl",
+  "senses": [
+    {
+      "it": "debiti",
+      "en": "debts",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dìbbite (pl): debiti",
+    "rawHash": "158049899593db9fd75c611539135db855eb56d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

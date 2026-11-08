@@ -1,0 +1,26 @@
+{
+  "id": "c-camba",
+  "headword": "cambà",
+  "senses": [
+    {
+      "it": "vivere",
+      "en": "to live",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "campare",
+      "en": "to get by, to live",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cambà: vivere, campare",
+    "rawHash": "16e3e76d1f71c899a4fb4dcf7737beec2572933b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

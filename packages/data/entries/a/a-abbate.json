@@ -1,0 +1,21 @@
+{
+  "id": "a-abbate",
+  "headword": "abbate",
+  "senses": [
+    {
+      "it": "abate",
+      "en": "abbot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbate: abate",
+    "rawHash": "348e9c6a880c5f7023407b449c801e25c97d59f9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

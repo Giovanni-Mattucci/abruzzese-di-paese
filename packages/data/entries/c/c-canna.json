@@ -1,0 +1,21 @@
+{
+  "id": "c-canna",
+  "headword": "canna",
+  "senses": [
+    {
+      "it": "gola",
+      "en": "throat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "canna: gola",
+    "rawHash": "5e1fc42ff2b27347812a67e732021f2cd552a4f8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

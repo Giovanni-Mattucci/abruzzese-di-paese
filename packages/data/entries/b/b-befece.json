@@ -1,0 +1,22 @@
+{
+  "id": "b-befece",
+  "headword": "befêce",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "bifolco",
+      "en": "oxherd, boor",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "befêce (lu): bifolco",
+    "rawHash": "b9d7f45075852a48a86d1330c46debe408dd405f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

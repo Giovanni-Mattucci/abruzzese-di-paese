@@ -1,0 +1,21 @@
+{
+  "id": "c-chiapparelle",
+  "headword": "chiapparelle",
+  "senses": [
+    {
+      "it": "molletta per il bucato",
+      "en": "clothes peg",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiapparelle: molletta per il bucato",
+    "rawHash": "9d3ced505fbe817103a4833f4cae136908689a8b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sfasciulate",
+  "headword": "sfasciulàte",
+  "senses": [
+    {
+      "it": "sgangherato",
+      "en": "ramshackle, falling apart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfasciulàte: sgangherato",
+    "rawHash": "d11254d89eb7810dc72501eb0c12ead4b92074dd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

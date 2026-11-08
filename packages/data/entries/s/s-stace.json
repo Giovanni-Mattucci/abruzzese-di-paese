@@ -1,0 +1,26 @@
+{
+  "id": "s-stace",
+  "headword": "stace",
+  "senses": [
+    {
+      "it": "ci sta",
+      "en": "it is there",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "c'è",
+      "en": "there is",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stace: ci sta, c'è",
+    "rawHash": "2f609285aac683291106cdae4382e6cf270969c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

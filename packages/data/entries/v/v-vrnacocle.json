@@ -1,0 +1,21 @@
+{
+  "id": "v-vrnacocle",
+  "headword": "v'rnacocle",
+  "senses": [
+    {
+      "it": "albicocche",
+      "en": "apricots",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "v'rnacocle: albicocche",
+    "rawHash": "3a10015a6cc209629c5656fea20a957df9e2378b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

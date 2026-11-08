@@ -1,0 +1,26 @@
+{
+  "id": "c-crastate",
+  "headword": "crastate",
+  "senses": [
+    {
+      "it": "castrato",
+      "en": "castrated",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "evirato",
+      "en": "emasculated",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crastate: castrato, evirato",
+    "rawHash": "3fb6773fae15adf1cd1931b7aef628742cb1f737",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

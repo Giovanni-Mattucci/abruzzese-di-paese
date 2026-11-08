@@ -1,0 +1,95 @@
+{
+  "app": {
+    "name": "Abruzzese di paese",
+    "tagline": "Un dizionario del dialetto abruzzese"
+  },
+  "nav": {
+    "label": "Navigazione principale",
+    "search": "Cerca",
+    "browse": "Sfoglia",
+    "grammar": "Grammatica",
+    "about": "Informazioni",
+    "skip_to_content": "Vai al contenuto principale"
+  },
+  "search": {
+    "label": "Cerca nel dizionario",
+    "placeholder": "Scrivi una parola in abruzzese o in italiano",
+    "direction_label": "Direzione di ricerca",
+    "direction": {
+      "abr-it": "Abruzzese verso italiano",
+      "it-abr": "Italiano verso abruzzese",
+      "en": "Inglese",
+      "any": "Tutti i campi"
+    },
+    "results_count_one": "{{count}} risultato",
+    "results_count_other": "{{count}} risultati",
+    "showing": "Mostrati i primi {{shown}} di {{total}}",
+    "no_results": "Nessuna voce corrisponde a \"{{query}}\".",
+    "no_results_en": "Nessuna traduzione inglese corrisponde ancora. Prova in italiano, oppure aiutaci a tradurre.",
+    "help_translate": "Aiuta a tradurre",
+    "intro": "Cerca tra {{count}} parole dell'archivio Treppecore, oppure sfoglia per lettera."
+  },
+  "browse": {
+    "title": "Sfoglia per lettera",
+    "letter_title": "Parole che iniziano con {{letter}}",
+    "nav_label": "Lettere",
+    "entries_count_one": "{{count}} voce",
+    "entries_count_other": "{{count}} voci",
+    "page_of": "Pagina {{page}} di {{pages}}",
+    "pagination_label": "Paginazione",
+    "previous": "Precedente",
+    "next": "Successiva",
+    "unknown_letter": "Nel dizionario non esiste la lettera \"{{letter}}\"."
+  },
+  "entry": {
+    "not_found": "Nessuna voce con id \"{{id}}\".",
+    "breadcrumb": "Percorso di navigazione",
+    "meanings": "Significato",
+    "examples": "Esempi",
+    "grammar_notes": "Note grammaticali",
+    "variants": "Varianti",
+    "pronunciation": "Pronuncia",
+    "locality": "Attestato a",
+    "source": "Fonte",
+    "source_link": "abruzzo.fm, Treppecore, lettera {{letter}}",
+    "edit_on_github": "Modifica questa voce su GitHub",
+    "report_problem": "Segnala un problema",
+    "needs_review": "Da rivedere",
+    "possible_duplicate": "Possibile duplicato",
+    "no_english": "Inglese mancante",
+    "unverified_translation": "Traduzione non verificata",
+    "awaiting_review": "Questa voce è in attesa di revisione: il significato non è ancora stato inserito."
+  },
+  "grammar": {
+    "title": "Le regole del dialetto abruzzese",
+    "intro": "Riprodotto dall'archivio Treppecore di abruzzo.fm.",
+    "source_link": "Regole originali su abruzzo.fm"
+  },
+  "about": {
+    "title": "Informazioni sul progetto",
+    "what": "Abruzzese di paese è un dizionario e archivio open source del dialetto abruzzese. È un sito statico con ricerca nel browser, e i dati sono file semplici che chiunque può migliorare con una pull request.",
+    "source": "Le voci sono state importate una sola volta dall'archivio Treppecore di abruzzo.fm, la cui redazione ha gentilmente dato il permesso scritto di pubblicarle.",
+    "radio": "abruzzo.fm è Radio Abruzzo, l'unica radio al mondo di sola musica e contenuti abruzzesi:",
+    "radio_link": "Radio Abruzzo",
+    "contribute": "Suggerisci una parola o una correzione su GitHub, oppure modifica una voce direttamente dalla sua pagina.",
+    "licences": "I dati del dizionario sono rilasciati con licenza CC BY-SA 4.0. Il codice con licenza MIT.",
+    "github": "Progetto su GitHub"
+  },
+  "footer": {
+    "attribution": "Contenuto del dizionario riprodotto citando la fonte",
+    "source_name": "abruzzo.fm, Treppecore",
+    "licences": "Dati con licenza CC BY-SA 4.0; codice con licenza MIT."
+  },
+  "locale": {
+    "label": "Lingua",
+    "en": "English",
+    "it": "Italiano"
+  },
+  "common": {
+    "loading": "Caricamento del dizionario…",
+    "error_title": "Qualcosa è andato storto",
+    "error_body": "Non è stato possibile caricare il dizionario. Riprova.",
+    "not_found_title": "Pagina non trovata",
+    "go_to_search": "Vai alla ricerca"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mastrija",
+  "headword": "mastrijà",
+  "senses": [
+    {
+      "it": "ingegnarsi su qualcosa",
+      "en": "to contrive, to work out how to do something",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mastrijà: ingegnarsi su qualcosa",
+    "rawHash": "c226a0f537c1ad45ddd89ea6cc93e9d785c0018a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

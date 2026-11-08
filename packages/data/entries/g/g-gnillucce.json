@@ -1,0 +1,21 @@
+{
+  "id": "g-gnillucce",
+  "headword": "gnillùcce",
+  "senses": [
+    {
+      "it": "agnellino",
+      "en": "little lamb",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnillùcce: agnellino",
+    "rawHash": "d78b9d95b981f735f1e9bdaeac04887ca813b679",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

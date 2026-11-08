@@ -1,0 +1,26 @@
+{
+  "id": "s-strafonne",
+  "headword": "strafònne",
+  "senses": [
+    {
+      "it": "abisso",
+      "en": "abyss",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "grande profondità",
+      "en": "great depth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strafònne: abisso, grande profondità",
+    "rawHash": "011db8919a86f3723c0e79b2f3d1beef187e4775",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

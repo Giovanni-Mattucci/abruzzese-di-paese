@@ -1,0 +1,26 @@
+{
+  "id": "b-buzzara",
+  "headword": "buzzarà",
+  "senses": [
+    {
+      "it": "raggirare",
+      "en": "to swindle, to trick",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "frodare",
+      "en": "to defraud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "buzzarà: raggirare, frodare",
+    "rawHash": "1d481c9957437de5077ae5ad9c61f81421eaf989",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

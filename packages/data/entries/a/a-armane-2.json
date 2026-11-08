@@ -1,0 +1,21 @@
+{
+  "id": "a-armane-2",
+  "headword": "armanè",
+  "senses": [
+    {
+      "it": "rimanere",
+      "en": "to remain, to stay",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "armanè: rimanere",
+    "rawHash": "11cd27d6a40cdaf9f194371d0bb46042b1a33be2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

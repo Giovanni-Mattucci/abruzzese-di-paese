@@ -1,0 +1,21 @@
+{
+  "id": "c-ciangrassone",
+  "headword": "ciangrassone",
+  "senses": [
+    {
+      "it": "grassone",
+      "en": "fat person, fatso",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciangrassone: grassone",
+    "rawHash": "9183f180df132511711a47902433180a191a8460",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

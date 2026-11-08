@@ -1,0 +1,21 @@
+{
+  "id": "c-cuzze",
+  "headword": "cuzze",
+  "senses": [
+    {
+      "it": "posto nascosto la cui esistenza non va rivelata per evitare che altri possano venirne a conoscenza. Termine particolarmente usato dai bambini per indicare un luogo segreto dove nascondere o reperire in abbondanza qualcosa da non condividere con nessuno",
+      "en": "hidden place whose existence must not be revealed so that others cannot learn of it. Term used especially by children to indicate a secret place where to hide or find in abundance something not to be shared with anyone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuzze: posto nascosto la cui esistenza non va rivelata per evitare che altri possano venirne a conoscenza. Termine particolarmente usato dai bambini per indicare un luogo segreto dove nascondere o reperire in abbondanza qualcosa da non condividere con nessuno",
+    "rawHash": "31db72f82d615a24617b9d43a9f2c48997cd08b5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

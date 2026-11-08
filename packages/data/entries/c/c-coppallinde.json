@@ -1,0 +1,21 @@
+{
+  "id": "c-coppallinde",
+  "headword": "coppallìnde",
+  "senses": [
+    {
+      "it": "qualche sasso",
+      "en": "a few stones",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "coppallìnde: qualche sasso",
+    "rawHash": "c178015e7b3b3ad024cefb38ede84b5f343a61ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

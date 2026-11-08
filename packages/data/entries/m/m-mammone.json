@@ -1,0 +1,21 @@
+{
+  "id": "m-mammone",
+  "headword": "mammòne",
+  "senses": [
+    {
+      "it": "nonna",
+      "en": "grandmother",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mammòne: nonna",
+    "rawHash": "7aabf19599be4a55ead2508ec6d77587971864f8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

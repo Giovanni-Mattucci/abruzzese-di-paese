@@ -1,0 +1,61 @@
+{
+  "id": "r-resibbile",
+  "headword": "resìbbile",
+  "senses": [
+    {
+      "it": "risipola. Qui bagattelle",
+      "en": "erysipelas. Here: trifle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bazzeccola",
+      "en": "trifle, bagatelle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "asinata",
+      "en": "foolishness, asinine act",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bestialità",
+      "en": "nonsense, stupid thing",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gioco",
+      "en": "game",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "stupidaggine",
+      "en": "silliness",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "idiozia",
+      "en": "idiocy",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "inezia",
+      "en": "trifle, triviality",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "piccolezza",
+      "en": "small matter, pettiness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "resìbbile: risipola. Qui bagattelle, bazzeccola, asinata, bestialità, gioco, stupidaggine, idiozia, inezia, piccolezza",
+    "rawHash": "15601c68f35d19954a2b3107bcd4661de4bbbb9c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d-da-la",
+  "headword": "da la",
+  "pos": "prep. art.",
+  "senses": [
+    {
+      "it": "dalla",
+      "en": "from the (feminine singular)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "da la: dalla (prep. art.)",
+    "rawHash": "e9e3db43a9a347810560550b0de15b6e15e24381",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

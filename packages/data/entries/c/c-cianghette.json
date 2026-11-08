@@ -1,0 +1,21 @@
+{
+  "id": "c-cianghette",
+  "headword": "cianghette",
+  "senses": [
+    {
+      "it": "sgambetto",
+      "en": "trip, tripping someone up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cianghette: sgambetto",
+    "rawHash": "a5266c033e49d26a9806a2ce7e4e4e57d50e2ec9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

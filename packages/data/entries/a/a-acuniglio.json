@@ -1,0 +1,21 @@
+{
+  "id": "a-acuniglio",
+  "headword": "acunìglio",
+  "senses": [
+    {
+      "it": "coniglio",
+      "en": "rabbit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acunìglio: coniglio",
+    "rawHash": "590c710f80e182a1c2b526b5e4b25538b240f079",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

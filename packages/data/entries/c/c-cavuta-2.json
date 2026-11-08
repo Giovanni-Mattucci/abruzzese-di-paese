@@ -1,0 +1,21 @@
+{
+  "id": "c-cavuta-2",
+  "headword": "cavutà",
+  "senses": [
+    {
+      "it": "bucare",
+      "en": "to pierce, to make a hole",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cavutà: bucare",
+    "rawHash": "b9f1f95bb69c98457b4730dd9b6fda12e5dcd80f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

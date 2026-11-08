@@ -1,0 +1,21 @@
+{
+  "id": "m-minacce",
+  "headword": "minacce",
+  "senses": [
+    {
+      "it": "ultima spremitura dell'uva. Veniva sparsa nei campi per concimarli",
+      "en": "last pressing of the grapes. It was spread on the fields to fertilize them",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "minacce: ultima spremitura dell'uva. Veniva sparsa nei campi per concimarli",
+    "rawHash": "95d3482fab83d3812102eb2eede876521df00ddb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

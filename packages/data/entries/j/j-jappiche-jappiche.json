@@ -1,0 +1,26 @@
+{
+  "id": "j-jappiche-jappiche",
+  "headword": "jappiche jappiche",
+  "senses": [
+    {
+      "it": "pino piano",
+      "en": "little by little",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lentamente",
+      "en": "slowly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jappiche jappiche: pino piano, lentamente",
+    "rawHash": "0b992c14bccfba3b4d97a26f30978fc459401975",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

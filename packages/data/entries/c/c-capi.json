@@ -1,0 +1,21 @@
+{
+  "id": "c-capi",
+  "headword": "capì",
+  "senses": [
+    {
+      "it": "capire",
+      "en": "to understand",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capì: capire",
+    "rawHash": "0cf67102b8e83c6053ee13463dee214aebfaa3a0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

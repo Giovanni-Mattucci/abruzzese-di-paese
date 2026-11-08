@@ -1,0 +1,24 @@
+{
+  "id": "m-manfrine",
+  "headword": "manfrine",
+  "senses": [
+    {
+      "it": "manfrina"
+    },
+    {
+      "it": "danza popolare piemontese",
+      "en": "Piedmontese folk dance",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "manfrine: manfrina, danza popolare piemontese",
+    "rawHash": "2a0aa9f655f3982b2004c1862abf1e2f99683c9a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

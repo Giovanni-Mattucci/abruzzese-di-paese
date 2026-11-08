@@ -1,0 +1,26 @@
+{
+  "id": "m-mattuccheje",
+  "headword": "m'attucchèje",
+  "senses": [
+    {
+      "it": "mi toccava",
+      "en": "it was my turn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mi spettava",
+      "en": "it was due to me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m'attucchèje: mi toccava, mi spettava",
+    "rawHash": "3286351e31619ce56a13a0323cce06deb3527df2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

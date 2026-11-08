@@ -1,0 +1,21 @@
+{
+  "id": "m-maccatiure",
+  "headword": "maccatiùre",
+  "senses": [
+    {
+      "it": "fazzoletto per la testa",
+      "en": "headscarf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "maccatiùre: fazzoletto per la testa",
+    "rawHash": "c045ecae0475e23bc703e286adc9fd9aaee0ac5f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

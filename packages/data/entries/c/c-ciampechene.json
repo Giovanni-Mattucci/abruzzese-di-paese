@@ -1,0 +1,25 @@
+{
+  "id": "c-ciampechene",
+  "headword": "ciampechêne",
+  "variants": [
+    "ciampecòne"
+  ],
+  "article": "lu",
+  "senses": [
+    {
+      "it": "inciampata",
+      "en": "stumble, trip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciampechêne, ciampecòne (lu): inciampata",
+    "rawHash": "ff6d96278b087a5945c85eb29ae86b3f01386193",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

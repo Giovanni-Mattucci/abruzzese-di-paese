@@ -1,0 +1,21 @@
+{
+  "id": "c-caparrelle",
+  "headword": "caparrelle",
+  "senses": [
+    {
+      "it": "cinciallegra",
+      "en": "great tit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caparrelle: cinciallegra",
+    "rawHash": "8df87ff4d4dfbf1008d2acf793b954c1e05de515",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-a-capaballe",
+  "headword": "a capaballe",
+  "senses": [
+    {
+      "it": "sotto",
+      "en": "under, below",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a capaballe: sotto",
+    "rawHash": "2357961c3a02723095ccc489a17a11a601e89b6e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

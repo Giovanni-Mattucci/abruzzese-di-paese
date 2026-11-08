@@ -1,0 +1,21 @@
+{
+  "id": "c-ciufielle",
+  "headword": "ciufielle",
+  "senses": [
+    {
+      "it": "fischietto",
+      "en": "small whistle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciufielle: fischietto",
+    "rawHash": "7c4ac23afef6a9bb4ff0b18623dd1c78d53bb9fb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

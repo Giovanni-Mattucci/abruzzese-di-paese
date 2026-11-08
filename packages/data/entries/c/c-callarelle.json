@@ -1,0 +1,21 @@
+{
+  "id": "c-callarelle",
+  "headword": "callarelle",
+  "senses": [
+    {
+      "it": "secchio da muratore",
+      "en": "bricklayer's bucket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "callarelle: secchio da muratore",
+    "rawHash": "12c39fd62b6c73a1b41a3e9070a5711f3a7dc9c1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-scine",
+  "headword": "scìne",
+  "senses": [
+    {
+      "it": "sì",
+      "en": "yes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scìne: sì",
+    "rawHash": "4d77e37afadf9c354b300a67ed4915887e3de8cc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

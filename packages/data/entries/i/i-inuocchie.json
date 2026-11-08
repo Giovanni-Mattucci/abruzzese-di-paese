@@ -1,0 +1,21 @@
+{
+  "id": "i-inuocchie",
+  "headword": "inuocchie",
+  "senses": [
+    {
+      "it": "ginocchia",
+      "en": "knees",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "inuocchie: ginocchia",
+    "rawHash": "b1857f95e000cdbbc11ae80cc2365197d8e6f340",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cacotte",
+  "headword": "cacotte",
+  "senses": [
+    {
+      "it": "chiocciola",
+      "en": "snail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cacotte: chiocciola",
+    "rawHash": "8d8a276ca0b74960d3ee54f9a697a90163edec2c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-tatille",
+  "headword": "tatìlle",
+  "senses": [
+    {
+      "it": "fratello o amico caro",
+      "en": "brother or dear friend",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tatìlle: fratello o amico caro",
+    "rawHash": "95c92bd1ee6f668ec35610b75ec25be041e079f8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

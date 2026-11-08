@@ -1,0 +1,21 @@
+{
+  "id": "s-sgummarielle",
+  "headword": "sgummarielle",
+  "senses": [
+    {
+      "it": "colapasta",
+      "en": "colander",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgummarielle: colapasta",
+    "rawHash": "3c5741efa54ef5c0295b759a76fa8e0928c88510",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

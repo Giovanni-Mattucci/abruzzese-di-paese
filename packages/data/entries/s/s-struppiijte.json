@@ -1,0 +1,26 @@
+{
+  "id": "s-struppiijte",
+  "headword": "struppiìjte",
+  "senses": [
+    {
+      "it": "storpio",
+      "en": "crippled",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "distrutto dalla stanchezza",
+      "en": "worn out from tiredness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "struppiìjte: storpio, ma anche distrutto dalla stanchezza",
+    "rawHash": "d95189b95b8f45a22417422f6f809671c959296c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

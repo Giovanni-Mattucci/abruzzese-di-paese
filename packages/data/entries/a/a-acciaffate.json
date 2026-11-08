@@ -1,0 +1,21 @@
+{
+  "id": "a-acciaffate",
+  "headword": "acciaffàte",
+  "senses": [
+    {
+      "it": "si dice di qualcosa fatta in maniera molto superficiale",
+      "en": "said of something done in a very superficial way",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciaffàte: si dice di qualcosa fatta in maniera molto superficiale",
+    "rawHash": "31e003da63e4c36890536233e0e65d6cb573a1a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

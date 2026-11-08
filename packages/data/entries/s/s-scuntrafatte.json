@@ -1,0 +1,22 @@
+{
+  "id": "s-scuntrafatte",
+  "headword": "scuntrafatte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "scontroso",
+      "en": "surly, grumpy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scuntrafatte (lu): scontroso",
+    "rawHash": "2715625dbd324e33fb9d2e01692e6760948bde3a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

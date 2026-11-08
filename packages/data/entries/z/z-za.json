@@ -1,0 +1,21 @@
+{
+  "id": "z-za",
+  "headword": "za",
+  "senses": [
+    {
+      "it": "titolo per donna anziana o zia",
+      "en": "title for an elderly woman or aunt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "za: titolo per donna anziana o zia",
+    "rawHash": "2e00c31f1405966d9f268616837cb4426ff003bc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

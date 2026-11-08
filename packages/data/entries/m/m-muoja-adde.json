@@ -1,0 +1,21 @@
+{
+  "id": "m-muoja-adde",
+  "headword": "muoja addè",
+  "senses": [
+    {
+      "it": "non si sa mai",
+      "en": "you never know",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muoja addè: non si sa mai",
+    "rawHash": "e54610a2197843d0e28074a7a1241c418fb165a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

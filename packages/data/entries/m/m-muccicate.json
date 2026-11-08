@@ -1,0 +1,21 @@
+{
+  "id": "m-muccicate",
+  "headword": "muccicate",
+  "senses": [
+    {
+      "it": "morso",
+      "en": "bite, bitten",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muccicate: morso",
+    "rawHash": "a631614c89d4ea75e27817002bc67002f1e52bd3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

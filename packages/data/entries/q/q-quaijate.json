@@ -1,0 +1,22 @@
+{
+  "id": "q-quaijate",
+  "headword": "quaijàte",
+  "article": "la",
+  "senses": [
+    {
+      "it": "latte raffermato con caglio",
+      "en": "milk curdled with rennet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quaijàte (la): latte raffermato con caglio",
+    "rawHash": "048248ca8a3378571b7afa02fa0cc07ddfe64f4c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

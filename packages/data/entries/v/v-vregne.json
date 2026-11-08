@@ -1,0 +1,22 @@
+{
+  "id": "v-vregne",
+  "headword": "vrêgne",
+  "article": "la",
+  "senses": [
+    {
+      "it": "prugna",
+      "en": "plum",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrêgne (la): prugna",
+    "rawHash": "d8a54651da91d87438c7efa475bec94094330b8c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

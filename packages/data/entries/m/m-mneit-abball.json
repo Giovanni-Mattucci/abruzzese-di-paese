@@ -1,0 +1,32 @@
+{
+  "id": "m-mneit-abball",
+  "headword": "mneit abball",
+  "variants": [
+    "ammont"
+  ],
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "venite giù",
+      "en": "come down",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "su",
+      "en": "come on",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mneit abball, ammont: venite giù, su (M. sul S.)",
+    "rawHash": "99c55d20a2151adc00e50ba167048c968ab44d30",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

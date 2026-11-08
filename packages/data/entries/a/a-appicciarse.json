@@ -1,0 +1,21 @@
+{
+  "id": "a-appicciarse",
+  "headword": "appicciarse",
+  "senses": [
+    {
+      "it": "tenersi per mano",
+      "en": "to hold hands",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appicciarse: tenersi per mano",
+    "rawHash": "dcb24eb74a9206f4b383732ed67ba405d6e19432",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

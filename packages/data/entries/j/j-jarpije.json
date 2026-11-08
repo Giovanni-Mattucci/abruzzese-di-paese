@@ -1,0 +1,21 @@
+{
+  "id": "j-jarpije",
+  "headword": "j'arpije",
+  "senses": [
+    {
+      "it": "gli riprende",
+      "en": "he takes (it) back from him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "j'arpije: gli riprende",
+    "rawHash": "f1d7ada4ddd59a8aa4a99b219874774f7928fe87",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

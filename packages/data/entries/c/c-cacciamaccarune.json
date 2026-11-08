@@ -1,0 +1,21 @@
+{
+  "id": "c-cacciamaccarune",
+  "headword": "cacciamaccarùne",
+  "senses": [
+    {
+      "it": "scolapasta",
+      "en": "colander",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cacciamaccarùne: scolapasta",
+    "rawHash": "e689291723568e3161f73933f1fcfb56a39b5578",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

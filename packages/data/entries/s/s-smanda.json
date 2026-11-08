@@ -1,0 +1,26 @@
+{
+  "id": "s-smanda",
+  "headword": "smandà",
+  "senses": [
+    {
+      "it": "scoprire",
+      "en": "to uncover",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "togliere la copertura",
+      "en": "to remove the cover",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smandà: scoprire, togliere la copertura",
+    "rawHash": "9c6aed627c01fba94e2101f50cca007d499553fe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-scamazze",
+  "headword": "scamazze",
+  "senses": [
+    {
+      "it": "pastorello",
+      "en": "little shepherd",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scamazze: pastorello",
+    "rawHash": "5b5004ee2bd82466bd96d865dab5aa41e65ee370",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

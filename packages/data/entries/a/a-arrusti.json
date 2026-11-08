@@ -1,0 +1,21 @@
+{
+  "id": "a-arrusti",
+  "headword": "arrustì",
+  "senses": [
+    {
+      "it": "arrostire",
+      "en": "to roast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrustì: arrostire",
+    "rawHash": "1f4875abf9d6e84177aa606d8fecf0d7759ccede",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

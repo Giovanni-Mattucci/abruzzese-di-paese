@@ -1,0 +1,21 @@
+{
+  "id": "b-bicichetta",
+  "headword": "bicichètta",
+  "senses": [
+    {
+      "it": "bicicletta",
+      "en": "bicycle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bicichètta: bicicletta",
+    "rawHash": "f8a9c3ec77c8e9134090e76397d9ceb739e68900",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

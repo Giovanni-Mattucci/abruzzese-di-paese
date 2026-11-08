@@ -1,0 +1,24 @@
+{
+  "id": "s-sputazze-lu",
+  "headword": "sputazze (lu",
+  "variants": [
+    "la)"
+  ],
+  "senses": [
+    {
+      "it": "grosso sputo catarroso",
+      "en": "large gob of phlegm",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sputazze (lu, la): grosso sputo catarroso",
+    "rawHash": "64ce36df6f90d4cb0062f37bf0b788897b9ac736",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

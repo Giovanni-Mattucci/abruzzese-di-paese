@@ -1,0 +1,21 @@
+{
+  "id": "v-vrevutta",
+  "headword": "vrevuttà",
+  "senses": [
+    {
+      "it": "borbottare",
+      "en": "to mutter, to grumble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrevuttà: borbottare",
+    "rawHash": "cbb3253738d2b1622ff80271cc04d0ab57c22c54",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

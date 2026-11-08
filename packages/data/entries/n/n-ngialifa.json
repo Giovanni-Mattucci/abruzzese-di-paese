@@ -1,0 +1,21 @@
+{
+  "id": "n-ngialifa",
+  "headword": "'ngialifà",
+  "senses": [
+    {
+      "it": "imbrattare",
+      "en": "to smear, to soil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngialifà: imbrattare",
+    "rawHash": "60173f8bdba1dda8486d107c47a55efc08b4bde7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

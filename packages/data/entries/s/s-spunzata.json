@@ -1,0 +1,21 @@
+{
+  "id": "s-spunzata",
+  "headword": "spunzata",
+  "senses": [
+    {
+      "it": "agnellino cotto nel paiuolo",
+      "en": "young lamb cooked in a cauldron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spunzata: agnellino cotto nel paiuolo",
+    "rawHash": "15fef2663a2cbe7b76a5f885ec7a31aba4899613",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

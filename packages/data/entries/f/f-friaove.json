@@ -1,0 +1,21 @@
+{
+  "id": "f-friaove",
+  "headword": "friaove",
+  "senses": [
+    {
+      "it": "friggi uova, piccola padella con capacità sufficiente per friggere un uovo",
+      "en": "egg fryer, small pan large enough to fry one egg",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "friaove: friggi uova, piccola padella con capacità sufficiente per friggere un uovo",
+    "rawHash": "54c13e269887fdc26737e2bc20dd797bbb4a6a92",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

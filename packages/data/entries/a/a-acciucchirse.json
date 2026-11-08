@@ -1,0 +1,34 @@
+{
+  "id": "a-acciucchirse",
+  "headword": "acciucchirse",
+  "variants": [
+    "acciuccarse"
+  ],
+  "senses": [
+    {
+      "it": "chinarsi",
+      "en": "to bend down",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "inchinarsi",
+      "en": "to bow",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "accucciarsi",
+      "en": "to crouch down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciucchirse, acciuccarse: chinarsi, inchinarsi, accucciarsi",
+    "rawHash": "cb6206d919a5cf77a33dcec8cc0aad8bbaa74115",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sandille",
+  "headword": "sandìlle",
+  "senses": [
+    {
+      "it": "pezzo di mattone usato per un gioco - colpito dalle stazzilesàpe: sapone",
+      "en": "piece of brick used for a game - struck by the stazzile sàpe: soap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sandìlle: pezzo di mattone usato per un gioco - colpito dalle stazzilesàpe: sapone",
+    "rawHash": "66b7b581608901424e0d6ad7026dae33c5d07f23",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

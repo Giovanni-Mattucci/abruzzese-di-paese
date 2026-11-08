@@ -1,0 +1,21 @@
+{
+  "id": "a-a-pisciarelle",
+  "headword": "a pisciarèlle",
+  "senses": [
+    {
+      "it": "a rivoli",
+      "en": "in trickles, in rivulets",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a pisciarèlle: a rivoli",
+    "rawHash": "c49e91f5597e9727bd82415ccb3b6ed2210ec948",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

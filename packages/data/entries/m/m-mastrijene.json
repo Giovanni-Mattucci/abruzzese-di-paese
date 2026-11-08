@@ -1,0 +1,29 @@
+{
+  "id": "m-mastrijene",
+  "headword": "mastrìjene",
+  "senses": [
+    {
+      "it": "essi",
+      "en": "they",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "loro s'ingegnano",
+      "en": "they contrive, they work it out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: isse"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mastrìjene (isse): essi, loro s'ingegnano",
+    "rawHash": "64e1e520687344f953bf1c8c93580a1db9eedbb0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-pettarrosce",
+  "headword": "pettarròsce",
+  "senses": [
+    {
+      "it": "pettirosso",
+      "en": "robin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pettarròsce: pettirosso",
+    "rawHash": "7059c010787e219671836fd8448580b93e036e62",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

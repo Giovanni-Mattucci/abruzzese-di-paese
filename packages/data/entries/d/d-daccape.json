@@ -1,0 +1,26 @@
+{
+  "id": "d-daccape",
+  "headword": "daccape",
+  "senses": [
+    {
+      "it": "da capo",
+      "en": "from the top, over again",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dal principio",
+      "en": "from the beginning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "daccape: da capo, dal principio",
+    "rawHash": "cf8aff6172d6da0668af37dbc38e1fcf736decd3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

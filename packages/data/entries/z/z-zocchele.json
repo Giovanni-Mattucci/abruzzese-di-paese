@@ -1,0 +1,27 @@
+{
+  "id": "z-zocchele",
+  "headword": "zòcchele",
+  "article": "la",
+  "senses": [
+    {
+      "it": "grosso topo",
+      "en": "large rat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "donna di facili costumi",
+      "en": "woman of loose morals",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zòcchele (la): grosso topo, donna di facili costumi",
+    "rawHash": "1140288eafe564f7813734ddcadf4d32c7dce8fc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

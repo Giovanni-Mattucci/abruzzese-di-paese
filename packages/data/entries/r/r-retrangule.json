@@ -1,0 +1,21 @@
+{
+  "id": "r-retrangule",
+  "headword": "retrangule",
+  "senses": [
+    {
+      "it": "ostacolo",
+      "en": "obstacle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "retrangule: ostacolo",
+    "rawHash": "1a5486d0a7751d1593e9e7a24f9996934f396d78",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

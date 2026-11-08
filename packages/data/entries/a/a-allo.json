@@ -1,0 +1,21 @@
+{
+  "id": "a-allo",
+  "headword": "allo",
+  "senses": [
+    {
+      "it": "a lu",
+      "en": "to the (a lu)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allo: a lu",
+    "rawHash": "b3275f355e5a8bced019b56f1f16a6809c83da56",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

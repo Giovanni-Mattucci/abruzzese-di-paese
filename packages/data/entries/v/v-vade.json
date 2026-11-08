@@ -1,0 +1,29 @@
+{
+  "id": "v-vade",
+  "headword": "vade",
+  "variants": [
+    "forche"
+  ],
+  "senses": [
+    {
+      "it": "passo",
+      "en": "pass",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gola di monte",
+      "en": "mountain gorge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vade, forche : passo, gola di monte",
+    "rawHash": "5c0dabe50e1cd7a52e44db7473f3806512f4b213",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

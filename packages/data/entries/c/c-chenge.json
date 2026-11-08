@@ -1,0 +1,22 @@
+{
+  "id": "c-chenge",
+  "headword": "chênge",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "fabbrica di liquirizia",
+      "en": "liquorice factory",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chênge (lu): fabbrica di liquirizia",
+    "rawHash": "7bdb0a7a8be8810f453e5726ff11def8eedc02ea",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

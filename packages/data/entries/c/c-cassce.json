@@ -1,0 +1,22 @@
+{
+  "id": "c-cassce",
+  "headword": "cassce",
+  "article": "la",
+  "senses": [
+    {
+      "it": "cassa",
+      "en": "box, chest",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cassce (la): cassa",
+    "rawHash": "c3a4c5f326febd77f2dc7b4c4dcb5e9c4a042188",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

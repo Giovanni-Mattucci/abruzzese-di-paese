@@ -1,0 +1,21 @@
+{
+  "id": "s-spriscia",
+  "headword": "spriscià",
+  "senses": [
+    {
+      "it": "spremere con forza",
+      "en": "to squeeze hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spriscià: spremere con forza",
+    "rawHash": "b2602a57dabd5c74d3fa758a38f42f1615882719",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

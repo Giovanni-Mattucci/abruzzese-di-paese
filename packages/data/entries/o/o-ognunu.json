@@ -1,0 +1,21 @@
+{
+  "id": "o-ognunu",
+  "headword": "ognùnu",
+  "senses": [
+    {
+      "it": "ognuno",
+      "en": "everyone, each one",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "o",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/o.html",
+    "raw": "ognùnu: ognuno",
+    "rawHash": "0a95c45b052ae00b2ff67e0ac56f2270fd88139d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

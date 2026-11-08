@@ -1,0 +1,21 @@
+{
+  "id": "a-arcono",
+  "headword": "arcôno",
+  "senses": [
+    {
+      "it": "grosso recipiente in legno dove si depositano i cereali",
+      "en": "large wooden container in which grain is stored",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcôno: grosso recipiente in legno dove si depositano i cereali",
+    "rawHash": "81ca8ed2647e7d0276022973b776c9fe11ed85ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

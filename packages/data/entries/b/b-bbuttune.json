@@ -1,0 +1,21 @@
+{
+  "id": "b-bbuttune",
+  "headword": "bbuttùne",
+  "senses": [
+    {
+      "it": "bottoni",
+      "en": "buttons",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbuttùne: bottoni",
+    "rawHash": "57e641f8c72ae91db739e9d00ae60d02674a89cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

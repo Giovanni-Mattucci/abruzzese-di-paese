@@ -1,0 +1,21 @@
+{
+  "id": "s-sfriculija",
+  "headword": "sfriculijà",
+  "senses": [
+    {
+      "it": "stuzzicare",
+      "en": "to tease",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfriculijà: stuzzicare",
+    "rawHash": "633c18d34650482fb944eb4b4778118c5a98925e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

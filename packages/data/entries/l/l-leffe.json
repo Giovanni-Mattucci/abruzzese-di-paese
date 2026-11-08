@@ -1,0 +1,22 @@
+{
+  "id": "l-leffe",
+  "headword": "léffe",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "coccige. Il coccige è l'ultimo osso verso il basso della colonna vertebrale",
+      "en": "coccyx. The coccyx is the lowest bone of the spinal column",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "léffe (lu): coccige. Il coccige è l'ultimo osso verso il basso della colonna vertebrale",
+    "rawHash": "365752340557efd9d8d23695fabe10425f326dd4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

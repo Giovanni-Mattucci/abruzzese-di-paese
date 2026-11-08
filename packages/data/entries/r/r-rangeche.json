@@ -1,0 +1,21 @@
+{
+  "id": "r-rangeche",
+  "headword": "rangeche",
+  "senses": [
+    {
+      "it": "rancido",
+      "en": "rancid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rangeche: rancido",
+    "rawHash": "b108c585fbd58bb8349b1b44e34539f1d2ff3ec4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

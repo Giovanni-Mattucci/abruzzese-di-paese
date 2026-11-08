@@ -1,0 +1,22 @@
+{
+  "id": "f-fellacchie",
+  "headword": "fellacchie",
+  "article": "la",
+  "senses": [
+    {
+      "it": "fiorone",
+      "en": "early fig",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fellacchie (la): fiorone",
+    "rawHash": "c6e5cb757b913ecbf239485470099ea25ac5f37c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

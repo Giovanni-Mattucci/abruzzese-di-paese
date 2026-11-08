@@ -1,0 +1,22 @@
+{
+  "id": "a-arche",
+  "headword": "arche",
+  "article": "l'",
+  "senses": [
+    {
+      "it": "mobile di legno piuttosto profondo in cui si conservavano pane ed altri generi alimentari. Solitamente era assemblato senza l'uso di chiodi o con chiodi di legno. Madia",
+      "en": "rather deep wooden piece of furniture in which bread and other foodstuffs were kept. It was usually assembled without nails or with wooden pegs. Bread chest",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arche (l'): mobile di legno piuttosto profondo in cui si conservavano pane ed altri generi alimentari. Solitamente era assemblato senza l'uso di chiodi o con chiodi di legno. Madia.",
+    "rawHash": "571e2e0e77a411651d32e1b26f907da3597bee3a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

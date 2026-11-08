@@ -1,0 +1,21 @@
+{
+  "id": "s-sciampate",
+  "headword": "sciampate",
+  "senses": [
+    {
+      "it": "svuotato, detto pure di persona con poco cervello",
+      "en": "emptied, also said of a person with little brain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciampate: svuotato, detto pure di persona con poco cervello",
+    "rawHash": "41bf878bb302140e0af21b33421af4f2a22b867e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vasse",
+  "headword": "vasse",
+  "senses": [
+    {
+      "it": "basso, parte bassa ( lu Vasse: Scafa )",
+      "en": "low, lower part ( lu Vasse: Scafa )",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vasse: basso, parte bassa ( lu Vasse: Scafa )",
+    "rawHash": "42ba4a7219f0ad6b9dcef7be6d41dcb5e6b38298",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "t-tertere",
+  "headword": "tertêre",
+  "variants": [
+    "tertòre"
+  ],
+  "article": "lu",
+  "senses": [
+    {
+      "it": "pezzo di legno da ardere",
+      "en": "piece of firewood",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tertêre, tertòre (lu): pezzo di legno da ardere",
+    "rawHash": "8a67cb5d97a119f4fdaac2e05d245276c8130f46",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

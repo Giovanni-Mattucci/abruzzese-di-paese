@@ -1,0 +1,22 @@
+{
+  "id": "r-ramacce",
+  "headword": "ramacce",
+  "article": "la",
+  "senses": [
+    {
+      "it": "gramigna",
+      "en": "couch grass",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ramacce (la): gramigna",
+    "rawHash": "6d7aa34275ed60ee5b601b94f6d2fae496d40a29",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

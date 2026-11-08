@@ -1,0 +1,21 @@
+{
+  "id": "p-panzanelle",
+  "headword": "panzanelle",
+  "senses": [
+    {
+      "it": "panbagnato con pomodori",
+      "en": "soaked bread with tomatoes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "panzanelle: panbagnato con pomodori",
+    "rawHash": "ead68290938bf053b92eefebdc001c7bb1002b98",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

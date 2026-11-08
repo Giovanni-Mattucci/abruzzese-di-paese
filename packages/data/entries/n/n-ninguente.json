@@ -1,0 +1,21 @@
+{
+  "id": "n-ninguente",
+  "headword": "ninguente",
+  "senses": [
+    {
+      "it": "fitta nevicata",
+      "en": "heavy snowfall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "ninguente: fitta nevicata",
+    "rawHash": "12408d43388d848935b14c094b3da034bf84fdda",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

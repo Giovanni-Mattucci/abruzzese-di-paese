@@ -1,0 +1,21 @@
+{
+  "id": "a-accirciato",
+  "headword": "accirciàto",
+  "senses": [
+    {
+      "it": "bruciato esternamente",
+      "en": "burnt on the outside",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accirciàto: bruciato esternamente",
+    "rawHash": "5b949c26b1f02e0653d5d86f38cec1aeb1c1fbdb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

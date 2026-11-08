@@ -1,0 +1,21 @@
+{
+  "id": "r-restoccia",
+  "headword": "restoccia",
+  "senses": [
+    {
+      "it": "stoppia",
+      "en": "stubble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "restoccia: stoppia",
+    "rawHash": "e5da761174b6c1b450e1a0f925f8f48a1222fca3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

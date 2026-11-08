@@ -1,0 +1,26 @@
+{
+  "id": "m-mbapite",
+  "headword": "'mbàpite",
+  "senses": [
+    {
+      "it": "stupido",
+      "en": "stupid",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rimbambito",
+      "en": "doddering, dim-witted",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbàpite: stupido, rimbambito",
+    "rawHash": "ef1f1df8983b48f483363e7f24e8370e0428f1f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

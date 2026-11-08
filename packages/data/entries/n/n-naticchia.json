@@ -1,0 +1,21 @@
+{
+  "id": "n-naticchia",
+  "headword": "naticchia",
+  "senses": [
+    {
+      "it": "asticella di legno",
+      "en": "small wooden rod",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "naticchia: asticella di legno",
+    "rawHash": "e81051480ac93b19bb1a5dd7e0a67d507831bf5f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

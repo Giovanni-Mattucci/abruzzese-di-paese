@@ -1,0 +1,26 @@
+{
+  "id": "h-harzille",
+  "headword": "harzìlle",
+  "senses": [
+    {
+      "it": "cardillo",
+      "en": "cardillo (goldfinch)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cardellino",
+      "en": "goldfinch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "harzìlle: cardillo, cardellino",
+    "rawHash": "88708b113140f2cc1a55e8e190360ee815463f47",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

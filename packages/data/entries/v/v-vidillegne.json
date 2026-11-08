@@ -1,0 +1,26 @@
+{
+  "id": "v-vidillegne",
+  "headword": "vidillegne",
+  "senses": [
+    {
+      "it": "puzza",
+      "en": "stink",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "odore sgradevole",
+      "en": "unpleasant smell",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vidillegne: puzza, odore sgradevole",
+    "rawHash": "3ee3bf819a0aad11c10667556fc1d1f0bfc80af8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

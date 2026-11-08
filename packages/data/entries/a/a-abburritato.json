@@ -1,0 +1,39 @@
+{
+  "id": "a-abburritato",
+  "headword": "abburritato",
+  "senses": [
+    {
+      "it": "avvolto abbuttà: rimpinzare",
+      "en": "wrapped; abbuttà: to stuff (with food)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "abbottare",
+      "en": "to bloat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gonfiare",
+      "en": "to swell, to inflate",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scocciare",
+      "en": "to annoy, to pester",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j abbòtte, tu abbùtte, esse abbòtte, nu abbuttème, vu abbuttète. isse abbòttene) (io abbotto, tu abbotti, egli abbotta, noi abbottiamo, voi abbottate, essi abbottano)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abburritato: avvolto abbuttà: rimpinzare, abbottare, gonfiare, ma anche scocciare (j abbòtte, tu abbùtte, esse abbòtte, nu abbuttème, vu abbuttète. isse abbòttene) (io abbotto, tu abbotti, egli abbotta, noi abbottiamo, voi abbottate, essi abbottano)",
+    "rawHash": "90f7b7868056347de799bc0f723ccfb3a9c92c18",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

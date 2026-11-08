@@ -1,0 +1,22 @@
+{
+  "id": "r-recchie",
+  "headword": "rêcchie",
+  "article": "la",
+  "senses": [
+    {
+      "it": "orecchio",
+      "en": "ear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rêcchie (la): orecchio",
+    "rawHash": "5757d6176440bd2c2648c461c17760e6fd67d252",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

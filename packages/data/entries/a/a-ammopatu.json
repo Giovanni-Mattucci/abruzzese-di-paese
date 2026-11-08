@@ -1,0 +1,21 @@
+{
+  "id": "a-ammopatu",
+  "headword": "ammopàtu",
+  "senses": [
+    {
+      "it": "mogio",
+      "en": "downcast, dejected",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammopàtu: mogio",
+    "rawHash": "c3bc987696397acc9a9c3104e2f3b1c6e62e45eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

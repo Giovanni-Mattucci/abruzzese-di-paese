@@ -1,0 +1,21 @@
+{
+  "id": "c-ciaccie",
+  "headword": "ciàccie",
+  "senses": [
+    {
+      "it": "carne",
+      "en": "meat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciàccie: carne",
+    "rawHash": "c8cb4025e21ea5044ddebb7cc40d7bccb7d7e4e2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

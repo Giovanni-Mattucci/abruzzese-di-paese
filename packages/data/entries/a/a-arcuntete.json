@@ -1,0 +1,31 @@
+{
+  "id": "a-arcuntete",
+  "headword": "arcùntete",
+  "senses": [
+    {
+      "it": "raccontati",
+      "en": "tell yourself",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riconta",
+      "en": "recount",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "conta di nuovo",
+      "en": "count again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcùntete: raccontati, ma anche riconta, conta di nuovo",
+    "rawHash": "7b1de9017cc567ade045ff32dd7b46eaa30693e1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

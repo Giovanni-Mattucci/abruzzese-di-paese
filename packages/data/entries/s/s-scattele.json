@@ -1,0 +1,21 @@
+{
+  "id": "s-scattele",
+  "headword": "scàttele",
+  "senses": [
+    {
+      "it": "scatola/e",
+      "en": "box/boxes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scàttele: scatola/e",
+    "rawHash": "f7bcd5c69b41eaad5033c866241eb5d6dfcbcb79",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

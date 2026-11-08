@@ -1,0 +1,21 @@
+{
+  "id": "r-roncie",
+  "headword": "roncie",
+  "senses": [
+    {
+      "it": "roncula",
+      "en": "billhook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "roncie: roncula",
+    "rawHash": "0f7ccce70cd5e26624e80537169c6612c68af7dc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

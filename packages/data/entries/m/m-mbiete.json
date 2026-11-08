@@ -1,0 +1,22 @@
+{
+  "id": "m-mbiete",
+  "headword": "'mbiète",
+  "article": "la",
+  "senses": [
+    {
+      "it": "bietola",
+      "en": "chard, beet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbiète (la): bietola",
+    "rawHash": "4c0ab28fc49e0de1f5a589086b81e3b5105e5e0f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

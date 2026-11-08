@@ -1,0 +1,29 @@
+{
+  "id": "n-ntere",
+  "headword": "'ntere",
+  "variants": [
+    "ntire"
+  ],
+  "senses": [
+    {
+      "it": "intero",
+      "en": "whole, entire",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "integro",
+      "en": "intact",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ntere, ntire: intero, integro",
+    "rawHash": "1a21cca04efc01a8b2fe7fdfcce84327ed309ccd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

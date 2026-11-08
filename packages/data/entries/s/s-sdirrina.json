@@ -1,0 +1,21 @@
+{
+  "id": "s-sdirrina",
+  "headword": "sdirrinà",
+  "senses": [
+    {
+      "it": "malmenare",
+      "en": "to beat up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdirrinà: malmenare",
+    "rawHash": "ed09f8d2d1e2dbe31d3d76e0fde4b4f914e81e19",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

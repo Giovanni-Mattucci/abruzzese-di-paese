@@ -1,0 +1,21 @@
+{
+  "id": "s-struppije",
+  "headword": "struppìje",
+  "senses": [
+    {
+      "it": "picchio",
+      "en": "I beat, I hit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "struppìje: picchio",
+    "rawHash": "ad03d95f022124ff1eb9ee570a054d46ba1878bc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

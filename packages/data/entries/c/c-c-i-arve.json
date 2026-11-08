@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-arve",
+  "headword": "c-i-arvè",
+  "variants": [
+    "c'arvè"
+  ],
+  "senses": [
+    {
+      "it": "ci ritorna di nuovo",
+      "en": "he/she comes back there again",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "viene un'altra volta",
+      "en": "he/she comes once more",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arvè, c'arvè: ci ritorna di nuovo, viene un'altra volta",
+    "rawHash": "08550b394b4597facd4ca3966406c9060cfae35d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

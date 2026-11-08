@@ -1,0 +1,24 @@
+{
+  "id": "a-aremure",
+  "headword": "aremurè",
+  "variants": [
+    "armirì"
+  ],
+  "senses": [
+    {
+      "it": "spegnere",
+      "en": "to put out, to switch off",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aremurè, armirì: spegnere",
+    "rawHash": "edc9ad52d84d70407fcd14868c531b82ada796ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

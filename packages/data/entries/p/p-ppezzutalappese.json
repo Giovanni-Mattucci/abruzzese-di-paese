@@ -1,0 +1,22 @@
+{
+  "id": "p-ppezzutalappese",
+  "headword": "'ppezzutalàppese",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "appunta matita",
+      "en": "pencil sharpener",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "'ppezzutalàppese (lu): appunta matita",
+    "rawHash": "e68dbc2d4c61ee71c8034fb88e9a84ff0bd9673d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

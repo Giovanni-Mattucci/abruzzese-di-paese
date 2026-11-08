@@ -1,0 +1,21 @@
+{
+  "id": "s-sallecchie",
+  "headword": "sallecchie",
+  "senses": [
+    {
+      "it": "baccello di legumi",
+      "en": "legume pod",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sallecchie: baccello di legumi",
+    "rawHash": "829b0c9b50d545cba6a953300f5cf28a09952ff1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

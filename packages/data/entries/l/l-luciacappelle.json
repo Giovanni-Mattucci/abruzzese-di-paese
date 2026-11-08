@@ -1,0 +1,21 @@
+{
+  "id": "l-luciacappelle",
+  "headword": "luciacappelle",
+  "senses": [
+    {
+      "it": "lucciole",
+      "en": "fireflies",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "luciacappelle: lucciole",
+    "rawHash": "19dd2fa820d04044c4367d2141629c8a7eb88529",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-a-capammonde",
+  "headword": "a capammonde",
+  "senses": [
+    {
+      "it": "sopra",
+      "en": "above, on top",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a capammonde: sopra",
+    "rawHash": "09fd1c047546e8cc4b5b6d80d17d1cbf4f63a058",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

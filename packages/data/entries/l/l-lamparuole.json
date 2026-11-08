@@ -1,0 +1,21 @@
+{
+  "id": "l-lamparuole",
+  "headword": "lamparuole",
+  "senses": [
+    {
+      "it": "piccola lampada, di solito alimentata a petrolio. Fumosa e maleodorante, era molto usata prima che nei paesi venisse portata l'energia elettrica",
+      "en": "small lamp, usually fuelled by kerosene. Smoky and foul-smelling, it was widely used before electricity was brought to the villages",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lamparuole: piccola lampada, di solito alimentata a petrolio. Fumosa e maleodorante, era molto usata prima che nei paesi venisse portata l'energia elettrica",
+    "rawHash": "989da4f2aa94b485b26a923b0d011a872bd36a45",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

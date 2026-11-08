@@ -1,0 +1,21 @@
+{
+  "id": "s-speta",
+  "headword": "spetà",
+  "senses": [
+    {
+      "it": "togliere le gemme inutili alle viti",
+      "en": "to remove useless buds from vines",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spetà: togliere le gemme inutili alle viti",
+    "rawHash": "6ea80d8c53a5c6e99acad1754f8d88176a6ae2d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

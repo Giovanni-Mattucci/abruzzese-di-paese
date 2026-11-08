@@ -1,0 +1,22 @@
+{
+  "id": "s-scelit",
+  "headword": "scelit'",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "sciapito",
+      "en": "bland, tasteless",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scelit' (lu): sciapito",
+    "rawHash": "afe9975aa0b24632b24f4709aa88db16182928e5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

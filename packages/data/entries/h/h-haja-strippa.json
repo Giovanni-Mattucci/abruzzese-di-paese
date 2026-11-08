@@ -1,0 +1,21 @@
+{
+  "id": "h-haja-strippa",
+  "headword": "haja strippà",
+  "senses": [
+    {
+      "it": "devo tirare fuori dal terreno",
+      "en": "I have to pull out of the ground",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "haja strippà: devo tirare fuori dal terreno",
+    "rawHash": "84bab651d32becfcdff6f65f9646cd396093e080",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

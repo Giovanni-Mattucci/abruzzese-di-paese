@@ -1,0 +1,21 @@
+{
+  "id": "s-sfriscetele",
+  "headword": "sfriscètele",
+  "senses": [
+    {
+      "it": "rigatelo",
+      "en": "scratch it (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfriscètele: rigatelo",
+    "rawHash": "6ca2dd0b807c6aea3ca6dfbda72a10d18de4095b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

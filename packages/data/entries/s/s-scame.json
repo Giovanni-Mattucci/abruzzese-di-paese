@@ -1,0 +1,21 @@
+{
+  "id": "s-scame",
+  "headword": "scàme",
+  "senses": [
+    {
+      "it": "capisce",
+      "en": "he/she understands",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scàme: capisce",
+    "rawHash": "c4d26c5208fd2262c87d00b7aa6ec339ba323204",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

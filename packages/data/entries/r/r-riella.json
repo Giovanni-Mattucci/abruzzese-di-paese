@@ -1,0 +1,21 @@
+{
+  "id": "r-riella",
+  "headword": "riella",
+  "senses": [
+    {
+      "it": "righello",
+      "en": "ruler",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "riella: righello",
+    "rawHash": "f28f8800026dcc17b21dc513e2eacbfcca5a17d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

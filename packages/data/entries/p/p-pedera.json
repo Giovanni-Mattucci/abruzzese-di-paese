@@ -1,0 +1,21 @@
+{
+  "id": "p-pedera",
+  "headword": "pedera",
+  "senses": [
+    {
+      "it": "bordo inferiore della gonna",
+      "en": "hem of a skirt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pedera: bordo inferiore della gonna",
+    "rawHash": "520481448fe59bb2781bcce4f2cbf31a0813e4e3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

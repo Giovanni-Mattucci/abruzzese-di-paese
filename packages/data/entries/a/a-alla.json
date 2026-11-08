@@ -1,0 +1,21 @@
+{
+  "id": "a-alla",
+  "headword": "alla",
+  "senses": [
+    {
+      "it": "a la",
+      "en": "to the (a la)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "alla: a la",
+    "rawHash": "bd3df65babd0a55c50ed932db06578b5cc979650",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

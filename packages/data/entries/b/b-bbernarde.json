@@ -1,0 +1,21 @@
+{
+  "id": "b-bbernarde",
+  "headword": "Bbernàrde",
+  "senses": [
+    {
+      "it": "Bernardo de Michaelis, capitano e patriota di Penne Sant'Andrea, fucilato e decapitato dai francesi a Penne il 17 Luglio 1814",
+      "en": "Bernardo de Michaelis, captain and patriot from Penne Sant'Andrea, shot and beheaded by the French at Penne on 17 July 1814",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "Bbernàrde: Bernardo de Michaelis, capitano e patriota di Penne Sant'Andrea, fucilato e decapitato dai francesi a Penne il 17 Luglio 1814",
+    "rawHash": "c222476c0c350856381455ed4440afd26fac8331",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

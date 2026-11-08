@@ -1,0 +1,21 @@
+{
+  "id": "r-rende-rende",
+  "headword": "rende rende",
+  "senses": [
+    {
+      "it": "vicino vicino",
+      "en": "very close, right next to",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rende rende: vicino vicino",
+    "rawHash": "64b933f12bac3c4445974f58abec34935deb4e7e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

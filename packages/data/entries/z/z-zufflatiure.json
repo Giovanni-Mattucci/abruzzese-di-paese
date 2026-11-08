@@ -1,0 +1,29 @@
+{
+  "id": "z-zufflatiure",
+  "headword": "zufflatiùre",
+  "variants": [
+    "zufflatùre"
+  ],
+  "senses": [
+    {
+      "it": "soffietto",
+      "en": "bellows",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "soffiatore",
+      "en": "blower",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zufflatiùre, zufflatùre: soffietto, soffiatore",
+    "rawHash": "382a6c2c49a92e93bb45b94a36294dfbc981dbd1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

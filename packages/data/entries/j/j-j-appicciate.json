@@ -1,0 +1,21 @@
+{
+  "id": "j-j-appicciate",
+  "headword": "j appicciàte",
+  "senses": [
+    {
+      "it": "camminare tenendosi per mano",
+      "en": "to walk holding hands",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "j appicciàte: camminare tenendosi per mano",
+    "rawHash": "3ffc33fcba3fac7c2ca42b4b1ab6df2b99af7b8e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

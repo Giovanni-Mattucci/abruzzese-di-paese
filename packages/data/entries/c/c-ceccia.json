@@ -1,0 +1,21 @@
+{
+  "id": "c-ceccia",
+  "headword": "ceccia",
+  "senses": [
+    {
+      "it": "getto d'acqua",
+      "en": "jet of water",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ceccia: getto d'acqua",
+    "rawHash": "f58374953d89c5f7a0e0be04581349bc5ef2ada2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

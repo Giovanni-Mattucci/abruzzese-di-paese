@@ -1,0 +1,31 @@
+{
+  "id": "v-venne",
+  "headword": "venne",
+  "senses": [
+    {
+      "it": "vendere",
+      "en": "to sell",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vendo. oppure: venire",
+      "en": "I sell. or: to come",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "venne",
+      "en": "he/she came",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "venne: vendere, vendo. oppure: venire, venne",
+    "rawHash": "3cb8f637754ccec7a3914a329b49025d0050ef15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a-arintenne",
+  "headword": "arintenne",
+  "senses": [
+    {
+      "it": "sapere",
+      "en": "to know",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "avere conoscenza",
+      "en": "to have knowledge",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "essere pratico di qualcosa",
+      "en": "to be familiar with something",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arintenne: sapere, avere conoscenza, essere pratico di qualcosa",
+    "rawHash": "12ab707d36560f1f7def75997e4cefb776ab6a43",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

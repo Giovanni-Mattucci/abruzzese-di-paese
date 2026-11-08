@@ -1,0 +1,21 @@
+{
+  "id": "c-cacchia",
+  "headword": "cacchià",
+  "senses": [
+    {
+      "it": "germogliare",
+      "en": "to sprout, to bud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cacchià: germogliare",
+    "rawHash": "358e2bc3d97732db50a42ceacd6032a3dd0a2713",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

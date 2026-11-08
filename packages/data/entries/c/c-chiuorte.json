@@ -1,0 +1,21 @@
+{
+  "id": "c-chiuorte",
+  "headword": "chiuorte",
+  "senses": [
+    {
+      "it": "storto",
+      "en": "crooked",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiuorte: storto",
+    "rawHash": "a5a6d5feab123754f23d5fff3c6a3fb3be1f4980",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

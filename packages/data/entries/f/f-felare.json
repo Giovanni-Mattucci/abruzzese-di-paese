@@ -1,0 +1,27 @@
+{
+  "id": "f-felare",
+  "headword": "felàre",
+  "article": "la",
+  "senses": [
+    {
+      "it": "pagnotta di pane",
+      "en": "loaf of bread",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "filare di piante",
+      "en": "row of plants",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "felàre (la): pagnotta di pane, (lu) filare di piante",
+    "rawHash": "2a5a8613f24a55f24ba36c03d1fbca3f5949fde4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

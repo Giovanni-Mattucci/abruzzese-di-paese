@@ -1,0 +1,21 @@
+{
+  "id": "a-apprizze",
+  "headword": "apprizze",
+  "senses": [
+    {
+      "it": "apprezza",
+      "en": "he/she appreciates",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "apprizze: apprezza",
+    "rawHash": "e4bbd66d317956778a2c0f76d037646d65fdf739",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

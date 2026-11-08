@@ -1,0 +1,26 @@
+{
+  "id": "f-fresche",
+  "headword": "fresche",
+  "senses": [
+    {
+      "it": "fresco, adoperato in modo figurativo anche per indicare qualcuno che va o sta in carcere:",
+      "en": "fresh, cool, also used figuratively to indicate someone who goes to or is in prison:",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "a le viste che ja successe a Cucuzze? L'hanne purtate a lu fresche. Hai visto cos'è accaduto a Cocuzza? L'hanno portato in carcere."
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fresche: fresco, adoperato in modo figurativo anche per indicare qualcuno che va o sta in carcere: es.: a le viste che ja successe a Cucuzze? L'hanne purtate a lu fresche. Hai visto cos'è accaduto a Cocuzza? L'hanno portato in carcere.",
+    "rawHash": "6ff995daf082ae0d8eee54933020118e3f392df6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

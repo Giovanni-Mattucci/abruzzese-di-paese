@@ -1,0 +1,21 @@
+{
+  "id": "v-vattacicirchie",
+  "headword": "vattacicirchie",
+  "senses": [
+    {
+      "it": "attrezzo per sbucciare legumi",
+      "en": "tool for shelling legumes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vattacicirchie: attrezzo per sbucciare legumi",
+    "rawHash": "52a6ff9ce4dd03f46766eed5626ec7d5957890d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

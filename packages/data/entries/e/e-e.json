@@ -1,0 +1,21 @@
+{
+  "id": "e-e",
+  "headword": "e",
+  "senses": [
+    {
+      "it": "vocale che nel dialetto abruzzese non si pronuncia quando è finale di parola",
+      "en": "vowel which in the Abruzzese dialect is not pronounced at the end of a word",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "e: vocale che nel dialetto abruzzese non si pronuncia quando è finale di parola",
+    "rawHash": "08655c674a140d683e02de692bd126319a8c50c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

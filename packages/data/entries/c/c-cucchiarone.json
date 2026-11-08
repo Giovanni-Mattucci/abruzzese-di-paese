@@ -1,0 +1,21 @@
+{
+  "id": "c-cucchiarone",
+  "headword": "cucchiaròne",
+  "senses": [
+    {
+      "it": "grande cucchiaio di legno d'acero",
+      "en": "large maple-wood spoon",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucchiaròne: grande cucchiaio di legno d'acero",
+    "rawHash": "c313b95ef2973fedca88aea793d132ee18a3e09d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

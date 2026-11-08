@@ -1,0 +1,24 @@
+{
+  "id": "n-nzacc-cummuo",
+  "headword": "nzacc cummuò",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "non so perché",
+      "en": "I do not know why",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nzacc cummuò: non so perché (M.sul S.)",
+    "rawHash": "8667561c2f207034d706d98f454519b395abf3a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

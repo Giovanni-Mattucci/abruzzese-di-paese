@@ -1,0 +1,21 @@
+{
+  "id": "s-scarapingeche",
+  "headword": "scarapingeche",
+  "senses": [
+    {
+      "it": "pipistrello",
+      "en": "bat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarapingeche: pipistrello",
+    "rawHash": "c5c2eb7cc59b99875f17c92f7554f66afcc4990e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

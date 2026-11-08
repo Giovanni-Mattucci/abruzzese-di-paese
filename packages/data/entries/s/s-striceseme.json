@@ -1,0 +1,22 @@
+{
+  "id": "s-striceseme",
+  "headword": "stricèseme",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "nervosismo",
+      "en": "nervousness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stricèseme (lu): nervosismo",
+    "rawHash": "e0f4f4683185739cf3f7bc4bdd0864cbee6c44f7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

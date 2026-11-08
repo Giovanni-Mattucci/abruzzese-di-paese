@@ -1,0 +1,21 @@
+{
+  "id": "n-nengue",
+  "headword": "nèngue",
+  "senses": [
+    {
+      "it": "nevica",
+      "en": "it snows, it is snowing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nèngue: nevica",
+    "rawHash": "f9b0e66c8ff7d726ea37b81dc02bf7195973f717",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

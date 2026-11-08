@@ -1,0 +1,21 @@
+{
+  "id": "p-pizzucu",
+  "headword": "pizzùcu",
+  "senses": [
+    {
+      "it": "chiodo",
+      "en": "nail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pizzùcu: chiodo",
+    "rawHash": "dfbc836cf4188df433701d3510338c9d19ef8db7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-chezette-ferrate",
+  "headword": "chezette ferrate",
+  "senses": [
+    {
+      "it": "calze ferrate",
+      "en": "iron-shod stockings",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chezette ferrate: calze ferrate",
+    "rawHash": "44785d822e9b9aac434c3c7da4749526cf1b48b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

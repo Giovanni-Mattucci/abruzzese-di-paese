@@ -1,0 +1,26 @@
+{
+  "id": "a-arcunteje",
+  "headword": "arcùnteje",
+  "senses": [
+    {
+      "it": "raccontagli",
+      "en": "tell him/her",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "contagli di nuovo",
+      "en": "count again for him/her",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcùnteje: raccontagli, contagli di nuovo",
+    "rawHash": "2e6d72cec30acaad5164053c9bea3c267c788b55",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

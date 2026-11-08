@@ -1,0 +1,21 @@
+{
+  "id": "c-cuttrille",
+  "headword": "cuttrille",
+  "senses": [
+    {
+      "it": "cortile",
+      "en": "courtyard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuttrille: cortile",
+    "rawHash": "eb3b17c1497c9a089c1fcbbd3f12b14f6050d908",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

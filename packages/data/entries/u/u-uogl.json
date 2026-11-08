@@ -1,0 +1,24 @@
+{
+  "id": "u-uogl",
+  "headword": "uogl",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "olio",
+      "en": "oil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "uogl: olio (Montebello sul S.)",
+    "rawHash": "3f7099a4bfc3b034c9835ab0a5985923b7bb281c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

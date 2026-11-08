@@ -1,0 +1,21 @@
+{
+  "id": "r-ratiche",
+  "headword": "ratiche",
+  "senses": [
+    {
+      "it": "radice",
+      "en": "root",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ratiche: radice",
+    "rawHash": "6ba64aa2f0f9e798b6fa1e585606cf31b24563ed",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,31 @@
+{
+  "id": "s-schiuffemeje",
+  "headword": "schiuffèmeje",
+  "senses": [
+    {
+      "it": "sbattiamogli",
+      "en": "let us slam into him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "andiamogli contro",
+      "en": "let us go up against him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "addosso",
+      "en": "on top of him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiuffèmeje: sbattiamogli, andiamogli contro, addosso",
+    "rawHash": "46f6de0bc9539f7d9608b8bb160ccae64e815a42",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

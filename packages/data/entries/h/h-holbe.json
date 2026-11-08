@@ -1,0 +1,21 @@
+{
+  "id": "h-holbe",
+  "headword": "hòlbe",
+  "senses": [
+    {
+      "it": "volpe",
+      "en": "fox",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hòlbe: volpe",
+    "rawHash": "7d269da730a6acb76874c0272d9fd53b14cecaf8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

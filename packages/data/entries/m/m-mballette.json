@@ -1,0 +1,21 @@
+{
+  "id": "m-mballette",
+  "headword": "'mballette",
+  "senses": [
+    {
+      "it": "balla di fieno",
+      "en": "bale of hay",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mballette: balla di fieno",
+    "rawHash": "6174aa9dc0c63d5104ebfc7476ba0a5c19dd297c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

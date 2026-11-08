@@ -1,0 +1,21 @@
+{
+  "id": "z-zuffilature",
+  "headword": "zuffilature",
+  "senses": [
+    {
+      "it": "tubo di metallo piuttosto lungo con una delle parti terminali schiacciata. Serviva per soffiare nella brace del camino e ravvivarne il fuoco. Letteralmente: soffiatoio",
+      "en": "rather long metal tube with one end flattened. It was used to blow on the embers in the fireplace and revive the fire. Literally: blowpipe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zuffilature: tubo di metallo piuttosto lungo con una delle parti terminali schiacciata. Serviva per soffiare nella brace del camino e ravvivarne il fuoco. Letteralmente: soffiatoio",
+    "rawHash": "bfe7e330ba1d913dc4b4baa3b318112bf4613f33",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

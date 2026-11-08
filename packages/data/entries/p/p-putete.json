@@ -1,0 +1,24 @@
+{
+  "id": "p-putete",
+  "headword": "putète",
+  "senses": [
+    {
+      "it": "voi potete",
+      "en": "you (plural) can",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: vu"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "putète (vu): voi potete",
+    "rawHash": "4e4c84070a67caac388f2573fb36e47ea533a273",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

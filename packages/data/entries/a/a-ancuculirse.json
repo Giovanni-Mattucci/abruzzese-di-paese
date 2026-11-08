@@ -1,0 +1,21 @@
+{
+  "id": "a-ancuculirse",
+  "headword": "ancuculìrse",
+  "senses": [
+    {
+      "it": "accoccolarsi",
+      "en": "to crouch down, to huddle up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ancuculìrse: accoccolarsi",
+    "rawHash": "763cb32049fef41892af1370e0484ddaa9fa491a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-piche",
+  "headword": "piche",
+  "article": "la",
+  "senses": [
+    {
+      "it": "sbornia",
+      "en": "drunkenness, drinking binge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piche (la): sbornia",
+    "rawHash": "9edd7a1e4c592c139fef55de4043a0accfa7040f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

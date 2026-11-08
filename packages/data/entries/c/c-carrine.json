@@ -1,0 +1,24 @@
+{
+  "id": "c-carrine",
+  "headword": "carrine",
+  "senses": [
+    {
+      "it": "distorsione dialettale della parola “carlino”. Il “carlino” era una moneta d'oro e d'argento del regno di Sicilia, fatta coniare da Carlo I d'Angiò (da cui il termine carlino); quella d'argento, con varie modificazioni, fu emessa fino all'ultimo sovrano delle due Sicilie. Dieci carlini equivalevano ad un ducato.",
+      "en": "a dialectal distortion of the word “carlino”. The “carlino” was a gold and silver coin of the Kingdom of Sicily, minted by Charles I of Anjou (hence the term carlino); the silver one, with various modifications, was issued until the last sovereign of the Two Sicilies. Ten carlini were equivalent to a ducat.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Split from c-carrijole-2: the source page runs both entries together on one line, so source.raw is the carrine part of that line."
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carrine: distorsione dialettale della parola “carlino”. Il “carlino” era una moneta d'oro e d'argento del regno di Sicilia, fatta coniare da Carlo I d'Angiò (da cui il termine carlino); quella d'argento, con varie modificazioni, fu emessa fino all'ultimo sovrano delle due Sicilie. Dieci carlini equivalevano ad un ducato",
+    "rawHash": "828ddb2b3671688eb0f8e05a9bf7380f41c4ca2b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-areduvaija",
+  "headword": "areduvaijà",
+  "senses": [
+    {
+      "it": "rimediare",
+      "en": "to remedy, to make do",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "areduvaijà: rimediare",
+    "rawHash": "1626ebbcd85fb55e0d13c122eb4bed5720f9100f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

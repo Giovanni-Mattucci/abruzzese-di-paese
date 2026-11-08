@@ -1,0 +1,21 @@
+{
+  "id": "p-panelle",
+  "headword": "panelle",
+  "senses": [
+    {
+      "it": "pagnotta o schiaffo",
+      "en": "loaf of bread or slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "panelle: pagnotta o schiaffo",
+    "rawHash": "d6bfda07016e035acc4cf9aeaa19698cb905908e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "z-zambogne",
+  "headword": "zambogne",
+  "senses": [
+    {
+      "it": "zampogna",
+      "en": "bagpipe (zampogna)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zambogne : zampogna",
+    "rawHash": "80ef31ea14aca1eb6458d0efd5805cf34b1f1e8c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-ardaje",
+  "headword": "ardàje",
+  "senses": [
+    {
+      "it": "ridagli",
+      "en": "give it back to him/her",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardàje: ridagli",
+    "rawHash": "16d266875797888669e59a7eee0f9631a261fef5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

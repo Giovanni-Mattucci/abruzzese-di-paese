@@ -1,0 +1,21 @@
+{
+  "id": "a-allunga",
+  "headword": "allungà",
+  "senses": [
+    {
+      "it": "allungare",
+      "en": "to lengthen, to stretch out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allungà: allungare",
+    "rawHash": "808ac5ec92d4c33a5e0aab8338c5de2f5ea07570",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

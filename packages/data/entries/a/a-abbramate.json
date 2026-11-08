@@ -1,0 +1,21 @@
+{
+  "id": "a-abbramate",
+  "headword": "abbramàte",
+  "senses": [
+    {
+      "it": "molto desideroso di mangiare",
+      "en": "very eager to eat, ravenous",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbramàte: molto desideroso di mangiare",
+    "rawHash": "6fb091af2203dd5345fb0acb8c50c2c9e4dbbc89",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

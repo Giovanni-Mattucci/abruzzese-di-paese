@@ -1,0 +1,21 @@
+{
+  "id": "j-jetecchie",
+  "headword": "jetecchie",
+  "senses": [
+    {
+      "it": "far cilecca",
+      "en": "to misfire, to fail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jetecchie: far cilecca",
+    "rawHash": "dccb1771c125464950d4123b3a05829250a77fdf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

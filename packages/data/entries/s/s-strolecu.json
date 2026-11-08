@@ -1,0 +1,21 @@
+{
+  "id": "s-strolecu",
+  "headword": "stròlecu",
+  "senses": [
+    {
+      "it": "indovino",
+      "en": "fortune-teller",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stròlecu: indovino",
+    "rawHash": "549aecc363e53c9995333fa1314416e7456803ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

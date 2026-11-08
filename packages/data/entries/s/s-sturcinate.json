@@ -1,0 +1,21 @@
+{
+  "id": "s-sturcinate",
+  "headword": "sturcinàte",
+  "senses": [
+    {
+      "it": "svolto",
+      "en": "unwound",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sturcinàte: svolto",
+    "rawHash": "5fc4c8ed292f98838512e459ea6227887be9fa56",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

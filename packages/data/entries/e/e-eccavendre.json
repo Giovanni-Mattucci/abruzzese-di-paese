@@ -1,0 +1,21 @@
+{
+  "id": "e-eccavendre",
+  "headword": "ecc'avendre",
+  "senses": [
+    {
+      "it": "qua dentro",
+      "en": "in here",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "ecc'avendre: qua dentro",
+    "rawHash": "fd98ce404e9066a4083a2d32d805505a60b202d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

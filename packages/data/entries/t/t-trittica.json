@@ -1,0 +1,21 @@
+{
+  "id": "t-trittica",
+  "headword": "tritticà",
+  "senses": [
+    {
+      "it": "smuovere",
+      "en": "to shift, to stir",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tritticà: smuovere",
+    "rawHash": "92a5a0e5d07051564ab065b1cf9b9aad3c016a74",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-torza",
+  "headword": "torza",
+  "senses": [
+    {
+      "it": "fascio di legna",
+      "en": "bundle of firewood",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "torza: fascio di legna",
+    "rawHash": "666c662c7e7dfcfcc317d5d069fc147f7bb03efb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

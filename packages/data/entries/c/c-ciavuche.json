@@ -1,0 +1,21 @@
+{
+  "id": "c-ciavuche",
+  "headword": "ciavuche",
+  "senses": [
+    {
+      "it": "buco-buca. Oltre al significato citato, il termine fa riferimento anche ai \"buchi\" anatomici",
+      "en": "hole, pit. Besides the meaning given, the term also refers to anatomical \"holes\"",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciavuche: buco-buca. Oltre al significato citato, il termine fa riferimento anche ai \"buchi\" anatomici.",
+    "rawHash": "be728c19c5a36fea4bd8cf9baf2dc441ff7824eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

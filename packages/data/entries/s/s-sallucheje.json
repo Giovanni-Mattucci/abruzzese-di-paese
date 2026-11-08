@@ -1,0 +1,21 @@
+{
+  "id": "s-sallucheje",
+  "headword": "s'alluchèje",
+  "senses": [
+    {
+      "it": "si sedeva",
+      "en": "he/she used to sit down, was sitting down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "s'alluchèje: si sedeva",
+    "rawHash": "f90c5911613b827e8088468c442c18aae85977c2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

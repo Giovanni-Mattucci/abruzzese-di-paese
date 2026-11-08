@@ -1,0 +1,21 @@
+{
+  "id": "t-tecchie",
+  "headword": "tecchie",
+  "senses": [
+    {
+      "it": "tronco di legno, usato pure per dire di qualcuno che è molto robusto",
+      "en": "wooden log, also used to describe someone who is very sturdy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tecchie: tronco di legno, usato pure per dire di qualcuno che è molto robusto",
+    "rawHash": "803faed6137d1759dcf85acaedcc4d7ef6e1b12d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

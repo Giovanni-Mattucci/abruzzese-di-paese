@@ -1,0 +1,21 @@
+{
+  "id": "s-sumenete",
+  "headword": "sumènete",
+  "senses": [
+    {
+      "it": "seme semènta",
+      "en": "seed, seed stock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sumènete: seme semènta",
+    "rawHash": "743b51bacbf5399d3719ab664594fc6dafbec525",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "z-zirille",
+  "headword": "zirille",
+  "senses": [
+    {
+      "it": "pigne",
+      "en": "pine cones",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zirille: pigne",
+    "rawHash": "85a6e914f7ce7ebdd6028aadae11cb3d55876b1d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

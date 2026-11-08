@@ -1,0 +1,21 @@
+{
+  "id": "b-broloccu",
+  "headword": "brolòccu",
+  "senses": [
+    {
+      "it": "ciondolo",
+      "en": "pendant, charm",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "brolòccu: ciondolo",
+    "rawHash": "9dabcccbebbc91ea3b06290a95115a52c99e15ce",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

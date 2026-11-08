@@ -1,0 +1,21 @@
+{
+  "id": "c-cazune",
+  "headword": "cazùne",
+  "senses": [
+    {
+      "it": "pantaloni",
+      "en": "trousers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cazùne: pantaloni",
+    "rawHash": "3842b3a92591a4452f1fac50b44cb9e0b69ce3eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

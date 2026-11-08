@@ -1,0 +1,26 @@
+{
+  "id": "p-pinge",
+  "headword": "pinge",
+  "variants": [
+    "pingeche",
+    "pingiche",
+    "pingiune"
+  ],
+  "senses": [
+    {
+      "it": "tegola",
+      "en": "roof tile",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinge, pingeche, pingiche, pingiune : tegola",
+    "rawHash": "9b4da039d5da4028dedaff8f861c11ad25be14a0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

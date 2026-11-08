@@ -1,0 +1,21 @@
+{
+  "id": "p-pallette",
+  "headword": "pallètte",
+  "senses": [
+    {
+      "it": "pillole - riferito a medicina -",
+      "en": "pills - referring to medicine -",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pallètte: pillole - riferito a medicina -",
+    "rawHash": "b7c53d3a79bad215ae4d95a538d824983c92f477",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

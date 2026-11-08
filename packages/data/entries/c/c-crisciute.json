@@ -1,0 +1,21 @@
+{
+  "id": "c-crisciute",
+  "headword": "crisciùte",
+  "senses": [
+    {
+      "it": "cresciuto",
+      "en": "grown",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crisciùte: cresciuto",
+    "rawHash": "6800a905f0ca3fab66e6199cdade1ed33e0b5b8d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

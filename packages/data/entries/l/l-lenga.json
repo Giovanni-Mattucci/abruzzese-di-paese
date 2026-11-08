@@ -1,0 +1,21 @@
+{
+  "id": "l-lenga",
+  "headword": "lènga",
+  "senses": [
+    {
+      "it": "lingua",
+      "en": "tongue, language",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lènga: lingua",
+    "rawHash": "09001284fcccf8800b7afa4902bed583e78ea070",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

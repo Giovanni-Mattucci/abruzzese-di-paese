@@ -1,0 +1,21 @@
+{
+  "id": "s-saittera",
+  "headword": "saittera",
+  "senses": [
+    {
+      "it": "feritoia",
+      "en": "arrow slit, loophole",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "saittera: feritoia",
+    "rawHash": "874d3f3e060710bd0f71ee02beb42c71416f151f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

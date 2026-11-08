@@ -1,0 +1,26 @@
+{
+  "id": "s-spontapepe",
+  "headword": "spontapepe",
+  "senses": [
+    {
+      "it": "usato per indicare un \"inciampo\" nel camminare ed a seguito del quale si rischia una caduta o una storta",
+      "en": "used to indicate a \"stumble\" while walking, after which one risks a fall or a sprain",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "più precisamente indica l'incunearsi della punta del piede in un ostacolo, una crepa o sotto una pietra non vista",
+      "en": "more precisely it indicates the wedging of the tip of the foot in an obstacle, a crack or under an unseen stone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spontapepe: usato per indicare un \"inciampo\" nel camminare ed a seguito del quale si rischia una caduta o una storta; più precisamente indica l'incunearsi della punta del piede in un ostacolo, una crepa o sotto una pietra non vista",
+    "rawHash": "18180f6537e095863d1315a94b3c81a0175a0bb0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

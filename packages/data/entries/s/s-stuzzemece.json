@@ -1,0 +1,21 @@
+{
+  "id": "s-stuzzemece",
+  "headword": "stuzzèmece",
+  "senses": [
+    {
+      "it": "dividiamoci i panini che abbiamo",
+      "en": "let us share the sandwiches we have",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stuzzèmece: dividiamoci i panini che abbiamo",
+    "rawHash": "87cc27d6ac845b961661a16d9ac19e0da1467a16",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

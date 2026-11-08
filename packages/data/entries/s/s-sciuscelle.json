@@ -1,0 +1,22 @@
+{
+  "id": "s-sciuscelle",
+  "headword": "sciuscelle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "carruba",
+      "en": "carob",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciuscelle (la): carruba",
+    "rawHash": "3e1d9e60ef3255cb9d8401499d2d63ca9bf3679a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

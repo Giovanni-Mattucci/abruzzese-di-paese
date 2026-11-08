@@ -1,0 +1,21 @@
+{
+  "id": "v-vaiasse",
+  "headword": "vaiasse",
+  "senses": [
+    {
+      "it": "donna di facili costumi",
+      "en": "woman of easy virtue",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vaiasse: donna di facili costumi",
+    "rawHash": "390312993377c5aadbe9df8e492147dfd44e8f78",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

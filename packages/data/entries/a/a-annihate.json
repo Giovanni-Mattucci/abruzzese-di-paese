@@ -1,0 +1,21 @@
+{
+  "id": "a-annihate",
+  "headword": "annihàte",
+  "senses": [
+    {
+      "it": "annegato",
+      "en": "drowned",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "annihàte: annegato",
+    "rawHash": "92d7fb167af1aea9f610fafe64c07615a2a88662",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

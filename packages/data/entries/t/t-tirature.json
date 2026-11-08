@@ -1,0 +1,26 @@
+{
+  "id": "t-tirature",
+  "headword": "tiratùre",
+  "senses": [
+    {
+      "it": "cassetto",
+      "en": "drawer",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tiretto",
+      "en": "small drawer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tiratùre: cassetto, tiretto",
+    "rawHash": "4a752981bbbe1243477c8f6f1641b80bb9a41142",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

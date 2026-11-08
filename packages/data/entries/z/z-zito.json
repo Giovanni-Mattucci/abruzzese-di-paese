@@ -1,0 +1,21 @@
+{
+  "id": "z-zito",
+  "headword": "zito",
+  "senses": [
+    {
+      "it": "sposo",
+      "en": "bridegroom",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zito: sposo",
+    "rawHash": "82f399a15222b3f92f3b99f0feee7a6b169fa92c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

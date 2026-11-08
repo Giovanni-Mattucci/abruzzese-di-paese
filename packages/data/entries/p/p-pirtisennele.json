@@ -1,0 +1,21 @@
+{
+  "id": "p-pirtisennele",
+  "headword": "pirtisennele",
+  "senses": [
+    {
+      "it": "prezzemolo",
+      "en": "parsley",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pirtisennele: prezzemolo",
+    "rawHash": "0d99abb59ad9be1a5ad9f95bd4f7c23189764f82",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

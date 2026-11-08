@@ -1,0 +1,21 @@
+{
+  "id": "a-allappa-2",
+  "headword": "allappà",
+  "senses": [
+    {
+      "it": "allappare, che ha un senso di acre in bocca",
+      "en": "to set one's teeth on edge, which leaves a sour sensation in the mouth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allappà: allappare, che ha un senso di acre in bocca",
+    "rawHash": "2bb31e15934f70012022e8556894d8f8795280c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

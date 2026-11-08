@@ -1,0 +1,36 @@
+{
+  "id": "s-stuzza",
+  "headword": "stuzzà",
+  "senses": [
+    {
+      "it": "dividere",
+      "en": "to divide",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rompere",
+      "en": "to break",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spezzare",
+      "en": "to break off",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riferito a panino",
+      "en": "referring to a sandwich",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stuzzà: dividere, rompere, spezzare, riferito a panino",
+    "rawHash": "a1c5b196f6f6827989aa88d92ff4ae38bd166fac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a-attravezze-jiste",
+  "headword": "attravezze jiste",
+  "senses": [
+    {
+      "it": "da queste parti (dimenticate",
+      "en": "in these parts (forgotten",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "quasi maledette)",
+      "en": "almost cursed)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "attravezze jiste: da queste parti (dimenticate, quasi maledette).",
+    "rawHash": "b6626b769bb400e847b6e8c98bdcbc2df29fc3e8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-annillite",
+  "headword": "annillite",
+  "senses": [
+    {
+      "it": "litigati",
+      "en": "fallen out with each other, quarrelled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "annillite: litigati",
+    "rawHash": "1ef219c84145a0dda93d02419d7cc6070eafdb60",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

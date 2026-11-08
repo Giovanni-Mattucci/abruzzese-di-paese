@@ -1,0 +1,21 @@
+{
+  "id": "t-taccunille",
+  "headword": "taccunìlle",
+  "senses": [
+    {
+      "it": "pasta fatta a mano a forma di rombo",
+      "en": "handmade diamond-shaped pasta",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "taccunìlle: pasta fatta a mano a forma di rombo",
+    "rawHash": "e971cd019f294855154b866f0d1e4f3f11e3de40",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

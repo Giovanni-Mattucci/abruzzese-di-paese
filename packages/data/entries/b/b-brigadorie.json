@@ -1,0 +1,21 @@
+{
+  "id": "b-brigadorie",
+  "headword": "brigadòrie",
+  "senses": [
+    {
+      "it": "purgatorio",
+      "en": "purgatory",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "brigadòrie: purgatorio",
+    "rawHash": "ff3e5e5a3c025d9a885ec7958ca09f9c83564159",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

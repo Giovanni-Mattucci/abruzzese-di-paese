@@ -1,0 +1,21 @@
+{
+  "id": "a-appari",
+  "headword": "apparì",
+  "senses": [
+    {
+      "it": "apparire",
+      "en": "to appear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "apparì: apparire",
+    "rawHash": "6df91ba4403d3879ebc0c85e414643c109e5657d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

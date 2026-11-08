@@ -1,0 +1,26 @@
+{
+  "id": "h-harbine",
+  "headword": "harbine",
+  "senses": [
+    {
+      "it": "garbino",
+      "en": "garbino (south-west wind)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vento di libeccio",
+      "en": "south-west wind, libeccio",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "harbine: garbino, vento di libeccio",
+    "rawHash": "61c8e4504a0ebe80a9d9a271c2079ce467967c3f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

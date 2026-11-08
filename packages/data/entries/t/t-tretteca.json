@@ -1,0 +1,21 @@
+{
+  "id": "t-tretteca",
+  "headword": "trettecà",
+  "senses": [
+    {
+      "it": "muovere",
+      "en": "to move",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trettecà: muovere",
+    "rawHash": "faa90b9f1a3e850bd5f7de5e9bc780851fcc5fd4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

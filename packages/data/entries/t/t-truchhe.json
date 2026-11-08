@@ -1,0 +1,21 @@
+{
+  "id": "t-truchhe",
+  "headword": "trùchhe",
+  "senses": [
+    {
+      "it": "pecora o montone che carica",
+      "en": "sheep or ram that charges",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trùchhe: pecora o montone che carica",
+    "rawHash": "70a179f42f29e8f2cd1bf6b19d9f0294e99db58c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

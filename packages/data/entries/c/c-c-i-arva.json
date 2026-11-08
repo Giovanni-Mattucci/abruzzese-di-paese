@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-arva",
+  "headword": "c-i-arvà",
+  "variants": [
+    "c'arvà"
+  ],
+  "senses": [
+    {
+      "it": "ci va di nuovo",
+      "en": "he/she goes there again",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci va un'altra volta",
+      "en": "he/she goes there once more",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arvà, c'arvà: ci va di nuovo, ci va un'altra volta",
+    "rawHash": "898a78c07d6d63e5eacc34cb7d55f9516aaed925",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

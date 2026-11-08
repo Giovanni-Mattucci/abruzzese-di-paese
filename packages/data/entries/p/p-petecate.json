@@ -1,0 +1,26 @@
+{
+  "id": "p-petecate",
+  "headword": "petecàte",
+  "senses": [
+    {
+      "it": "orma",
+      "en": "footprint",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "impronta",
+      "en": "imprint",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "petecàte: orma, impronta",
+    "rawHash": "9fd6a407780d46c423558d6e33e7bf61eade6b38",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

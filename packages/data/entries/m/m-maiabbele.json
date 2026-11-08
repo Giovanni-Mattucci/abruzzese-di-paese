@@ -1,0 +1,22 @@
+{
+  "id": "m-maiabbele",
+  "headword": "maiàbbele",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "noce più grande con cui si colpivano per gioco altre noci",
+      "en": "larger walnut used in play to strike other walnuts",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "maiàbbele (lu): noce più grande con cui si colpivano per gioco altre noci",
+    "rawHash": "7290dc9d94ed813ebcdc83730802a251f3246c85",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

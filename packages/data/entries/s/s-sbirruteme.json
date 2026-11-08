@@ -1,0 +1,21 @@
+{
+  "id": "s-sbirruteme",
+  "headword": "sbirrutème",
+  "senses": [
+    {
+      "it": "srotoliamo",
+      "en": "we unroll, let us unroll",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbirrutème: srotoliamo",
+    "rawHash": "321b5c7785d913dad6e438b82faefabe213e5fa2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

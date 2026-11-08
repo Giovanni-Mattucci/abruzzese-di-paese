@@ -1,0 +1,26 @@
+{
+  "id": "a-alliggiri",
+  "headword": "alliggirì",
+  "senses": [
+    {
+      "it": "digerire",
+      "en": "to digest",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "alleggerire",
+      "en": "to lighten",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "alliggirì: digerire, ma anche alleggerire",
+    "rawHash": "032b28078100475a93eb513f77065813b7e507ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

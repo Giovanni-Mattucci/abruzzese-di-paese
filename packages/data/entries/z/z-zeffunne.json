@@ -1,0 +1,26 @@
+{
+  "id": "z-zeffunne",
+  "headword": "zeffunne",
+  "senses": [
+    {
+      "it": "precipizio",
+      "en": "precipice",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "burrone profondo",
+      "en": "deep ravine",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zeffunne : precipizio, burrone profondo",
+    "rawHash": "5c02b54b046800c2466ff858e4436d7999fdb98f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

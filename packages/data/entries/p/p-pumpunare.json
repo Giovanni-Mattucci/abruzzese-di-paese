@@ -1,0 +1,21 @@
+{
+  "id": "p-pumpunare",
+  "headword": "pumpunare",
+  "senses": [
+    {
+      "it": "fantasma",
+      "en": "ghost",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pumpunare: fantasma",
+    "rawHash": "2c6a0a6b8594f9a7da0e1f885a806eff58002ab8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

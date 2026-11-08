@@ -1,0 +1,21 @@
+{
+  "id": "d-devacarse",
+  "headword": "devacarse",
+  "senses": [
+    {
+      "it": "perdere il senno",
+      "en": "to lose one's mind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "devacarse: perdere il senno",
+    "rawHash": "4163f0c2d9e5c9c9946302709a6080cd3a8509cb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

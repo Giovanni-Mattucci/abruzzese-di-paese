@@ -1,0 +1,26 @@
+{
+  "id": "t-tielle",
+  "headword": "tièlle",
+  "senses": [
+    {
+      "it": "tegame",
+      "en": "pan",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pentola",
+      "en": "pot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tièlle: tegame, pentola",
+    "rawHash": "43b21bf8bedaf06c1b9a3dd33fb43249b14e9828",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

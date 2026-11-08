@@ -1,0 +1,21 @@
+{
+  "id": "b-buatte",
+  "headword": "buàtte",
+  "senses": [
+    {
+      "it": "barattolo di stagno",
+      "en": "tin can",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "buàtte: barattolo di stagno",
+    "rawHash": "22719c7afc8540eff7cfc46dd0e73e303c94b376",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

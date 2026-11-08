@@ -1,0 +1,21 @@
+{
+  "id": "c-cemmece",
+  "headword": "cemmece",
+  "senses": [
+    {
+      "it": "cimice",
+      "en": "bedbug",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cemmece: cimice",
+    "rawHash": "f738fd4c65d07173ec4874492a2aadcb5d23298e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

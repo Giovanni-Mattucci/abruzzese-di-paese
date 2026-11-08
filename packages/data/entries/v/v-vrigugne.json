@@ -1,0 +1,26 @@
+{
+  "id": "v-vrigugne",
+  "headword": "vrigùgne",
+  "senses": [
+    {
+      "it": "vergogna",
+      "en": "shame",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "genitali",
+      "en": "genitals",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrigùgne: vergogna, genitali",
+    "rawHash": "06233b6f05471c211075161cde03bfe6a099ce4b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

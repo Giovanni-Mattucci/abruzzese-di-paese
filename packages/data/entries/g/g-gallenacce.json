@@ -1,0 +1,22 @@
+{
+  "id": "g-gallenacce",
+  "headword": "gallenacce",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "tacchino",
+      "en": "turkey",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gallenacce (lu): tacchino",
+    "rawHash": "e65de5f6a5994f32d0b5fe26e08a27938253ce3a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

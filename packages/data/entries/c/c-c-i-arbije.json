@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-arbije",
+  "headword": "c-i-arbìje",
+  "variants": [
+    "c'arbije"
+  ],
+  "senses": [
+    {
+      "it": "ricomincia da capo",
+      "en": "he/she starts over again from the beginning",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riprendo tutto dall'inizio",
+      "en": "I start everything again from the beginning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arbìje, c'arbije: ricomincia da capo, riprendo tutto dall'inizio",
+    "rawHash": "eee8f82c2506be895b456acbbd4b9fcf008d7c33",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

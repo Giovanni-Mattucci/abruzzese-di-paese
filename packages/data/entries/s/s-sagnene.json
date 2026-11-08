@@ -1,0 +1,22 @@
+{
+  "id": "s-sagnene",
+  "headword": "sagnêne",
+  "article": "nu",
+  "senses": [
+    {
+      "it": "uomo grasso e bislacco",
+      "en": "fat, odd man",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sagnêne (nu): uomo grasso e bislacco",
+    "rawHash": "530240a199fdc7f9a859062e36fb72ad57e7be7e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "s-statte-fittu",
+  "headword": "stàtte fìttu",
+  "senses": [
+    {
+      "it": "stai fermo",
+      "en": "stay still",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fermati",
+      "en": "stop",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stàtte fìttu: stai fermo, fermati",
+    "rawHash": "4fb086efea197e1166b3d54c4f98beab129126a4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

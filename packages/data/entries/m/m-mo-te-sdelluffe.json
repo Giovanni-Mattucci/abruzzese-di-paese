@@ -1,0 +1,21 @@
+{
+  "id": "m-mo-te-sdelluffe",
+  "headword": "mò te sdellùffe",
+  "senses": [
+    {
+      "it": "ora, adesso ti picchio con forza, ti faccio male",
+      "en": "now I will beat you hard, I will hurt you",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mò te sdellùffe: ora, adesso ti picchio con forza, ti faccio male",
+    "rawHash": "0469048463dba76a7723abfa51b1479d45bc0979",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

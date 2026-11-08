@@ -1,0 +1,21 @@
+{
+  "id": "t-taccare",
+  "headword": "taccare",
+  "senses": [
+    {
+      "it": "bastone",
+      "en": "stick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "taccare: bastone",
+    "rawHash": "858b2c9886ff29aa463e961ac768f4e25af3c539",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

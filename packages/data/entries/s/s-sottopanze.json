@@ -1,0 +1,21 @@
+{
+  "id": "s-sottopanze",
+  "headword": "sottopanze",
+  "senses": [
+    {
+      "it": "sottopancia in cuoio per l'asino",
+      "en": "leather girth strap for a donkey",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sottopanze: sottopancia in cuoio per l'asino",
+    "rawHash": "091861a487ece6632e0b14d46498d8e6031f41ed",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

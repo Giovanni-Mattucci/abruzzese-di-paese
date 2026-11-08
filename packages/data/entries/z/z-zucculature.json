@@ -1,0 +1,21 @@
+{
+  "id": "z-zucculature",
+  "headword": "zucculature",
+  "senses": [
+    {
+      "it": "battente",
+      "en": "door knocker",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zucculature: battente",
+    "rawHash": "2bc57c1fefbafad59d5441c776d1c8f6f398b920",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

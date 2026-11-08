@@ -1,0 +1,24 @@
+{
+  "id": "l-lettemanuppelle",
+  "headword": "Lettemanuppelle",
+  "senses": [
+    {
+      "it": "Lettomanoppello"
+    },
+    {
+      "it": "località abruzzese",
+      "en": "a locality in Abruzzo",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "Lettemanuppelle: Lettomanoppello, località abruzzese",
+    "rawHash": "668602202df847c013d9f613c888939815381d34",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

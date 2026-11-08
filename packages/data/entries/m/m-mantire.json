@@ -1,0 +1,26 @@
+{
+  "id": "m-mantire",
+  "headword": "mantire",
+  "senses": [
+    {
+      "it": "mantiglia",
+      "en": "mantilla",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "grembiule",
+      "en": "apron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mantire: mantiglia, grembiule",
+    "rawHash": "ffea495403df4ae3bae29cb9ded9a5f4b6e5730d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

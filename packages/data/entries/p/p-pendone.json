@@ -1,0 +1,21 @@
+{
+  "id": "p-pendone",
+  "headword": "pendòne",
+  "senses": [
+    {
+      "it": "angolo",
+      "en": "corner",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pendòne: angolo",
+    "rawHash": "3254961ebe60a5263fbcd320e26053547a2700c4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

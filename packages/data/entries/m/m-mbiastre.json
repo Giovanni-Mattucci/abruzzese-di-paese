@@ -1,0 +1,22 @@
+{
+  "id": "m-mbiastre",
+  "headword": "'mbiastre",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "buono a nulla",
+      "en": "good-for-nothing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbiastre (lu): buono a nulla",
+    "rawHash": "9768dee9d480aae60dfc2b10c2c3547bb7a68331",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

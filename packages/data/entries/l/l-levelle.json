@@ -1,0 +1,21 @@
+{
+  "id": "l-levelle",
+  "headword": "levelle",
+  "senses": [
+    {
+      "it": "livella",
+      "en": "spirit level",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "levelle: livella",
+    "rawHash": "2678d8ac4d89c7607154e0868640e0cf2169873f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

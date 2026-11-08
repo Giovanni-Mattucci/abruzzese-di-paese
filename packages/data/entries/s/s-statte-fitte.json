@@ -1,0 +1,21 @@
+{
+  "id": "s-statte-fitte",
+  "headword": "stàtte fìtte",
+  "senses": [
+    {
+      "it": "stai zitto",
+      "en": "be quiet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stàtte fìtte: stai zitto",
+    "rawHash": "f896c3c8d6f9a227eec8caaf748870c26f4a8840",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

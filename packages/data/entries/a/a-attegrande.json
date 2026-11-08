@@ -1,0 +1,21 @@
+{
+  "id": "a-attegrande",
+  "headword": "attegrande",
+  "senses": [
+    {
+      "it": "defecare, l'atto di espellere le feci",
+      "en": "to defecate, the act of expelling faeces",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "attegrande: defecare, l'atto di espellere le feci",
+    "rawHash": "36b7585be4d06fcdc036f8ab36011d6bfa8a1061",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

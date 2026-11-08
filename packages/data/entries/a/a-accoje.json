@@ -1,0 +1,21 @@
+{
+  "id": "a-accoje",
+  "headword": "accoje",
+  "senses": [
+    {
+      "it": "colpire",
+      "en": "to hit, to strike",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accoje: colpire",
+    "rawHash": "6737809df4e94c554a48d98edab207d4462a731e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

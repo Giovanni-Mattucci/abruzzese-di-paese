@@ -1,0 +1,21 @@
+{
+  "id": "r-riscignole",
+  "headword": "riscignòle",
+  "senses": [
+    {
+      "it": "usignolo",
+      "en": "nightingale",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "riscignòle: usignolo",
+    "rawHash": "b4387533f67cb1dc1d3b401f75784bfb433af801",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-palelle",
+  "headword": "palêlle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "paletta con i bordi laterali rialzati",
+      "en": "small shovel with raised side edges",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "palêlle (la): paletta con i bordi laterali rialzati",
+    "rawHash": "fff3fe589b9fe5e68f76181ce76f74829d41abb9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

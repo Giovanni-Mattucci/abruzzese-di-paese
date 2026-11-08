@@ -1,0 +1,22 @@
+{
+  "id": "t-trufulette",
+  "headword": "trufulêtte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "salvadanai",
+      "en": "piggy banks",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trufulêtte (lu): salvadanai",
+    "rawHash": "0969222f786ff310a155572eac07a3046a7f676a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

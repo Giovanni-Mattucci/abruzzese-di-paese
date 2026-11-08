@@ -1,0 +1,21 @@
+{
+  "id": "p-ppicciarelle",
+  "headword": "ppicciarèlle",
+  "senses": [
+    {
+      "it": "fiammifero",
+      "en": "match, matchstick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "ppicciarèlle: fiammifero",
+    "rawHash": "cf1324bf09b284c09e49679d9575f7c3542f306e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

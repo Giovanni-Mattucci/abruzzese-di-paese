@@ -1,0 +1,21 @@
+{
+  "id": "a-avvisa",
+  "headword": "avvisà",
+  "senses": [
+    {
+      "it": "avvisare",
+      "en": "to warn, to notify",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "avvisà: avvisare",
+    "rawHash": "0eef3a0a29d431fe6e33864a4954b754a95d212d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

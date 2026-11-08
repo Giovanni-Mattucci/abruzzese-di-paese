@@ -1,0 +1,26 @@
+{
+  "id": "r-ruscia-ruscie",
+  "headword": "rùscia rùscie",
+  "senses": [
+    {
+      "it": "rasente",
+      "en": "close to, skimming along",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vicino vicino",
+      "en": "very close, right next to",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rùscia rùscie: rasente, vicino vicino",
+    "rawHash": "d900a101f7e818ff52b96712efa8f7a73980045c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-catenacce",
+  "headword": "catenacce",
+  "senses": [
+    {
+      "it": "corteo nuziale",
+      "en": "wedding procession",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "catenacce: corteo nuziale",
+    "rawHash": "be9a71dba07075d707002796873bf07d66ea1ee7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f-fasciatere",
+  "headword": "fasciatére",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "stoffa che si adoperava per imbracare i neonati",
+      "en": "cloth that was used to swaddle newborns",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fasciatére (lu): stoffa che si adoperava per imbracare i neonati",
+    "rawHash": "4b53419087e3e929fba5ef788d58af3652599078",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

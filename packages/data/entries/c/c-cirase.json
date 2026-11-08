@@ -1,0 +1,21 @@
+{
+  "id": "c-cirase",
+  "headword": "ciràse",
+  "senses": [
+    {
+      "it": "ciliegie",
+      "en": "cherries",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciràse: ciliegie",
+    "rawHash": "a732fa6d9b337992692e25a8d2a4764e45bf3948",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-spenneli",
+  "headword": "spennelì",
+  "senses": [
+    {
+      "it": "cavare il vino dalla botte",
+      "en": "to draw wine from the barrel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spennelì: cavare il vino dalla botte",
+    "rawHash": "8fc53fc81ed3a11204d57f63bafb4805f4671525",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

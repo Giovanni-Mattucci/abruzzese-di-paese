@@ -1,0 +1,21 @@
+{
+  "id": "s-schioera",
+  "headword": "schiòera",
+  "senses": [
+    {
+      "it": "baggianata",
+      "en": "nonsense, foolishness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiòera: baggianata",
+    "rawHash": "d089418453b07f87fc1d6595a657ba37e38a3ddb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

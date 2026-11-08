@@ -1,0 +1,21 @@
+{
+  "id": "s-statire",
+  "headword": "statire",
+  "senses": [
+    {
+      "it": "stadera",
+      "en": "steelyard (balance)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "statire: stadera",
+    "rawHash": "4356fdfc382a9e624745ff7ffa157218f9bad251",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

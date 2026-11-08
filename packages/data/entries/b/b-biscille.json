@@ -1,0 +1,21 @@
+{
+  "id": "b-biscille",
+  "headword": "biscille",
+  "senses": [
+    {
+      "it": "piselli",
+      "en": "peas",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "biscille: piselli",
+    "rawHash": "055f2d191062c0c0f2efa0ee295e737b220296fa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

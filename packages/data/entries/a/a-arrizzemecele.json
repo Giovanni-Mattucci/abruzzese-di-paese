@@ -1,0 +1,21 @@
+{
+  "id": "a-arrizzemecele",
+  "headword": "arrizzèmecele",
+  "senses": [
+    {
+      "it": "alziamocelo",
+      "en": "let us lift it up for ourselves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrizzèmecele: alziamocelo",
+    "rawHash": "36d309fe343d757430caf670eeaf1ca40c739619",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-fronna",
+  "headword": "fronna",
+  "senses": [
+    {
+      "it": "foglia",
+      "en": "leaf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fronna: foglia",
+    "rawHash": "b35e7bbbfd98b78aea751e7287965d8209308374",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

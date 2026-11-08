@@ -1,0 +1,21 @@
+{
+  "id": "s-scridibbele",
+  "headword": "scridìbbele",
+  "senses": [
+    {
+      "it": "diffidente e senza fede",
+      "en": "distrustful and faithless",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scridìbbele: diffidente e senza fede",
+    "rawHash": "2b0fa9db05e342ed22f80213254b39189bbf04b1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

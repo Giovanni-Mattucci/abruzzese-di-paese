@@ -1,0 +1,21 @@
+{
+  "id": "p-piesule",
+  "headword": "piesule",
+  "senses": [
+    {
+      "it": "cavalletti di legno",
+      "en": "wooden trestles",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piesule: cavalletti di legno",
+    "rawHash": "45e542045709a8b5e40d5d0790b00df2995c8fb7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

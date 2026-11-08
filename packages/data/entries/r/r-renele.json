@@ -1,0 +1,25 @@
+{
+  "id": "r-renele",
+  "headword": "rènele",
+  "variants": [
+    "rênnele"
+  ],
+  "article": "la",
+  "senses": [
+    {
+      "it": "rondine",
+      "en": "swallow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rènele, rênnele (la): rondine",
+    "rawHash": "7a1319ab1be4c4354d4bb6a271378b4f973ecfdc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,34 @@
+{
+  "id": "s-sulagna",
+  "headword": "sulagna",
+  "variants": [
+    "sulagne"
+  ],
+  "senses": [
+    {
+      "it": "luogo battuto dal sole",
+      "en": "sun-beaten spot",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "solleone",
+      "en": "blazing summer sun",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "canicola",
+      "en": "dog days, heatwave",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sulagna, sulagne: luogo battuto dal sole, solleone, canicola",
+    "rawHash": "a64ee0ac0aadf99dcecfddd2d2ba50c84cf27624",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

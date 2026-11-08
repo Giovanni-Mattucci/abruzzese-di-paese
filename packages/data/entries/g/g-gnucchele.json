@@ -1,0 +1,20 @@
+{
+  "id": "g-gnucchele",
+  "headword": "gnucchele",
+  "article": "li",
+  "senses": [
+    {
+      "it": "gnocchi"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnucchele (li): gnocchi",
+    "rawHash": "8fe73d17ecd046723ef8e10c916c18d97dc76d8c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

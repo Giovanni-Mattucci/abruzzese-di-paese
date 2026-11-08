@@ -1,0 +1,21 @@
+{
+  "id": "a-abbiricasse",
+  "headword": "abbiricasse",
+  "senses": [
+    {
+      "it": "affrettarsi",
+      "en": "to hurry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbiricasse: affrettarsi",
+    "rawHash": "7a3958b507b3b8c6b9b57eb83d14ac1abfbd3ae1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

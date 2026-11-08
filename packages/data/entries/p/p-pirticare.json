@@ -1,0 +1,21 @@
+{
+  "id": "p-pirticare",
+  "headword": "pirticàre",
+  "senses": [
+    {
+      "it": "aratro con vomero fisso",
+      "en": "plough with a fixed ploughshare",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pirticàre: aratro con vomero fisso",
+    "rawHash": "8da8cf3aabaa8345835d0dac222d867446cc2db0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

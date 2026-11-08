@@ -1,0 +1,21 @@
+{
+  "id": "m-mi-fide-j",
+  "headword": "mi fide ( j )",
+  "senses": [
+    {
+      "it": "io mi fido",
+      "en": "I trust",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mi fide ( j ): io mi fido",
+    "rawHash": "967ba23e53829d3f04eb803fa53a2d2f38067831",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "s-stelle-2",
+  "headword": "stêlle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "stella",
+      "en": "star",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stêlle (la): stella",
+    "rawHash": "b2b57c1e0850c0697ddddf0b3a18bc245fa666c1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

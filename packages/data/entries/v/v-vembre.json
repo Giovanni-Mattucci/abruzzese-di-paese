@@ -1,0 +1,22 @@
+{
+  "id": "v-vembre",
+  "headword": "vembre",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "attrezzo agricolo dalla grande lama, per fare solchi profondi",
+      "en": "farm tool with a large blade, for making deep furrows",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vembre (lu): attrezzo agricolo dalla grande lama, per fare solchi profondi",
+    "rawHash": "bf3ca06eff1aa5f0854a21d1a393400c31d144b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

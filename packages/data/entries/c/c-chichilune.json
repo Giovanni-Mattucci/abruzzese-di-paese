@@ -1,0 +1,26 @@
+{
+  "id": "c-chichilune",
+  "headword": "chichilùne",
+  "senses": [
+    {
+      "it": "pietre grandi",
+      "en": "large stones",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "grandine",
+      "en": "hail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chichilùne: pietre grandi, grandine",
+    "rawHash": "a7b0ab12269d4b595371740620c2cbe34df8cfff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

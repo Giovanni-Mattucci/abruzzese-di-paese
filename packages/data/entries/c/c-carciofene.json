@@ -1,0 +1,21 @@
+{
+  "id": "c-carciofene",
+  "headword": "carciòfene",
+  "senses": [
+    {
+      "it": "carciofo",
+      "en": "artichoke",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carciòfene: carciofo",
+    "rawHash": "f2b320bfbbf9a3d4827ad464028dd2ffb24d8610",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-pezzete",
+  "headword": "pezzéte",
+  "variants": [
+    "pezzute"
+  ],
+  "senses": [
+    {
+      "it": "appuntito",
+      "en": "pointed, sharp",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pezzéte, pezzute: appuntito",
+    "rawHash": "d1c91609aabf17e8e8df5a9ca75a45b19763f8b3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

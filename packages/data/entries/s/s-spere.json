@@ -1,0 +1,21 @@
+{
+  "id": "s-spere",
+  "headword": "spere",
+  "senses": [
+    {
+      "it": "piccolo raggio di sole",
+      "en": "small ray of sunlight",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spere: piccolo raggio di sole",
+    "rawHash": "c6a149eb32143a8e5c4e9a256fa2303ef038cefb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

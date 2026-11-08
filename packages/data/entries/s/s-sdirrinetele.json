@@ -1,0 +1,21 @@
+{
+  "id": "s-sdirrinetele",
+  "headword": "sdirrinètele",
+  "senses": [
+    {
+      "it": "picchiatelo",
+      "en": "beat him (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdirrinètele: picchiatelo",
+    "rawHash": "aade8df656ef00f6a9e58e8499023ccac4db4df7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

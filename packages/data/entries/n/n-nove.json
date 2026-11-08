@@ -1,0 +1,21 @@
+{
+  "id": "n-nove",
+  "headword": "nòve",
+  "senses": [
+    {
+      "it": "nuovo",
+      "en": "new",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nòve: nuovo",
+    "rawHash": "15bb701ba9dd4758fb2dd290053427bc32057c67",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

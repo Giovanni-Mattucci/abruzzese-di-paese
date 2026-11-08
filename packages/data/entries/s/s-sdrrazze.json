@@ -1,0 +1,21 @@
+{
+  "id": "s-sdrrazze",
+  "headword": "sdrrazze",
+  "senses": [
+    {
+      "it": "attrezzo agricolo per togliere il fango dalle scarpe",
+      "en": "farm tool for removing mud from shoes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdrrazze: attrezzo agricolo per togliere il fango dalle scarpe",
+    "rawHash": "e84b51400983a5ca40a8be66071ea41b447bb6a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

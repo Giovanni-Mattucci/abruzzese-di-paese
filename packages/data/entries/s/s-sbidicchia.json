@@ -1,0 +1,26 @@
+{
+  "id": "s-sbidicchia",
+  "headword": "sbidicchia'",
+  "senses": [
+    {
+      "it": "aprire qualcosa chiuso con delle pieghe",
+      "en": "to open something closed up with folds, to unfold",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "sbidicchiaì 'na mappìne, aprire uno strofinaccio che era ripiegato su sé stesso. O, anche sciogliere qualcosa di aggrovigliato."
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbidicchia': aprire qualcosa chiuso con delle pieghe. Es.: sbidicchiaì 'na mappìne, aprire uno strofinaccio che era ripiegato su sé stesso. O, anche sciogliere qualcosa di aggrovigliato.",
+    "rawHash": "e33b986fa6e316da0bdfc11419d6b2dc30b96673",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

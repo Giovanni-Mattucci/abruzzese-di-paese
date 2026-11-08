@@ -1,0 +1,21 @@
+{
+  "id": "c-cuttone",
+  "headword": "cuttòne",
+  "senses": [
+    {
+      "it": "cotone",
+      "en": "cotton",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuttòne: cotone",
+    "rawHash": "55a3bc829a7fdb3dbf8f6e92fbbc96273d9088aa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

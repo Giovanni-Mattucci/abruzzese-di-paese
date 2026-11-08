@@ -1,0 +1,21 @@
+{
+  "id": "a-allauffa",
+  "headword": "all'aùffa",
+  "senses": [
+    {
+      "it": "senza pagare",
+      "en": "without paying",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "all'aùffa: senza pagare",
+    "rawHash": "35dd097c9086a85c8eab45a2f9d844f78cdd70c0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

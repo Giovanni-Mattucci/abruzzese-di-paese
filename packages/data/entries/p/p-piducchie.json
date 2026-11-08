@@ -1,0 +1,26 @@
+{
+  "id": "p-piducchie",
+  "headword": "pidùcchie",
+  "senses": [
+    {
+      "it": "pidocchio",
+      "en": "louse",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "acaro",
+      "en": "mite",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pidùcchie: pidocchio, acaro",
+    "rawHash": "8dd6a4bdd2841bd986c8e121773eef8eeee21b29",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

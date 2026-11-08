@@ -1,0 +1,21 @@
+{
+  "id": "a-abburrita",
+  "headword": "abburrità",
+  "senses": [
+    {
+      "it": "avvolgere",
+      "en": "to wrap, to wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abburrità: avvolgere",
+    "rawHash": "f4f623faaa62989d1b8a2eb4f84da60ae564ec5f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

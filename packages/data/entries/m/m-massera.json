@@ -1,0 +1,26 @@
+{
+  "id": "m-massera",
+  "headword": "massera",
+  "senses": [
+    {
+      "it": "sera",
+      "en": "evening",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "stasera",
+      "en": "this evening, tonight",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "massera: sera, stasera",
+    "rawHash": "36f0a0b5037b051d752a95ea2c4a5469c4209526",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

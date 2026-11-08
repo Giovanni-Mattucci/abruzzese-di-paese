@@ -1,0 +1,21 @@
+{
+  "id": "d-da-ndra",
+  "headword": "da' 'ndrà",
+  "senses": [
+    {
+      "it": "deve entrare",
+      "en": "he/she must enter",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "da' 'ndrà: deve entrare",
+    "rawHash": "5aa09e6c8bd269a5613740b452b06cb1edbb7cd4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

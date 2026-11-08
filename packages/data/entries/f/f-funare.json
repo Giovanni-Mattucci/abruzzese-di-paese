@@ -1,0 +1,22 @@
+{
+  "id": "f-funare",
+  "headword": "funare",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "fabbricante di funi",
+      "en": "rope maker",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "funare (lu): fabbricante di funi",
+    "rawHash": "d58cfa5b7732cb6727db4a83a7792bfac2255c02",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

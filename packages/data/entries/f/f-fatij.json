@@ -1,0 +1,21 @@
+{
+  "id": "f-fatij",
+  "headword": "fatij'",
+  "senses": [
+    {
+      "it": "lavorare",
+      "en": "to work",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fatij': lavorare",
+    "rawHash": "6f0f9a0607797687d67d20b6b1ac3c7f4d5dc392",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

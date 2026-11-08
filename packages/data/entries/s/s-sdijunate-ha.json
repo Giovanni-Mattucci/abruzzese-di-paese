@@ -1,0 +1,21 @@
+{
+  "id": "s-sdijunate-ha",
+  "headword": "sdijunàte (ha)",
+  "senses": [
+    {
+      "it": "ha fatto colazione",
+      "en": "he/she has had breakfast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdijunàte (ha): ha fatto colazione",
+    "rawHash": "7b53a811e61fad33ccc154cba89726a57a3074a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

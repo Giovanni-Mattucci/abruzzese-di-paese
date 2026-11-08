@@ -1,0 +1,21 @@
+{
+  "id": "t-trosamarine",
+  "headword": "trosamarìne",
+  "senses": [
+    {
+      "it": "rosmarino",
+      "en": "rosemary",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trosamarìne: rosmarino",
+    "rawHash": "1e443e929c653940f3a7a6527629a1b82628382a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

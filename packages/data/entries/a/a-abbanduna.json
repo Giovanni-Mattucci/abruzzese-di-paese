@@ -1,0 +1,25 @@
+{
+  "id": "a-abbanduna",
+  "headword": "abbanduna'",
+  "senses": [
+    {
+      "it": "abbandonare",
+      "en": "to abandon",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j abbandòne, tu abbandùne, esse abbandòne, nu abbandunème, vu abbandunète, jsse abbandònene (io abbandono, tu abbandoni, egli abbandona, noi abbandoniamo, voi abbandonate, essi abbandonano).",
+    "Passato: j abbandunìve, ti abbandunìste, esse abbandunò, nu abbandunèmme, vu abbandunèste, jsse abbandunàrene (io abbandonai, tu abbandonasti, egli abbandonò, noi abbandonammo, voi abbandonaste, essi abbandonarono)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbanduna': abbandonare, j abbandòne, tu abbandùne, esse abbandòne, nu abbandunème, vu abbandunète, jsse abbandònene (io abbandono, tu abbandoni, egli abbandona, noi abbandoniamo, voi abbandonate, essi abbandonano). Passato: j abbandunìve, ti abbandunìste, esse abbandunò, nu abbandunèmme, vu abbandunèste, jsse abbandunàrene (io abbandonai, tu abbandonasti, egli abbandonò, noi abbandonammo, voi abbandonaste, essi abbandonarono)",
+    "rawHash": "e965438d163a9457d77dd023f69a285b1d6a72d4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

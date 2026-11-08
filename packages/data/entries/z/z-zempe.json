@@ -1,0 +1,22 @@
+{
+  "id": "z-zempe",
+  "headword": "zêmpe",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "salto",
+      "en": "jump, leap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zêmpe (lu): salto",
+    "rawHash": "9689dea525b0ab115b3ecf45fe195f0c39dc3179",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

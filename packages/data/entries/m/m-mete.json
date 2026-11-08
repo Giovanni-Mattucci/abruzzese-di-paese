@@ -1,0 +1,24 @@
+{
+  "id": "m-mete",
+  "headword": "mète",
+  "variants": [
+    "mètere"
+  ],
+  "senses": [
+    {
+      "it": "mietere",
+      "en": "to reap, to harvest",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mète, mètere: mietere",
+    "rawHash": "8ef2df31c1bc22c0ef2e3119df632e9c84286852",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

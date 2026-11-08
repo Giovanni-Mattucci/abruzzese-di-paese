@@ -1,0 +1,21 @@
+{
+  "id": "s-sfizie",
+  "headword": "sfìzie",
+  "senses": [
+    {
+      "it": "capriccio",
+      "en": "whim",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfìzie: capriccio",
+    "rawHash": "1c77fb8cf75329ef04bb5f65f4e5b7edaa7a81f9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

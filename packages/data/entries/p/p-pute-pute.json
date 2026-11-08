@@ -1,0 +1,21 @@
+{
+  "id": "p-pute-pute",
+  "headword": "pute pute",
+  "senses": [
+    {
+      "it": "calmo calmo",
+      "en": "very calm, nice and calm",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pute pute: calmo calmo",
+    "rawHash": "d076a2c4143b68c972996e1d0604a36b4fd199f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

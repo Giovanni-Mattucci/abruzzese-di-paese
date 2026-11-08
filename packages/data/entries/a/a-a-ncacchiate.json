@@ -1,0 +1,21 @@
+{
+  "id": "a-a-ncacchiate",
+  "headword": "a 'ncacchiate",
+  "senses": [
+    {
+      "it": "ha preso, ha ripreso, detto di piore o pianta che inizia a fiorire",
+      "en": "it has taken, it has revived, said of a flower or plant that begins to bloom",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a 'ncacchiate: ha preso, ha ripreso, detto di piore o pianta che inizia a fiorire",
+    "rawHash": "7dd52c1e97dc2a2bd881d0856083b80accaa8436",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

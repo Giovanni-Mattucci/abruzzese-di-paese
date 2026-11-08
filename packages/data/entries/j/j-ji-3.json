@@ -1,0 +1,26 @@
+{
+  "id": "j-ji-3",
+  "headword": "ji",
+  "senses": [
+    {
+      "it": "i",
+      "en": "the (m. pl.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gli",
+      "en": "to him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ji: i, gli",
+    "rawHash": "6ebb9ae270583773f745feac3b4076804f46546c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

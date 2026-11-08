@@ -1,0 +1,21 @@
+{
+  "id": "s-sardgnule",
+  "headword": "sardgnule",
+  "senses": [
+    {
+      "it": "sardi",
+      "en": "Sardinians",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sardgnule: sardi",
+    "rawHash": "30d95dabdea886f5d4d9d1b7707d3c059787be2e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

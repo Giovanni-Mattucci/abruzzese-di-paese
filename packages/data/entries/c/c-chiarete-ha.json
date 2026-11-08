@@ -1,0 +1,26 @@
+{
+  "id": "c-chiarete-ha",
+  "headword": "chiarète (ha)",
+  "senses": [
+    {
+      "it": "ubriaco",
+      "en": "drunk",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "(ha chiarite: è ubriaco)",
+      "en": "(ha chiarite: he is drunk)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiarète (ha): ubriaco, (ha chiarite: è ubriaco)",
+    "rawHash": "1a9b77c4cdd9e7b08b99493f0119e23cea7c6ed9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

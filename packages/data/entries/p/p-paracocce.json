@@ -1,0 +1,31 @@
+{
+  "id": "p-paracocce",
+  "headword": "paracocce",
+  "senses": [
+    {
+      "it": "motopeschereccio",
+      "en": "motor fishing boat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "battello da pesca",
+      "en": "fishing boat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "a motore",
+      "en": "motor-powered",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paracocce: motopeschereccio, battello da pesca, a motore",
+    "rawHash": "0b85653688e5ea410e2714c4a966f9761f64f8d6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

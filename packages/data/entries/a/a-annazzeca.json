@@ -1,0 +1,29 @@
+{
+  "id": "a-annazzeca",
+  "headword": "annazzecà",
+  "variants": [
+    "annazzicà"
+  ],
+  "senses": [
+    {
+      "it": "dondolare",
+      "en": "to rock, to swing",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cullare",
+      "en": "to cradle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "annazzecà, annazzicà: dondolare, cullare",
+    "rawHash": "7b8a699638edce9a6ae401c372bfbb7914dc5f24",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-scherfuore",
+  "headword": "scherfuore",
+  "senses": [
+    {
+      "it": "pantofole",
+      "en": "slippers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scherfuore: pantofole",
+    "rawHash": "5ba83e39e89a2d0b5ef00b7a432705b7b9656442",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

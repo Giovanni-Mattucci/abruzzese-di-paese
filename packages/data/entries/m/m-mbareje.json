@@ -1,0 +1,26 @@
+{
+  "id": "m-mbareje",
+  "headword": "'mbàreje",
+  "senses": [
+    {
+      "it": "imparagli",
+      "en": "teach him (literally: learn him)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "insegnagli",
+      "en": "teach him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbàreje: imparagli, insegnagli",
+    "rawHash": "38fb140c7cd5e03d22d46da00bfd6bcac99a0177",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

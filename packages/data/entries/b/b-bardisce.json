@@ -1,0 +1,41 @@
+{
+  "id": "b-bardisce",
+  "headword": "bardìsce",
+  "senses": [
+    {
+      "it": "ragazzi",
+      "en": "boys",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bambini",
+      "en": "children",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fanciulli",
+      "en": "young boys",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fanciulle",
+      "en": "young girls",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "adolescenti",
+      "en": "adolescents",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bardìsce: ragazzi, bambini, fanciulli, fanciulle, adolescenti",
+    "rawHash": "2fda0a5786326aedf280fa21b97b4baef5236fe7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

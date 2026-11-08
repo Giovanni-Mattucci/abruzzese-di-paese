@@ -1,0 +1,26 @@
+{
+  "id": "s-scutulete",
+  "headword": "scutulète",
+  "senses": [
+    {
+      "it": "agitate",
+      "en": "you shake (pl.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbattete",
+      "en": "you shake out (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scutulète: agitate, sbattete",
+    "rawHash": "78cb46b26aff73d4965ed073ce006e19d83367d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

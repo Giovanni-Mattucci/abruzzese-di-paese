@@ -1,0 +1,21 @@
+{
+  "id": "p-paparuscia",
+  "headword": "paparùscia",
+  "senses": [
+    {
+      "it": "ragnatela",
+      "en": "spiderweb, cobweb",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "paparùscia: ragnatela",
+    "rawHash": "3b4b9d0188762d8de24bea2a7fec6983c36f5e1a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

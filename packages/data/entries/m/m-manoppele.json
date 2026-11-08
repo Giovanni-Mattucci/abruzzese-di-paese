@@ -1,0 +1,22 @@
+{
+  "id": "m-manoppele",
+  "headword": "manòppele",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "covone",
+      "en": "sheaf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "manòppele (lu): covone",
+    "rawHash": "0c0ae25353a6528ce25128f8d6f0ac3d18dd2656",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

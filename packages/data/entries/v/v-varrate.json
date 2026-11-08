@@ -1,0 +1,21 @@
+{
+  "id": "v-varrate",
+  "headword": "varrate",
+  "senses": [
+    {
+      "it": "mazzate",
+      "en": "blows with a club, beatings",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varrate: mazzate",
+    "rawHash": "39b6a0f071deeec73c81b3bbc4ed320ab7a3c1d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

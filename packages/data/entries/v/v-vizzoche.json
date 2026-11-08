@@ -1,0 +1,26 @@
+{
+  "id": "v-vizzoche",
+  "headword": "vizzoche",
+  "senses": [
+    {
+      "it": "brutta",
+      "en": "ugly (woman)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vecchia",
+      "en": "old (woman)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vizzoche: brutta, vecchia",
+    "rawHash": "416223c51acccd76a3e3b802eba335dbef19728d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

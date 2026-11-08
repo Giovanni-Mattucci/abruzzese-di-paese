@@ -1,0 +1,21 @@
+{
+  "id": "d-di-sguescie",
+  "headword": "di sguèscie",
+  "senses": [
+    {
+      "it": "storto",
+      "en": "crooked, askew",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "di sguèscie: storto",
+    "rawHash": "48ded1e9f27e58de0866f9f25f32cfb0f6710527",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

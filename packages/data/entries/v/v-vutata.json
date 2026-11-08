@@ -1,0 +1,21 @@
+{
+  "id": "v-vutata",
+  "headword": "vutata",
+  "senses": [
+    {
+      "it": "curva a gomito",
+      "en": "sharp bend",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vutata: curva a gomito",
+    "rawHash": "fcac2e992f02ab741ba13bc8480cd1666d78d54d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

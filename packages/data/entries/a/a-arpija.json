@@ -1,0 +1,21 @@
+{
+  "id": "a-arpija",
+  "headword": "arpijà",
+  "senses": [
+    {
+      "it": "riprendere",
+      "en": "to take back, to resume",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arpijà: riprendere",
+    "rawHash": "f4f14497b5ceeceeea19775f2239933b0d6fe32a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

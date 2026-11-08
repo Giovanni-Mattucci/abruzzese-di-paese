@@ -1,0 +1,21 @@
+{
+  "id": "s-strizze",
+  "headword": "strizze",
+  "senses": [
+    {
+      "it": "vento gelido",
+      "en": "icy wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strizze: vento gelido",
+    "rawHash": "5db18c756adee6e4944cb9dc1e90bcbb87e7de81",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

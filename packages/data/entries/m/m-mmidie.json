@@ -1,0 +1,21 @@
+{
+  "id": "m-mmidie",
+  "headword": "mmidie",
+  "senses": [
+    {
+      "it": "invidia",
+      "en": "envy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mmidie: invidia",
+    "rawHash": "d3b41a767e3608057d1aa6e54dfdd4fe1c38e622",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

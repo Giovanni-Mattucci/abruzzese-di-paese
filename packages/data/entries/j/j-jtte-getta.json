@@ -1,0 +1,21 @@
+{
+  "id": "j-jtte-getta",
+  "headword": "jtte",
+  "senses": [
+    {
+      "it": "getta",
+      "en": "throws",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jtte getta",
+    "rawHash": "24b11827f803a9871dab664383d04594efac8ddd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

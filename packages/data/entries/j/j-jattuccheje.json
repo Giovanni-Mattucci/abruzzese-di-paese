@@ -1,0 +1,26 @@
+{
+  "id": "j-jattuccheje",
+  "headword": "jattucchèje",
+  "senses": [
+    {
+      "it": "gli toccava",
+      "en": "it fell to him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gli spettava",
+      "en": "it was due to him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jattucchèje: gli toccava, gli spettava",
+    "rawHash": "237277cd22904eef35f9a1cfca1ae1191a64c06c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

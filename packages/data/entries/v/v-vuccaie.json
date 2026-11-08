@@ -1,0 +1,21 @@
+{
+  "id": "v-vuccaie",
+  "headword": "vuccaie",
+  "senses": [
+    {
+      "it": "bocca",
+      "en": "mouth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vuccaie: bocca",
+    "rawHash": "b1cd4afbbc7e749f9b7aec05dc88e8c7eb9bed95",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

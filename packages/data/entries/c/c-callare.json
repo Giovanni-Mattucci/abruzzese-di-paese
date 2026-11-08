@@ -1,0 +1,27 @@
+{
+  "id": "c-callare",
+  "headword": "callare",
+  "article": "la",
+  "senses": [
+    {
+      "it": "caldaia. Contenitore di rame fondo e rotondo utilizzato per la bollitura di grosse quantità di liquidi. Capacità massima due ettolitri (ddu salme)",
+      "en": "cauldron. Deep, round copper vessel used for boiling large quantities of liquid. Maximum capacity two hectolitres (ddu salme)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "paiolo, piccola caldaia di rame per cucinare",
+      "en": "pot, small copper cauldron for cooking",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "callare (la): caldaia. Contenitore di rame fondo e rotondo utilizzato per la bollitura di grosse quantità di liquidi. Capacità massima due ettolitri (ddu salme). Ma anche paiolo, piccola caldaia di rame per cucinare",
+    "rawHash": "252002bc6e932015535f3d36bfe3b43f8495c5b4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

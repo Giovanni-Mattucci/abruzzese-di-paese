@@ -1,0 +1,24 @@
+{
+  "id": "p-patiuit",
+  "headword": "patiuit",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "digerito",
+      "en": "digested",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "patiuit: digerito (M. sul S.)",
+    "rawHash": "8b078bb636c5b034b930c681642460cf8a004282",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

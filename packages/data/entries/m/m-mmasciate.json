@@ -1,0 +1,26 @@
+{
+  "id": "m-mmasciate",
+  "headword": "mmasciate",
+  "senses": [
+    {
+      "it": "faccenda da sbrigare",
+      "en": "errand, task to be done",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lavori di casa",
+      "en": "housework",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mmasciate: faccenda da sbrigare, lavori di casa",
+    "rawHash": "e4d4d58f654853766acdfb2172bb6c32cb5b3b02",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

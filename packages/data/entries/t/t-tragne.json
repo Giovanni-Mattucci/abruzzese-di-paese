@@ -1,0 +1,25 @@
+{
+  "id": "t-tragne",
+  "headword": "tragne",
+  "variants": [
+    "tragno",
+    "tragnu"
+  ],
+  "senses": [
+    {
+      "it": "secchio",
+      "en": "bucket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tragne, tragno, tragnu: secchio",
+    "rawHash": "470da2085092213d214ef161ab18af6e6978bcff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

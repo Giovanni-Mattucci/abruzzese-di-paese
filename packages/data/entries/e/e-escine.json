@@ -1,0 +1,26 @@
+{
+  "id": "e-escine",
+  "headword": "escìne",
+  "senses": [
+    {
+      "it": "si",
+      "en": "yes",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "va bene",
+      "en": "all right",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "escìne: si, va bene",
+    "rawHash": "cad11d7ab71441ccf28d658a4a0031750442675e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

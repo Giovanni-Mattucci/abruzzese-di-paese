@@ -1,0 +1,21 @@
+{
+  "id": "f-fressaura",
+  "headword": "fressaura",
+  "senses": [
+    {
+      "it": "friggitrice",
+      "en": "fryer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fressaura: friggitrice",
+    "rawHash": "572ba992250922798d44617e6c4325fbd611c0ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

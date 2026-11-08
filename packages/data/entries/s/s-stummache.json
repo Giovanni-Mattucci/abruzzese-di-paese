@@ -1,0 +1,26 @@
+{
+  "id": "s-stummache",
+  "headword": "stummàche",
+  "senses": [
+    {
+      "it": "disturba",
+      "en": "it disturbs",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vomitevole",
+      "en": "sickening",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stummàche: disturba, vomitevole",
+    "rawHash": "c59b5acdd814c2d5e9452621982fe514090b3386",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

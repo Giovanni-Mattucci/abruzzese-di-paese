@@ -1,0 +1,22 @@
+{
+  "id": "m-meijechelle",
+  "headword": "meijechêlle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "mollica",
+      "en": "breadcrumb, soft part of bread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "meijechêlle (la): mollica",
+    "rawHash": "1037604eb1ec35e4aff06317fe8a8ac3d4155f44",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-scanafischia",
+  "headword": "scanafischia",
+  "senses": [
+    {
+      "it": "fessura",
+      "en": "crack, slit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scanafischia: fessura",
+    "rawHash": "6bd02ab39d5e82f74fdd4baf2f9bcb8c35d8abb7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

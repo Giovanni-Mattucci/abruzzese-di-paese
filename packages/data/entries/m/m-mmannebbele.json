@@ -1,0 +1,22 @@
+{
+  "id": "m-mmannebbele",
+  "headword": "'mmannèbbele",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "manovale",
+      "en": "labourer, unskilled workman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mmannèbbele (lu): manovale",
+    "rawHash": "6f9fab82994c4cac830b3c081c78793a8b2fd0ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

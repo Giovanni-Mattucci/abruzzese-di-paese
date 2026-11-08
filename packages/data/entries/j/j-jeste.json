@@ -1,0 +1,26 @@
+{
+  "id": "j-jeste",
+  "headword": "jeste",
+  "senses": [
+    {
+      "it": "costà",
+      "en": "there (where you are)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "questo lato",
+      "en": "this side",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jeste: costà, questo lato",
+    "rawHash": "33c9482a8374182e1bcad25e3ac36cd6c8c6ddbb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

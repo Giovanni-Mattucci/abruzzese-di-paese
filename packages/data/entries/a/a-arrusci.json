@@ -1,0 +1,21 @@
+{
+  "id": "a-arrusci",
+  "headword": "arruscì",
+  "senses": [
+    {
+      "it": "arrossire",
+      "en": "to blush",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arruscì: arrossire",
+    "rawHash": "e30067cb2b65f1772401813cfcb7219b3703ecf1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b-buciu",
+  "headword": "buciu",
+  "variants": [
+    "busce"
+  ],
+  "senses": [
+    {
+      "it": "buco",
+      "en": "hole",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "buciu, busce: buco",
+    "rawHash": "1269fe16d4ee0357ba7928d5e52bab9990fd5242",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

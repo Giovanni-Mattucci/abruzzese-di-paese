@@ -1,0 +1,19 @@
+{
+  "id": "v-vava",
+  "headword": "vava",
+  "senses": [
+    {
+      "it": "saliva"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vava: saliva",
+    "rawHash": "d6c3f4de0f15355ffd40002f4018f21cbb1f1088",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-chissi",
+  "headword": "chissì",
+  "senses": [
+    {
+      "it": "questa",
+      "en": "this (feminine)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chissì: questa,",
+    "rawHash": "03ac0638c3c53248cbdd844b666a19ba6b1a495f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

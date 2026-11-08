@@ -1,0 +1,21 @@
+{
+  "id": "a-armini",
+  "headword": "arminì",
+  "senses": [
+    {
+      "it": "tornare",
+      "en": "to return, to come back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arminì: tornare",
+    "rawHash": "dd37467a331d7983449f7f76347b9455b6eaef24",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

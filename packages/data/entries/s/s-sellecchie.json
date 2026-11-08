@@ -1,0 +1,22 @@
+{
+  "id": "s-sellecchie",
+  "headword": "sellêcchie",
+  "article": "la",
+  "senses": [
+    {
+      "it": "baccello",
+      "en": "pod",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sellêcchie (la): baccello",
+    "rawHash": "d621de60bc83cad79c3ec38961815c9848ec9042",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

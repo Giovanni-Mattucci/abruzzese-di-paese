@@ -1,0 +1,21 @@
+{
+  "id": "s-stritticate",
+  "headword": "stritticàte",
+  "senses": [
+    {
+      "it": "dare una scossa, una mossa a qualcuno o qualcosa",
+      "en": "to give a shake, a jolt to someone or something",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stritticàte: dare una scossa, una mossa a qualcuno o qualcosa",
+    "rawHash": "e576708f847acb169a198a28a57e3b3de97c4e66",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

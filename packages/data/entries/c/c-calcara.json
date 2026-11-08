@@ -1,0 +1,21 @@
+{
+  "id": "c-calcara",
+  "headword": "calcara",
+  "senses": [
+    {
+      "it": "fornace per la calce",
+      "en": "lime kiln",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calcara: fornace per la calce",
+    "rawHash": "c9a45977ed8900ced31844f478875a03efec922a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

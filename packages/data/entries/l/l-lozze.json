@@ -1,0 +1,21 @@
+{
+  "id": "l-lozze",
+  "headword": "lozze",
+  "senses": [
+    {
+      "it": "fango",
+      "en": "mud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lozze: fango",
+    "rawHash": "1af105ffd381ada5249bf59ade7cff13d8e85539",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

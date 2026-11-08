@@ -1,0 +1,22 @@
+{
+  "id": "p-pendeche",
+  "headword": "pendèche",
+  "article": "la",
+  "senses": [
+    {
+      "it": "bottega",
+      "en": "shop, workshop",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pendèche (la): bottega",
+    "rawHash": "d33eb02c0bbeca6276baf883ff7954367c10f076",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

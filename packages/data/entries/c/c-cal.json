@@ -1,0 +1,21 @@
+{
+  "id": "c-cal",
+  "headword": "cal",
+  "senses": [
+    {
+      "it": "passaggio fra la neve",
+      "en": "passage through the snow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cal: passaggio fra la neve",
+    "rawHash": "e8c037d7326748a504dc64e11a66b35fd68a2120",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

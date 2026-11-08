@@ -1,0 +1,21 @@
+{
+  "id": "c-cristijane",
+  "headword": "cristijane",
+  "senses": [
+    {
+      "it": "persona",
+      "en": "person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cristijane: persona",
+    "rawHash": "83164cc203438a44fa6abd642e683661bbaf123a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

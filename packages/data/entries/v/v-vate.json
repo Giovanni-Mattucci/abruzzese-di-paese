@@ -1,0 +1,21 @@
+{
+  "id": "v-vate",
+  "headword": "vate",
+  "senses": [
+    {
+      "it": "poeta",
+      "en": "poet, bard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vate : poeta",
+    "rawHash": "3019a6296d014c389f3412be48ff6ffec6f79dcd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

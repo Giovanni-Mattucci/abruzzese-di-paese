@@ -1,0 +1,21 @@
+{
+  "id": "c-cummende",
+  "headword": "cummende",
+  "senses": [
+    {
+      "it": "convento",
+      "en": "convent",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummende: convento",
+    "rawHash": "385129ae7a62d577346931447b4d9cebaa077613",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

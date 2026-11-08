@@ -1,0 +1,21 @@
+{
+  "id": "c-capille",
+  "headword": "capille",
+  "senses": [
+    {
+      "it": "capelli",
+      "en": "hair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capille: capelli",
+    "rawHash": "d6c3de34926a705cfdd730d5b56e3c703bb4aa70",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

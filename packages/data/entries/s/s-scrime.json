@@ -1,0 +1,32 @@
+{
+  "id": "s-scrime",
+  "headword": "scrìme",
+  "variants": [
+    "sgrìme"
+  ],
+  "senses": [
+    {
+      "it": "scriminatura",
+      "en": "hair parting",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riga fra i capelli",
+      "en": "parting in the hair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: sgrime: riga che divide i capelli"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scrìme, sgrìme: scriminatura, riga fra i capelli",
+    "rawHash": "5d693c25dadc4a2c4da83d401a6e4ae6835a9768",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

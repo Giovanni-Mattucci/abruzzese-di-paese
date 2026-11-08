@@ -1,0 +1,21 @@
+{
+  "id": "p-papere",
+  "headword": "pàpere",
+  "senses": [
+    {
+      "it": "anatra",
+      "en": "duck",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pàpere: anatra",
+    "rawHash": "42035818cd99253960b58eb171fae80f8776b726",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

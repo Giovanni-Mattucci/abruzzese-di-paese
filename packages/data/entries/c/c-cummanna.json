@@ -1,0 +1,21 @@
+{
+  "id": "c-cummanna",
+  "headword": "cummannà",
+  "senses": [
+    {
+      "it": "comamandare",
+      "en": "to command",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummannà: comamandare",
+    "rawHash": "3cf1cd055f2eeeb0224151300e609b49dbdf4f6b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

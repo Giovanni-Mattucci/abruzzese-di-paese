@@ -1,0 +1,21 @@
+{
+  "id": "c-cillite",
+  "headword": "cillìte",
+  "senses": [
+    {
+      "it": "bacato",
+      "en": "worm-eaten",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cillìte: bacato",
+    "rawHash": "161d2259f2cbcb004c963d181fcea524685e6178",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

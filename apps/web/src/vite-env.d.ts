@@ -1,0 +1,10 @@
+/// <reference types="vite/client" />
+
+interface ImportMetaEnv {
+  readonly VITE_BASE_PATH?: string;
+  readonly VITE_FLAG_DESIGN_V2?: string;
+}
+
+interface ImportMeta {
+  readonly env: ImportMetaEnv;
+}

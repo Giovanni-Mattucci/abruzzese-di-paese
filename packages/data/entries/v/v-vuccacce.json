@@ -1,0 +1,21 @@
+{
+  "id": "v-vuccacce",
+  "headword": "vuccacce",
+  "senses": [
+    {
+      "it": "boccaccia in senso dispregiativo",
+      "en": "big mouth, in a derogatory sense",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vuccacce: boccaccia in senso dispregiativo",
+    "rawHash": "0e60d61c6d424a0bd3061df469f0fe4ce83ee45c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

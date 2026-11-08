@@ -1,0 +1,21 @@
+{
+  "id": "o-ogna",
+  "headword": "ogna",
+  "senses": [
+    {
+      "it": "unghia",
+      "en": "nail, fingernail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "o",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/o.html",
+    "raw": "ogna: unghia",
+    "rawHash": "4e240e758ea7c58ee679794b0d16cbd4463f1164",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

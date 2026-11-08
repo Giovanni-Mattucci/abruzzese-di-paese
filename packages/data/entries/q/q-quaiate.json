@@ -1,0 +1,21 @@
+{
+  "id": "q-quaiate",
+  "headword": "quaiate",
+  "senses": [
+    {
+      "it": "quagliata (del latte)",
+      "en": "curd (of milk), curdled milk",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quaiate: quagliata (del latte)",
+    "rawHash": "e037dce7f8aa3e8d71a1e1b46d67da98668b7151",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,29 @@
+{
+  "id": "s-scorta",
+  "headword": "scorta",
+  "variants": [
+    "scorte (a)"
+  ],
+  "senses": [
+    {
+      "it": "finita",
+      "en": "finished (f.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "finito",
+      "en": "finished (m.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scorta, scorte (a): finita, finito",
+    "rawHash": "532b634bdf056cc7afb7f1655306af80cdcc7498",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-spina-virsal",
+  "headword": "spina virsal",
+  "senses": [
+    {
+      "it": "spina dorsale",
+      "en": "spine, backbone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spina virsal: spina dorsale",
+    "rawHash": "0e3366bdc8d51b849bbc161611885233d3df9990",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "l-liculle",
+  "headword": "liculle",
+  "senses": [
+    {
+      "it": "i colli",
+      "en": "the hills",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "liculle: i colli",
+    "rawHash": "efb6c30918e2cf7c6cfccdcfdfb81d1e45f59a54",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,36 @@
+{
+  "id": "a-abbocche",
+  "headword": "abbocche",
+  "senses": [
+    {
+      "it": "abbocca",
+      "en": "takes the bait",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci casca",
+      "en": "falls for it",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cade nella trappola",
+      "en": "falls into the trap",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci crede",
+      "en": "believes it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbocche: abbocca, ci casca, cade nella trappola, ci crede",
+    "rawHash": "08842f2173210a22e38fa2f4582200605a170460",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

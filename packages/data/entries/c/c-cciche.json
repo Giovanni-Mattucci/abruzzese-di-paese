@@ -1,0 +1,21 @@
+{
+  "id": "c-cciche",
+  "headword": "cciche",
+  "senses": [
+    {
+      "it": "piccole",
+      "en": "small (feminine plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cciche: piccole",
+    "rawHash": "ddd4ef12db2eba5427d994264cfccf88b119e454",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

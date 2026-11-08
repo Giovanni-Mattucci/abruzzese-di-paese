@@ -1,0 +1,22 @@
+{
+  "id": "d-dindalo",
+  "headword": "dindalò",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dindalò (lu): altalena",
+    "rawHash": "fead8a24c569275e07d23a9b181f280c80bc440d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

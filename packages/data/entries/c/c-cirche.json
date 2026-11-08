@@ -1,0 +1,21 @@
+{
+  "id": "c-cirche",
+  "headword": "circhè",
+  "senses": [
+    {
+      "it": "cercare",
+      "en": "to look for, to seek",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "circhè: cercare",
+    "rawHash": "9396453e4973a40431f1768d6d304bc53a8a2e5d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

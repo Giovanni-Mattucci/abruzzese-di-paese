@@ -1,0 +1,21 @@
+{
+  "id": "j-ja-sate",
+  "headword": "ja sate",
+  "senses": [
+    {
+      "it": "gli è salito",
+      "en": "it rose on him, it went up on him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja sate: gli è salito",
+    "rawHash": "cf13a6c9b2b24aa17bcf235b9b23874004a69d7b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

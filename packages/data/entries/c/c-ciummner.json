@@ -1,0 +1,24 @@
+{
+  "id": "c-ciummner",
+  "headword": "ciummner",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "ciminiera o camino",
+      "en": "chimney or fireplace",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciummner: ciminiera o camino (M. sul S.)",
+    "rawHash": "01f34f20a90c79a36b218aed5d2952cb825b0d10",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

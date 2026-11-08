@@ -1,0 +1,21 @@
+{
+  "id": "p-pittilarie",
+  "headword": "pittilarìe",
+  "senses": [
+    {
+      "it": "pettegolezzo",
+      "en": "gossip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pittilarìe: pettegolezzo",
+    "rawHash": "571a5ac00b0d877f3a7b850e8ee77e60bc30115c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

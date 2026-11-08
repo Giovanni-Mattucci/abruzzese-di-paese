@@ -1,0 +1,21 @@
+{
+  "id": "m-mmece",
+  "headword": "'mmèce",
+  "senses": [
+    {
+      "it": "invece",
+      "en": "instead",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mmèce: invece",
+    "rawHash": "cdf06928aef97796e77816f209e14b295478593b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

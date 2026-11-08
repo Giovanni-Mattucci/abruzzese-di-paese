@@ -1,0 +1,22 @@
+{
+  "id": "s-struscelarelle",
+  "headword": "struscelarélle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "scivolo",
+      "en": "slide",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "struscelarélle (la): scivolo",
+    "rawHash": "1672ddae46488328b34b230dccbc2bf4f29771fb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cruja",
+  "headword": "cruja",
+  "senses": [
+    {
+      "it": "grinza",
+      "en": "wrinkle, crease",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cruja: grinza",
+    "rawHash": "a7b09a1a1b437a5874af4a144e370f9f23ea58b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

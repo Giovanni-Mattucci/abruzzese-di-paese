@@ -1,0 +1,29 @@
+{
+  "id": "c-chi-sci-ccise",
+  "headword": "chi scì 'ccise",
+  "variants": [
+    "chisciccìse"
+  ],
+  "senses": [
+    {
+      "it": "mannaggia",
+      "en": "damn it",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "accidenti",
+      "en": "damn, blast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chi scì 'ccise, chisciccìse: mannaggia, accidenti",
+    "rawHash": "8dc34e8bc1e59996cc6aec5f89923d1caf314b03",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

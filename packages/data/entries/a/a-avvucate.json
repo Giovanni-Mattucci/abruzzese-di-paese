@@ -1,0 +1,21 @@
+{
+  "id": "a-avvucate",
+  "headword": "avvucàte",
+  "senses": [
+    {
+      "it": "avvocato",
+      "en": "lawyer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "avvucàte: avvocato",
+    "rawHash": "3e2ce27f8a4836eace325b050130c9e8784b396e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

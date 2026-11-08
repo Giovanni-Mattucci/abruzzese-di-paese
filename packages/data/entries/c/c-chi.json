@@ -1,0 +1,27 @@
+{
+  "id": "c-chi",
+  "headword": "chi",
+  "pos": "pron.",
+  "senses": [
+    {
+      "it": "che",
+      "en": "that, which",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "chi fatte? Che hai fatto?"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chi: che (pron.) (Es.: chi fatte? Che hai fatto?)",
+    "rawHash": "d1203569a2e5fca1ea9b653c1704b7c1da251807",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mugneture",
+  "headword": "mugneture",
+  "senses": [
+    {
+      "it": "recinto per la mungitura",
+      "en": "milking pen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mugneture: recinto per la mungitura",
+    "rawHash": "b27730c09d91d4e75e119e7b3f2cd9cd9e2a7140",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

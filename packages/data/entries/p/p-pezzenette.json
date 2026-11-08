@@ -1,0 +1,22 @@
+{
+  "id": "p-pezzenette",
+  "headword": "pezzenétte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "teglia in ferro con piedi e manico per friggere sul focolare",
+      "en": "iron pan with feet and a handle for frying on the hearth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pezzenétte (lu): teglia in ferro con piedi e manico per friggere sul focolare",
+    "rawHash": "657c1491355b6007b8d189f14659f4a7695f098a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

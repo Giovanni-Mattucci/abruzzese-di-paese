@@ -1,0 +1,21 @@
+{
+  "id": "m-mbigne",
+  "headword": "'mbigne",
+  "senses": [
+    {
+      "it": "tomaio, la parte superiore della scarpa che fascia il piede",
+      "en": "upper, the top part of the shoe that wraps the foot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbigne: tomaio, la parte superiore della scarpa che fascia il piede",
+    "rawHash": "d89ea6cef8e76fc8fb118fb3ca2c68c10bd1eb75",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

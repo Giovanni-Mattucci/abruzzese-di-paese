@@ -1,0 +1,21 @@
+{
+  "id": "s-striate",
+  "headword": "striàte",
+  "senses": [
+    {
+      "it": "a strisce",
+      "en": "striped",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "striàte: a strisce",
+    "rawHash": "add8eb416f6e2bf4aa7b80654a413876934fff91",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

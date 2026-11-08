@@ -1,0 +1,21 @@
+{
+  "id": "s-sturcineme",
+  "headword": "sturcinème",
+  "senses": [
+    {
+      "it": "svolgiamo",
+      "en": "we unwind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sturcinème: svolgiamo",
+    "rawHash": "5a2cba1233b80fa071250181b9c723acb474484f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

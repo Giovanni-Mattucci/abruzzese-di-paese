@@ -1,0 +1,21 @@
+{
+  "id": "v-vave",
+  "headword": "vave",
+  "senses": [
+    {
+      "it": "bava",
+      "en": "drool, slobber",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vave : bava",
+    "rawHash": "fa25e7663f0d2fddd5a6580ed157a08b1674b50e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

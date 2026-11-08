@@ -1,0 +1,21 @@
+{
+  "id": "p-pipindune-cucinte-peperoni",
+  "headword": "pipindùne cucìnte",
+  "senses": [
+    {
+      "it": "peperoni piccanti",
+      "en": "hot peppers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pipindùne cucìnte peperoni piccanti",
+    "rawHash": "5c4e2dd61583018d162b71f23846821cdb9d64e8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

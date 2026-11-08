@@ -1,0 +1,27 @@
+{
+  "id": "m-mbrezzechi",
+  "headword": "'mbrezzechì",
+  "variants": [
+    "'mbrizzicà"
+  ],
+  "senses": [
+    {
+      "it": "infilzare",
+      "en": "to pierce, to skewer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: 'mbrizzicà: infilzare"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbrezzechì, 'mbrizzicà: infilzare",
+    "rawHash": "1f0818632199901b9f934a490c12532703dc3389",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

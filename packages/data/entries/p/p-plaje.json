@@ -1,0 +1,21 @@
+{
+  "id": "p-plaje",
+  "headword": "plaje",
+  "senses": [
+    {
+      "it": "nudi pianori montani",
+      "en": "bare mountain plateaus",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "plaje: nudi pianori montani",
+    "rawHash": "e8a6490fd68c86dadbcdd7b3624af6784cbd7f15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

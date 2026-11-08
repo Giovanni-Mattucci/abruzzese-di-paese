@@ -1,0 +1,21 @@
+{
+  "id": "z-zepponte",
+  "headword": "zepponte",
+  "senses": [
+    {
+      "it": "zeppa",
+      "en": "wedge, shim",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zepponte: zeppa",
+    "rawHash": "9c788a3349e4adc7e4c8f17aa6fc0327a8d81cbf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

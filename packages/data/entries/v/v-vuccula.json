@@ -1,0 +1,21 @@
+{
+  "id": "v-vuccula",
+  "headword": "vuccula",
+  "senses": [
+    {
+      "it": "gancio di ferro",
+      "en": "iron hook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vuccula: gancio di ferro",
+    "rawHash": "4b9e1dcd645624a946aaa565b30447011fa0807b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

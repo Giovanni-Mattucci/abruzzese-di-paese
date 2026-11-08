@@ -1,0 +1,21 @@
+{
+  "id": "c-calandre",
+  "headword": "calandre",
+  "senses": [
+    {
+      "it": "allodola",
+      "en": "lark, skylark",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calandre: allodola",
+    "rawHash": "5b5a1afc0cba535a6841a6e03b09b74eb19f989a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-frusciare",
+  "headword": "frusciare",
+  "senses": [
+    {
+      "it": "catasta di fascine ancora con le foglie (fruosce)",
+      "en": "pile of bundles of twigs still with their leaves (fruosce)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frusciare: catasta di fascine ancora con le foglie (fruosce)",
+    "rawHash": "29c4bd37f72b733ccd76a9db89cddff8c1da3ff5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

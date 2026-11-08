@@ -1,0 +1,26 @@
+{
+  "id": "s-scamate",
+  "headword": "scamàte",
+  "senses": [
+    {
+      "it": "campreso",
+      "en": "comprehended",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "capito",
+      "en": "understood",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scamàte: campreso, capito",
+    "rawHash": "823955c8e48bfd0134a41f7654d72936ba8be96c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

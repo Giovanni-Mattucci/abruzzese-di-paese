@@ -1,0 +1,27 @@
+{
+  "id": "c-caglinacciu",
+  "headword": "caglinàcciu",
+  "variants": [
+    "caglinacciu"
+  ],
+  "senses": [
+    {
+      "it": "tacchino",
+      "en": "turkey",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: caglinacciu: tacchino"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caglinàcciu: tacchino",
+    "rawHash": "76382e281d04cbeb3b141fd5da1a82af3db034fe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

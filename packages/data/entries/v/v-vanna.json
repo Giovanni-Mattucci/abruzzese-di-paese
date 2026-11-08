@@ -1,0 +1,26 @@
+{
+  "id": "v-vanna",
+  "headword": "vanna",
+  "senses": [
+    {
+      "it": "parte",
+      "en": "side, part",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "luogo",
+      "en": "place",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vanna: parte, luogo",
+    "rawHash": "91653773294170072db0b7ad084dfdef170796ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

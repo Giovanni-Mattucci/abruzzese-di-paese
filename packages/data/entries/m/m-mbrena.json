@@ -1,0 +1,21 @@
+{
+  "id": "m-mbrena",
+  "headword": "'mbrenà",
+  "senses": [
+    {
+      "it": "rendere incinta",
+      "en": "to get (a woman) pregnant",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbrenà: rendere incinta",
+    "rawHash": "59fd343553a39b159f11050a6474c8ccfd4098fe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

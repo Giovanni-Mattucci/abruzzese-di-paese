@@ -1,0 +1,21 @@
+{
+  "id": "a-assacchija",
+  "headword": "assacchijà",
+  "senses": [
+    {
+      "it": "a saccheggiare",
+      "en": "to plunder, to sack",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assacchijà: a saccheggiare",
+    "rawHash": "b4dd1555dc027f4539d7fb85fa34be5e21e1765c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

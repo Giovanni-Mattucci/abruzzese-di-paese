@@ -1,0 +1,21 @@
+{
+  "id": "s-strippeteje",
+  "headword": "strippèteje",
+  "senses": [
+    {
+      "it": "afferrate e tirate con forza",
+      "en": "grab and pull hard (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strippèteje: afferrate e tirate con forza",
+    "rawHash": "fd8f83c2ec102d79a7b002e09f65df8bc6124928",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

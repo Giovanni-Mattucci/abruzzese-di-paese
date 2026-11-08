@@ -1,0 +1,21 @@
+{
+  "id": "a-auardetevele",
+  "headword": "auardètevele",
+  "senses": [
+    {
+      "it": "guardatevelo",
+      "en": "take a look at it (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "auardètevele: guardatevelo",
+    "rawHash": "63fc8dbe780c2adbbbe6be8a59aea51224e6bdc5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

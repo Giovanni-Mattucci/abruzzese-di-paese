@@ -1,0 +1,20 @@
+{
+  "id": "s-streppare",
+  "headword": "streppare",
+  "article": "la",
+  "senses": [
+    {
+      "it": "sterpara"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "streppare (la): sterpara",
+    "rawHash": "3117c8b8833e993aed3a1b9c1dc99bdc06c359b5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

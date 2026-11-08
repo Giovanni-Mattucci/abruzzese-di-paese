@@ -1,0 +1,26 @@
+{
+  "id": "c-cacchie",
+  "headword": "càcchie",
+  "senses": [
+    {
+      "it": "germoglio",
+      "en": "sprout, shoot",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gemma",
+      "en": "bud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "càcchie: germoglio, gemma",
+    "rawHash": "f58c96f1b24b9801839715f30b78d23e50c9b074",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cucumaija",
+  "headword": "cucumaija",
+  "senses": [
+    {
+      "it": "ardere senza fiamma",
+      "en": "to smoulder, to burn without flame",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucumaija: ardere senza fiamma",
+    "rawHash": "99e98dddfd1e7b5eed89f079eeb5e55562b74bc6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

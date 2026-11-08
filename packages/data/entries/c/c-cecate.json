@@ -1,0 +1,21 @@
+{
+  "id": "c-cecate",
+  "headword": "cecate",
+  "senses": [
+    {
+      "it": "cieco",
+      "en": "blind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cecate: cieco",
+    "rawHash": "972973b0f6ab598a0ef33ae60c2c1e82418543f3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

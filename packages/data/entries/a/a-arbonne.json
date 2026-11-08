@@ -1,0 +1,21 @@
+{
+  "id": "a-arbonne",
+  "headword": "arbònne",
+  "senses": [
+    {
+      "it": "che va di traverso, riferito a boccone che resta in gola",
+      "en": "that goes down the wrong way, said of a mouthful that gets stuck in the throat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arbònne: che va di traverso, riferito a boccone che resta in gola",
+    "rawHash": "6b25f0c38712059d239ff6265927d04ce131e477",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

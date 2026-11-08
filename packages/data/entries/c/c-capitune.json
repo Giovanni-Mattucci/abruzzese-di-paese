@@ -1,0 +1,21 @@
+{
+  "id": "c-capitune",
+  "headword": "capitune",
+  "senses": [
+    {
+      "it": "anguille di grandi dimensioni",
+      "en": "large eels",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capitune: anguille di grandi dimensioni",
+    "rawHash": "d964b5d212de1ff2ba3f6fb7c6129466436a3413",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

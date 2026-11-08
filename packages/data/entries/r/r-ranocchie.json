@@ -1,0 +1,21 @@
+{
+  "id": "r-ranocchie",
+  "headword": "ranocchie",
+  "senses": [
+    {
+      "it": "rana",
+      "en": "frog",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ranocchie: rana",
+    "rawHash": "efe8ef7fbc170f4787520ade1395ae8479df19aa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

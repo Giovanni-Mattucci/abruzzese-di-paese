@@ -1,0 +1,21 @@
+{
+  "id": "c-ciammaglica",
+  "headword": "ciammaglica",
+  "senses": [
+    {
+      "it": "generico per lumaca",
+      "en": "generic term for snail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciammaglica: generico per lumaca",
+    "rawHash": "c6130873b11ae931f1824c241803ca0de562733f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

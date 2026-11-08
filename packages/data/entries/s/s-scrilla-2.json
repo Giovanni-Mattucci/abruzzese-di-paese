@@ -1,0 +1,21 @@
+{
+  "id": "s-scrilla-2",
+  "headword": "scrillà",
+  "senses": [
+    {
+      "it": "tirare o torcersi le dita per farle scrocchiare",
+      "en": "to pull or twist one's fingers to make them crack",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scrillà: tirare o torcersi le dita per farle scrocchiare",
+    "rawHash": "8d01891885de0c225b6983520f8c234a45a56df2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

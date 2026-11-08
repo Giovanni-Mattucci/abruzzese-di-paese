@@ -1,0 +1,26 @@
+{
+  "id": "t-ttoneche",
+  "headword": "ttòneche",
+  "senses": [
+    {
+      "it": "tonaca",
+      "en": "cassock",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ttòneche de ggnostre tonaca nera (inchiostro) del prete",
+      "en": "ttòneche de ggnostre: the priest's black cassock (ink)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "ttòneche: tonaca; ttòneche de ggnostre tonaca nera (inchiostro) del prete.",
+    "rawHash": "4f4dc5a271c3205649604e76084821e4cf2b90c0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

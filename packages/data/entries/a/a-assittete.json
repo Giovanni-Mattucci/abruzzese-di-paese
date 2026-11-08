@@ -1,0 +1,21 @@
+{
+  "id": "a-assittete",
+  "headword": "assìttete",
+  "senses": [
+    {
+      "it": "siediti",
+      "en": "sit down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assìttete. siediti",
+    "rawHash": "f7527b3129ec2cd8ff45cb73504eef24e8e5d48f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

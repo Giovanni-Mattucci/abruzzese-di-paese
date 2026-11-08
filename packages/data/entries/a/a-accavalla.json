@@ -1,0 +1,21 @@
+{
+  "id": "a-accavalla",
+  "headword": "accavallà",
+  "senses": [
+    {
+      "it": "superare in ostacolo",
+      "en": "to get over an obstacle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accavallà: superare in ostacolo",
+    "rawHash": "f06595085c0f6127695768cb362d9465b0970800",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

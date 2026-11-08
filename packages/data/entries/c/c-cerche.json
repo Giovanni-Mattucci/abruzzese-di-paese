@@ -1,0 +1,22 @@
+{
+  "id": "c-cerche",
+  "headword": "cèrche",
+  "article": "la",
+  "senses": [
+    {
+      "it": "questua",
+      "en": "collection of alms, begging round",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cèrche (la): questua",
+    "rawHash": "32b32aa95b471f8fc35e13a72e5d6e78f86671f0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

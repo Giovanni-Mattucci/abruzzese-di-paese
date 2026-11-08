@@ -1,0 +1,21 @@
+{
+  "id": "v-varvajozze",
+  "headword": "varvajozze",
+  "senses": [
+    {
+      "it": "doppio mento",
+      "en": "double chin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varvajozze: doppio mento",
+    "rawHash": "8860729f7ba1ebe527a97decefb6fcbd044e2da9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

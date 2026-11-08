@@ -1,0 +1,21 @@
+{
+  "id": "b-bbumbarde",
+  "headword": "bbumbàrde",
+  "senses": [
+    {
+      "it": "bombarda (tipo di artiglieria a tiro curvo)",
+      "en": "bombard (type of high-angle artillery)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbumbàrde: bombarda (tipo di artiglieria a tiro curvo)",
+    "rawHash": "dd6f85a309ee04d77b01fdbc08e6635a040b22bb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

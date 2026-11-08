@@ -1,0 +1,26 @@
+{
+  "id": "m-mardate",
+  "headword": "m'ardàte",
+  "senses": [
+    {
+      "it": "mi ha ridato",
+      "en": "he/she gave it back to me",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mi ha restituito",
+      "en": "he/she returned it to me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m'ardàte: mi ha ridato, mi ha restituito",
+    "rawHash": "5a0350c7ffbc9253a1cb781113fd433bf843d9c4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

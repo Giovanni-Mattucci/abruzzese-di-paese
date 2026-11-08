@@ -1,0 +1,21 @@
+{
+  "id": "s-scarole",
+  "headword": "scarole",
+  "senses": [
+    {
+      "it": "lattuga selvatica",
+      "en": "wild lettuce",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarole: lattuga selvatica",
+    "rawHash": "79d763c7fc14d59af5e8952021d055a5adf7744c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

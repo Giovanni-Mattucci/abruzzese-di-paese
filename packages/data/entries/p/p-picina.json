@@ -1,0 +1,21 @@
+{
+  "id": "p-picina",
+  "headword": "picìna",
+  "senses": [
+    {
+      "it": "figa",
+      "en": "pussy (vulgar: vulva)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "picìna: figa",
+    "rawHash": "cee569c5fa2b9a50a5aa38f7802cc6378f581413",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

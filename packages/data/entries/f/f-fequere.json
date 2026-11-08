@@ -1,0 +1,22 @@
+{
+  "id": "f-fequere",
+  "headword": "fèquere",
+  "article": "la",
+  "senses": [
+    {
+      "it": "fico",
+      "en": "fig",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fèquere (la): fico",
+    "rawHash": "b232443f5fea618b28f6ded402050a0d2e96fb2b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

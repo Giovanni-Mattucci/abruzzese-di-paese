@@ -1,0 +1,27 @@
+{
+  "id": "s-stropele",
+  "headword": "stròpele",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "cerbottana",
+      "en": "blowpipe",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "uomo di bassa statura",
+      "en": "short man",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stròpele (lu): cerbottana, uomo di bassa statura",
+    "rawHash": "e2dcda05b5e7c54b22493f95a1d5a24eab153674",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

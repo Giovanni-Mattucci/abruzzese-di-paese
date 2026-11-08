@@ -1,0 +1,21 @@
+{
+  "id": "s-schijoppe",
+  "headword": "schijòppe",
+  "senses": [
+    {
+      "it": "fucile",
+      "en": "rifle, shotgun",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schijòppe: fucile",
+    "rawHash": "4ca0a6b2e12eb78a3f6fd83312363af0912d311a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

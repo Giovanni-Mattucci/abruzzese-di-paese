@@ -1,0 +1,26 @@
+{
+  "id": "f-furmose",
+  "headword": "furmose",
+  "senses": [
+    {
+      "it": "grande",
+      "en": "large",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "formoso",
+      "en": "shapely",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "furmose: grande, formoso",
+    "rawHash": "181ead043e427165c121f6493151fd9add8f6fdc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

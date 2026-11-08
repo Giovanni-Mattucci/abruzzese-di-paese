@@ -1,0 +1,21 @@
+{
+  "id": "a-ammazzoccato",
+  "headword": "ammazzoccàto",
+  "senses": [
+    {
+      "it": "riferito al pane non cotto bene",
+      "en": "referring to bread that is not well baked",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammazzoccàto: riferito al pane non cotto bene",
+    "rawHash": "c0f07ffef67d91b4f667538ac03f3f2d60a04fc3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

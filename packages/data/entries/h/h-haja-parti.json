@@ -1,0 +1,21 @@
+{
+  "id": "h-haja-parti",
+  "headword": "haja partì",
+  "senses": [
+    {
+      "it": "devo partire",
+      "en": "I have to leave",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "haja partì: devo partire",
+    "rawHash": "879da84f653d756d627136fc1f1c2d2b60019744",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

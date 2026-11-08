@@ -1,0 +1,21 @@
+{
+  "id": "a-appacimo",
+  "headword": "appacìmo",
+  "senses": [
+    {
+      "it": "di cosa rivolta al nord, dove d'inverno non batte",
+      "en": "of something facing north, where the sun does not strike in winter",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appacìmo: di cosa rivolta al nord, dove d'inverno non batte",
+    "rawHash": "b16374fec8bb9ff622f74d651b82c4e9a4469113",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

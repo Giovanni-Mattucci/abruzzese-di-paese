@@ -1,0 +1,26 @@
+{
+  "id": "a-adurie",
+  "headword": "adùrie",
+  "senses": [
+    {
+      "it": "governa",
+      "en": "tends, looks after (the animals)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "adùrie lu vitèlle, ovvero, governa il vitello)"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "adùrie: governa, es.: adùrie lu vitèlle, ovvero, governa il vitello)",
+    "rawHash": "9c08ae90a4c9e0f00454809583911dfaf849aa18",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

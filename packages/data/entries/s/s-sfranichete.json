@@ -1,0 +1,21 @@
+{
+  "id": "s-sfranichete",
+  "headword": "sfranichète",
+  "senses": [
+    {
+      "it": "sbricciolate",
+      "en": "you crumble (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfranichète: sbricciolate",
+    "rawHash": "f22c47e6990d73daec59a8b92cb697676c8908a5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

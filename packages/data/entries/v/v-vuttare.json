@@ -1,0 +1,21 @@
+{
+  "id": "v-vuttare",
+  "headword": "vuttare",
+  "senses": [
+    {
+      "it": "buttero",
+      "en": "buttero (mounted herdsman)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vuttare: buttero",
+    "rawHash": "2a4b0769690cd79d1bd42a84274c942b844192d6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

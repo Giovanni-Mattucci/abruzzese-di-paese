@@ -1,0 +1,21 @@
+{
+  "id": "a-abbruschia",
+  "headword": "abbruschià",
+  "senses": [
+    {
+      "it": "abbrustolire",
+      "en": "to toast, to roast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbruschià: abbrustolire",
+    "rawHash": "5929da5a9eee54dad2168cc0dd5da9d055a50e3f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

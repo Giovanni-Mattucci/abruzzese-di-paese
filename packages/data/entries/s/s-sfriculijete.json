@@ -1,0 +1,21 @@
+{
+  "id": "s-sfriculijete",
+  "headword": "sfriculijète",
+  "senses": [
+    {
+      "it": "stuzzicate",
+      "en": "you tease (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfriculijète: stuzzicate",
+    "rawHash": "33dc5ce5c481fc34e28a2f16f758775d17024ef1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

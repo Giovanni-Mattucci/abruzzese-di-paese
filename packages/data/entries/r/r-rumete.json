@@ -1,0 +1,29 @@
+{
+  "id": "r-rumete",
+  "headword": "rumete",
+  "variants": [
+    "rumìte"
+  ],
+  "senses": [
+    {
+      "it": "eremita",
+      "en": "hermit",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "persona solitaria",
+      "en": "solitary person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rumete, rumìte: eremita, persona solitaria",
+    "rawHash": "51fd541d055ef26fb0774bb61ed3abcfb01e003d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

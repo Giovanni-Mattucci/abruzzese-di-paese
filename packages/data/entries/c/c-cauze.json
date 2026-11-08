@@ -1,0 +1,21 @@
+{
+  "id": "c-cauze",
+  "headword": "cauze",
+  "senses": [
+    {
+      "it": "pantaloni",
+      "en": "trousers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cauze:pantaloni",
+    "rawHash": "f137264cf4061949e98f7ad7f65b46a9bd2e9c4c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "r-runghette",
+  "headword": "runghêtte",
+  "article": "la",
+  "senses": [
+    {
+      "it": "piccola falce",
+      "en": "small sickle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "runghêtte (la): piccola falce",
+    "rawHash": "17ab40b4690d27ae18ffc6c59035fb2fef0a2e9c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-ciammariche",
+  "headword": "ciammarìche",
+  "senses": [
+    {
+      "it": "lumache",
+      "en": "snails",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciammarìche: lumache",
+    "rawHash": "355c596151fcd89c42b6d505da80d4536c2b92b4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

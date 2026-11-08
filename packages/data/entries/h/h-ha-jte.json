@@ -1,0 +1,21 @@
+{
+  "id": "h-ha-jte",
+  "headword": "ha jte",
+  "senses": [
+    {
+      "it": "è andato",
+      "en": "he has gone, he went",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "ha jte: è andato",
+    "rawHash": "abccde432f41da0f19b5405d439e055ddd558f98",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

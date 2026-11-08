@@ -1,0 +1,21 @@
+{
+  "id": "c-ciprigne",
+  "headword": "ciprigne",
+  "senses": [
+    {
+      "it": "la luna",
+      "en": "the moon",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciprigne: la luna",
+    "rawHash": "c04545eeff0340621f8287a32a8427570c384ea6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

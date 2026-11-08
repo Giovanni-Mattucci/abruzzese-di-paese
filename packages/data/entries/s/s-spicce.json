@@ -1,0 +1,21 @@
+{
+  "id": "s-spicce",
+  "headword": "spicce",
+  "senses": [
+    {
+      "it": "libero",
+      "en": "free",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spicce: libero",
+    "rawHash": "dad59ce870e7f1210a7247eed9e355fb09438a39",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

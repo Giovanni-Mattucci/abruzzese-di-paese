@@ -1,0 +1,21 @@
+{
+  "id": "b-burracce",
+  "headword": "burracce",
+  "senses": [
+    {
+      "it": "borraccia",
+      "en": "water bottle, canteen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "burracce: borraccia",
+    "rawHash": "0dbe505c1cc81cfa05ccbbeea7dbeabb8df29cb1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

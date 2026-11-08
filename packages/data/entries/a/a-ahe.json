@@ -1,0 +1,26 @@
+{
+  "id": "a-ahe",
+  "headword": "ahè",
+  "senses": [
+    {
+      "it": "qui",
+      "en": "here",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in questo luogo",
+      "en": "in this place",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ahè: qui, in questo luogo",
+    "rawHash": "37ffeb8ab1ea68108390689ae1d1c4f71b67481d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

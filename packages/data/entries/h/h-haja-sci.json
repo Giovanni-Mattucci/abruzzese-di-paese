@@ -1,0 +1,21 @@
+{
+  "id": "h-haja-sci",
+  "headword": "haja scì",
+  "senses": [
+    {
+      "it": "devo uscire",
+      "en": "I have to go out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "haja scì: devo uscire",
+    "rawHash": "ca796280331c7bdf25b0676b24f44fa06b0aa032",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

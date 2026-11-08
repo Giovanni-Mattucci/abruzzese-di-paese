@@ -1,0 +1,21 @@
+{
+  "id": "n-ndruppicate-ha",
+  "headword": "'ndruppicate (ha)",
+  "senses": [
+    {
+      "it": "ha inciampato",
+      "en": "he/she stumbled, has tripped",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndruppicate (ha): ha inciampato",
+    "rawHash": "19a7d5e4ef8bdd3f945172936a4d19a1fe4c1796",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

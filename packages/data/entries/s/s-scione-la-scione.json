@@ -1,0 +1,31 @@
+{
+  "id": "s-scione-la-scione",
+  "headword": "scione (la scione)",
+  "senses": [
+    {
+      "it": "tromba",
+      "en": "whirlwind",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "turbine",
+      "en": "tornado",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "nodo di vento",
+      "en": "gust of wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scione (la scione): tromba, turbine, nodo di vento",
+    "rawHash": "60fcba58cfb8e1ce9fb9de397f1a0a8136e8250f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

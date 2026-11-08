@@ -1,0 +1,21 @@
+{
+  "id": "a-ammizza",
+  "headword": "ammizzà",
+  "senses": [
+    {
+      "it": "abituare",
+      "en": "to accustom",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammizzà: abituare",
+    "rawHash": "5293f2fc4f68bda6245872d73d798fee5d544731",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

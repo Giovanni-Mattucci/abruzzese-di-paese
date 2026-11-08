@@ -1,0 +1,34 @@
+{
+  "id": "c-cocchia",
+  "headword": "cocchia",
+  "variants": [
+    "cùcchie"
+  ],
+  "article": "la",
+  "senses": [
+    {
+      "it": "crosta",
+      "en": "crust",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "crosta del pane",
+      "en": "bread crust",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: cùcchie (la): crosta",
+    "Source line: cucchie: crosta del pane"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cocchia, cucchie: crosta",
+    "rawHash": "494252611bbd1eab523091152f965e34dfcf135f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

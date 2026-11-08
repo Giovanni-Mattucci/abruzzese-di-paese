@@ -1,0 +1,30 @@
+{
+  "id": "s-silustri",
+  "headword": "silustri",
+  "variants": [
+    "sillustre"
+  ],
+  "article": "li",
+  "senses": [
+    {
+      "it": "fulmini",
+      "en": "lightning bolts",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fulmine",
+      "en": "lightning bolt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "silustri, sillustre (li): fulmini, fulmine",
+    "rawHash": "892123839624fd53edeb6070f44267cc102da910",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-ciucculattire",
+  "headword": "ciucculattire",
+  "senses": [
+    {
+      "it": "macchinetta per fare il caffè",
+      "en": "coffee maker",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciucculattire: macchinetta per fare il caffè",
+    "rawHash": "94aa57e9c3952523a672a5956b9739e395c92688",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d-ducente",
+  "headword": "'ducente",
+  "senses": [
+    {
+      "it": "duecento",
+      "en": "two hundred",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "'ducente: duecento",
+    "rawHash": "63c25e45f93f5376266d96d3c107ef46e5b864a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

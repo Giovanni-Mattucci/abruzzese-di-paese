@@ -1,0 +1,21 @@
+{
+  "id": "v-vricce",
+  "headword": "vricce",
+  "senses": [
+    {
+      "it": "sassolino",
+      "en": "pebble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vricce: sassolino",
+    "rawHash": "251ab569cdae575d9766653bb79bccb769433199",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

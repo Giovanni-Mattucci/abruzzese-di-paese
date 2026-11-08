@@ -1,0 +1,21 @@
+{
+  "id": "c-caccune",
+  "headword": "caccùne",
+  "senses": [
+    {
+      "it": "cani",
+      "en": "dogs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caccùne: cani",
+    "rawHash": "d2fcc124b04993f3c9635b910e8acb55e78957ed",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-patre",
+  "headword": "patre",
+  "senses": [
+    {
+      "it": "padre",
+      "en": "father",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "patre: padre",
+    "rawHash": "c029363ca4e823794831caf4c5a3006eab8889e1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-arijeme",
+  "headword": "arijème",
+  "senses": [
+    {
+      "it": "ritorniamo",
+      "en": "let us go back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arijème: ritorniamo",
+    "rawHash": "858bded4a9b21e0f429861a474324f4205c033a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

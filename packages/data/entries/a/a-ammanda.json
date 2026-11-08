@@ -1,0 +1,24 @@
+{
+  "id": "a-ammanda",
+  "headword": "ammandà",
+  "variants": [
+    "ammantà"
+  ],
+  "senses": [
+    {
+      "it": "coprire qualcuno per il freddo",
+      "en": "to cover someone up against the cold",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammandà, ammantà: coprire qualcuno per il freddo",
+    "rawHash": "3c4e21cdfba131bcdf1c7a0b89a2925e6261ac11",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

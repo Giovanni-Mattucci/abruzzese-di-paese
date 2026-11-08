@@ -1,0 +1,21 @@
+{
+  "id": "v-vanetose",
+  "headword": "vanetose",
+  "senses": [
+    {
+      "it": "vanitoso",
+      "en": "vain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vanetose: vanitoso",
+    "rawHash": "bb857c75c9b9fb336cf4454fe643e5378e8723b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

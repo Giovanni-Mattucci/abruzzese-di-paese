@@ -1,0 +1,26 @@
+{
+  "id": "l-lu",
+  "headword": "lu",
+  "senses": [
+    {
+      "it": "il",
+      "en": "the (m. sing.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lo",
+      "en": "the (m. sing., Italian lo)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lu: il, lo",
+    "rawHash": "faa08b1b2f9ed24bb35d062313a6c6e3d221d553",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

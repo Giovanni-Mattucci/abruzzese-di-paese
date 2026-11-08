@@ -1,0 +1,21 @@
+{
+  "id": "l-lopa",
+  "headword": "lòpa",
+  "senses": [
+    {
+      "it": "fame",
+      "en": "hunger",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lòpa: fame",
+    "rawHash": "e35777e108e63a4c8fb4c55e522aee46a6a9c329",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

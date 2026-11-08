@@ -1,0 +1,21 @@
+{
+  "id": "s-sacce",
+  "headword": "sacce",
+  "senses": [
+    {
+      "it": "so",
+      "en": "I know",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sacce: so",
+    "rawHash": "515b5c7ac0aec512c495691886b4e528ab49ee0a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

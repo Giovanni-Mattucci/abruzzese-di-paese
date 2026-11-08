@@ -1,0 +1,26 @@
+{
+  "id": "m-mbarene",
+  "headword": "'mbàrene",
+  "senses": [
+    {
+      "it": "imparano",
+      "en": "they learn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "insegnano",
+      "en": "they teach",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbàrene: imparano, insegnano",
+    "rawHash": "b71ff23e4100bce0c228ea7f10670a1e649d73fc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

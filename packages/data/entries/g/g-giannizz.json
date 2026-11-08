@@ -1,0 +1,22 @@
+{
+  "id": "g-giannizz",
+  "headword": "giannizz'",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "colpo di vento freddo",
+      "en": "gust of cold wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "giannizz' (lu): colpo di vento freddo",
+    "rawHash": "3f03bc004acdfcb98060843e031eb60ba281caa8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

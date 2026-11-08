@@ -1,0 +1,21 @@
+{
+  "id": "m-mpeste",
+  "headword": "'mpeste",
+  "senses": [
+    {
+      "it": "inquinato",
+      "en": "polluted, fouled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mpeste: inquinato",
+    "rawHash": "d99d5bb3a6dfd510cf4fc48e4e88865c2e4e5605",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

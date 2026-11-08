@@ -1,0 +1,31 @@
+{
+  "id": "f-finicille",
+  "headword": "finicìlle",
+  "senses": [
+    {
+      "it": "baco",
+      "en": "silkworm",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bachi",
+      "en": "silkworms",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bozzolo del baco",
+      "en": "silkworm cocoon",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "finicìlle: baco, bachi, bozzolo del baco",
+    "rawHash": "9061825fb98b9f9293c436e56bca21976dbaa650",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

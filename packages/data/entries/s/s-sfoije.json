@@ -1,0 +1,22 @@
+{
+  "id": "s-sfoije",
+  "headword": "sfoije",
+  "article": "la",
+  "senses": [
+    {
+      "it": "sfoglia",
+      "en": "sheet of dough, pastry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfoije (la): sfoglia",
+    "rawHash": "212af21f6a1807a188797b193d27c01b8216c1d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

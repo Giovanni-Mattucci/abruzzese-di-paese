@@ -1,0 +1,21 @@
+{
+  "id": "c-casciuttare",
+  "headword": "casciuttàre",
+  "senses": [
+    {
+      "it": "caciottaro",
+      "en": "caciotta maker",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "casciuttàre: caciottaro",
+    "rawHash": "f3c3046cfdc818c27a415a32a3d8cc5df25fbf23",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

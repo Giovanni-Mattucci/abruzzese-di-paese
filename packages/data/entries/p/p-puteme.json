@@ -1,0 +1,22 @@
+{
+  "id": "p-puteme",
+  "headword": "putème",
+  "article": "nu",
+  "senses": [
+    {
+      "it": "noi possiamo",
+      "en": "we can",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "putème (nu): noi possiamo",
+    "rawHash": "fe445fa3976822881f2f235594883e728a948e05",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

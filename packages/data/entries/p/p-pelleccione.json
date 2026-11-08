@@ -1,0 +1,21 @@
+{
+  "id": "p-pelleccione",
+  "headword": "pelleccione",
+  "senses": [
+    {
+      "it": "sudata",
+      "en": "a sweat, sweating",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pelleccione: sudata",
+    "rawHash": "e07bb930503de568c40acc5486136e417fd0c926",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

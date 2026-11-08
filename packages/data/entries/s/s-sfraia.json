@@ -1,0 +1,21 @@
+{
+  "id": "s-sfraia",
+  "headword": "sfraià",
+  "senses": [
+    {
+      "it": "sfracchiare",
+      "en": "to smash, to crush",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfraià: sfracchiare",
+    "rawHash": "9194ac4e29b26faac0a7310e5c6ecdb95e505bef",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

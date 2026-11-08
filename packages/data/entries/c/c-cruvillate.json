@@ -1,0 +1,21 @@
+{
+  "id": "c-cruvillate",
+  "headword": "cruvillate",
+  "senses": [
+    {
+      "it": "pieno di buchi e rovinato",
+      "en": "full of holes and ruined",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cruvillate: pieno di buchi e rovinato",
+    "rawHash": "75d3527d37bfb2005c3d6204128829c8da3c5dc5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-coppola",
+  "headword": "coppola",
+  "senses": [
+    {
+      "it": "berretto",
+      "en": "cap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "coppola: berretto",
+    "rawHash": "a70b2c8a2f20aaf2646670beda2de1b7ff2664a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

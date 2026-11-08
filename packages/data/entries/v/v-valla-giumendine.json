@@ -1,0 +1,25 @@
+{
+  "id": "v-valla-giumendine",
+  "headword": "Valla Giumendine",
+  "senses": [
+    {
+      "it": "Valla Giumentina, nel comune di Caramanico (PE); è uno dei capisaldi della preistoria abruzzese",
+      "en": "Valla Giumentina, in the municipality of Caramanico (PE); it is one of the cornerstones of Abruzzese prehistory",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Typo corrected in review: the source has \"deicapisaldi\".",
+    "Source line: è uno deicapisaldi della preistoria abruzzese"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "valla Giumendine . Valla Giumentina in comune di Caramanico (PE)",
+    "rawHash": "1656867017ad77008cd1ea76268520431cd15b95",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

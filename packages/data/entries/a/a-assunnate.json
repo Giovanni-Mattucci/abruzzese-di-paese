@@ -1,0 +1,21 @@
+{
+  "id": "a-assunnate",
+  "headword": "assunnàte",
+  "senses": [
+    {
+      "it": "assonnato",
+      "en": "sleepy, drowsy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assunnàte: assonnato",
+    "rawHash": "a46df947c38dca62db445f2d71e8290ce045f05d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

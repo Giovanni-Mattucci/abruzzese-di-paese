@@ -1,0 +1,26 @@
+{
+  "id": "c-cuceme",
+  "headword": "cùceme",
+  "senses": [
+    {
+      "it": "cucimi",
+      "en": "sew it for me",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cuòcimi",
+      "en": "cook it for me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cùceme: cucimi, ma anche cuòcimi",
+    "rawHash": "1b1faffc524be95359a3d0cb62848de939fe85d8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

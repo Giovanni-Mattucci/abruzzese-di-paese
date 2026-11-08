@@ -1,0 +1,21 @@
+{
+  "id": "a-airal",
+  "headword": "airal",
+  "senses": [
+    {
+      "it": "piazzola fra i boschi",
+      "en": "clearing among the woods",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "airal: piazzola fra i boschi",
+    "rawHash": "95583cc037736a67afa2d592e46559bf52cc99dc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

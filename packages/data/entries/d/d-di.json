@@ -1,0 +1,21 @@
+{
+  "id": "d-di",
+  "headword": "dì",
+  "senses": [
+    {
+      "it": "dire",
+      "en": "to say",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dì: dire",
+    "rawHash": "1e1c7939da947676d881debfff50bb24c54c53d5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

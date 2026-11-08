@@ -1,0 +1,21 @@
+{
+  "id": "p-pitturale",
+  "headword": "pitturàle",
+  "senses": [
+    {
+      "it": "pettorale, striscia di cuoio che passa davanti al petto dei cavalli",
+      "en": "breast collar, leather strap that passes across a horse's chest",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pitturàle: pettorale, striscia di cuoio che passa davanti al petto dei cavalli",
+    "rawHash": "c01dfc548da7def663d2893d9fc7a69371f8c233",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

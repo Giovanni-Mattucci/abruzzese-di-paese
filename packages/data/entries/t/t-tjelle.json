@@ -1,0 +1,21 @@
+{
+  "id": "t-tjelle",
+  "headword": "tjelle",
+  "senses": [
+    {
+      "it": "tegame",
+      "en": "pan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tjelle: tegame",
+    "rawHash": "8d6d29ea80eed57d443eab2541b25924217a1e15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

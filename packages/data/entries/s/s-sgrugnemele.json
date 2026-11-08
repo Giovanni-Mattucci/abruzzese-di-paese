@@ -1,0 +1,21 @@
+{
+  "id": "s-sgrugnemele",
+  "headword": "sgrugnèmele",
+  "senses": [
+    {
+      "it": "graffiamolo",
+      "en": "let us scratch it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgrugnèmele: graffiamolo",
+    "rawHash": "833bb81676bf3847bb962b1db0432c52f02a73c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

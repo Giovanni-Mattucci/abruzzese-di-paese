@@ -1,0 +1,26 @@
+{
+  "id": "s-scanzia",
+  "headword": "scanzìa",
+  "senses": [
+    {
+      "it": "credenza",
+      "en": "sideboard, cupboard",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ripostiglio",
+      "en": "storeroom",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scanzìa: credenza, ripostiglio",
+    "rawHash": "24a7ac53d5cacd7eae752cedeb44e96708136d59",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

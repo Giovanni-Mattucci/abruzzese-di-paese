@@ -1,0 +1,21 @@
+{
+  "id": "o-pme",
+  "headword": "pme",
+  "senses": [
+    {
+      "it": "qualcuno",
+      "en": "someone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "o",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/o.html",
+    "raw": "pme: qualcuno",
+    "rawHash": "da6d4b8e53be2b5e77069c83106477c9471d6800",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c-ciammaichella",
+  "headword": "ciammaichèlla",
+  "variants": [
+    "ciammarechelle"
+  ],
+  "senses": [
+    {
+      "it": "piccola lumaca",
+      "en": "small snail",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "piccola strada di montagna a tornanti, aspra",
+      "en": "small, rugged mountain road with hairpin bends",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciammaichèlla, ciammarechelle: piccola lumaca; piccola strada di montagna a tornanti, aspra",
+    "rawHash": "03cbbec41ad107d684558100212c2ef43e8e2806",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

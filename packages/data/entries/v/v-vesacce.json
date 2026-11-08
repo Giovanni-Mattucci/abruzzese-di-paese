@@ -1,0 +1,26 @@
+{
+  "id": "v-vesacce",
+  "headword": "vesacce",
+  "senses": [
+    {
+      "it": "bisaccia",
+      "en": "saddlebag",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tasca",
+      "en": "pocket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vesacce: bisaccia, tasca",
+    "rawHash": "d09d2f539f11d224f7dd70089cc2de190bb055c6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

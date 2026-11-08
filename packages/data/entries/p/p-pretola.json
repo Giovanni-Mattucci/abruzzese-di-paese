@@ -1,0 +1,21 @@
+{
+  "id": "p-pretola",
+  "headword": "prètola",
+  "senses": [
+    {
+      "it": "asse per lavare i panni",
+      "en": "washboard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prètola: asse per lavare i panni",
+    "rawHash": "a13baa907d494ede4a8bd25f7f3780496e359d15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

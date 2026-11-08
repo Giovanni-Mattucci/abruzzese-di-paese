@@ -1,0 +1,21 @@
+{
+  "id": "a-arcama",
+  "headword": "arcamà",
+  "senses": [
+    {
+      "it": "ricamare",
+      "en": "to embroider",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcamà: ricamare",
+    "rawHash": "45135ba15e305320431ddf78284c316b538a3f17",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

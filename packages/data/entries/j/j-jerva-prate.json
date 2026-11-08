@@ -1,0 +1,21 @@
+{
+  "id": "j-jerva-prate",
+  "headword": "jèrva prate",
+  "senses": [
+    {
+      "it": "erba medica",
+      "en": "alfalfa, lucerne",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jèrva prate: erba medica",
+    "rawHash": "759e648aa48b281e88cf9e19d130abe6001fccc2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

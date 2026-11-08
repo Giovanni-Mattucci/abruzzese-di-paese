@@ -1,0 +1,24 @@
+{
+  "id": "v-vui",
+  "headword": "vui",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "via",
+      "en": "way, away",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vui: via (M. sul S.)",
+    "rawHash": "28587fae3e73836dd05107851ed6d8569ccfc979",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

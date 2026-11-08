@@ -1,0 +1,21 @@
+{
+  "id": "c-camastra",
+  "headword": "camastra",
+  "senses": [
+    {
+      "it": "catena di legno",
+      "en": "wooden chain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "camastra: catena di legno",
+    "rawHash": "165bad4600551fcef22d12b6d0e93db3d9d901cd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

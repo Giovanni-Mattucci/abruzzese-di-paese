@@ -1,0 +1,21 @@
+{
+  "id": "a-arcoje",
+  "headword": "arcòje",
+  "senses": [
+    {
+      "it": "raccogliere",
+      "en": "to gather, to pick up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcòje: raccogliere",
+    "rawHash": "cbbbf41aa70d9699edda99f4d627a15f50226d15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

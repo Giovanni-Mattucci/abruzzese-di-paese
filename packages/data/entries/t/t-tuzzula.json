@@ -1,0 +1,21 @@
+{
+  "id": "t-tuzzula",
+  "headword": "tuzzulà",
+  "senses": [
+    {
+      "it": "bussare",
+      "en": "to knock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tuzzulà: bussare",
+    "rawHash": "cfc7328e5cfa049ad7a63b31f4e781f103f04236",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-fetarole",
+  "headword": "fetarole",
+  "senses": [
+    {
+      "it": "galline",
+      "en": "hens",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fetarole: galline",
+    "rawHash": "e11898b4a468274597af51e135f2026e5230ac36",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

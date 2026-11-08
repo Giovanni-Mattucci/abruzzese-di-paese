@@ -1,0 +1,21 @@
+{
+  "id": "l-lena",
+  "headword": "lèna",
+  "senses": [
+    {
+      "it": "legna",
+      "en": "firewood",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lèna: legna",
+    "rawHash": "a180babfdf47ae70121aac806e9da17f33244a99",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

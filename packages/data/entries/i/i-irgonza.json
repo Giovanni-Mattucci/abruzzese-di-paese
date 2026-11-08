@@ -1,0 +1,21 @@
+{
+  "id": "i-irgonza",
+  "headword": "irgonza",
+  "senses": [
+    {
+      "it": "vergogna",
+      "en": "shame",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "irgonza: vergogna",
+    "rawHash": "70f0cf3abac1469e694b062bf204ccc31df84c0c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

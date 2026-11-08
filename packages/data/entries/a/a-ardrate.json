@@ -1,0 +1,21 @@
+{
+  "id": "a-ardrate",
+  "headword": "ardrate",
+  "senses": [
+    {
+      "it": "è rientrato",
+      "en": "he/she has gone back in, has returned home",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardrate: è rientrato",
+    "rawHash": "543594ccfc50bf65e5788d57f088586994e3f1d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

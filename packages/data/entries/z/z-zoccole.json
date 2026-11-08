@@ -1,0 +1,22 @@
+{
+  "id": "z-zoccole",
+  "headword": "zoccole",
+  "article": "le",
+  "senses": [
+    {
+      "it": "sandali di legno",
+      "en": "wooden sandals, clogs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zoccole (le): sandali di legno",
+    "rawHash": "d1fb897ad002ddc5b8e2c66812d952595259bc2d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

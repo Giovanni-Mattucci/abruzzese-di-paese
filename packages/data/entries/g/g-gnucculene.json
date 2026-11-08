@@ -1,0 +1,22 @@
+{
+  "id": "g-gnucculene",
+  "headword": "gnucculêne",
+  "article": "nu",
+  "senses": [
+    {
+      "it": "rimbambito",
+      "en": "doddering, dazed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnucculêne (nu): rimbambito",
+    "rawHash": "2b5cfec4d8b4e90fcc52e420fdfd46fc31516021",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

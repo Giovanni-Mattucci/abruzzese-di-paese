@@ -1,0 +1,21 @@
+{
+  "id": "a-appeteca",
+  "headword": "appetecà",
+  "senses": [
+    {
+      "it": "camminare in salita",
+      "en": "to walk uphill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appetecà: camminare in salita",
+    "rawHash": "1de4d27d6c2c5924ef375ffa15901d7fc96039dc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

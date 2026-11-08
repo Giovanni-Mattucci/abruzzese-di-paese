@@ -1,0 +1,21 @@
+{
+  "id": "c-caviciune",
+  "headword": "caviciùne",
+  "senses": [
+    {
+      "it": "dolci pasquali a base di formaggio",
+      "en": "Easter sweets made with cheese",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caviciùne: dolci pasquali a base di formaggio",
+    "rawHash": "467308183780418d1e6d070875757c61a8016ee3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

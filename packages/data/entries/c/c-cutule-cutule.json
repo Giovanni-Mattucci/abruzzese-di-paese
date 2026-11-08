@@ -1,0 +1,21 @@
+{
+  "id": "c-cutule-cutule",
+  "headword": "cutùle cutùle",
+  "senses": [
+    {
+      "it": "si adopera nella frase : mò te facce cutùle cutùle, ovvero, adesso te le suono di santa ragione",
+      "en": "used in the phrase: mò te facce cutùle cutùle, that is, now I will give you a proper thrashing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cutùle cutùle: si adopera nella frase : mò te facce cutùle cutùle, ovvero, adesso te le suono di santa ragione",
+    "rawHash": "2cd09e3e0673bade3ce7867e62a1f055ffad2b53",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

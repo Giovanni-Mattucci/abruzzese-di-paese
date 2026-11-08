@@ -1,0 +1,21 @@
+{
+  "id": "s-sarrecchia",
+  "headword": "sarrecchia",
+  "senses": [
+    {
+      "it": "falce",
+      "en": "sickle, scythe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sarrecchia: falce",
+    "rawHash": "d6b2f01110e8ba332fe3eeb56030488fb8a8d67b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

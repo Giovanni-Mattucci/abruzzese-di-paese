@@ -1,0 +1,21 @@
+{
+  "id": "g-ganasse",
+  "headword": "ganasse",
+  "senses": [
+    {
+      "it": "guancia",
+      "en": "cheek",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "ganasse: guancia",
+    "rawHash": "e6662213bc99d10b208ff84ce13c040b357bb33a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "u-uneddu",
+  "headword": "un'eddù",
+  "senses": [
+    {
+      "it": "contante",
+      "en": "cash",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "un'eddù: contante",
+    "rawHash": "07d576224ecfb73153a23b5b343cf455cb954f41",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

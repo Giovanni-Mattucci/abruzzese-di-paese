@@ -1,0 +1,21 @@
+{
+  "id": "c-cacche",
+  "headword": "cacche",
+  "senses": [
+    {
+      "it": "qualche",
+      "en": "some, a few",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cacche: qualche",
+    "rawHash": "11298783e8ce453483d928c52b26c0c9b63c9b58",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

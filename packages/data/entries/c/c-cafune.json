@@ -1,0 +1,21 @@
+{
+  "id": "c-cafune",
+  "headword": "cafùne",
+  "senses": [
+    {
+      "it": "contadini",
+      "en": "peasants, farmers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cafùne: contadini",
+    "rawHash": "f062a4da015de3aa3173df793eb0ecb3914316bd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

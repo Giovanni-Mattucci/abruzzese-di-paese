@@ -1,0 +1,21 @@
+{
+  "id": "l-leve",
+  "headword": "lève",
+  "senses": [
+    {
+      "it": "ulivo",
+      "en": "olive tree",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lève: ulivo",
+    "rawHash": "437ecfb6ee9646abd60a27d4f02a3ffa9f4167b1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

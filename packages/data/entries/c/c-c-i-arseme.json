@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-arseme",
+  "headword": "c-i-arsème",
+  "variants": [
+    "c'arsème"
+  ],
+  "senses": [
+    {
+      "it": "ci risiamo",
+      "en": "here we go again",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "la cosa si ripete",
+      "en": "the thing repeats itself",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arsème, c'arsème: ci risiamo, la cosa si ripete",
+    "rawHash": "d2674f7e24472815bccfed45e247e28477ee7807",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

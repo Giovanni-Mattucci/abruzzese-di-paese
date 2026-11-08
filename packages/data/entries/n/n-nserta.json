@@ -1,0 +1,21 @@
+{
+  "id": "n-nserta",
+  "headword": "'nsertà",
+  "senses": [
+    {
+      "it": "innestare",
+      "en": "to graft",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nsertà: innestare",
+    "rawHash": "fe14583932f7f65127d85a6c3b07660aac83e121",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-smandemele",
+  "headword": "smandèmele",
+  "senses": [
+    {
+      "it": "scopriamolo",
+      "en": "let us uncover it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smandèmele: scopriamolo",
+    "rawHash": "8d58e428642df23c0515becbec41819baf0fa40e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

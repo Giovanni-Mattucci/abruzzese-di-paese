@@ -1,0 +1,22 @@
+{
+  "id": "s-sciambacatene",
+  "headword": "sciambacatène",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "scombinato",
+      "en": "disorganized, muddled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciambacatène (lu): scombinato",
+    "rawHash": "1469a57124fc27a6d0ea26a301d2661aeaa53c34",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

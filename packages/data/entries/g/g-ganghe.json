@@ -1,0 +1,22 @@
+{
+  "id": "g-ganghe",
+  "headword": "ganghe",
+  "article": "la",
+  "senses": [
+    {
+      "it": "mandibola",
+      "en": "jaw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "ganghe (la): mandibola",
+    "rawHash": "cf1706f0ba760278827bdfd264a211e0bfe3d87d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

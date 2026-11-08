@@ -1,0 +1,26 @@
+{
+  "id": "s-sscoppe",
+  "headword": "sscoppe",
+  "senses": [
+    {
+      "it": "ti scoppia",
+      "en": "it bursts on you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ti fa scoppiare",
+      "en": "it makes you burst",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sscoppe: ti scoppia, ti fa scoppiare",
+    "rawHash": "7fb0851ca75fcf11a9a8c5dc46575ac664e579f0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

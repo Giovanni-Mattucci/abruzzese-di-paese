@@ -1,0 +1,22 @@
+{
+  "id": "c-cannelle",
+  "headword": "cannelle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "matterello",
+      "en": "rolling pin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cannelle (lu): matterello",
+    "rawHash": "335f91348a56a342a89efd75268103ec2cb015d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

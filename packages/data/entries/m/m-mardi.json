@@ -1,0 +1,26 @@
+{
+  "id": "m-mardi",
+  "headword": "m'ardì",
+  "senses": [
+    {
+      "it": "mi ridai",
+      "en": "you give it back to me",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mi restituisci",
+      "en": "you return it to me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m'ardì: mi ridai, mi restituisci",
+    "rawHash": "851a77d75cb5cd2dc43746acab0b2a46883374f0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

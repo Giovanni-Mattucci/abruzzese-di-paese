@@ -1,0 +1,21 @@
+{
+  "id": "a-arsate",
+  "headword": "arsàte",
+  "senses": [
+    {
+      "it": "è risalito",
+      "en": "he/she has gone back up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arsàte: è risalito",
+    "rawHash": "03fb1ada7af7bdc0a13e53ac69e8213e4d41e4b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

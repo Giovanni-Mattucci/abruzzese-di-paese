@@ -1,0 +1,21 @@
+{
+  "id": "s-sottpence",
+  "headword": "sottpènce",
+  "senses": [
+    {
+      "it": "pipistrello",
+      "en": "bat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sottpènce: pipistrello",
+    "rawHash": "9b0d452ec124e7f205827a8765e3e640bbb0c1c8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

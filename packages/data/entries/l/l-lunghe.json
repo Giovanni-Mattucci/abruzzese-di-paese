@@ -1,0 +1,21 @@
+{
+  "id": "l-lunghe",
+  "headword": "lunghe",
+  "senses": [
+    {
+      "it": "lungo",
+      "en": "long",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lunghe: lungo",
+    "rawHash": "38f5c2fb29d81947a686ce0506e9de9dde4d8359",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

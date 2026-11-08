@@ -1,0 +1,22 @@
+{
+  "id": "l-levete",
+  "headword": "lévete",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "lievito",
+      "en": "yeast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lévete (lu): lievito",
+    "rawHash": "496617aed5d649e903f334ace98b70858fbe3b5c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

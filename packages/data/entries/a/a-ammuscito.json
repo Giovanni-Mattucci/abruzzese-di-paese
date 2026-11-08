@@ -1,0 +1,21 @@
+{
+  "id": "a-ammuscito",
+  "headword": "ammuscìto",
+  "senses": [
+    {
+      "it": "ammosciato",
+      "en": "gone limp, wilted",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammuscìto: ammosciato",
+    "rawHash": "75790c3be7d610af8e815915618f0f0658dfefaf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

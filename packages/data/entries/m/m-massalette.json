@@ -1,0 +1,26 @@
+{
+  "id": "m-massalette",
+  "headword": "massalétte",
+  "senses": [
+    {
+      "it": "traversa",
+      "en": "crossbeam",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "traversina",
+      "en": "sleeper, small crossbeam",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "massalétte: traversa, traversina",
+    "rawHash": "aecfc45c828660a152ed4dec5b73b91d27a1b2a9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

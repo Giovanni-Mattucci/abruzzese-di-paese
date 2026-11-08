@@ -1,0 +1,22 @@
+{
+  "id": "b-buffettene",
+  "headword": "buffettêne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "manrovescio",
+      "en": "backhanded slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "buffettêne (lu): manrovescio",
+    "rawHash": "5fb59d7834d1f93bf2d3aaa0dbfbde05c8133c79",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

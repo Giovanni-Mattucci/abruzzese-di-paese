@@ -1,0 +1,22 @@
+{
+  "id": "s-sgubbate",
+  "headword": "sgubbate",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "gobbo",
+      "en": "hunchbacked",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgubbate (lu): gobbo",
+    "rawHash": "2d76783790223977ccbcb38f1025722116c48c9e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

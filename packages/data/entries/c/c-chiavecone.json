@@ -1,0 +1,36 @@
+{
+  "id": "c-chiavecone",
+  "headword": "chiavecòne",
+  "senses": [
+    {
+      "it": "da chiavica",
+      "en": "from chiavica",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fogna",
+      "en": "sewer",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "(dispregiativo: donna di malaffare",
+      "en": "(derogatory: woman of ill repute",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "puttana)",
+      "en": "whore)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiavecòne: da chiavica, fogna, (dispregiativo: donna di malaffare, puttana)",
+    "rawHash": "d22eb685ad441d2bb2d92e0ade30e393a2532141",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

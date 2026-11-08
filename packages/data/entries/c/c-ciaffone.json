@@ -1,0 +1,21 @@
+{
+  "id": "c-ciaffone",
+  "headword": "ciaffòne",
+  "senses": [
+    {
+      "it": "uno che fa le cose in modo disordinato, leggero",
+      "en": "someone who does things in a disorderly, careless way",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciaffòne: uno che fa le cose in modo disordinato, leggero",
+    "rawHash": "ef89b10e8feb4761bcfcffeaa1d075ff80a56726",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

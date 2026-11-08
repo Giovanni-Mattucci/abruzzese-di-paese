@@ -1,0 +1,21 @@
+{
+  "id": "c-cile",
+  "headword": "cìle",
+  "senses": [
+    {
+      "it": "cielo",
+      "en": "sky, heaven",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cìle: cielo",
+    "rawHash": "52ac375312d4cb7b95854d5121034060ad57780d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

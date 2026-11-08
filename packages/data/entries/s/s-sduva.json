@@ -1,0 +1,21 @@
+{
+  "id": "s-sduva",
+  "headword": "sduvà",
+  "senses": [
+    {
+      "it": "picchiare qualcuno e conciarlo male",
+      "en": "to beat someone and leave them in a bad state",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sduvà: picchiare qualcuno e conciarlo male",
+    "rawHash": "e11e432b185551361266524472a803775dabae86",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

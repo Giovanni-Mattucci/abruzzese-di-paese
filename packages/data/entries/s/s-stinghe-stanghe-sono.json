@@ -1,0 +1,24 @@
+{
+  "id": "s-stinghe-stanghe-sono",
+  "headword": "stìnghe",
+  "variants": [
+    "stànghe"
+  ],
+  "senses": [
+    {
+      "it": "sono stanco",
+      "en": "I am tired",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stìnghe stànghe sono stanco",
+    "rawHash": "53e9682dd7dfc22591e12227d508d1746fe0d8a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

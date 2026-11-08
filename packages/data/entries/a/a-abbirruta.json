@@ -1,0 +1,25 @@
+{
+  "id": "a-abbirruta",
+  "headword": "abbirrutà",
+  "senses": [
+    {
+      "it": "avvolgere",
+      "en": "to wrap, to wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j abbirrùte, tu abbirrùte, esse abbirrùte, nu abbirrutème, vu abbirrutète, jsse abbirrùtene ( io avvolgo, tu avvolgi, eglia vvolge, noi avvolgiamo, voi avvolgete, essi avvolgono).",
+    "Passato: j abbirrutìve, tu abbirrutìste, esse abbirrutò, nu abbirrutèmme, vu abbirrutèste, jsse abbirrutèrene (io avvolsi, tu avvolgesti, egli avvolse, noi avvolgemmo, voi avvolgeste, essi avvolsero)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbirrutà: avvolgere, j abbirrùte, tu abbirrùte, esse abbirrùte, nu abbirrutème, vu abbirrutète, jsse abbirrùtene ( io avvolgo, tu avvolgi, eglia vvolge, noi avvolgiamo, voi avvolgete, essi avvolgono). Passato: j abbirrutìve, tu abbirrutìste, esse abbirrutò, nu abbirrutèmme, vu abbirrutèste, jsse abbirrutèrene (io avvolsi, tu avvolgesti, egli avvolse, noi avvolgemmo, voi avvolgeste, essi avvolsero)",
+    "rawHash": "e694048b17a73ba133271056d9758d5f07726e72",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

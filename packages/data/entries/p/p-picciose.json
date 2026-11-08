@@ -1,0 +1,26 @@
+{
+  "id": "p-picciose",
+  "headword": "picciòse",
+  "senses": [
+    {
+      "it": "capriccioso",
+      "en": "capricious, whiny",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "attaccabriga",
+      "en": "quarrelsome person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "picciòse: capriccioso, attaccabriga",
+    "rawHash": "cd0112680740486aad7e0293c8b9b746da5a1db5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

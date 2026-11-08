@@ -1,0 +1,21 @@
+{
+  "id": "a-areunta",
+  "headword": "areuntà",
+  "senses": [
+    {
+      "it": "trabordare del liquido",
+      "en": "to overflow (of a liquid)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "areuntà: trabordare del liquido",
+    "rawHash": "21ff41aa10de434a791234ca128ca8d937cc02f1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sapunine",
+  "headword": "sapunìne",
+  "senses": [
+    {
+      "it": "soda caustica - per fare il sapone -",
+      "en": "caustic soda - for making soap -",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sapunìne: soda caustica - per fare il sapone -",
+    "rawHash": "b918d4e113498b752dca0e8bd591ecbd645859d4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

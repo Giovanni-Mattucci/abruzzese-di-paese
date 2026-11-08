@@ -1,0 +1,21 @@
+{
+  "id": "n-nerve",
+  "headword": "nerve",
+  "senses": [
+    {
+      "it": "frusta da cavallo",
+      "en": "horsewhip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nerve: frusta da cavallo",
+    "rawHash": "00954420efe9aa2202752f9d7aee70cf617a56a9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

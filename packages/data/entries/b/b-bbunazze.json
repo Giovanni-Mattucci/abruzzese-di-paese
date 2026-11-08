@@ -1,0 +1,26 @@
+{
+  "id": "b-bbunazze",
+  "headword": "bbunazze",
+  "senses": [
+    {
+      "it": "bonaccia",
+      "en": "calm (at sea)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mare calmo",
+      "en": "calm sea",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbunazze: bonaccia, mare calmo",
+    "rawHash": "9004f49fcacc8e28657f3fdb6f64242747d320d6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

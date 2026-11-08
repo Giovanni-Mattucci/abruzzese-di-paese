@@ -1,0 +1,21 @@
+{
+  "id": "t-tenaje",
+  "headword": "tenàje",
+  "senses": [
+    {
+      "it": "tenaglia",
+      "en": "pincers, pliers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tenàje: tenaglia",
+    "rawHash": "90a7430470ccfe8b3c13da9afdeac94540539a08",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-ciarrocche",
+  "headword": "ciarròcche",
+  "senses": [
+    {
+      "it": "grappoletto di frutta",
+      "en": "small cluster of fruit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciarròcche: grappoletto di frutta",
+    "rawHash": "66e979d2b46b7277ba74e101e78f56cf74ba1595",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

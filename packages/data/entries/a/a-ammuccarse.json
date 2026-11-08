@@ -1,0 +1,21 @@
+{
+  "id": "a-ammuccarse",
+  "headword": "ammuccarse",
+  "senses": [
+    {
+      "it": "cadere",
+      "en": "to fall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammuccarse: cadere",
+    "rawHash": "a4a943d692f26e14555458860e5b547538082417",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

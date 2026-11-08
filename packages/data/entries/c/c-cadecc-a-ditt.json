@@ -1,0 +1,24 @@
+{
+  "id": "c-cadecc-a-ditt",
+  "headword": "cadecc a ditt cull?",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "che cosa ha detto quello?",
+      "en": "what did that one say?",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cadecc a ditt cull? Che cosa ha detto quello? (M. sul S.)",
+    "rawHash": "b84fb6be6eb99d8e12882ba7043f1f61deeb4a35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

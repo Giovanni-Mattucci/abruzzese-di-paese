@@ -1,0 +1,21 @@
+{
+  "id": "t-travajje",
+  "headword": "travajje",
+  "senses": [
+    {
+      "it": "travaglio",
+      "en": "labour, travail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "travajje: travaglio",
+    "rawHash": "edb666185b2b1e94fa83cca20a4d7f1780addc38",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

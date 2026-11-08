@@ -1,0 +1,21 @@
+{
+  "id": "c-cruvelluccije",
+  "headword": "cruvelluccije",
+  "senses": [
+    {
+      "it": "piccolo setaccio",
+      "en": "small sieve",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cruvelluccije: piccolo setaccio",
+    "rawHash": "a2e75c23ffd912b5fbb4fe16c11b147be84cd686",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

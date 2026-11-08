@@ -1,0 +1,21 @@
+{
+  "id": "s-schiuffa",
+  "headword": "schiuffà",
+  "senses": [
+    {
+      "it": "sbattere",
+      "en": "to slam, to bang",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiuffà: sbattere",
+    "rawHash": "25958c79e697bfe0620667a165ac4560d72f938e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

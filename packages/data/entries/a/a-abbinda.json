@@ -1,0 +1,35 @@
+{
+  "id": "a-abbinda",
+  "headword": "abbindà",
+  "senses": [
+    {
+      "it": "scagliare",
+      "en": "to hurl",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scaraventare",
+      "en": "to fling",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lanciare contro",
+      "en": "to throw at",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j abbènde, tu abbìnde, esse abbènde, nu abbindème, vu abbindète. Jsse abbèndene.",
+    "Passato: j abbindìve, tu abbindìste, esse abbindò, nu abbindèmme, vu abbindèste, jsse abbindèrene"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbindà: scagliare, scaraventare, lanciare contro, j abbènde, tu abbìnde, esse abbènde, nu abbindème, vu abbindète. Jsse abbèndene. Passato: j abbindìve, tu abbindìste, esse abbindò, nu abbindèmme, vu abbindèste, jsse abbindèrene",
+    "rawHash": "4bc12f01fcc21f43bfd3f9f7646d71705919a278",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

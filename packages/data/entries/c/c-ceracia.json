@@ -1,0 +1,21 @@
+{
+  "id": "c-ceracia",
+  "headword": "ceracia",
+  "senses": [
+    {
+      "it": "ciliegia",
+      "en": "cherry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ceracia: ciliegia",
+    "rawHash": "8b13e96c8039f26e4858d122aab496e71c3f0976",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

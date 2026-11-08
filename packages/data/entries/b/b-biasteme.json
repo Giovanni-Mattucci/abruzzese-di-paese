@@ -1,0 +1,24 @@
+{
+  "id": "b-biasteme",
+  "headword": "biasteme",
+  "variants": [
+    "biasteme"
+  ],
+  "senses": [
+    {
+      "it": "bestemmia",
+      "en": "blasphemy, curse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "biasteme, biasteme: bestemmia",
+    "rawHash": "1a4e7c6d54ccd4146cc18ed098186097790b1053",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

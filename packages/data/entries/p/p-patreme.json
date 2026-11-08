@@ -1,0 +1,21 @@
+{
+  "id": "p-patreme",
+  "headword": "pàtreme",
+  "senses": [
+    {
+      "it": "mio padre",
+      "en": "my father",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pàtreme: mio padre",
+    "rawHash": "21e66d232341e584e6d22058e72ad662140b24ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

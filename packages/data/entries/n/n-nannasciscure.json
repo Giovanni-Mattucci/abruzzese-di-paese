@@ -1,0 +1,21 @@
+{
+  "id": "n-nannasciscure",
+  "headword": "nannascìscure",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nannascìscure: altalena",
+    "rawHash": "38a5ebb50dd8d206d31de011c9a2acf294726447",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

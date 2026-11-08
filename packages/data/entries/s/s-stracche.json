@@ -1,0 +1,26 @@
+{
+  "id": "s-stracche",
+  "headword": "stracche",
+  "senses": [
+    {
+      "it": "stanco",
+      "en": "tired",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "affaticato",
+      "en": "weary",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stracche: stanco, affaticato",
+    "rawHash": "6eacb7066474cc67559a3d274ba19637fa4128c4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

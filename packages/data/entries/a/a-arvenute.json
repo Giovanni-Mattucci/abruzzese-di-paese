@@ -1,0 +1,21 @@
+{
+  "id": "a-arvenute",
+  "headword": "arvenùte",
+  "senses": [
+    {
+      "it": "è tornato",
+      "en": "he/she has come back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arvenùte: è tornato",
+    "rawHash": "2315ebc5ddf2e28de4519dc6b68dbec6d232c9ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "v-voche",
+  "headword": "vòche",
+  "senses": [
+    {
+      "it": "vogare",
+      "en": "to row",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "voga",
+      "en": "rowing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vòche: vogare, voga",
+    "rawHash": "51b71f80599aafb5442108925c7080b9813fe651",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

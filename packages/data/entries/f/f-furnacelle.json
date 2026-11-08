@@ -1,0 +1,25 @@
+{
+  "id": "f-furnacelle",
+  "headword": "furnacélle",
+  "variants": [
+    "fornacella"
+  ],
+  "article": "la",
+  "senses": [
+    {
+      "it": "attrezzo in metallo per la cottura al carbone",
+      "en": "metal device for cooking over charcoal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "furnacélle, fornacella (la): attrezzo in metallo per la cottura al carbone",
+    "rawHash": "e613ffc2c08cb170dd880174aefeb06f4120daa9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

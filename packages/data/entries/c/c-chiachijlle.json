@@ -1,0 +1,31 @@
+{
+  "id": "c-chiachijlle",
+  "headword": "chiachijlle",
+  "senses": [
+    {
+      "it": "persona inaffidabile",
+      "en": "unreliable person",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fanfarone",
+      "en": "braggart",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbruffone",
+      "en": "show-off",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiachijlle: persona inaffidabile, fanfarone, sbruffone",
+    "rawHash": "beeb08ff03b77cdd1ce62dfb593603bcb5c54261",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

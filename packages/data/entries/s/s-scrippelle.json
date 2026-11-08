@@ -1,0 +1,21 @@
+{
+  "id": "s-scrippelle",
+  "headword": "scrippèlle",
+  "senses": [
+    {
+      "it": "frittelle sottili",
+      "en": "thin pancakes, crêpes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scrippèlle: frittelle sottili",
+    "rawHash": "8729bd9793b1212eec9b666f22a360c1415917c1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

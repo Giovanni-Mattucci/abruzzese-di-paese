@@ -1,0 +1,21 @@
+{
+  "id": "o-ossumazziju",
+  "headword": "ossumazzìju",
+  "senses": [
+    {
+      "it": "malleolo",
+      "en": "ankle bone, malleolus",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "o",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/o.html",
+    "raw": "ossumazzìju: malleolo",
+    "rawHash": "712b08db1ec07383594639c4cb6f1db080059257",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "t-trasanne",
+  "headword": "trasanne",
+  "article": "la",
+  "senses": [
+    {
+      "it": "sporgenza del tetto",
+      "en": "overhang of the roof, eaves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trasanne (la): sporgenza del tetto",
+    "rawHash": "f7c1366e28f50484c8bb40038222bd01eeb197cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

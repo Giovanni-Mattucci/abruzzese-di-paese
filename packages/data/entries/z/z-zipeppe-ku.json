@@ -1,0 +1,21 @@
+{
+  "id": "z-zipeppe-ku",
+  "headword": "zipeppe (ku)",
+  "senses": [
+    {
+      "it": "vaso da notte",
+      "en": "chamber pot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zipeppe (ku): vaso da notte",
+    "rawHash": "bc12c725aac6029003c72aa9fec891f3c3ff3c5b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

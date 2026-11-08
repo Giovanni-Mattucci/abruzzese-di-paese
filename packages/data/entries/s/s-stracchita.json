@@ -1,0 +1,21 @@
+{
+  "id": "s-stracchita",
+  "headword": "stracchità",
+  "senses": [
+    {
+      "it": "stanchezza",
+      "en": "tiredness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stracchità: stanchezza",
+    "rawHash": "e667165af9c0752e11a815d30d9bb9213b526888",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

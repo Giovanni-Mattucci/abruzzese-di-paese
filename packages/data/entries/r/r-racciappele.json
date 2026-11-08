@@ -1,0 +1,21 @@
+{
+  "id": "r-racciappele",
+  "headword": "racciàppele",
+  "senses": [
+    {
+      "it": "grappolo",
+      "en": "bunch (of grapes)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "racciàppele: grappolo",
+    "rawHash": "0e41da271e4345c8fc939151612cf158127669b4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

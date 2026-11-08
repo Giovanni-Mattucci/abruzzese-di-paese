@@ -1,0 +1,58 @@
+{
+  "id": "g-gna",
+  "headword": "gnà",
+  "variants": [
+    "gnè"
+  ],
+  "senses": [
+    {
+      "it": "questi due bizzarri monosillabi traducono il termine italiano \"come\" (nelle domande il primo, nelle risposte il secondo). Dietro l'apparente indecifrabilità dell'etimo, si nascondono semplicemente le forme contratte del verbo \"insegnare\" ai tempi dell'imperativo (esortativo) e del futuro (concessivo - dimostrativo). Negli esempi scritti che seguono è sicuramente più facile stimare il meccanismo di tali contrazioni:",
+      "en": "these two odd monosyllables translate the Italian word \"come\" (how; the first in questions, the second in answers). Behind the apparent indecipherability of the etymology lie simply the contracted forms of the verb \"insegnare\" (to teach) in the imperative (hortative) and the future (concessive - demonstrative). In the written examples that follow it is certainly easier to appreciate the mechanism of these contractions:",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "gnà stié?",
+      "it": "come stai? \"inse-gna-mi (dimmi, indicami) come stai\" (esortativa)",
+      "en": "how are you? \"tell me, show me how you are\" (hortative)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "abr": "gnè nu pape",
+      "it": "come un papa! (benissimo) \"ti inse-gne-rò (ti dirò che, ti confesserò che) sto come un papa\" (concessiva - dimostrativa)",
+      "en": "like a pope! (very well) \"I will tell you, I will confess to you that I am as well as a pope\" (concessive - demonstrative)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "abr": "gnà si fatte?",
+      "it": "come hai fatto?",
+      "en": "how did you do it?",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "abr": "gnè bielle!",
+      "it": "come è bello! (dimostrativa)",
+      "en": "how beautiful it is! (demonstrative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Modi di dire: a parte i due piccoli esempi citati sopra, in dialetto abbiamo integralmente la stessa gamma fraseologica della lingua italiana. Particolarmente gustose sono alcune forme idiomatiche assai ricorrenti, in quanto allusive a fatti o racconti da cui trarre insegnamenti morali o di vita.",
+    "Source line: gnà stié? (domanda: come stai?) \"inse-gna-mi (dimmi, indicami) come stai\" (esortativa);",
+    "Source line: gnè nu pape (risposta: come un papa! - benissimo!) \"ti inse-gne-rò (ti dirò che, ti confesserò che) sto come un papa (concessiva - dimostrativa).",
+    "Source line: \"Gnà si fatte?\" (come hai fatto?);",
+    "Source line: \"gnè bielle!\" (come è bello! - dimostrativa -) ecc. Particolarmente gustose sono alcune forme idiomatiche assai ricorrenti, in quanto allusive a fatti o racconti da cui trarre insegnamenti morali o di vita. Fra queste vi riproponiamo le seguenti:",
+    "Source line: Modi di dire: A parte i due piccoli esempi citati sopra, in dialetto abbiamo integralmente la stessa gamma fraseologica della lingua italiana."
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnà, gnè: questi due bizzarri monosillabi traducono il termine italiano \"come\" (nelle domande il primo, nelle risposte il secondo). Dietro l'apparente indecifrabilità dell'etimo, si nascondono semplicemente le forme contratte del verbo \"insegnare\" ai tempi dell'imperativo (esortativo) e del futuro (concessivo - dimostrativo). Negli esempi scritti che seguono è sicuramente più facile stimare il meccanismo di tali contrazioni:",
+    "rawHash": "74ed4768f618506e7db69295344c560f11d25745",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-ammarra",
+  "headword": "ammarrà",
+  "senses": [
+    {
+      "it": "perdere l'affilatura",
+      "en": "to lose its edge, to go blunt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammarrà: perdere l'affilatura",
+    "rawHash": "24959c661ae6e8379fe6a097c350e6be8528bc73",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

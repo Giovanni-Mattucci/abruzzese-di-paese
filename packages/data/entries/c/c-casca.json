@@ -1,0 +1,21 @@
+{
+  "id": "c-casca",
+  "headword": "cascà",
+  "senses": [
+    {
+      "it": "cadere",
+      "en": "to fall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cascà: cadere",
+    "rawHash": "818bd5ced97d5bce2a898fdfb1d3a00cc7be58ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

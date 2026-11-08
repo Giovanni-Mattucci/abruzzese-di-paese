@@ -1,0 +1,21 @@
+{
+  "id": "s-spapanate",
+  "headword": "spapanàte",
+  "senses": [
+    {
+      "it": "si dice di qualcosa che si è allargato troppo",
+      "en": "said of something that has widened too much",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spapanàte: si dice di qualcosa che si è allargato troppo",
+    "rawHash": "7d407553ee1c78d2874537ebd467a01a1c85a87b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

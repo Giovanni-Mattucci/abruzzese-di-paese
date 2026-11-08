@@ -1,0 +1,21 @@
+{
+  "id": "l-la-nonna-tu",
+  "headword": "la nonna tu",
+  "senses": [
+    {
+      "it": "tua nonna",
+      "en": "your grandmother",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "la nonna tu: tua nonna",
+    "rawHash": "7c914b225566a24334a3caa11bb79cf13942615c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

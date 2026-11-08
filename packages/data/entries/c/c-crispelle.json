@@ -1,0 +1,21 @@
+{
+  "id": "c-crispelle",
+  "headword": "crispelle",
+  "senses": [
+    {
+      "it": "frittatine usate per cucinare paste in brodo o al forno",
+      "en": "small omelettes used for cooking pasta in broth or baked pasta",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crispelle: frittatine usate per cucinare paste in brodo o al forno",
+    "rawHash": "f3cc90665b17887cbdd2e71faf22276084abf9b7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

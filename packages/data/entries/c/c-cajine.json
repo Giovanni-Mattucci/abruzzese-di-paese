@@ -1,0 +1,21 @@
+{
+  "id": "c-cajine",
+  "headword": "cajine",
+  "senses": [
+    {
+      "it": "galline",
+      "en": "hens",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cajine: galline",
+    "rawHash": "f2e27278413f251b68715b26154e22bc86c0ad4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

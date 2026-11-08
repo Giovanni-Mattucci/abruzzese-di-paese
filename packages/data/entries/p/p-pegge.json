@@ -1,0 +1,22 @@
+{
+  "id": "p-pegge",
+  "headword": "pêgge",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "pulce",
+      "en": "flea",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pêgge (lu): pulce",
+    "rawHash": "62b8bb30c6f466ff2228490a61ece090c1e11366",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

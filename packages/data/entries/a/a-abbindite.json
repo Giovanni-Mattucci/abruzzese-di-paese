@@ -1,0 +1,21 @@
+{
+  "id": "a-abbindite",
+  "headword": "abbìndite",
+  "senses": [
+    {
+      "it": "lanciati di corsa",
+      "en": "dash off at a run",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbìndite: lanciati di corsa",
+    "rawHash": "b6f18ef1444fb51ae79be5fbdda8d4c83349989d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

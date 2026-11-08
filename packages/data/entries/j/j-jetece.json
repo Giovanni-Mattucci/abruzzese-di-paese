@@ -1,0 +1,21 @@
+{
+  "id": "j-jetece",
+  "headword": "jètece",
+  "senses": [
+    {
+      "it": "andateci",
+      "en": "go there (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jètece: andateci",
+    "rawHash": "1bd1aa45667b4fb12f66a0802ca2abd07321dc06",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

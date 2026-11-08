@@ -1,0 +1,22 @@
+{
+  "id": "v-vine",
+  "headword": "vine",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "vino",
+      "en": "wine",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vine (lu): vino",
+    "rawHash": "3c54ad038efeeea575c069f4f2bac6e07fc7ac0b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

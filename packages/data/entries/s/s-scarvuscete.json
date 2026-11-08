@@ -1,0 +1,21 @@
+{
+  "id": "s-scarvuscete",
+  "headword": "scarvùscete",
+  "senses": [
+    {
+      "it": "frugano",
+      "en": "they rummage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarvùscete: frugano",
+    "rawHash": "9d195a2876e2f3439d5aebb3d2ffcd50bd2cfc7b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

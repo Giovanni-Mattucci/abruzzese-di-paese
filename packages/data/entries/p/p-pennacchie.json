@@ -1,0 +1,22 @@
+{
+  "id": "p-pennacchie",
+  "headword": "pennàcchie",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "scopino",
+      "en": "small broom, whisk broom",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pennàcchie (lu): scopino",
+    "rawHash": "cfc13084aebc37efe6b46dd2d9c4775733f98237",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

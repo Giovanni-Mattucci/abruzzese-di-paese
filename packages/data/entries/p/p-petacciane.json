@@ -1,0 +1,21 @@
+{
+  "id": "p-petacciane",
+  "headword": "petacciane",
+  "senses": [
+    {
+      "it": "boschivo",
+      "en": "woodland, of the woods",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "petacciane: boschivo",
+    "rawHash": "696c12806db4d5178b03342741f96dc584f4dab7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

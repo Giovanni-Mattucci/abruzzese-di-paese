@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-arsaje",
+  "headword": "c-i-arsàje",
+  "variants": [
+    "c'arsàje"
+  ],
+  "senses": [
+    {
+      "it": "ci risalgo",
+      "en": "I go back up there",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "torno su di nuovo",
+      "en": "I go up again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arsàje, c'arsàje: ci risalgo, torno su di nuovo",
+    "rawHash": "8591f9cde402975ae236b1821ac92e3f7069324b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

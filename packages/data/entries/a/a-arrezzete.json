@@ -1,0 +1,24 @@
+{
+  "id": "a-arrezzete",
+  "headword": "arrèzzete",
+  "variants": [
+    "arrìzzete"
+  ],
+  "senses": [
+    {
+      "it": "alzati",
+      "en": "get up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrèzzete, arrìzzete: alzati",
+    "rawHash": "163ad22590590aadac46851ec825c6e9e94da388",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

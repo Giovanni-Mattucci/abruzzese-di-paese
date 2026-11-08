@@ -1,0 +1,21 @@
+{
+  "id": "m-marracciu",
+  "headword": "marràcciu",
+  "senses": [
+    {
+      "it": "falcetta",
+      "en": "small sickle, billhook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "marràcciu: falcetta",
+    "rawHash": "81047519b814ca361dce74374944c89a0ab9d3e1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

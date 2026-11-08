@@ -1,0 +1,25 @@
+{
+  "id": "c-caruselle",
+  "headword": "carusèlle",
+  "variants": [
+    "carusille"
+  ],
+  "article": "lu",
+  "senses": [
+    {
+      "it": "salvadanaio",
+      "en": "money box, piggy bank",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carusèlle, carusille (lu): salvadanaio",
+    "rawHash": "fc238cf9e56d1476fc71973e788c1d4c2fab7ebe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

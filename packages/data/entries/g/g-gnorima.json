@@ -1,0 +1,21 @@
+{
+  "id": "g-gnorima",
+  "headword": "gnorimà",
+  "senses": [
+    {
+      "it": "signor maestro",
+      "en": "mister teacher (respectful address for the schoolmaster)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnorimà: signor maestro",
+    "rawHash": "b4871de101d4e2f362d32b2096ab7c73167c85f0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

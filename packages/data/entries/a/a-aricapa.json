@@ -1,0 +1,26 @@
+{
+  "id": "a-aricapa",
+  "headword": "aricapà",
+  "senses": [
+    {
+      "it": "scegliere",
+      "en": "to choose, to pick out",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbucciare ariglugliè: stropicciare",
+      "en": "to peel; ariglugliè: to rumple, to crumple",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aricapà: scegliere, ma anche sbucciare ariglugliè: stropicciare",
+    "rawHash": "2e461da2011fb49730dce138a0887b191ce86107",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

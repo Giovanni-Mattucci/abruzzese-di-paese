@@ -1,0 +1,24 @@
+{
+  "id": "c-c-i-arsete",
+  "headword": "c-i-arsète",
+  "variants": [
+    "c'arsète"
+  ],
+  "senses": [
+    {
+      "it": "ci siete di nuovo",
+      "en": "you (pl.) are there again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arsète, c'arsète: ci siete di nuovo",
+    "rawHash": "d4ae4d155cbfd6da165672e66939688e3784b235",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

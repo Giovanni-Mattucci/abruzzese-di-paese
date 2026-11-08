@@ -1,0 +1,21 @@
+{
+  "id": "a-abbata",
+  "headword": "abbàta",
+  "senses": [
+    {
+      "it": "fai attenzione",
+      "en": "pay attention, be careful",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbàta: fai attenzione",
+    "rawHash": "824ba07aa131c960dc30250aedda0d799518e251",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

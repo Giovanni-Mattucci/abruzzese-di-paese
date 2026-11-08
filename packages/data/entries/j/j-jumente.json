@@ -1,0 +1,26 @@
+{
+  "id": "j-jumente",
+  "headword": "jumente",
+  "senses": [
+    {
+      "it": "la giumenta",
+      "en": "the mare",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "la cavalla",
+      "en": "the mare (female horse)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jumente: la giumenta, la cavalla",
+    "rawHash": "4f8737bf8ad867716b316dc247754ad00b6d9c51",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

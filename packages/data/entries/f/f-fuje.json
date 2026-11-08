@@ -1,0 +1,26 @@
+{
+  "id": "f-fuje",
+  "headword": "fùje",
+  "senses": [
+    {
+      "it": "verdura",
+      "en": "greens, vegetables",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "verza",
+      "en": "savoy cabbage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fùje: verdura, verza",
+    "rawHash": "45ac63250cb95a99431b4e9a5dfa560fb92f1120",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

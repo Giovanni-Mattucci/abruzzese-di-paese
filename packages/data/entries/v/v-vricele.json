@@ -1,0 +1,27 @@
+{
+  "id": "v-vricele",
+  "headword": "vrìcele",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "stomaco del pollo",
+      "en": "chicken gizzard",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "piatto contadino",
+      "en": "peasant dish",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrìcele (lu): stomaco del pollo, piatto contadino",
+    "rawHash": "64ac52626ad81fd8237877f96c7d4c1a9e1221de",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

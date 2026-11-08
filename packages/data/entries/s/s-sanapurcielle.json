@@ -1,0 +1,24 @@
+{
+  "id": "s-sanapurcielle",
+  "headword": "sanapurcielle",
+  "senses": [
+    {
+      "it": "era colui che castrava i maiali per renderli più grassi e con la carne più delicata",
+      "en": "the man who castrated pigs to make them fatter and their meat more tender",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: per renderli più grassi e con la carne più delicata."
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sanapurcielle: era colui che castrava i maiali",
+    "rawHash": "8112eed4dc7a23951fdd555c36d82c5e687db84c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

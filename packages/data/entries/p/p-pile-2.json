@@ -1,0 +1,21 @@
+{
+  "id": "p-pile-2",
+  "headword": "pìle",
+  "senses": [
+    {
+      "it": "peli",
+      "en": "hairs (body hair)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pìle: peli",
+    "rawHash": "0ad24289f1c71f0ab5aee1d7e0de64872773e9be",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

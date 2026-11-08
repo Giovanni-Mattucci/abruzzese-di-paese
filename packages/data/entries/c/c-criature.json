@@ -1,0 +1,24 @@
+{
+  "id": "c-criature",
+  "headword": "criature",
+  "variants": [
+    "crijature"
+  ],
+  "senses": [
+    {
+      "it": "neonato",
+      "en": "newborn, baby",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "criature, crijature: neonato",
+    "rawHash": "500240aad5c471f48afe78e4773b6298eeb26878",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

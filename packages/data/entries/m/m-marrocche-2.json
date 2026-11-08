@@ -1,0 +1,21 @@
+{
+  "id": "m-marrocche-2",
+  "headword": "marròcche",
+  "senses": [
+    {
+      "it": "pannocchia di mais",
+      "en": "corn cob",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "marròcche: pannocchia di mais",
+    "rawHash": "0dcc62e5434672c74875cc0e2cb919871ea9c4a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

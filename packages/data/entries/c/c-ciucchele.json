@@ -1,0 +1,21 @@
+{
+  "id": "c-ciucchele",
+  "headword": "ciùcchele",
+  "senses": [
+    {
+      "it": "vasi di latta o di coccio (ciùcchele vicchie: robaccia vecchia di poco conto)",
+      "en": "tin or earthenware pots (ciùcchele vicchie: old worthless junk)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciùcchele: vasi di latta o di coccio (ciùcchele vicchie: robaccia vecchia di poco conto)",
+    "rawHash": "ec9485b98b2d1a85e47eac2de6da2a8ad34add37",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "b-bbuhatte",
+  "headword": "bbuhàtte",
+  "article": "la",
+  "senses": [
+    {
+      "it": "contenitore vitreo",
+      "en": "glass container",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbuhàtte ( la): contenitore vitreo",
+    "rawHash": "7cc280fb187101dd1524d0aacb92da30e883db0d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

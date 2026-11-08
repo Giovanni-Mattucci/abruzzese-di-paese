@@ -1,0 +1,24 @@
+{
+  "id": "i-intisi",
+  "headword": "intisì",
+  "variants": [
+    "intisite"
+  ],
+  "senses": [
+    {
+      "it": "tremare dal freddo, intirizzito. Deriva chiaramente dalla parola tisi (dal greco phthisis, consunzione). Com'è noto tale malattia (chiamata anche tubercolosi) determina un lento deperimento dell'ammalato che assume un aspetto smunto tale, quindi, a chi si rannicchia nei vestiti per ripararsi dal freddo",
+      "en": "to shiver with cold; numb with cold. It clearly derives from the word tisi (consumption, from the Greek phthisis). As is well known, this disease (also called tuberculosis) causes a slow wasting of the patient, who takes on a gaunt appearance, like that, therefore, of someone who huddles in their clothes to shelter from the cold",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "intisì, intisite: tremare dal freddo, intirizzito. Deriva chiaramente dalla parola tisi (dal greco phthisis, consunzione). Com'è noto tale malattia (chiamata anche tubercolosi) determina un lento deperimento dell'ammalato che assume un aspetto smunto tale, quindi, a chi si rannicchia nei vestiti per ripararsi dal freddo",
+    "rawHash": "f6f89aee44a7dc5a080c9170302006e95108afb4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-schiuffe",
+  "headword": "schiuffe",
+  "senses": [
+    {
+      "it": "sbatti",
+      "en": "slam, bang (imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiuffe: sbatti",
+    "rawHash": "54f2e9d7e6ea0546e44257cc8db04faf4794479b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c-cuppene",
+  "headword": "cuppène",
+  "variants": [
+    "cuppine",
+    "cuppinu"
+  ],
+  "senses": [
+    {
+      "it": "mestolo",
+      "en": "ladle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuppène, cuppine, cuppinu: mestolo",
+    "rawHash": "6651613f37c328306de0837effe897e6413845d6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

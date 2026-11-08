@@ -1,0 +1,21 @@
+{
+  "id": "s-scionnanode",
+  "headword": "scionnanòde",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scionnanòde: altalena",
+    "rawHash": "597f01d5b6742e2872a4a379c78784d0efabd066",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

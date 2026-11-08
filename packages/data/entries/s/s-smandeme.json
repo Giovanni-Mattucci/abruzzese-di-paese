@@ -1,0 +1,21 @@
+{
+  "id": "s-smandeme",
+  "headword": "smandème",
+  "senses": [
+    {
+      "it": "scopriamo",
+      "en": "we uncover",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smandème: scopriamo",
+    "rawHash": "ea5fdebe0510601ff4e73c49c3ddbb4cbd3f1219",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

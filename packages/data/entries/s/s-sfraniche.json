@@ -1,0 +1,21 @@
+{
+  "id": "s-sfraniche",
+  "headword": "sfraniche",
+  "senses": [
+    {
+      "it": "sbriciola",
+      "en": "he/she crumbles",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfraniche: sbriciola",
+    "rawHash": "23098cf13e0c526335350e9379d3dff66af4bccb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

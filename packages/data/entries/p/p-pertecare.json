@@ -1,0 +1,21 @@
+{
+  "id": "p-pertecare",
+  "headword": "pertecare",
+  "senses": [
+    {
+      "it": "aratro",
+      "en": "plough",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pertecare: aratro",
+    "rawHash": "c2eecbfebca2ab80c8f75c3fec721d82164fe08d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

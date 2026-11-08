@@ -1,0 +1,36 @@
+{
+  "id": "v-vattuccheje",
+  "headword": "v'attucchèje",
+  "senses": [
+    {
+      "it": "vi toccava",
+      "en": "it fell to you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vi spettava",
+      "en": "it was due to you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "toccava a voi",
+      "en": "it was your turn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spettava a voi",
+      "en": "it was up to you",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "v'attucchèje: vi toccava, vi spettava, toccava a voi, spettava a voi",
+    "rawHash": "bb3e5a588e2fbee24a4a0986a253a7871a0dac29",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

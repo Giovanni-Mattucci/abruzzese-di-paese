@@ -1,0 +1,21 @@
+{
+  "id": "f-frunca",
+  "headword": "fruncà",
+  "senses": [
+    {
+      "it": "avventarsi",
+      "en": "to lunge, to pounce",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fruncà: avventarsi",
+    "rawHash": "fa70ec7bd52d64a93d115c6ebaab125935499fc0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

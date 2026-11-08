@@ -1,0 +1,21 @@
+{
+  "id": "p-pusctale",
+  "headword": "pusctale",
+  "senses": [
+    {
+      "it": "autobus",
+      "en": "bus",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pusctale: autobus",
+    "rawHash": "8d7f5a1eecd1e6b59d8fd7a4007951c42c783497",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-arbiastima",
+  "headword": "arbiastimà",
+  "senses": [
+    {
+      "it": "bestemmiare",
+      "en": "to blaspheme, to swear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arbiastimà: bestemmiare",
+    "rawHash": "9e2713b4353f78368763a0d123dc23838f2e95a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

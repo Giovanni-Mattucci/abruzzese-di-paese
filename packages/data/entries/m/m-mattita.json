@@ -1,0 +1,26 @@
+{
+  "id": "m-mattita",
+  "headword": "mattità",
+  "senses": [
+    {
+      "it": "stupidaggini",
+      "en": "foolishness, silly things",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fesserie",
+      "en": "nonsense",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mattità: stupidaggini, fesserie",
+    "rawHash": "bf382c48e3b2cf884ca3350e55ac1ed4789a684e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

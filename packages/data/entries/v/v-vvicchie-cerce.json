@@ -1,0 +1,21 @@
+{
+  "id": "v-vvicchie-cerce",
+  "headword": "vvicchie cèrce",
+  "senses": [
+    {
+      "it": "vecchie querce",
+      "en": "old oaks",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vvicchie cèrce: vecchie querce.",
+    "rawHash": "c8ee76eadf06a2842190f496eb5b8feb3dad8501",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

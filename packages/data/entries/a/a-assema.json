@@ -1,0 +1,21 @@
+{
+  "id": "a-assema",
+  "headword": "assemà",
+  "senses": [
+    {
+      "it": "ridurre",
+      "en": "to reduce",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assemà: ridurre",
+    "rawHash": "9a99339c18456ee8b3602c2bc62f2e3db2287f62",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

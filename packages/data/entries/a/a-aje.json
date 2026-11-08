@@ -1,0 +1,21 @@
+{
+  "id": "a-aje",
+  "headword": "aje",
+  "senses": [
+    {
+      "it": "aglio",
+      "en": "garlic",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aje: aglio",
+    "rawHash": "17d4d72f08610bddffa7bbd42665810f77f16c4f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

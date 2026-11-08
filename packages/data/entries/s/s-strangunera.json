@@ -1,0 +1,21 @@
+{
+  "id": "s-strangunera",
+  "headword": "strangunera",
+  "senses": [
+    {
+      "it": "gambale di pelle",
+      "en": "leather legging, leather gaiter",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strangunera: gambale di pelle",
+    "rawHash": "f8653c0ba02508cdbfa53344cd5937c5f8f01e86",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

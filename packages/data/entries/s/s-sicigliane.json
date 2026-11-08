@@ -1,0 +1,21 @@
+{
+  "id": "s-sicigliane",
+  "headword": "sicigliane",
+  "senses": [
+    {
+      "it": "siciliani",
+      "en": "Sicilians",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sicigliane: siciliani",
+    "rawHash": "9c87bdc0623c75901122986ba4e0a25d1e8a3c80",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

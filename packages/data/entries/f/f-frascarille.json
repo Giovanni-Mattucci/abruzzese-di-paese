@@ -1,0 +1,22 @@
+{
+  "id": "f-frascarille",
+  "headword": "frascarille",
+  "article": "li",
+  "senses": [
+    {
+      "it": "minestra fatta con un impasto di farina di grano per le puerpere",
+      "en": "soup made with a wheat-flour dough for women who have just given birth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frascarille (li): minestra fatta con un impasto di farina di grano per le puerpere",
+    "rawHash": "482c0f2b71fecef0a1306f3cf8dda60cba539501",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

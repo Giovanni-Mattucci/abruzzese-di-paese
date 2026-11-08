@@ -1,0 +1,21 @@
+{
+  "id": "c-casscione",
+  "headword": "cassciòne",
+  "senses": [
+    {
+      "it": "cassa da morto",
+      "en": "coffin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cassciòne: cassa da morto",
+    "rawHash": "238023d2c191a180961ac71bc8437d408c271400",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-arjogne",
+  "headword": "arjogne",
+  "senses": [
+    {
+      "it": "ricongiungere",
+      "en": "to rejoin, to reunite",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arjogne: ricongiungere",
+    "rawHash": "185b26446232ee6cdf5dc7b7ddec7e869844525f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

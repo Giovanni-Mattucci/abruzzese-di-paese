@@ -1,0 +1,21 @@
+{
+  "id": "p-pistica",
+  "headword": "pisticà",
+  "senses": [
+    {
+      "it": "calpestare",
+      "en": "to trample",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pisticà: calpestare",
+    "rawHash": "33c2d73e66915824ae595e6eb16a22df99f38623",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

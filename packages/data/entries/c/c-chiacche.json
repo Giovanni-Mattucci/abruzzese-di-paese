@@ -1,0 +1,21 @@
+{
+  "id": "c-chiacche",
+  "headword": "chiacche",
+  "senses": [
+    {
+      "it": "laccio di metallo per la cattura di animali selvatici. Era posto nei punti di passaggio della bestia che era attirata con qualche esca. Quando l'animale passava il laccio si stringeva imprigionandolo o soffocandolo",
+      "en": "metal snare for catching wild animals. It was set at the points where the animal passed, lured by some bait. When the animal passed, the noose tightened, trapping or strangling it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiacche: laccio di metallo per la cattura di animali selvatici. Era posto nei punti di passaggio della bestia che era attirata con qualche esca. Quando l'animale passava il laccio si stringeva imprigionandolo o soffocandolo.",
+    "rawHash": "90c49055a0a5bb545ee1bf09e4078658e481b019",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

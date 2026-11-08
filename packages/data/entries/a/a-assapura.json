@@ -1,0 +1,21 @@
+{
+  "id": "a-assapura",
+  "headword": "assapurà",
+  "senses": [
+    {
+      "it": "assaporare assemà, assimà: diminuire a poco a poco, ridurre",
+      "en": "to savour; assemà, assimà: to diminish little by little, to reduce",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assapurà:assaporare assemà, assimà: diminuire a poco a poco, ridurre",
+    "rawHash": "7b64cdf5d27062661c662d1f8b8b571a8e4e51d7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

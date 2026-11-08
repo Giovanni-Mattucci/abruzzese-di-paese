@@ -1,0 +1,24 @@
+{
+  "id": "g-guccetta",
+  "headword": "guccetta",
+  "variants": [
+    "guccitte"
+  ],
+  "senses": [
+    {
+      "it": "botola",
+      "en": "trapdoor",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "guccetta, guccitte: botola",
+    "rawHash": "f8c2308a7338611edabcb5621e8a4c34620647f7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

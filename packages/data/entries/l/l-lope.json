@@ -1,0 +1,21 @@
+{
+  "id": "l-lope",
+  "headword": "lòpe",
+  "senses": [
+    {
+      "it": "lupo",
+      "en": "wolf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lòpe: lupo",
+    "rawHash": "25c70adba083347b71b5e55b7f694e7fba4751f0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "z-zumpa",
+  "headword": "zumpà",
+  "senses": [
+    {
+      "it": "saltare",
+      "en": "to jump, to leap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zumpà: saltare",
+    "rawHash": "b469ac2cb4758e24e08b89314d20ea3cbaee4616",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

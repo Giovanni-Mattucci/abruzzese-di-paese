@@ -1,0 +1,21 @@
+{
+  "id": "c-ciufellare",
+  "headword": "ciufellare",
+  "senses": [
+    {
+      "it": "pifferaio",
+      "en": "piper, fife player",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciufellare: pifferaio",
+    "rawHash": "9c080f564e3660ed0c4267ee89aebfed8cbe4377",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

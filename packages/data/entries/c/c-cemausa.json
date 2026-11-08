@@ -1,0 +1,21 @@
+{
+  "id": "c-cemausa",
+  "headword": "cemausa",
+  "senses": [
+    {
+      "it": "scalinata esterna",
+      "en": "external staircase",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cemausa: scalinata esterna",
+    "rawHash": "a3c43462cf82168d5931ce7d1782bd6e6a254d15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

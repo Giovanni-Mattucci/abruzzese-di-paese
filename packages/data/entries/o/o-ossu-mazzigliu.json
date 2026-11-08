@@ -1,0 +1,21 @@
+{
+  "id": "o-ossu-mazzigliu",
+  "headword": "òssu mazzigliu",
+  "senses": [
+    {
+      "it": "caviglia",
+      "en": "ankle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "o",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/o.html",
+    "raw": "òssu mazzigliu: caviglia",
+    "rawHash": "164557db27d8ce917bd67c94b863c6eb279bf3de",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

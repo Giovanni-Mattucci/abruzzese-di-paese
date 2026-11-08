@@ -1,0 +1,21 @@
+{
+  "id": "a-arzila",
+  "headword": "arzilà",
+  "senses": [
+    {
+      "it": "fare le faccende di casa, mettere a posto, in ordine",
+      "en": "to do the housework, to tidy up, to put in order",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arzilà: fare le faccende di casa, mettere a posto, in ordine",
+    "rawHash": "c6f2276849a9a917f13b3959d6b8ee973d4e4589",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

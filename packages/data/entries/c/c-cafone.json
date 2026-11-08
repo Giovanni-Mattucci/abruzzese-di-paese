@@ -1,0 +1,21 @@
+{
+  "id": "c-cafone",
+  "headword": "cafòne",
+  "senses": [
+    {
+      "it": "zappaterra",
+      "en": "peasant, clodhopper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cafòne: zappaterra",
+    "rawHash": "f8f2ab5cdde6db788bf9e2da18eaa64447192c20",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

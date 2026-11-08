@@ -1,0 +1,24 @@
+{
+  "id": "l-la-iozz",
+  "headword": "la iozz",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "la pozzanghera",
+      "en": "the puddle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "la iozz: la pozzanghera (M. sul S.)",
+    "rawHash": "1c046195a60f525c221c71864a70c21f1db47383",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

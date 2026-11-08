@@ -1,0 +1,21 @@
+{
+  "id": "c-chitho",
+  "headword": "chitho",
+  "senses": [
+    {
+      "it": "presto",
+      "en": "soon, quickly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chitho: presto",
+    "rawHash": "151831ca6e73ed21db13057a84f237fcd3cc7132",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

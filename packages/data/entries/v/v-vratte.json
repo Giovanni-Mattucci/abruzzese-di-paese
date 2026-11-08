@@ -1,0 +1,21 @@
+{
+  "id": "v-vratte",
+  "headword": "vratte",
+  "senses": [
+    {
+      "it": "sporco",
+      "en": "dirty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vratte: sporco",
+    "rawHash": "8d8cb299d692fd3738675746221f79fedf506891",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

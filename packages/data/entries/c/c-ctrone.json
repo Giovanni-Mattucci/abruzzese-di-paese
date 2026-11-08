@@ -1,0 +1,21 @@
+{
+  "id": "c-ctrone",
+  "headword": "c'trone",
+  "senses": [
+    {
+      "it": "anguria",
+      "en": "watermelon",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c'trone: anguria",
+    "rawHash": "272f834990a642a797dcec1941584a30368abd3b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-papucchie",
+  "headword": "papucchie",
+  "senses": [
+    {
+      "it": "fandonia",
+      "en": "tall tale, fib",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "papucchie: fandonia",
+    "rawHash": "6de1017983c343e63faa93645f9474afaad9e73e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

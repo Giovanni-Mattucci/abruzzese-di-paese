@@ -1,0 +1,21 @@
+{
+  "id": "h-hatte",
+  "headword": "hatte",
+  "senses": [
+    {
+      "it": "gatto",
+      "en": "cat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hatte: gatto",
+    "rawHash": "7f4f257890bf5a90022c788c15c522cbf9ad6272",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-arruteve-iu-cele-nghe-la-mazze",
+  "headword": "arrutève iu cele nghe la mazze",
+  "senses": [
+    {
+      "it": "investiva l'aria girando vorticosamente il bastone",
+      "en": "he swept the air whirling the stick around",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrutève iu cele nghe la mazze: investiva l'aria girando vorticosamente il bastone.",
+    "rawHash": "dc060365fd9c8dfe8c9bd65a3ae12547aa5a5758",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

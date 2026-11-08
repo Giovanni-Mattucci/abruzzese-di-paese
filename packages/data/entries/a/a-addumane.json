@@ -1,0 +1,21 @@
+{
+  "id": "a-addumane",
+  "headword": "addumane",
+  "senses": [
+    {
+      "it": "domani",
+      "en": "tomorrow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "addumane: domani",
+    "rawHash": "a5a178d46ef38181939e75bddfbcea792f99cb2e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

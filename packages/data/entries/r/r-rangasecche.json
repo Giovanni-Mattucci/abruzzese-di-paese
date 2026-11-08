@@ -1,0 +1,21 @@
+{
+  "id": "r-rangasecche",
+  "headword": "rangasêcche",
+  "senses": [
+    {
+      "it": "magro",
+      "en": "thin, skinny",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rangasêcche: magro",
+    "rawHash": "6bd7814a92b75f703f3b55397a2fc27d15b8ff15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

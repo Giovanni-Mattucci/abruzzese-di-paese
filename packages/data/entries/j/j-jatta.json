@@ -1,0 +1,21 @@
+{
+  "id": "j-jatta",
+  "headword": "jàtta",
+  "senses": [
+    {
+      "it": "gatta",
+      "en": "female cat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jàtta: gatta",
+    "rawHash": "d371c2220b7732759447126c1b61bc5b9c03958c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

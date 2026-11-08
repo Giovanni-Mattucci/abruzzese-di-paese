@@ -1,0 +1,26 @@
+{
+  "id": "l-lamature",
+  "headword": "lamature",
+  "senses": [
+    {
+      "it": "acquitrino",
+      "en": "marsh, bog",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "luogo fangoso",
+      "en": "muddy place",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lamature: acquitrino, luogo fangoso",
+    "rawHash": "d4704bcf9e2c27c8b37120037afed8877be5ef5c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

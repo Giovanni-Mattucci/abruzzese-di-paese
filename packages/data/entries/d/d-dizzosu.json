@@ -1,0 +1,21 @@
+{
+  "id": "d-dizzosu",
+  "headword": "dizzòsu",
+  "senses": [
+    {
+      "it": "beato",
+      "en": "blessed, lucky",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dizzòsu: beato",
+    "rawHash": "98a6257a7b2e9643655078b4eb38c677c640cc80",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

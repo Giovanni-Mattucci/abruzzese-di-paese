@@ -1,0 +1,21 @@
+{
+  "id": "p-pazze",
+  "headword": "pàzze",
+  "senses": [
+    {
+      "it": "matto",
+      "en": "crazy, mad",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pàzze: matto",
+    "rawHash": "ad8b5f69424e87d6755fb14f705d477dd9852c37",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

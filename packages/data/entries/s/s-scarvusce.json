@@ -1,0 +1,21 @@
+{
+  "id": "s-scarvusce",
+  "headword": "scarvùsce",
+  "senses": [
+    {
+      "it": "fruga",
+      "en": "he/she rummages",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarvùsce: fruga",
+    "rawHash": "4c74a7929a21fde109a4b5014ece521d199d8877",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "s-sterpa",
+  "headword": "sterpa",
+  "article": "la",
+  "senses": [
+    {
+      "it": "pecora sterile",
+      "en": "barren ewe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sterpa (la): pecora sterile",
+    "rawHash": "288e8b91fd01c49092fec7e714cc6a810d60c186",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

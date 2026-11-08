@@ -1,0 +1,21 @@
+{
+  "id": "p-papambrone",
+  "headword": "papambrone",
+  "senses": [
+    {
+      "it": "decotto ricavato dalla bollitura della parte interna del fiore di papavero",
+      "en": "decoction obtained by boiling the inner part of the poppy flower",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "papambrone: decotto ricavato dalla bollitura della parte interna del fiore di papavero",
+    "rawHash": "a8dc57bc77aed2349b21637d1209a402d0735459",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

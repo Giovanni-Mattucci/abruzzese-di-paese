@@ -1,0 +1,21 @@
+{
+  "id": "l-la-uardie",
+  "headword": "la Uardie",
+  "senses": [
+    {
+      "it": "Guardiagrele - paese in provincia di Chieti",
+      "en": "Guardiagrele - a town in the province of Chieti",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "la Uardie: Guardiagrele - paese in provincia di Chieti",
+    "rawHash": "1c6e445ac10a643f7230a3ba83802d44d7383681",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

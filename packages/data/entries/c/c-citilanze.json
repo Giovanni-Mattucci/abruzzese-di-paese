@@ -1,0 +1,21 @@
+{
+  "id": "c-citilanze",
+  "headword": "citilànze",
+  "senses": [
+    {
+      "it": "infanzia",
+      "en": "childhood",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "citilànze: infanzia",
+    "rawHash": "1ce4ede617ca68e826f73613d4e04cb20ca9cee7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

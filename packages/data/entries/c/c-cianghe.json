@@ -1,0 +1,21 @@
+{
+  "id": "c-cianghe",
+  "headword": "ciànghe",
+  "senses": [
+    {
+      "it": "gamba malandata",
+      "en": "bad leg, battered leg",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciànghe: gamba malandata",
+    "rawHash": "ee62ed1ba84252c0d093743454daa6c73b0ec5f0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-appuja",
+  "headword": "appujà",
+  "senses": [
+    {
+      "it": "appoggiare",
+      "en": "to lean, to rest (something against)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appujà: appoggiare",
+    "rawHash": "944f9b93aa8bf0d268dedad72a0d971fad12916d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

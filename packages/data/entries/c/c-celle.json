@@ -1,0 +1,22 @@
+{
+  "id": "c-celle",
+  "headword": "célle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "uccello",
+      "en": "bird",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "célle (lu): uccello",
+    "rawHash": "2992bcc1ae6954c0f1dd554bfd1ffdc2e4900052",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

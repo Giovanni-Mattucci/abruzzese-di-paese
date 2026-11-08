@@ -1,0 +1,21 @@
+{
+  "id": "f-facete",
+  "headword": "facète",
+  "senses": [
+    {
+      "it": "fate",
+      "en": "you do (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "facète: fate",
+    "rawHash": "3d26963bb6734e8c594d1d8f8dd88f25f31b6fce",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

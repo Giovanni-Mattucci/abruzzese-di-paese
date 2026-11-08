@@ -1,0 +1,21 @@
+{
+  "id": "c-chilli",
+  "headword": "chillì",
+  "senses": [
+    {
+      "it": "quella",
+      "en": "that (feminine)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chillì: quella",
+    "rawHash": "4e2bc19cf5a646a8d0e3428d1d13cfe1998126ef",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

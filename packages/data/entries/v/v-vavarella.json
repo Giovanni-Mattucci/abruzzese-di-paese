@@ -1,0 +1,21 @@
+{
+  "id": "v-vavarella",
+  "headword": "vavarella",
+  "senses": [
+    {
+      "it": "acquolina",
+      "en": "watering of the mouth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vavarella: acquolina",
+    "rawHash": "f5d85fd108fe42bbebb66ebb54caf62e9b0b2583",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

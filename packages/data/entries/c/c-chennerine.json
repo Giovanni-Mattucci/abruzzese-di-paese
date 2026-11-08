@@ -1,0 +1,21 @@
+{
+  "id": "c-chennerine",
+  "headword": "chennerine",
+  "senses": [
+    {
+      "it": "corde vocali",
+      "en": "vocal cords",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chennerine: corde vocali",
+    "rawHash": "7bea123f5c2ad9a77cfbe5887272438872021fe9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

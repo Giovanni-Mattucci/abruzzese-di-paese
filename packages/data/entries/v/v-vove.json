@@ -1,0 +1,21 @@
+{
+  "id": "v-vove",
+  "headword": "vove",
+  "senses": [
+    {
+      "it": "bue",
+      "en": "ox",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vove: bue",
+    "rawHash": "8f0cc3a906d4262612990079aeb0eac43dc22998",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

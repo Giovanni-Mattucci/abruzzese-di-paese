@@ -1,0 +1,21 @@
+{
+  "id": "c-cubbelle",
+  "headword": "cubbelle",
+  "senses": [
+    {
+      "it": "niente",
+      "en": "nothing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cubbelle: niente",
+    "rawHash": "9e51048bf4f5a8aecd8d231b8109aed59a788ee2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

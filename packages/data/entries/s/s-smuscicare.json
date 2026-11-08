@@ -1,0 +1,21 @@
+{
+  "id": "s-smuscicare",
+  "headword": "smuscicàre",
+  "senses": [
+    {
+      "it": "muoversi",
+      "en": "to move (oneself)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smuscicàre: muoversi",
+    "rawHash": "36b49c43a345d5e14a116e5bc284d9827b821111",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

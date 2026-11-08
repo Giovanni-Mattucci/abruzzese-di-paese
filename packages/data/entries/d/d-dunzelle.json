@@ -1,0 +1,26 @@
+{
+  "id": "d-dunzelle",
+  "headword": "dunzelle",
+  "senses": [
+    {
+      "it": "donzella",
+      "en": "damsel",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "signorina",
+      "en": "young lady",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dunzelle: donzella, signorina",
+    "rawHash": "1857281d73e5bda9aecd3fb686e2268911d12d82",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

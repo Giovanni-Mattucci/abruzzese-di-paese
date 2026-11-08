@@ -1,0 +1,21 @@
+{
+  "id": "j-ja-scite",
+  "headword": "ja scìte",
+  "senses": [
+    {
+      "it": "gli è uscito",
+      "en": "it came out of him, it came out for him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja scìte: gli è uscito",
+    "rawHash": "e2f3d2092bcbad600de75000275536bd031c8b9b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

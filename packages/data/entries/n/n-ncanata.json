@@ -1,0 +1,21 @@
+{
+  "id": "n-ncanata",
+  "headword": "'ncanata",
+  "senses": [
+    {
+      "it": "canto dei mietitori",
+      "en": "reapers' song",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncanata: canto dei mietitori",
+    "rawHash": "76bc9d9a782ee5915752c52396d8ba49d1346a3e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

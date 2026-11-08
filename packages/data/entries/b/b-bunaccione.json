@@ -1,0 +1,21 @@
+{
+  "id": "b-bunaccione",
+  "headword": "bunaccione",
+  "senses": [
+    {
+      "it": "bonaccione",
+      "en": "good-natured fellow, easy-going person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bunaccione: bonaccione",
+    "rawHash": "3a5ee626258da558e475ba5dd8eb82708b10099d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

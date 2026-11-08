@@ -1,0 +1,24 @@
+{
+  "id": "c-curce",
+  "headword": "curce",
+  "senses": [
+    {
+      "it": "verso onomatopeico col quale si richiama l'attenzione dei conigli d'allevamento. La parola viene pronunciata con voce un po' in falsetto e facendo vibrare la \"r\" sotto il palato con suono sordo. Era probabilmente un ingenuo tentativo di imitare il verso di questi animali (pressoché muti) per indurli ad avvicinarsi e lasciarsi accudire o prendere. Forse per riflesso condizionato, le bestiole rispondevano sempre al richiamo e si avvicinavano senza timore alle mani del padrone",
+      "en": "onomatopoeic call used to attract the attention of farmed rabbits. The word is pronounced in a slightly falsetto voice, trilling the \"r\" under the palate with a muffled sound. It was probably a naive attempt to imitate the call of these (almost mute) animals in order to induce them to come closer and let themselves be tended or picked up. Perhaps by conditioned reflex, the little creatures responded to the call every time and came up to their owner's hands without fear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: sempre al richiamo e si avvicinavano senza timore alle mani del padrone"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "curce: verso onomatopeico col quale si richiama l'attenzione dei conigli d'allevamento. La parola viene pronunciata con voce un po' in falsetto e facendo vibrare la \"r\" sotto il palato con suono sordo. Era probabilmente un ingenuo tentativo di imitare il verso di questi animali (pressoché muti) per indurli ad avvicinarsi e lasciarsi accudire o prendere. Forse per riflesso condizionato, le bestiole rispondevano",
+    "rawHash": "7e462ea4a17d34a67fdffdb838c04fdbb87ee64e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

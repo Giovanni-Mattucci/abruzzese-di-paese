@@ -1,0 +1,24 @@
+{
+  "id": "g-gangale",
+  "headword": "gangàle",
+  "variants": [
+    "gangalètte"
+  ],
+  "senses": [
+    {
+      "it": "càrdine",
+      "en": "hinge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gangàle, gangalètte: càrdine",
+    "rawHash": "027cf1789d2d9687560e9949aa6c8f83f69933c3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

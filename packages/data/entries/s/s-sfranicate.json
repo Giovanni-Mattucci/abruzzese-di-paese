@@ -1,0 +1,21 @@
+{
+  "id": "s-sfranicate",
+  "headword": "sfranicate",
+  "senses": [
+    {
+      "it": "sbricciolato",
+      "en": "crumbled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfranicate: sbricciolato",
+    "rawHash": "bb51f246edf058e43088b97e94db30a6c3f5902d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

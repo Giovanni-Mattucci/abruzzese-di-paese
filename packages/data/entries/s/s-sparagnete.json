@@ -1,0 +1,21 @@
+{
+  "id": "s-sparagnete",
+  "headword": "sparagnète",
+  "senses": [
+    {
+      "it": "risparmiate",
+      "en": "you (plural) save",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sparagnète: risparmiate",
+    "rawHash": "261a43f86f7ee67231e6945b398131be8d970c6c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

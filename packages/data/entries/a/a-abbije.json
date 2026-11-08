@@ -1,0 +1,26 @@
+{
+  "id": "a-abbije",
+  "headword": "abbìje",
+  "senses": [
+    {
+      "it": "comincia",
+      "en": "begins",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "inizia",
+      "en": "starts",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbìje: comincia, inizia",
+    "rawHash": "9cdb0321c5a412597d18b33502e894b4b42edf1b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

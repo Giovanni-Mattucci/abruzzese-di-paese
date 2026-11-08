@@ -1,0 +1,21 @@
+{
+  "id": "l-labbrune-fatte-appetecagne",
+  "headword": "labbrune fatte appetecagne",
+  "senses": [
+    {
+      "it": "labbro inferiore sporgente e pendulo",
+      "en": "protruding, drooping lower lip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "labbrune fatte appetecagne: labbro inferiore sporgente e pendulo",
+    "rawHash": "4461d3422db70ce4103520def7e03eda8d67a7d8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

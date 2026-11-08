@@ -1,0 +1,21 @@
+{
+  "id": "z-zizziriballa",
+  "headword": "zizziribàlla",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zizziribàlla: altalena",
+    "rawHash": "55cecfb97d8844afae194e349f4c708a12ea99ae",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

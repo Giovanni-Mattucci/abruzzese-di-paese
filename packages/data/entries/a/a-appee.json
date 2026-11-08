@@ -1,0 +1,21 @@
+{
+  "id": "a-appee",
+  "headword": "appèe",
+  "senses": [
+    {
+      "it": "a piedi",
+      "en": "on foot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appèe: a piedi",
+    "rawHash": "e9427fbf0b1da9c03a424d79135b806b6a4f2a79",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

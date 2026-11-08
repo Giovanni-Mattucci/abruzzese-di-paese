@@ -1,0 +1,21 @@
+{
+  "id": "z-zizzita",
+  "headword": "zizzità",
+  "senses": [
+    {
+      "it": "sporcizia",
+      "en": "dirt, filth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zizzità: sporcizia",
+    "rawHash": "3b0aaf8b12298015182e7927a5de8613ce99ab8c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

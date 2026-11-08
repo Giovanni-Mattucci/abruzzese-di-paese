@@ -1,0 +1,38 @@
+{
+  "id": "l-luvine",
+  "headword": "luvine",
+  "senses": [
+    {
+      "it": "semi di alcuni tipi di frutti",
+      "en": "seeds of some kinds of fruit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "li luvine di chicocce",
+      "it": "i semi di zucca",
+      "en": "pumpkin seeds",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "abr": "li luvine di pimmadore",
+      "it": "i semi di pomodoro",
+      "en": "tomato seeds",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: li luvine di chicocce (i semi di zucca) e li luvine di pimmadore (i semi di pomodoro)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "luvine: semi di alcuni tipi di frutti. Qualche esempio:",
+    "rawHash": "abe579bc3155ab48fdefc278cefb8a56305bab26",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cacature",
+  "headword": "cacatùre",
+  "senses": [
+    {
+      "it": "cesso",
+      "en": "toilet, loo (vulgar)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cacatùre: cesso",
+    "rawHash": "bb1885522189b2f42491d7d49c71dea659151946",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

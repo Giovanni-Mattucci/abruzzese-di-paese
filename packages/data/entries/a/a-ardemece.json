@@ -1,0 +1,31 @@
+{
+  "id": "a-ardemece",
+  "headword": "ardèmece",
+  "senses": [
+    {
+      "it": "ridiamoci",
+      "en": "let us give ourselves back",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riprendiamoci",
+      "en": "let us take back, let us recover",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "torniamo a darci",
+      "en": "let us give ourselves again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardèmece: ridiamoci, riprendiamoci, torniamo a darci",
+    "rawHash": "01d54cb8ec2d10919b6fb55beb8582e7237f5083",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

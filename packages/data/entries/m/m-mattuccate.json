@@ -1,0 +1,21 @@
+{
+  "id": "m-mattuccate",
+  "headword": "m'attuccàte",
+  "senses": [
+    {
+      "it": "mi è toccato, è toccato pure a me, mi spettava",
+      "en": "it fell to me, it was my turn too, it was due to me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m'attuccàte: mi è toccato, è toccato pure a me, mi spettava",
+    "rawHash": "5afcb4bcd6de8a3d124616554e4663aa266ccbd5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

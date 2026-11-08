@@ -1,0 +1,21 @@
+{
+  "id": "v-varda",
+  "headword": "varda",
+  "senses": [
+    {
+      "it": "basto",
+      "en": "packsaddle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varda: basto",
+    "rawHash": "449de1f2a1340ecd33f476ca8b3d184cdc17f1c1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

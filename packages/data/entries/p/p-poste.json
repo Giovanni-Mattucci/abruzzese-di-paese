@@ -1,0 +1,26 @@
+{
+  "id": "p-poste",
+  "headword": "poste",
+  "senses": [
+    {
+      "it": "panche",
+      "en": "benches",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "piccoli pani (damme 'na poste de pane: dammi una posta di pane, un piccolo pane",
+      "en": "small loaves (damme 'na poste de pane: give me a posta of bread, a small loaf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "poste: panche, ma anche piccoli pani (damme 'na poste de pane: dammi una posta di pane, un piccolo pane",
+    "rawHash": "b204775de58a9dc57d37fd0b8575b63f8fb0201d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

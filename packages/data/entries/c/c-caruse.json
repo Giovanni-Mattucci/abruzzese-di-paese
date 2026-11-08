@@ -1,0 +1,21 @@
+{
+  "id": "c-caruse",
+  "headword": "caruse",
+  "senses": [
+    {
+      "it": "luogo per la tosatura",
+      "en": "shearing place",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caruse : luogo per la tosatura",
+    "rawHash": "8e96df85c66b2d50984c5475fa2c091290241ef5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

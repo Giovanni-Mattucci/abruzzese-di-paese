@@ -1,0 +1,21 @@
+{
+  "id": "b-bavujette",
+  "headword": "bavujètte",
+  "senses": [
+    {
+      "it": "bauletto",
+      "en": "small trunk",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bavujètte: bauletto",
+    "rawHash": "f845390e296fb1e92fed79a7a556037e061f4f0e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

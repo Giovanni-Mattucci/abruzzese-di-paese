@@ -1,0 +1,21 @@
+{
+  "id": "a-agniline",
+  "headword": "agniline",
+  "senses": [
+    {
+      "it": "gengive dei vecchi dopo la perdita dei denti",
+      "en": "gums of old people after the loss of their teeth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "agniline: gengive dei vecchi dopo la perdita dei denti",
+    "rawHash": "84acf829c49c5423a32a770f74aab974105b2f55",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-striccicafoje",
+  "headword": "striccicafoje",
+  "senses": [
+    {
+      "it": "rastrello",
+      "en": "rake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "striccicafoje: rastrello",
+    "rawHash": "f7f50393fba35f1bcafb448c7c816c1e0f1a4549",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

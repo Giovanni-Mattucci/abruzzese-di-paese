@@ -1,0 +1,21 @@
+{
+  "id": "m-mijchelle",
+  "headword": "mijchelle",
+  "senses": [
+    {
+      "it": "un pochino. Es. dammene 'na mijchelle: dammene un poco",
+      "en": "a little bit. E.g. dammene 'na mijchelle: give me a little",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mijchelle: un pochino. Es. dammene 'na mijchelle: dammene un poco",
+    "rawHash": "ea07475c598a5303b05844fada34b0917749be33",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

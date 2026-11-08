@@ -1,0 +1,24 @@
+{
+  "id": "b-binidizzione",
+  "headword": "binidizziòne",
+  "variants": [
+    "binidizzijòne"
+  ],
+  "senses": [
+    {
+      "it": "benedizione",
+      "en": "blessing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "binidizziòne, binidizzijòne: benedizione",
+    "rawHash": "90d6f3914187709ba11f52c8129f0752beeb784a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

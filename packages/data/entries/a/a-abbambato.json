@@ -1,0 +1,21 @@
+{
+  "id": "a-abbambato",
+  "headword": "abbambato",
+  "senses": [
+    {
+      "it": "che si è un po' bruciato",
+      "en": "slightly burnt, scorched",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbambato: che si è un po' bruciato",
+    "rawHash": "771ddc0deed83108e6123b789d4ef5f273ed159d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

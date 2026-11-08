@@ -1,0 +1,21 @@
+{
+  "id": "t-tore",
+  "headword": "tore",
+  "senses": [
+    {
+      "it": "toro",
+      "en": "bull",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tore: toro",
+    "rawHash": "5733816cb1912a23423df005bcfedef2d3a535fb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

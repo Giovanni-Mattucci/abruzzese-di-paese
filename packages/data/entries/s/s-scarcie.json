@@ -1,0 +1,21 @@
+{
+  "id": "s-scarcie",
+  "headword": "scarcie",
+  "senses": [
+    {
+      "it": "strappare",
+      "en": "to tear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarcie: strappare",
+    "rawHash": "ab594af3706f46040bcf32979788419309bfc292",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

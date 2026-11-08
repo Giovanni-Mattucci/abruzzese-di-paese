@@ -1,0 +1,26 @@
+{
+  "id": "a-abbade",
+  "headword": "abbade",
+  "senses": [
+    {
+      "it": "stai attento",
+      "en": "be careful",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fai attenzione",
+      "en": "pay attention",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbade: stai attento, fai attenzione",
+    "rawHash": "ec70fdc52bcdcf39bd61837152b05c8c85bc74ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

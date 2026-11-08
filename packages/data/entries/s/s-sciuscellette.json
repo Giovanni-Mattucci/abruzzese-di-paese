@@ -1,0 +1,21 @@
+{
+  "id": "s-sciuscellette",
+  "headword": "sciuscellette",
+  "senses": [
+    {
+      "it": "scampagnata",
+      "en": "outing in the countryside",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciuscellette: scampagnata",
+    "rawHash": "55d46938c6b745de27f93e8680abce2df75594cb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

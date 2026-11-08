@@ -1,0 +1,24 @@
+{
+  "id": "b-buffe",
+  "headword": "buffe",
+  "senses": [
+    {
+      "it": "imbroglio, anche riferito ai soldi",
+      "en": "swindle, also involving money",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: buffe: imbroglio"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "buffe: imbroglio - riferito ai soldi",
+    "rawHash": "1ccc1c5942fb3095803fc7b5668f117ab6c8634b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

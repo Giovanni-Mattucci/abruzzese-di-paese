@@ -1,0 +1,21 @@
+{
+  "id": "j-jove",
+  "headword": "jove",
+  "senses": [
+    {
+      "it": "giogo",
+      "en": "yoke",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jove: giogo",
+    "rawHash": "de354d7b58f353025371d97a9f838817a85340c4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

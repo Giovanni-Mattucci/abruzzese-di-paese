@@ -1,0 +1,21 @@
+{
+  "id": "a-azzuffula",
+  "headword": "azzuffulà",
+  "senses": [
+    {
+      "it": "soffiare",
+      "en": "to blow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "azzuffulà: soffiare",
+    "rawHash": "e3c516898b6615fbc733050876348024388ea06f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

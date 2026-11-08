@@ -1,0 +1,21 @@
+{
+  "id": "a-ajjacciate",
+  "headword": "ajjacciate",
+  "senses": [
+    {
+      "it": "sdraiato",
+      "en": "lying down, stretched out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ajjacciate: sdraiato",
+    "rawHash": "521974d17633d141b7f3289fe67b5a7a51194d5d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

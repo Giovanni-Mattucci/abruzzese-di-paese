@@ -1,0 +1,31 @@
+{
+  "id": "m-misciscche",
+  "headword": "misciscche",
+  "senses": [
+    {
+      "it": "carne",
+      "en": "meat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "di solito caprina",
+      "en": "usually goat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "essiccata al sole",
+      "en": "dried in the sun",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "misciscche: carne, di solito caprina, essiccata al sole",
+    "rawHash": "9a59e137beb0c7f239859811bafe4b1332d0c4cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

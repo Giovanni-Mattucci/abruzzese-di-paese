@@ -1,0 +1,24 @@
+{
+  "id": "c-conghe",
+  "headword": "conghe",
+  "senses": [
+    {
+      "it": "conghe. canca"
+    },
+    {
+      "it": "anfora di rame",
+      "en": "copper amphora",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "conghe: conghe. canca, anfora di rame",
+    "rawHash": "67f79e3b6660f7cbf19f283a2fdd41997570d800",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

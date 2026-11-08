@@ -1,0 +1,21 @@
+{
+  "id": "s-schiuppettate",
+  "headword": "schiuppêttate",
+  "senses": [
+    {
+      "it": "fucilate",
+      "en": "gunshots",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiuppêttate: fucilate",
+    "rawHash": "cddadc058982bd5b1168816eb735b082237eae0e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

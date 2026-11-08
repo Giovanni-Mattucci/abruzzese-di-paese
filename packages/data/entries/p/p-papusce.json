@@ -1,0 +1,21 @@
+{
+  "id": "p-papusce",
+  "headword": "papùsce",
+  "senses": [
+    {
+      "it": "pantofole",
+      "en": "slippers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "papùsce: pantofole",
+    "rawHash": "d3c0655c4b25fd1a2ed2bd7d026ef2dc21a1c2c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

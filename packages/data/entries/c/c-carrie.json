@@ -1,0 +1,21 @@
+{
+  "id": "c-carrie",
+  "headword": "carrìe",
+  "senses": [
+    {
+      "it": "traporto",
+      "en": "transport",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carrìe: traporto",
+    "rawHash": "b1897d319bff015239ad6603474a2452b1b51d92",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

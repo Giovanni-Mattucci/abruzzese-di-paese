@@ -1,0 +1,22 @@
+{
+  "id": "s-strettere",
+  "headword": "strettêre",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "morsa in legno",
+      "en": "wooden vice",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strettêre (lu): morsa in legno",
+    "rawHash": "979fe987296126fda73c843e11b82a9619e75401",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

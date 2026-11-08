@@ -1,0 +1,21 @@
+{
+  "id": "c-casciere",
+  "headword": "casciere",
+  "senses": [
+    {
+      "it": "pastore che fa il formaggio",
+      "en": "shepherd who makes cheese",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "casciere: pastore che fa il formaggio",
+    "rawHash": "fded4546b2c13f33f1a994801c6640c9e68bcf30",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

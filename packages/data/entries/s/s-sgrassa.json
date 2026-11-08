@@ -1,0 +1,21 @@
+{
+  "id": "s-sgrassa",
+  "headword": "sgrassà",
+  "senses": [
+    {
+      "it": "dimagrire",
+      "en": "to lose weight",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgrassà: dimagrire",
+    "rawHash": "4d2c8cd65ed572d7932f406ea8802abc465c1eab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

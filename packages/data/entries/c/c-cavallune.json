@@ -1,0 +1,22 @@
+{
+  "id": "c-cavallune",
+  "headword": "cavallune",
+  "article": "li",
+  "senses": [
+    {
+      "it": "onde",
+      "en": "waves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cavallune (li): onde",
+    "rawHash": "39c56f7a965d5455fc8071d144cb18b37fcf32c2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "s-sciambagnene",
+  "headword": "sciambagnêne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "prodigo",
+      "en": "lavish, prodigal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciambagnêne (lu): prodigo",
+    "rawHash": "88bf09aa46599d368f7ce5119d1ff976288bc0f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

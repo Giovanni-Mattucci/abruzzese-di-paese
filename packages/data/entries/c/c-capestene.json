@@ -1,0 +1,21 @@
+{
+  "id": "c-capestene",
+  "headword": "capèstene",
+  "senses": [
+    {
+      "it": "calpestano",
+      "en": "they trample",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capèstene: calpestano",
+    "rawHash": "6b668ed0afa48855d482aa986c68bd7d1627dc27",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

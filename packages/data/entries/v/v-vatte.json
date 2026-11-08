@@ -1,0 +1,31 @@
+{
+  "id": "v-vatte",
+  "headword": "vatte",
+  "senses": [
+    {
+      "it": "battere",
+      "en": "to beat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "percuotere",
+      "en": "to strike",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "picchiare",
+      "en": "to hit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vatte: battere, percuotere, picchiare",
+    "rawHash": "51c13c93d7f60da834831ec178e26c403bb8b746",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

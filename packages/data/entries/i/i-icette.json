@@ -1,0 +1,21 @@
+{
+  "id": "i-icette",
+  "headword": "icètte",
+  "senses": [
+    {
+      "it": "disse",
+      "en": "he said",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "icètte: disse",
+    "rawHash": "bfc77eeeda26e24ebeb8b13bdac72bc4cb1eb39b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

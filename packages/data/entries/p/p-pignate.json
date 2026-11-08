@@ -1,0 +1,21 @@
+{
+  "id": "p-pignate",
+  "headword": "pignàte",
+  "senses": [
+    {
+      "it": "pentola grande",
+      "en": "large pot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pignàte: pentola grande",
+    "rawHash": "6b21c1ca410cc072ef82ad9655f618b9269a8229",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "n-nze",
+  "headword": "'nze",
+  "senses": [
+    {
+      "it": "non",
+      "en": "not",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nze: non",
+    "rawHash": "0cf81e554a61826429018676e4945cfaa542e014",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

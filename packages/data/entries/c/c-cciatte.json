@@ -1,0 +1,22 @@
+{
+  "id": "c-cciatte",
+  "headword": "'cciatté",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "lucciola",
+      "en": "firefly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "'cciatté (lu): lucciola",
+    "rawHash": "81efb94e880c48cecc5c9c085cab7affadf4f03f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-crijanze",
+  "headword": "crijànze",
+  "senses": [
+    {
+      "it": "educazione",
+      "en": "good manners, upbringing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crijànze: educazione",
+    "rawHash": "28a6781e887b8a0bbdf70dfb95c1e01183737cd6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

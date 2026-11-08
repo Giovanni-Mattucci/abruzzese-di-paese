@@ -1,0 +1,23 @@
+{
+  "id": "a-a-ndo-vi",
+  "headword": "a 'ndò vì?",
+  "senses": [
+    {
+      "it": "Dove vai?",
+      "en": "Where are you going?",
+      "enTranslateStatus": "reviewed"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a 'ndò vì?: Dove vai?",
+    "rawHash": "af729aa538347872fbc1ad3db3b854a7d3c4743d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [
+    "Giovanni-Mattucci"
+  ],
+  "schemaVersion": 1
+}

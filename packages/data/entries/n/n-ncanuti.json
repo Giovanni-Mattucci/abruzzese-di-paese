@@ -1,0 +1,31 @@
+{
+  "id": "n-ncanuti",
+  "headword": "'ncanutì",
+  "senses": [
+    {
+      "it": "incanutire",
+      "en": "to turn white (of hair)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ingrigirsi",
+      "en": "to turn grey",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riferito ai capelli",
+      "en": "referring to hair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncanutì: incanutire, ingrigirsi, riferito ai capelli",
+    "rawHash": "70bc7ce377a7593c3e9383b43817b3544d16660c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

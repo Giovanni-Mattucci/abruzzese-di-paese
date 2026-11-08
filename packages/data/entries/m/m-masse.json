@@ -1,0 +1,22 @@
+{
+  "id": "m-masse",
+  "headword": "masse",
+  "article": "la",
+  "senses": [
+    {
+      "it": "impasto di farina, acqua e lievito per fare il pane",
+      "en": "dough of flour, water and yeast for making bread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "masse (la): impasto di farina, acqua e lievito per fare il pane",
+    "rawHash": "3f968e448c6c3f2491385a9fb5a2c2594124e825",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

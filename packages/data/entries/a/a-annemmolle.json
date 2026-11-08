@@ -1,0 +1,21 @@
+{
+  "id": "a-annemmolle",
+  "headword": "annemmòlle",
+  "senses": [
+    {
+      "it": "in ammollo",
+      "en": "soaking, left to soak",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "annemmòlle: in ammollo",
+    "rawHash": "df04b84a65fc0785bac9f5770de7e109acbdb9a0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

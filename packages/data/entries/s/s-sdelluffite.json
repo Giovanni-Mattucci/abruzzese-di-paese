@@ -1,0 +1,21 @@
+{
+  "id": "s-sdelluffite",
+  "headword": "sdelluffite",
+  "senses": [
+    {
+      "it": "persona mal messa",
+      "en": "person in poor shape",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdelluffite: persona mal messa",
+    "rawHash": "721db0215cb4713b2276744f22ad737a23f99bfc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

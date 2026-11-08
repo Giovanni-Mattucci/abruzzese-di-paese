@@ -1,0 +1,21 @@
+{
+  "id": "m-magna",
+  "headword": "magnà",
+  "senses": [
+    {
+      "it": "mangiare",
+      "en": "to eat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "magnà: mangiare",
+    "rawHash": "9a2766bf391bbffff45c5ad35f22c384a2160650",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

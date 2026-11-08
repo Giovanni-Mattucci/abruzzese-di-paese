@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-armaste",
+  "headword": "c-i-armàste",
+  "variants": [
+    "c'armàste"
+  ],
+  "senses": [
+    {
+      "it": "ci è rimasto",
+      "en": "it has remained there, there is some left",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci resta",
+      "en": "it remains there, there is some left",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-armàste, c'armàste: ci è rimasto, ci resta",
+    "rawHash": "759b98ea245cb8da556496073798ecc1e35c101c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

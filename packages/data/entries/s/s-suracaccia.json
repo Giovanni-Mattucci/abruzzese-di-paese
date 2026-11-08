@@ -1,0 +1,26 @@
+{
+  "id": "s-suracaccia",
+  "headword": "suracaccia",
+  "senses": [
+    {
+      "it": "sorca",
+      "en": "rat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "topo di fogna",
+      "en": "sewer rat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "suracaccia: sorca, topo di fogna",
+    "rawHash": "f27fca3841aa3396e7aa7232f3197c690d426da5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

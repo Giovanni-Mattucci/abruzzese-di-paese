@@ -1,0 +1,21 @@
+{
+  "id": "p-ped-arie",
+  "headword": "ped arie",
+  "senses": [
+    {
+      "it": "per aria",
+      "en": "in the air, up in the air",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "ped arie: per aria",
+    "rawHash": "61fea4577b9a563941cdc0bb9f385ac119b0b7a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

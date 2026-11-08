@@ -1,0 +1,21 @@
+{
+  "id": "s-scupilite",
+  "headword": "scupilìte",
+  "senses": [
+    {
+      "it": "rimasto senza soldi",
+      "en": "left penniless",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scupilìte: rimasto senza soldi",
+    "rawHash": "59788515d9269381449a23ef6ec6efd9a92b85e1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "j-jamme-dope",
+  "headword": "jamme dope",
+  "senses": [
+    {
+      "it": "dopo andiamo",
+      "en": "we will go later",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jamme dope: dopo andiamo",
+    "rawHash": "f9bd28e8a10c3257ae35d04f93758c618992cafd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-aju",
+  "headword": "aju",
+  "senses": [
+    {
+      "it": "al",
+      "en": "to the (al)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aju: al",
+    "rawHash": "3102b25a4f71a65f3a0a6f50ae54cf3439bfc018",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

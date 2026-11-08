@@ -1,0 +1,21 @@
+{
+  "id": "f-fricchiale",
+  "headword": "fricchiàle",
+  "senses": [
+    {
+      "it": "catenaccio",
+      "en": "bolt, latch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fricchiàle: catenaccio",
+    "rawHash": "ba200013c46c6d29e72c0de39648031039eae1e8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

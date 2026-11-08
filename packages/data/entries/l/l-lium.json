@@ -1,0 +1,24 @@
+{
+  "id": "l-lium",
+  "headword": "lium",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "lume",
+      "en": "lamp, light",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lium: lume (M. sul S.)",
+    "rawHash": "acf2067b45504dd3399b8b806c1197083ab169df",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sfrisceme",
+  "headword": "sfriscème",
+  "senses": [
+    {
+      "it": "righiamo",
+      "en": "we scratch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfriscème: righiamo",
+    "rawHash": "22bbe128835083fcef8d3e7d961cb2d4970548d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

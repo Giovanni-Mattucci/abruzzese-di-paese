@@ -1,0 +1,21 @@
+{
+  "id": "v-vonne",
+  "headword": "vonne",
+  "senses": [
+    {
+      "it": "gonna",
+      "en": "skirt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vonne : gonna",
+    "rawHash": "ac51c121b28f9bdbaa6e5b4332018cb1e60fbbfb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f-frusce",
+  "headword": "frusce",
+  "senses": [
+    {
+      "it": "foglie",
+      "en": "leaves",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "frasche secche secche",
+      "en": "very dry branches",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frusce: foglie, frasche secche secche",
+    "rawHash": "bcdc19973030aa656a106699803d5678d7807adc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

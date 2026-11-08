@@ -1,0 +1,21 @@
+{
+  "id": "p-pipindone",
+  "headword": "pipindòne",
+  "senses": [
+    {
+      "it": "peperone",
+      "en": "pepper, bell pepper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pipindòne: peperone",
+    "rawHash": "79b31cab8f9640cba565aad44ece27fb8fde5544",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

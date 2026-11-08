@@ -1,0 +1,21 @@
+{
+  "id": "a-affede",
+  "headword": "affedé",
+  "senses": [
+    {
+      "it": "promettere fedeltà",
+      "en": "to promise fidelity, to pledge one's faith",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "affedé: promettere fedeltà",
+    "rawHash": "5fcfee04bb4fcd18d7c2c23e8d07a555ad3b03de",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

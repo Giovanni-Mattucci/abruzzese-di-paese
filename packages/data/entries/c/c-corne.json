@@ -1,0 +1,21 @@
+{
+  "id": "c-corne",
+  "headword": "corne",
+  "senses": [
+    {
+      "it": "una salsiccia della \"catena\"",
+      "en": "a sausage from the \"chain\" (string of sausages)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "corne: una salsiccia della \"catena\"",
+    "rawHash": "543dc37a04572548e13cfc7ca67b099f96b5e7e8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "v-vine-2",
+  "headword": "vìne",
+  "senses": [
+    {
+      "it": "vieni",
+      "en": "you come, come",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: tu"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vìne (tu): vieni",
+    "rawHash": "2f15a1d8bcb8f20047d0af99aeb048b404954672",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-pisate",
+  "headword": "pisàte",
+  "senses": [
+    {
+      "it": "pesato",
+      "en": "weighed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pisàte: pesato",
+    "rawHash": "53be3c8f6a864fc4c61ba7071ee4a3f9f7e6c692",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

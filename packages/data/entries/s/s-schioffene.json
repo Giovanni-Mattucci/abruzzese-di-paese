@@ -1,0 +1,21 @@
+{
+  "id": "s-schioffene",
+  "headword": "schiòffene",
+  "senses": [
+    {
+      "it": "sbattono",
+      "en": "they slam, they bang",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiòffene: sbattono",
+    "rawHash": "4ee7d4981e8017700c8af5174fdaa7d0905b0122",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

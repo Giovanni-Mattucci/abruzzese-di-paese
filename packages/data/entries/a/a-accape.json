@@ -1,0 +1,26 @@
+{
+  "id": "a-accape",
+  "headword": "accape",
+  "senses": [
+    {
+      "it": "in cima",
+      "en": "at the top",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "a capo",
+      "en": "at the head",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accape: in cima, a capo",
+    "rawHash": "536ad76589bc06f6eb631fea20fd30260cde78fb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

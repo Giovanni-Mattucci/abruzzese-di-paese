@@ -1,0 +1,27 @@
+{
+  "id": "a-abbite-3",
+  "headword": "àbbite",
+  "article": "l'",
+  "senses": [
+    {
+      "it": "l'abito",
+      "en": "the dress, the suit",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "il vestito",
+      "en": "the garment, the clothes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "àbbite (l'): l'abito, il vestito",
+    "rawHash": "9031d39ea579133f076b48a227a6f7484246cf9e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

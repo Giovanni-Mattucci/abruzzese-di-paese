@@ -1,0 +1,26 @@
+{
+  "id": "s-streppa",
+  "headword": "streppà",
+  "senses": [
+    {
+      "it": "estirpare",
+      "en": "to uproot",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tirare con forza",
+      "en": "to pull hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "streppà: estirpare, tirare con forza",
+    "rawHash": "4ca206efe2ce908f615f0ed43006e013da70c0f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "t-temeli",
+  "headword": "tèmeli",
+  "variants": [
+    "timilìne"
+  ],
+  "senses": [
+    {
+      "it": "sorbo",
+      "en": "service tree, rowan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tèmeli, timilìne: sorbo",
+    "rawHash": "a79f2cb12381474d79f1f0ea88807b390d9b4e0c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

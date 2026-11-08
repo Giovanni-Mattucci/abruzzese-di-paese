@@ -1,0 +1,21 @@
+{
+  "id": "z-zzune",
+  "headword": "zzune",
+  "senses": [
+    {
+      "it": "maggiolino che vive sei settimane, dalla seconda metà di aprile a tutto",
+      "en": "cockchafer (May beetle) that lives six weeks, from the second half of April through all of",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zzune: maggiolino che vive sei settimane, dalla seconda metà di aprile a tutto",
+    "rawHash": "ff5df80b214f1091ffe42c9bef2bfab595116fa1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

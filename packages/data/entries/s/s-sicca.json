@@ -1,0 +1,21 @@
+{
+  "id": "s-sicca",
+  "headword": "siccà",
+  "senses": [
+    {
+      "it": "essiccare",
+      "en": "to dry, to desiccate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "siccà: essiccare",
+    "rawHash": "35ddaa72a60ed020bcc6c29c1494ca5d0f01fd6a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

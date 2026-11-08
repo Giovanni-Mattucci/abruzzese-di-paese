@@ -1,0 +1,21 @@
+{
+  "id": "h-hurzate",
+  "headword": "hurzate",
+  "senses": [
+    {
+      "it": "sazio e soddisfatto",
+      "en": "full and satisfied",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hurzate: sazio e soddisfatto",
+    "rawHash": "a29c268b42d523052b76b897375eb6c76d5deac8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

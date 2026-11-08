@@ -1,0 +1,21 @@
+{
+  "id": "m-mprunte",
+  "headword": "'mprùnte",
+  "senses": [
+    {
+      "it": "punta, si dice nel gioco a chi non ha ancora fatto la puntata",
+      "en": "bet, place your stake; said in a game to whoever has not yet placed a bet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mprùnte: punta, si dice nel gioco a chi non ha ancora fatto la puntata",
+    "rawHash": "7485bfefe2310852f4ad3252b1df20dcb9285a92",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

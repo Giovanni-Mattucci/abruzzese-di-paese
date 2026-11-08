@@ -1,0 +1,21 @@
+{
+  "id": "r-rffalde",
+  "headword": "rffalde",
+  "senses": [
+    {
+      "it": "schiaffo",
+      "en": "slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rffalde: schiaffo",
+    "rawHash": "7cfb422a389e1080b9324f356b6e0d4d878cb277",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

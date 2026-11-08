@@ -1,0 +1,21 @@
+{
+  "id": "j-jajte",
+  "headword": "jajte",
+  "senses": [
+    {
+      "it": "gli è andato",
+      "en": "it went to him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jajte: gli è andato",
+    "rawHash": "38213c9c96ce7e862cdf38129b956d2858ebd575",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

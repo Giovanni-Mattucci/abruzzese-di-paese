@@ -1,0 +1,21 @@
+{
+  "id": "a-a-ncaciate",
+  "headword": "a 'ncaciate",
+  "senses": [
+    {
+      "it": "ha attaccato, riferito alla neve per terra",
+      "en": "it has stuck, referring to snow on the ground",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a 'ncaciate: ha attaccato, riferito alla neve per terra",
+    "rawHash": "01a86ef067cf95198731f19685f389467b9c0aa8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

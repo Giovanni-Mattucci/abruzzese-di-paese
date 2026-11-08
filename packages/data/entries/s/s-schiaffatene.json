@@ -1,0 +1,25 @@
+{
+  "id": "s-schiaffatene",
+  "headword": "schiaffatêne",
+  "variants": [
+    "schiaffatone"
+  ],
+  "article": "lu",
+  "senses": [
+    {
+      "it": "schiaffo",
+      "en": "slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiaffatêne, schiaffatone (lu): schiaffo",
+    "rawHash": "4be63b0b05ea61b37ee27908e233cf9b42254360",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

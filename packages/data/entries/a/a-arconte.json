@@ -1,0 +1,26 @@
+{
+  "id": "a-arconte",
+  "headword": "arcònte",
+  "senses": [
+    {
+      "it": "racconta",
+      "en": "tells, recounts",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "conta di nuovo",
+      "en": "counts again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcònte: racconta, ma anche conta di nuovo",
+    "rawHash": "a63d133cd11dcce81b35767c28af1bb303fc8088",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

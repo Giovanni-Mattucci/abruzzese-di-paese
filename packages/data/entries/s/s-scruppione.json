@@ -1,0 +1,21 @@
+{
+  "id": "s-scruppione",
+  "headword": "scruppione",
+  "senses": [
+    {
+      "it": "pipistrello",
+      "en": "bat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scruppione: pipistrello",
+    "rawHash": "c6706d7bd54fc9bee38cdaa588ef0063e17479c1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

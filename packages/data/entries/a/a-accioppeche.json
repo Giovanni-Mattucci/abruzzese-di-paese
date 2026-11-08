@@ -1,0 +1,21 @@
+{
+  "id": "a-accioppeche",
+  "headword": "acciòppeche",
+  "senses": [
+    {
+      "it": "azzoppato",
+      "en": "lamed, made lame",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciòppeche: azzoppato",
+    "rawHash": "6d5758e8b2d7229aeb5e02662eac2246bbfc8731",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a-accappa",
+  "headword": "accappà",
+  "variants": [
+    "accappàre"
+  ],
+  "senses": [
+    {
+      "it": "coprire",
+      "en": "to cover",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accappà, accappàre: coprire",
+    "rawHash": "e87f9369b3b91cd3fb7c85392a2434ef480e2db0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

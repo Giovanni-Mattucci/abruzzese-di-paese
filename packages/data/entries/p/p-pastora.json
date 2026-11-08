@@ -1,0 +1,21 @@
+{
+  "id": "p-pastora",
+  "headword": "pastora",
+  "senses": [
+    {
+      "it": "laccio",
+      "en": "lace, cord, snare",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pastora: laccio",
+    "rawHash": "80fabd8563be71fb7e0479af1b138fc175720d8b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

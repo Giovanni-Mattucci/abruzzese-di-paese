@@ -1,0 +1,21 @@
+{
+  "id": "r-reconghele",
+  "headword": "recònghele",
+  "senses": [
+    {
+      "it": "vortice pericoloso che si crea dove il letto del fiume presenta buche profonde e melmose. Massa liquida che assume configurazione a spirale",
+      "en": "dangerous whirlpool that forms where the river bed has deep, muddy holes. A mass of water that takes on a spiral shape",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "recònghele : vortice pericoloso che si crea dove il letto del fiume presenta buche profonde e melmose . Massa liquida che assume configurazione a spirale",
+    "rawHash": "c48ae0aa7e5e579c9fdace8f2cbd5fe054750baf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

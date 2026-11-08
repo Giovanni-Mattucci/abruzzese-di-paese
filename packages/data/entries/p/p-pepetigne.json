@@ -1,0 +1,21 @@
+{
+  "id": "p-pepetigne",
+  "headword": "pepetigne",
+  "senses": [
+    {
+      "it": "smanie",
+      "en": "restlessness, agitation",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pepetigne: smanie",
+    "rawHash": "7b59feb1f6f8465899b60106151c803b753c436f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

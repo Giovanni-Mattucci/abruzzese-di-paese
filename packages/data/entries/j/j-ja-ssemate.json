@@ -1,0 +1,26 @@
+{
+  "id": "j-ja-ssemate",
+  "headword": "ja ssemate",
+  "senses": [
+    {
+      "it": "gli ha tolto",
+      "en": "he took (it) away from him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "diminuito",
+      "en": "reduced",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja ssemate: gli ha tolto, diminuito",
+    "rawHash": "2a0cedc1ff23b4f34b1397cc743d3d4ed627d6b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

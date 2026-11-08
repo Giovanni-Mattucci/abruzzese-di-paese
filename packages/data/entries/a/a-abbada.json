@@ -1,0 +1,21 @@
+{
+  "id": "a-abbada",
+  "headword": "abbadà",
+  "senses": [
+    {
+      "it": "prestare attenzione a qualcuno o qualcosa",
+      "en": "to pay attention to someone or something",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbadà: prestare attenzione a qualcuno o qualcosa",
+    "rawHash": "3a749d2d7b2a5be9fb706b1cc2c6d6ce2fc9329f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

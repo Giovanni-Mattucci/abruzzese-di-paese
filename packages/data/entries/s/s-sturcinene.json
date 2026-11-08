@@ -1,0 +1,21 @@
+{
+  "id": "s-sturcinene",
+  "headword": "sturcìnene",
+  "senses": [
+    {
+      "it": "svolgono",
+      "en": "they unwind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sturcìnene: svolgono",
+    "rawHash": "24e925a00efacc16bcc40f83cbddc05d4f12b096",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

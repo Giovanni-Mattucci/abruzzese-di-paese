@@ -1,0 +1,22 @@
+{
+  "id": "v-visciole",
+  "headword": "visciòle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "bolla cutanea",
+      "en": "skin blister",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "visciòle (la): bolla cutanea",
+    "rawHash": "90bb6f56ffb916843aaf51a15d445db1a5b57605",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-stu",
+  "headword": "stu",
+  "senses": [
+    {
+      "it": "codesto",
+      "en": "this, that (near you)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stu: codesto",
+    "rawHash": "6d035d9a0fe5bc8443e00a28736b819f6c7fa597",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

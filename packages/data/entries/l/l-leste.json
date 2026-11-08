@@ -1,0 +1,21 @@
+{
+  "id": "l-leste",
+  "headword": "leste",
+  "senses": [
+    {
+      "it": "velocemente",
+      "en": "quickly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "leste: velocemente",
+    "rawHash": "152b8244b8f2b1e078c0c875d1c67d872262a4e8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

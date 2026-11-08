@@ -1,0 +1,21 @@
+{
+  "id": "c-ce-jeme",
+  "headword": "ce jeme",
+  "senses": [
+    {
+      "it": "ci andiamo",
+      "en": "we go there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ce jeme: ci andiamo",
+    "rawHash": "acbfec006f238e34389e2839141201e70f5be3fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

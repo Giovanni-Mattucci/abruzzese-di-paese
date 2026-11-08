@@ -1,0 +1,27 @@
+{
+  "id": "s-scardapuzze",
+  "headword": "scardapuzze",
+  "article": "la",
+  "senses": [
+    {
+      "it": "cimice",
+      "en": "stink bug",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "insetto verde dall'odore sgradevole",
+      "en": "green insect with an unpleasant smell",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scardapuzze (la): cimice, insetto verde dall'odore sgradevole",
+    "rawHash": "f65d028a88d08bd25c847ce232a1f16955d5db2c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

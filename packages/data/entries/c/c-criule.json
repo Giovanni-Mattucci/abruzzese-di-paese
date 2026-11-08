@@ -1,0 +1,22 @@
+{
+  "id": "c-criule",
+  "headword": "criule",
+  "article": "li",
+  "senses": [
+    {
+      "it": "stringhe in cuoio",
+      "en": "leather laces",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "criule (li): stringhe in cuoio",
+    "rawHash": "b83a3cd5c34427e7a3f68d6877d378ea63f212a9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

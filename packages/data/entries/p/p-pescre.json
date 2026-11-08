@@ -1,0 +1,21 @@
+{
+  "id": "p-pescre",
+  "headword": "pescrè",
+  "senses": [
+    {
+      "it": "dopodomani",
+      "en": "the day after tomorrow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pescrè: dopodomani",
+    "rawHash": "788099fa50366cfbb6bea4bc29abcefeb63eeee7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

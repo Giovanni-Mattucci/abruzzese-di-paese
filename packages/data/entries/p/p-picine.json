@@ -1,0 +1,24 @@
+{
+  "id": "p-picine",
+  "headword": "picìne",
+  "variants": [
+    "picinelle"
+  ],
+  "senses": [
+    {
+      "it": "pulcino",
+      "en": "chick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "picìne, picinelle: pulcino",
+    "rawHash": "c095dd610f9f96063b58404b03cb1772c9d90c74",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

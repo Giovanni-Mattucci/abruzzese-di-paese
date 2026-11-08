@@ -1,0 +1,34 @@
+{
+  "id": "c-c-i-arvaje",
+  "headword": "c-i-arvàje",
+  "variants": [
+    "c'arvàje"
+  ],
+  "senses": [
+    {
+      "it": "ci vado di nuovo",
+      "en": "I go there again",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "un'altra volta",
+      "en": "once more",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ancora",
+      "en": "again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arvàje, c'arvàje: ci vado di nuovo, un'altra volta, ancora",
+    "rawHash": "a45b350d64ac463fcbcd33402662f805309856eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

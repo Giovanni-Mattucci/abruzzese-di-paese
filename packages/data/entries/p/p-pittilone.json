@@ -1,0 +1,21 @@
+{
+  "id": "p-pittilone",
+  "headword": "pittilòne",
+  "senses": [
+    {
+      "it": "pettegolo",
+      "en": "gossip, gossipmonger",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pittilòne: pettegolo",
+    "rawHash": "51aaf1ca82c9c834d7737ce86517f8118d046ae5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

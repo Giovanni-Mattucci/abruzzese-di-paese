@@ -1,0 +1,21 @@
+{
+  "id": "q-quajate",
+  "headword": "quajàte",
+  "senses": [
+    {
+      "it": "concluso",
+      "en": "concluded, finished",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quajàte: concluso",
+    "rawHash": "dfa15c7aab1340d5b81cd22a2da606945cda73f1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "j-javaste",
+  "headword": "javaste",
+  "senses": [
+    {
+      "it": "gli basta",
+      "en": "it is enough for him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "javaste: gli basta",
+    "rawHash": "dadb960170ed6344bd2d2ec63e7de1fe95fd929c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

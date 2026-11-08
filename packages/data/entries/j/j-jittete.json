@@ -1,0 +1,26 @@
+{
+  "id": "j-jittete",
+  "headword": "jìttete",
+  "senses": [
+    {
+      "it": "gettati",
+      "en": "throw yourself",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "buttati",
+      "en": "jump in, throw yourself in",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jìttete: gettati, buttati",
+    "rawHash": "36dfc12734a6a1411e17cd96979fe62685a037db",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

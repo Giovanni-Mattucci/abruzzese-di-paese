@@ -1,0 +1,21 @@
+{
+  "id": "s-sdijunene",
+  "headword": "sdijùnene",
+  "senses": [
+    {
+      "it": "fanno colazione",
+      "en": "they have breakfast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdijùnene: fanno colazione",
+    "rawHash": "ab588f7791b6b6f329e122c5ce9e42ee782fb69c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

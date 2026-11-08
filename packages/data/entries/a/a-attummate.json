@@ -1,0 +1,21 @@
+{
+  "id": "a-attummate",
+  "headword": "attummàte",
+  "senses": [
+    {
+      "it": "si diceva del carro agricolo che perso il bilanciamento si abbandonava all'indietro",
+      "en": "said of a farm cart that, having lost its balance, tipped over backwards",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "attummàte: si diceva del carro agricolo che perso il bilanciamento si abbandonava all'indietro",
+    "rawHash": "3a81e8256da3e831e8d73985be7bd619e94594f1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

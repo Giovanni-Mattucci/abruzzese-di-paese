@@ -1,0 +1,26 @@
+{
+  "id": "s-sbirrutemeje",
+  "headword": "sbirrutèmeje",
+  "senses": [
+    {
+      "it": "srotoliamogli",
+      "en": "let us unroll it for him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "srotoliamo loro",
+      "en": "let us unroll it for them",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbirrutèmeje: srotoliamogli, srotoliamo loro",
+    "rawHash": "5769ef7793c2108fe15db92202d9ae07c9a82ea9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-allanganite",
+  "headword": "allanganite",
+  "senses": [
+    {
+      "it": "stancato",
+      "en": "worn out",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riarso",
+      "en": "parched",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "sta allanganite dalla sete",
+      "it": "ha soffero la sete e vuole bere, s'allanganite a strillà: chiama inutilmente da molto tempo",
+      "en": "he has suffered thirst and wants to drink; s'allanganite a strillà: he has been calling in vain for a long time",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allanganite: stancato, riarso, es.:sta allanganite dalla sete: ha soffero la sete e vuole bere, s'allanganite a strillà: chiama inutilmente da molto tempo",
+    "rawHash": "13d1ab29dde1d68f1d64959e422593724b185483",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

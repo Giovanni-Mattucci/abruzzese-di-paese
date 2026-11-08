@@ -1,0 +1,21 @@
+{
+  "id": "p-penne",
+  "headword": "penne",
+  "senses": [
+    {
+      "it": "pende",
+      "en": "it hangs, it leans",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "penne: pende.",
+    "rawHash": "f8fd3eb7717127b8a4e43971a3017865bf19d0b7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

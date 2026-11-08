@@ -1,0 +1,21 @@
+{
+  "id": "g-giggiliosse",
+  "headword": "giggiliosse",
+  "senses": [
+    {
+      "it": "soprannome derivato da Gigi tutt'ossa individuo magrissimo",
+      "en": "nickname derived from Gigi tutt'ossa (Gigi all bones), a very thin person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "giggiliosse: soprannome derivato da Gigi tutt'ossa individuo magrissimo",
+    "rawHash": "7ed265f9be27cc8411a72631dad5bbec42a66503",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

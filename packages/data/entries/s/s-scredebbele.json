@@ -1,0 +1,21 @@
+{
+  "id": "s-scredebbele",
+  "headword": "scredèbbele",
+  "senses": [
+    {
+      "it": "incredulo",
+      "en": "incredulous",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scredèbbele: incredulo",
+    "rawHash": "f28f3d6aff251e71925701b6ef86dae8b0ee5c16",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

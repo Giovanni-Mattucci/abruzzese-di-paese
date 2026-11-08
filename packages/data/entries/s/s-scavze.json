@@ -1,0 +1,21 @@
+{
+  "id": "s-scavze",
+  "headword": "scàvze",
+  "senses": [
+    {
+      "it": "scalzo",
+      "en": "barefoot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scàvze: scalzo",
+    "rawHash": "7c3e733dfdef5cb85f5fcd617efa9f915c928f78",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

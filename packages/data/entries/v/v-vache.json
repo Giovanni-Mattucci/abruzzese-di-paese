@@ -1,0 +1,21 @@
+{
+  "id": "v-vache",
+  "headword": "vache",
+  "senses": [
+    {
+      "it": "chicco",
+      "en": "grain, berry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vache: chicco",
+    "rawHash": "811b9f49ddafb9c985bec81c76baeced4a695221",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

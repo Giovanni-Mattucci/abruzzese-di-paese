@@ -1,0 +1,21 @@
+{
+  "id": "s-schiattare-morire-violentemente",
+  "headword": "schiattàre",
+  "senses": [
+    {
+      "it": "morire violentemente",
+      "en": "to die violently",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiattàre morire violentemente",
+    "rawHash": "8951b4e32492666221f3c0f2fd3d601022c0eb3f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

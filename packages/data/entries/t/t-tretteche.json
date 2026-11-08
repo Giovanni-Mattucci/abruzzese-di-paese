@@ -1,0 +1,21 @@
+{
+  "id": "t-tretteche",
+  "headword": "trettechè",
+  "senses": [
+    {
+      "it": "agitare",
+      "en": "to shake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trettechè: agitare",
+    "rawHash": "8d189b2e9d0ce866f5246475e09acdb12dc089b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

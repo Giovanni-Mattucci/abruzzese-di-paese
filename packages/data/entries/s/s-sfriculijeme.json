@@ -1,0 +1,21 @@
+{
+  "id": "s-sfriculijeme",
+  "headword": "sfriculijème",
+  "senses": [
+    {
+      "it": "stuzzichiamo",
+      "en": "we tease",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfriculijème: stuzzichiamo",
+    "rawHash": "b6d28ba3db140cd158fa8a13754100e61d99a738",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

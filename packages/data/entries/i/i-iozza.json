@@ -1,0 +1,21 @@
+{
+  "id": "i-iozza",
+  "headword": "iòzza",
+  "senses": [
+    {
+      "it": "fango",
+      "en": "mud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "iòzza: fango",
+    "rawHash": "aafdb0b0402bf091ecd4482e2533dcc6fd06502a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

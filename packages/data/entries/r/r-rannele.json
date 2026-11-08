@@ -1,0 +1,21 @@
+{
+  "id": "r-rannele",
+  "headword": "rànnele",
+  "senses": [
+    {
+      "it": "grandine",
+      "en": "hail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rànnele: grandine",
+    "rawHash": "5771413d9d703927f613221082b68400efefb825",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

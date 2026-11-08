@@ -1,0 +1,21 @@
+{
+  "id": "a-ammuscilite",
+  "headword": "ammuscilite",
+  "senses": [
+    {
+      "it": "avvizzito",
+      "en": "withered",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammuscilite: avvizzito",
+    "rawHash": "a1ff8ac79b9d6f1edbe5f39011f1b0b0f3c25c06",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

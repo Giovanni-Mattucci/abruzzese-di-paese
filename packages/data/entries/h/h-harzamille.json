@@ -1,0 +1,38 @@
+{
+  "id": "h-harzamille",
+  "headword": "harzamille",
+  "senses": [
+    {
+      "it": "muscoli del collo",
+      "en": "neck muscles",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "si dice pure delle interiora umane",
+      "en": "also said of the human innards",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "Mò te cacce le harzamille",
+      "it": "ora ti tiro fuori le budella",
+      "en": "now I will rip your guts out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Example translations were added during review; the source does not give them.",
+    "Source line: ”Mò te cacce le harzamille”"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "harzamille: muscoli del collo, ma si dice pure delle interiora umane col detto:",
+    "rawHash": "cce8d82f469bbdc6795363d1a8811e8646de62a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

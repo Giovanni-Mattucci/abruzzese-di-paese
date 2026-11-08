@@ -1,0 +1,36 @@
+{
+  "id": "c-cagge",
+  "headword": "cagge",
+  "senses": [
+    {
+      "it": "uomo",
+      "en": "man",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "donna",
+      "en": "woman",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "il tale",
+      "en": "so-and-so (masculine)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "la tale",
+      "en": "so-and-so (feminine)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cagge : uomo, donna, il tale, la tale",
+    "rawHash": "a95db0c0dace365d5d7065adee9599bc423471e1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

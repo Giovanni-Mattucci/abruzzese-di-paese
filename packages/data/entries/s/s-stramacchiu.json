@@ -1,0 +1,21 @@
+{
+  "id": "s-stramacchiu",
+  "headword": "stramàcchiu",
+  "senses": [
+    {
+      "it": "colpo di fortuna",
+      "en": "stroke of luck",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stramàcchiu: colpo di fortuna",
+    "rawHash": "2755d451d28322c077568aa181cb21104b052fa4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

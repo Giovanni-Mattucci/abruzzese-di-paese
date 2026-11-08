@@ -1,0 +1,26 @@
+{
+  "id": "d-dumatine",
+  "headword": "dumatìne",
+  "senses": [
+    {
+      "it": "domattina",
+      "en": "tomorrow morning",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "domani mattina",
+      "en": "tomorrow in the morning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dumatìne: domattina, domani mattina",
+    "rawHash": "6079209d67ffc2f814be7f8548b071fe0e8599d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

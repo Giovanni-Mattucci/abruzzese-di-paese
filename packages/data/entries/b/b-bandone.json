@@ -1,0 +1,26 @@
+{
+  "id": "b-bandone",
+  "headword": "bandòne",
+  "senses": [
+    {
+      "it": "grosso secchio",
+      "en": "large bucket",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scatola di latta",
+      "en": "tin box",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bandòne: grosso secchio, scatola di latta",
+    "rawHash": "8c89c74b7d34549ac4398a4bb5806cee8d8d24cd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

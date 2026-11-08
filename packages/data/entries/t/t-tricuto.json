@@ -1,0 +1,21 @@
+{
+  "id": "t-tricuto",
+  "headword": "tricuto",
+  "senses": [
+    {
+      "it": "robusto",
+      "en": "sturdy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tricuto: robusto",
+    "rawHash": "57d8257027c1e6ffced74c44e298262d7cb5751b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

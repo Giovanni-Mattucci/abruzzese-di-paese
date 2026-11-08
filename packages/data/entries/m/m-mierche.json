@@ -1,0 +1,21 @@
+{
+  "id": "m-mierche",
+  "headword": "mierche",
+  "senses": [
+    {
+      "it": "marchio",
+      "en": "mark, brand",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mierche: marchio",
+    "rawHash": "204c34b7ae7c47728d6c6dfe9fa9004c6ad7f253",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

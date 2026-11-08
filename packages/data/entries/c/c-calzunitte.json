@@ -1,0 +1,21 @@
+{
+  "id": "c-calzunitte",
+  "headword": "calzunìtte",
+  "senses": [
+    {
+      "it": "dolce natalizio",
+      "en": "Christmas sweet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calzunìtte: dolce natalizio",
+    "rawHash": "a43b818b8e3880a573e0b196568614919fa12083",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

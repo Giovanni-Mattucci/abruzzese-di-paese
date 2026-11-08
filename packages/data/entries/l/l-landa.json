@@ -1,0 +1,21 @@
+{
+  "id": "l-landa",
+  "headword": "landà",
+  "senses": [
+    {
+      "it": "lasciare",
+      "en": "to leave",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "landà: lasciare",
+    "rawHash": "4f5295f1ea85cd0970a4022ec32532f9736e9b5a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

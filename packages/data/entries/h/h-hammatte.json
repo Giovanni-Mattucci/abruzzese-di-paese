@@ -1,0 +1,21 @@
+{
+  "id": "h-hammatte",
+  "headword": "hammatte",
+  "senses": [
+    {
+      "it": "gomitolo",
+      "en": "ball of yarn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hammatte: gomitolo",
+    "rawHash": "e1cf152e0c3e780bcbe2fea79b0751ef6632b097",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

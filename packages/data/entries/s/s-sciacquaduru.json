@@ -1,0 +1,21 @@
+{
+  "id": "s-sciacquaduru",
+  "headword": "sciacquadùru",
+  "senses": [
+    {
+      "it": "acquaio",
+      "en": "sink",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciacquadùru: acquaio",
+    "rawHash": "fc363b917b1a0bee6038e2d0017397cae503ec0a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

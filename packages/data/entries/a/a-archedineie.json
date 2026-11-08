@@ -1,0 +1,21 @@
+{
+  "id": "a-archedineie",
+  "headword": "archedìneie",
+  "senses": [
+    {
+      "it": "arcobaleno",
+      "en": "rainbow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "archedìneie: arcobaleno",
+    "rawHash": "4c421c1048e3ff92b57c3627a7f88f5282809cee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

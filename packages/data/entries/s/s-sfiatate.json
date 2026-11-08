@@ -1,0 +1,21 @@
+{
+  "id": "s-sfiatate",
+  "headword": "sfiatàte",
+  "senses": [
+    {
+      "it": "afono",
+      "en": "voiceless, hoarse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfiatàte: afono",
+    "rawHash": "ec1285112ccd58d8fdac624f5793c441ae943104",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "s-schiuffeteje",
+  "headword": "schiuffèteje",
+  "senses": [
+    {
+      "it": "sbattetegli contro",
+      "en": "slam into him (pl.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "andategli addosso",
+      "en": "go at him (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiuffèteje: sbattetegli contro, andategli addosso",
+    "rawHash": "0c9f9629d3e025f123d4617583a1a2c62bc14b26",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

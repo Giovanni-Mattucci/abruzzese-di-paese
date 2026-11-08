@@ -1,0 +1,29 @@
+{
+  "id": "s-sgarreme-nne-non",
+  "headword": "sgarreme",
+  "senses": [
+    {
+      "it": "sbagliamo",
+      "en": "we make a mistake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "nne sgarreme",
+      "it": "non sbagliamo",
+      "en": "we do not make a mistake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgarreme (nne) non sbagliamo",
+    "rawHash": "928249eab527d9afd27458316843009a15141f20",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

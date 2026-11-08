@@ -1,0 +1,21 @@
+{
+  "id": "s-sparagna",
+  "headword": "sparagnà",
+  "senses": [
+    {
+      "it": "risparmiare",
+      "en": "to save",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sparagnà: risparmiare",
+    "rawHash": "45b0365fb0e156fde3862eaadf490d8b7bb98ead",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

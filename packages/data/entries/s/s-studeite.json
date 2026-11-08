@@ -1,0 +1,21 @@
+{
+  "id": "s-studeite",
+  "headword": "studèite",
+  "senses": [
+    {
+      "it": "sbrigati",
+      "en": "hurry up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "studèite: sbrigati",
+    "rawHash": "42b9959256029761aec16399f601a114f4c7885f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

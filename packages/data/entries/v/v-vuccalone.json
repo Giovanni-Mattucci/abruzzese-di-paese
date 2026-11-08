@@ -1,0 +1,21 @@
+{
+  "id": "v-vuccalone",
+  "headword": "vuccalòne",
+  "senses": [
+    {
+      "it": "chi alza la voce per sopraffare gli altri, maldicente, ciarlone",
+      "en": "one who raises their voice to overpower others, slanderer, chatterbox",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vuccalòne: chi alza la voce per sopraffare gli altri, maldicente, ciarlone",
+    "rawHash": "cdc68427da068c54aa2ee76e3dc8c36c6c47d2bb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

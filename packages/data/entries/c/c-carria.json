@@ -1,0 +1,21 @@
+{
+  "id": "c-carria",
+  "headword": "carrià",
+  "senses": [
+    {
+      "it": "trasportare",
+      "en": "to transport, to carry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carrià: trasportare",
+    "rawHash": "f3898cbe2e757dc4f92eedb6e6268904ce2f083e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

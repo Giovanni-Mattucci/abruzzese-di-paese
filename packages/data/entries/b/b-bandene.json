@@ -1,0 +1,22 @@
+{
+  "id": "b-bandene",
+  "headword": "bandêne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "bidone",
+      "en": "drum, bin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bandêne (lu): bidone",
+    "rawHash": "196c3169cebd27e331d57944fc6f72acd0283974",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

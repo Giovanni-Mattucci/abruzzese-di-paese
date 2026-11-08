@@ -1,0 +1,21 @@
+{
+  "id": "m-mha-fide-j",
+  "headword": "m'ha fide ( j )",
+  "senses": [
+    {
+      "it": "io ce la faccio",
+      "en": "I can manage it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m'ha fide ( j ): io ce la faccio",
+    "rawHash": "303267535d1ba7cee93ace0edf0f73c2297a5d91",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

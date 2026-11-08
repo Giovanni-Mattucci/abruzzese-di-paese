@@ -1,0 +1,26 @@
+{
+  "id": "v-vricciare",
+  "headword": "vricciare",
+  "senses": [
+    {
+      "it": "brecciame",
+      "en": "crushed stone, rubble",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ghiareto",
+      "en": "gravel bed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vricciare: brecciame, ghiareto",
+    "rawHash": "a4a24dd44f96edae8bf3b4c83b6262b80660d7ac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

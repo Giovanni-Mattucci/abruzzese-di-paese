@@ -1,0 +1,21 @@
+{
+  "id": "z-zacce",
+  "headword": "zàcce",
+  "senses": [
+    {
+      "it": "sapere, so, (n'n zàcce = non so)",
+      "en": "to know, I know, (n'n zàcce = I do not know)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zàcce: sapere, so, (n'n zàcce = non so)",
+    "rawHash": "1d70c03c2d21eef881f27d08f633ebaff40881d7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c-cappe",
+  "headword": "cappe",
+  "article": "la",
+  "senses": [
+    {
+      "it": "quella del camino, mantello usato solitamente dai poveri",
+      "en": "the hood of a fireplace; cloak usually worn by the poor",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cappe (la): quella del camino, mantello usato solitamente dai poveri",
+    "rawHash": "3998417b1da229e32c78c96cb3cc2a97295d4c34",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

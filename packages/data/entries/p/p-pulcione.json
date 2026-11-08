@@ -1,0 +1,26 @@
+{
+  "id": "p-pulcione",
+  "headword": "pulcione",
+  "senses": [
+    {
+      "it": "giubba in pelle",
+      "en": "leather jacket",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "giubbotto",
+      "en": "jacket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pulcione: giubba in pelle, giubbotto",
+    "rawHash": "79ed99e14a49fda9f9ad94221095aa18aa4b9646",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

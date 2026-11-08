@@ -1,0 +1,34 @@
+{
+  "id": "a-appenneca",
+  "headword": "appennecà",
+  "variants": [
+    "appennecato"
+  ],
+  "senses": [
+    {
+      "it": "dormire",
+      "en": "to sleep",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fare il pisolino",
+      "en": "to take a nap",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "che dorme appena",
+      "en": "who is barely asleep, dozing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appennecà, appennecato: dormire, fare il pisolino, che dorme appena",
+    "rawHash": "b0c364ef0eab3c7ef7c91f3f3a3e59ab8123ffaa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

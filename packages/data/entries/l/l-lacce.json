@@ -1,0 +1,21 @@
+{
+  "id": "l-lacce",
+  "headword": "lacce",
+  "senses": [
+    {
+      "it": "sedano",
+      "en": "celery",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lacce: sedano",
+    "rawHash": "bf8fc659a00fee65040e4a20c42588674da4f1f1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

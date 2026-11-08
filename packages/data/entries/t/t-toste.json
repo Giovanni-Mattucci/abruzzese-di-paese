@@ -1,0 +1,21 @@
+{
+  "id": "t-toste",
+  "headword": "toste",
+  "senses": [
+    {
+      "it": "duro",
+      "en": "hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "toste: duro.",
+    "rawHash": "894c847d6f665bf56f1cabac219d5e34dde49f32",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

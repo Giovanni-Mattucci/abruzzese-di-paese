@@ -1,0 +1,31 @@
+{
+  "id": "r-racbe",
+  "headword": "racbe",
+  "senses": [
+    {
+      "it": "rantolo",
+      "en": "death rattle, wheeze",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "respiro",
+      "en": "breath, breathing",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fiato",
+      "en": "breath",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "racbe: rantolo, respiro, fiato",
+    "rawHash": "6554944458306c2fd066727c9990b7ebae399368",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

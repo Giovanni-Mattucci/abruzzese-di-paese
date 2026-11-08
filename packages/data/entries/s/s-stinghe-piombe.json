@@ -1,0 +1,34 @@
+{
+  "id": "s-stinghe-piombe",
+  "headword": "stinghe piombe",
+  "variants": [
+    "stinghe piomme"
+  ],
+  "senses": [
+    {
+      "it": "squattrinato",
+      "en": "penniless",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "senza soldi",
+      "en": "without money",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "disperato",
+      "en": "desperate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stinghe piombe, stinghe piomme: squattrinato, senza soldi, disperato",
+    "rawHash": "eba8e2a8018486782d8d3772145185b4163f8aac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

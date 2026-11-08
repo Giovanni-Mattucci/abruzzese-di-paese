@@ -1,0 +1,24 @@
+{
+  "id": "a-abbite",
+  "headword": "abbìte",
+  "senses": [
+    {
+      "it": "badi",
+      "en": "you mind, you take care",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: tu"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbìte (tu): badi",
+    "rawHash": "88dbd121c6a22e3ebea43180a7767c7c3418976e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

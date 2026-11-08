@@ -1,0 +1,22 @@
+{
+  "id": "r-retteche",
+  "headword": "rettèche",
+  "article": "la",
+  "senses": [
+    {
+      "it": "ortica",
+      "en": "nettle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rettèche (la): ortica",
+    "rawHash": "93332af8a327f676e3cc3bd9151e39c6ddf9d3a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

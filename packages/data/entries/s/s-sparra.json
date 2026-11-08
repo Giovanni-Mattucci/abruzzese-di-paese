@@ -1,0 +1,21 @@
+{
+  "id": "s-sparra",
+  "headword": "spàrra",
+  "senses": [
+    {
+      "it": "pezzetta",
+      "en": "small piece of cloth, rag",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spàrra: pezzetta",
+    "rawHash": "37e751ee155fe05de5d16ffe0783356d23b336e4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

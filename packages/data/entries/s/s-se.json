@@ -1,0 +1,31 @@
+{
+  "id": "s-se",
+  "headword": "sé",
+  "senses": [
+    {
+      "it": "sua",
+      "en": "his/her (f.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "la sé: la sua",
+      "en": "la sé: his/hers",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "il proprio parere",
+      "en": "one's own opinion",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sé: sua, la sé: la sua, il proprio parere",
+    "rawHash": "fb964aab1441ee4a45abf334a10587ce5887f0f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

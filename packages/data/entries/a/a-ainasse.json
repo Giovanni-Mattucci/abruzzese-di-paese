@@ -1,0 +1,21 @@
+{
+  "id": "a-ainasse",
+  "headword": "ainasse",
+  "senses": [
+    {
+      "it": "darsi da fare",
+      "en": "to get busy, to bustle about",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ainasse: darsi da fare",
+    "rawHash": "49cbc6060ce178377cd446a91bda521d4917f427",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

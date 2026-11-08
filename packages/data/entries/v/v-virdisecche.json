@@ -1,0 +1,26 @@
+{
+  "id": "v-virdisecche",
+  "headword": "virdisecche",
+  "senses": [
+    {
+      "it": "fenomeno del terreno che perde la fertilità, perchè calpestato quando è bagnato",
+      "en": "phenomenon of soil losing its fertility because it was trampled when wet",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "si adopera pure per dire di qualcuno molto magro/a e pettegolo",
+      "en": "also used to describe someone very thin and gossipy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "virdisecche: fenomeno del terreno che perde la fertilità, perchè calpestato quando è bagnato; si adopera pure per dire di qualcuno molto magro/a e pettegolo",
+    "rawHash": "e05c3b2452f5351f63798d685b8cb15c182df6c4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

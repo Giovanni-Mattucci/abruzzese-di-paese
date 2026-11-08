@@ -1,0 +1,21 @@
+{
+  "id": "f-finanche",
+  "headword": "finànche",
+  "senses": [
+    {
+      "it": "addirittura (ha jte finanche a Rome: è andati addirittura a Roma)",
+      "en": "even (ha jte finanche a Rome: he even went to Rome)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "finànche: addirittura (ha jte finanche a Rome: è andati addirittura a Roma)",
+    "rawHash": "931a011daefdbf43b3f3dffa0fcd838ef2b44193",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

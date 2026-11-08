@@ -1,0 +1,22 @@
+{
+  "id": "z-zappaterre",
+  "headword": "zappaterre",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "contadino",
+      "en": "peasant, farmer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zappaterre (lu) : contadino",
+    "rawHash": "8340d55986ce13408843f750afe6ddea557568a9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

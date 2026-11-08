@@ -1,0 +1,22 @@
+{
+  "id": "s-sellere",
+  "headword": "séllere",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "sedano",
+      "en": "celery",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "séllere (lu): sedano",
+    "rawHash": "e4292a6af94e92fb5c7292d5e37075280ded9884",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

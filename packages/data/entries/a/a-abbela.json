@@ -1,0 +1,26 @@
+{
+  "id": "a-abbela",
+  "headword": "abbelà",
+  "senses": [
+    {
+      "it": "sotterrare",
+      "en": "to bury",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ricoprire",
+      "en": "to cover over",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbelà: sotterrare, ricoprire",
+    "rawHash": "212498d21dfa396139772af2891dc1b8375a7afe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-spirete-3",
+  "headword": "spirète",
+  "senses": [
+    {
+      "it": "sperate",
+      "en": "you (plural) hope",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spirète: sperate",
+    "rawHash": "57dda2270af380b61daed898588e530f05350414",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

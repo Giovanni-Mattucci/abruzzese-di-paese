@@ -1,0 +1,21 @@
+{
+  "id": "d-dduville-a",
+  "headword": "'dduville (a)",
+  "senses": [
+    {
+      "it": "a nessun posto",
+      "en": "nowhere",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "'dduville (a): a nessun posto",
+    "rawHash": "6034f386ed4b87653630595acd2c94781934e15d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-camarda",
+  "headword": "camarda",
+  "senses": [
+    {
+      "it": "pecora vecchia",
+      "en": "old ewe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "camarda: pecora vecchia",
+    "rawHash": "5d3ae42779a0cd9bd9bd6d410bfbb8abdb58e432",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

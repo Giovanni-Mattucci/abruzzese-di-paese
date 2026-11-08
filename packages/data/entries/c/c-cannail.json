@@ -1,0 +1,24 @@
+{
+  "id": "c-cannail",
+  "headword": "cannail",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "candela",
+      "en": "candle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cannail: candela (Montebello sul Sangro)",
+    "rawHash": "e15aa358d3b6ba9fc4ec725bf936232f0579d3b4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

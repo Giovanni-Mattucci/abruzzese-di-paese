@@ -1,0 +1,24 @@
+{
+  "id": "c-cemente",
+  "headword": "cemènte",
+  "variants": [
+    "c'mente"
+  ],
+  "senses": [
+    {
+      "it": "cemento",
+      "en": "cement",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cemènte, c'mente: cemento",
+    "rawHash": "39749c4f4e267e16dd247db11978eafee55262c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

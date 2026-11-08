@@ -1,0 +1,22 @@
+{
+  "id": "p-pettelene",
+  "headword": "pêttelene",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "linguacciuto",
+      "en": "gossipy, loose-tongued",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pêttelene (lu): linguacciuto",
+    "rawHash": "263a9b7c42c1141aba2c64558f87964a065f99e5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

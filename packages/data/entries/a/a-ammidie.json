@@ -1,0 +1,21 @@
+{
+  "id": "a-ammidie",
+  "headword": "ammìdie",
+  "senses": [
+    {
+      "it": "invidia o malocchio",
+      "en": "envy or the evil eye",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammìdie: invidia o malocchio",
+    "rawHash": "a8f40a648650545612bd65e075e4dd72e209385a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

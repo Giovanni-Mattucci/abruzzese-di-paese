@@ -1,0 +1,21 @@
+{
+  "id": "c-cavizette",
+  "headword": "cavizètte",
+  "senses": [
+    {
+      "it": "calza",
+      "en": "sock, stocking",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cavizètte: calza",
+    "rawHash": "a40259ec3cc084cfd0cbf57775a8ee7afefab8bf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

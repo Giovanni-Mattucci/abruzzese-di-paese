@@ -1,0 +1,22 @@
+{
+  "id": "p-penge",
+  "headword": "pênge",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "coppo",
+      "en": "curved roof tile",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pênge (lu): coppo",
+    "rawHash": "1fd754dabdc42ace358e698cfc878ff6e0c0d20c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

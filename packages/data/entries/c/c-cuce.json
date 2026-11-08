@@ -1,0 +1,24 @@
+{
+  "id": "c-cuce",
+  "headword": "cùce",
+  "senses": [
+    {
+      "it": "cuce",
+      "en": "he sews",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j còce, tu cùce, esse cùce, nu cucème, vu cucète isse cùcene)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cùce: cuce (j còce, tu cùce, esse cùce, nu cucème, vu cucète isse cùcene)",
+    "rawHash": "6aa071e30818877363efc78725d4cd250f086636",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

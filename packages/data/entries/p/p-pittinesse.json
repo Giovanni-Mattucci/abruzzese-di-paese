@@ -1,0 +1,21 @@
+{
+  "id": "p-pittinesse",
+  "headword": "pittinèsse",
+  "senses": [
+    {
+      "it": "piccolo pettine",
+      "en": "small comb",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pittinèsse: piccolo pettine",
+    "rawHash": "81704b09392d4eb63bea5c9aacda212d3254af35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

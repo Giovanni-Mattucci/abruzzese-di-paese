@@ -1,0 +1,21 @@
+{
+  "id": "l-lasca",
+  "headword": "lasca",
+  "senses": [
+    {
+      "it": "largo",
+      "en": "wide, loose",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lasca: largo",
+    "rawHash": "5f720e2a655af47d6062b25bd9a9be76df115d43",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

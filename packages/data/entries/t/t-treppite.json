@@ -1,0 +1,22 @@
+{
+  "id": "t-treppite",
+  "headword": "treppìte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "treppiedi",
+      "en": "tripod, trivet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "treppìte (lu): treppiedi",
+    "rawHash": "a9c7a87576bf6385cdde2d923bfe4a825026216d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

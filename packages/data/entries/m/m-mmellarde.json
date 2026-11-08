@@ -1,0 +1,22 @@
+{
+  "id": "m-mmellarde",
+  "headword": "'mmellàrde",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "uomo fiacco",
+      "en": "feeble, listless man",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mmellàrde (lu): uomo fiacco",
+    "rawHash": "7e312e45307178c532d99577d9db723f1f95f6ef",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

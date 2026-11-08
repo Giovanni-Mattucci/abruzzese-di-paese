@@ -1,0 +1,26 @@
+{
+  "id": "a-abbanne",
+  "headword": "abbanne",
+  "senses": [
+    {
+      "it": "al bando",
+      "en": "banished, cast out",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "da parte",
+      "en": "aside, to one side",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbanne: al bando, da parte",
+    "rawHash": "06e3de66cd5b85b47cb9b8a79733cdac3407b6a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

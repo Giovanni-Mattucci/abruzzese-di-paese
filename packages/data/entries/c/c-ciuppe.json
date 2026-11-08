@@ -1,0 +1,26 @@
+{
+  "id": "c-ciuppe",
+  "headword": "ciuppe",
+  "senses": [
+    {
+      "it": "zoppo",
+      "en": "lame",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sciancato",
+      "en": "crippled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciuppe: zoppo, sciancato.",
+    "rawHash": "710b9de567afaa573ab24d7090fc8d022ae62be6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

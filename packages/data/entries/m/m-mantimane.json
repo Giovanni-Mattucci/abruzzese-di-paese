@@ -1,0 +1,26 @@
+{
+  "id": "m-mantimane",
+  "headword": "mantimàne",
+  "senses": [
+    {
+      "it": "stamattina",
+      "en": "this morning",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "questa mattina",
+      "en": "this morning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mantimàne: stamattina, questa mattina",
+    "rawHash": "68a15e55a4a097322c4b3f2e2f1079a7fc950317",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,41 @@
+{
+  "id": "s-scutula",
+  "headword": "scutulà",
+  "senses": [
+    {
+      "it": "agitare",
+      "en": "to shake",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "battere",
+      "en": "to beat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbattere un pazzo",
+      "en": "to shake out a cloth",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "un lenzuolo",
+      "en": "a sheet",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ecc",
+      "en": "etc.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scutulà: agitare, battere, sbattere un pazzo, un lenzuolo, ecc.",
+    "rawHash": "d4db6ad288aa9ce7e9b12858570f216e17778132",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

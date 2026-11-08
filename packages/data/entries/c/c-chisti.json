@@ -1,0 +1,21 @@
+{
+  "id": "c-chisti",
+  "headword": "chistì",
+  "senses": [
+    {
+      "it": "questa",
+      "en": "this (feminine)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chistì: questa",
+    "rawHash": "7394fcd33d4ad9d0b874080a6e183fc2495297d6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

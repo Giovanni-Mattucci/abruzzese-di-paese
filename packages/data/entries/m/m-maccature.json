@@ -1,0 +1,21 @@
+{
+  "id": "m-maccature",
+  "headword": "maccature",
+  "senses": [
+    {
+      "it": "fazzoletto",
+      "en": "handkerchief",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "maccature: fazzoletto",
+    "rawHash": "ce35f0a3fba2627ab5040c052d1012e899ce8f71",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

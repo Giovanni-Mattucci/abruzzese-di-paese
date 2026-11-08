@@ -1,0 +1,21 @@
+{
+  "id": "a-angulane",
+  "headword": "angulane",
+  "senses": [
+    {
+      "it": "dall'antico Angu lum, (pòpele angulane = popolo di Città Sant'Angelo, cittadina in provincia di Pescara)",
+      "en": "from the ancient Angu lum, (pòpele angulane = the people of Città Sant'Angelo, a small town in the province of Pescara)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "angulane: dall'antico Angu lum, (pòpele angulane = popolo di Città Sant'Angelo, cittadina in provincia di Pescara)",
+    "rawHash": "1a6b9e7d4d3c2ec936da46200de5c6e5d711c4f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

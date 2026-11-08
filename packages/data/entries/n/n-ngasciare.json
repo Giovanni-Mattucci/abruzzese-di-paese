@@ -1,0 +1,21 @@
+{
+  "id": "n-ngasciare",
+  "headword": "'ngasciare",
+  "senses": [
+    {
+      "it": "incaciare. Termine che descrive la neve quando attacca al suolo",
+      "en": "to settle, to stick (of snow). Term describing snow when it sticks to the ground",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngasciare: incaciare. Termine che descrive la neve quando attacca al suolo",
+    "rawHash": "4ba6a20b19c97a25591220d1f24c9a401072132a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

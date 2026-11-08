@@ -1,0 +1,21 @@
+{
+  "id": "g-gnuzzeve",
+  "headword": "gnuzzève",
+  "senses": [
+    {
+      "it": "s'ingozzava",
+      "en": "he gorged himself",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnuzzève: s'ingozzava",
+    "rawHash": "7bbbd82488b0dedaccc5270673998daf6bf90b6d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

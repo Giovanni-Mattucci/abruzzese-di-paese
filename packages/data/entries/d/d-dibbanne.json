@@ -1,0 +1,26 @@
+{
+  "id": "d-dibbanne",
+  "headword": "dibbanne",
+  "senses": [
+    {
+      "it": "accanto",
+      "en": "beside",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "vicino",
+      "en": "near",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dibbanne: accanto, vicino",
+    "rawHash": "a2918ac40a1be690742445672321c30a93336a2c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a-abbijastema",
+  "headword": "abbijastemà",
+  "variants": [
+    "abbijasimà"
+  ],
+  "senses": [
+    {
+      "it": "bestemmiare",
+      "en": "to blaspheme, to curse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbijastemà, abbijasimà: bestemmiare",
+    "rawHash": "846a6d513e729979871ad4d44ea7b1ee674e9607",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

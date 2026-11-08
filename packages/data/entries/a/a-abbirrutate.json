@@ -1,0 +1,21 @@
+{
+  "id": "a-abbirrutate",
+  "headword": "abbirrutàte",
+  "senses": [
+    {
+      "it": "avvolto",
+      "en": "wrapped, wound",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbirrutàte: avvolto",
+    "rawHash": "9601394c509d6ad62a71a3b33f67cc5435ac1428",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

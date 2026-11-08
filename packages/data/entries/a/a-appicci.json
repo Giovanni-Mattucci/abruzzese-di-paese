@@ -1,0 +1,21 @@
+{
+  "id": "a-appicci",
+  "headword": "appiccì",
+  "senses": [
+    {
+      "it": "accendere",
+      "en": "to light, to switch on",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appiccì: accendere",
+    "rawHash": "b84f7bc7dbeb31dd629c013dbf24335a90243303",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

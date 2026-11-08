@@ -1,0 +1,27 @@
+{
+  "id": "s-stuvale",
+  "headword": "stuvale",
+  "article": "le",
+  "senses": [
+    {
+      "it": "stivale",
+      "en": "boot",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "stivali",
+      "en": "boots",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stuvale (le): stivale, stivali",
+    "rawHash": "cfe64df9f3dbd36a85edcdbff572d75701fd8ffe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vricciuline",
+  "headword": "vricciulìne",
+  "senses": [
+    {
+      "it": "ghiaia molto sottile",
+      "en": "very fine gravel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vricciulìne: ghiaia molto sottile",
+    "rawHash": "36c35d62b52284abe8b1b8bf5be63548435e76b7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

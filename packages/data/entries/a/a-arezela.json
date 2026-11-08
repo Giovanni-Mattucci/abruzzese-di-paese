@@ -1,0 +1,21 @@
+{
+  "id": "a-arezela",
+  "headword": "arezelà",
+  "senses": [
+    {
+      "it": "riassettare la casa, mettere in ordine un ambiente",
+      "en": "to tidy up the house, to put a room in order",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arezelà: riassettare la casa, mettere in ordine un ambiente",
+    "rawHash": "4d1d694179639b0e2ec07b486b50c79bf4224faf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

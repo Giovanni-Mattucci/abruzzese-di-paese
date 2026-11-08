@@ -1,0 +1,21 @@
+{
+  "id": "a-auardetele",
+  "headword": "auardètele",
+  "senses": [
+    {
+      "it": "guardatelo",
+      "en": "look at him/it (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "auardètele: guardatelo",
+    "rawHash": "9267b1728f93ad9673208017771a47cb4e475a33",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

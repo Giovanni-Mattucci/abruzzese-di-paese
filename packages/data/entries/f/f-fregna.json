@@ -1,0 +1,21 @@
+{
+  "id": "f-fregna",
+  "headword": "fregna",
+  "senses": [
+    {
+      "it": "organo sessuale femminile",
+      "en": "female sexual organ",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fregna: organo sessuale femminile",
+    "rawHash": "64fa0151f70adc256cb938a6b34817a948e836b5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

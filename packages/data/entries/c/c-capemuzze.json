@@ -1,0 +1,21 @@
+{
+  "id": "c-capemuzze",
+  "headword": "capemuzze",
+  "senses": [
+    {
+      "it": "ceppo",
+      "en": "log, stump",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capemuzze: ceppo",
+    "rawHash": "d5d5607f3f3459613236955c0259fb06d395b883",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

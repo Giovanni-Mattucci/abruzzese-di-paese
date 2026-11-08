@@ -1,0 +1,21 @@
+{
+  "id": "a-alare",
+  "headword": "alàre",
+  "senses": [
+    {
+      "it": "sbadigliare",
+      "en": "to yawn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "alàre: sbadigliare",
+    "rawHash": "07179de30f3ef42e32af89f662c2368094bcad4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

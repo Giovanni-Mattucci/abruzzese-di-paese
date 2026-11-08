@@ -1,0 +1,21 @@
+{
+  "id": "t-tritticheje",
+  "headword": "tritticheje",
+  "senses": [
+    {
+      "it": "smuoveva",
+      "en": "he/she shifted (imperfect)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tritticheje: smuoveva",
+    "rawHash": "e3853817c8a1defb5e21bf64511e79d2dbd4b3ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

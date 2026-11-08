@@ -1,0 +1,21 @@
+{
+  "id": "s-sfrisciate",
+  "headword": "sfrisciàte",
+  "senses": [
+    {
+      "it": "rigato",
+      "en": "scratched",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrisciàte: rigato",
+    "rawHash": "688a0d02f07eb5b6d3553b164b1bd24732ebdcd8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

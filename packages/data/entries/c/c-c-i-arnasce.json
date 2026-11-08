@@ -1,0 +1,34 @@
+{
+  "id": "c-c-i-arnasce",
+  "headword": "c-i-arnàsce",
+  "variants": [
+    "c'arnàsce"
+  ],
+  "senses": [
+    {
+      "it": "ci rinasce",
+      "en": "it is reborn there, it grows back there",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "nasce di nuovo",
+      "en": "it is born again",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "un'altra volta",
+      "en": "once more",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arnàsce, c'arnàsce: ci rinasce, nasce di nuovo, un'altra volta",
+    "rawHash": "8f08600ed2f5fc1a974f5cad71a74f0e2e29fff8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

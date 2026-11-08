@@ -1,0 +1,21 @@
+{
+  "id": "a-aguje",
+  "headword": "agùje",
+  "senses": [
+    {
+      "it": "aguglie (pesce azzurro)",
+      "en": "garfish (oily fish)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "agùje: aguglie (pesce azzurro)",
+    "rawHash": "6086a2c7c7672390313aac07719e2143a77ead89",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

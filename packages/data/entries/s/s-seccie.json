@@ -1,0 +1,21 @@
+{
+  "id": "s-seccie",
+  "headword": "seccie",
+  "senses": [
+    {
+      "it": "seppie",
+      "en": "cuttlefish",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "seccie: seppie",
+    "rawHash": "66667c68952bb98b2b64bbb4ec7ebac48564f6de",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

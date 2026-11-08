@@ -1,0 +1,27 @@
+{
+  "id": "s-schiaffene-j",
+  "headword": "schiaffene ( j )",
+  "article": "le",
+  "senses": [
+    {
+      "it": "lo mettono",
+      "en": "they put it",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gli danno",
+      "en": "they give him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiaffene (le) ( j ): lo mettono, gli danno",
+    "rawHash": "f3b5e53c32a1cac4abfccdc4ba06f7707d50662b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

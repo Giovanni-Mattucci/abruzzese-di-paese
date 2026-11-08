@@ -1,0 +1,21 @@
+{
+  "id": "t-tastete",
+  "headword": "tastête",
+  "senses": [
+    {
+      "it": "solido",
+      "en": "solid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tastête: solido",
+    "rawHash": "b36866721be8f447864badeb17204ebcb18e25b3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

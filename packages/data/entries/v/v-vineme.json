@@ -1,0 +1,21 @@
+{
+  "id": "v-vineme",
+  "headword": "vinème",
+  "senses": [
+    {
+      "it": "veniamo",
+      "en": "we come",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vinème: veniamo",
+    "rawHash": "c54438dc4af4d0d405e878883422809f0fcd2474",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

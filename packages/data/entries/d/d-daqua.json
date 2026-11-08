@@ -1,0 +1,21 @@
+{
+  "id": "d-daqua",
+  "headword": "daquà",
+  "senses": [
+    {
+      "it": "innaffiare",
+      "en": "to water",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "daquà: innaffiare",
+    "rawHash": "61ce09ee7219f52a3e089ad995bb0c1c716fadfc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

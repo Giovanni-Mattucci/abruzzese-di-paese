@@ -1,0 +1,26 @@
+{
+  "id": "r-recapate",
+  "headword": "recapàte",
+  "senses": [
+    {
+      "it": "scelto nel mucchio",
+      "en": "picked out from the pile",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ordinato",
+      "en": "tidy, orderly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "recapàte: scelto nel mucchio, ordinato",
+    "rawHash": "026c642f47271cb9cc003e48d982c1f95e820df3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-apparancate",
+  "headword": "apparancate",
+  "senses": [
+    {
+      "it": "riparato",
+      "en": "sheltered, protected",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "apparancate: riparato",
+    "rawHash": "4514f7a49a4e266334cc166af9ef2963664ede74",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

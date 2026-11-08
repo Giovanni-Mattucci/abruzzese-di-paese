@@ -1,0 +1,21 @@
+{
+  "id": "b-ballature",
+  "headword": "ballature",
+  "senses": [
+    {
+      "it": "attrezzo per l'imballaggio",
+      "en": "baling tool, packing tool",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "ballature: attrezzo per l'imballaggio",
+    "rawHash": "9108c8196f9fa313ce93a25bce23b05b63a7341d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

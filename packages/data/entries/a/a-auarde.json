@@ -1,0 +1,21 @@
+{
+  "id": "a-auarde",
+  "headword": "auàrde",
+  "senses": [
+    {
+      "it": "guarda",
+      "en": "look",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "auàrde: guarda",
+    "rawHash": "95e718f2766dfc107c10249803d4837c842a5ae4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

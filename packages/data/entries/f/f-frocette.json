@@ -1,0 +1,21 @@
+{
+  "id": "f-frocette",
+  "headword": "frocètte",
+  "senses": [
+    {
+      "it": "anello al naso dei buoi da tiro",
+      "en": "nose ring of draught oxen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frocètte: anello al naso dei buoi da tiro",
+    "rawHash": "3f6f1f0a0ac931b9292446bbdb56e465607dc7e9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mmastece",
+  "headword": "mmàstece",
+  "senses": [
+    {
+      "it": "colla",
+      "en": "glue",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mmàstece: colla",
+    "rawHash": "a62c52c0ced7b190668cd83941b16b72804bc172",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

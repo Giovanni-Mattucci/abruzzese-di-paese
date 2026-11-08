@@ -1,0 +1,26 @@
+{
+  "id": "n-ngustiate",
+  "headword": "'ngustiate",
+  "senses": [
+    {
+      "it": "dispiaciuto",
+      "en": "sorry, upset",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "preoccupato",
+      "en": "worried",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngustiate: dispiaciuto, preoccupato",
+    "rawHash": "fca01eb8502bc6e41fe8fb121271d3f6c158c7b1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b-bbefoce",
+  "headword": "bbefoce",
+  "senses": [
+    {
+      "it": "aratore",
+      "en": "ploughman",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bifolco",
+      "en": "oxherd, boor",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbefoce: aratore, bifolco",
+    "rawHash": "5b101f3b4ddf17cbce72b4d10b99f6f9bed867a0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

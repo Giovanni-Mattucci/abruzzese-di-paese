@@ -1,0 +1,31 @@
+{
+  "id": "s-smuri",
+  "headword": "smurì",
+  "senses": [
+    {
+      "it": "spegnere",
+      "en": "to put out, to turn off",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "smorzare (una fiamma",
+      "en": "to extinguish (a flame",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "un fuoco)",
+      "en": "a fire)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smurì: spegnere, smorzare (una fiamma, un fuoco)",
+    "rawHash": "4ae27a19f2486373f7f9a368b82979c9ff34b710",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

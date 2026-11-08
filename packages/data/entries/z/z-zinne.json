@@ -1,0 +1,21 @@
+{
+  "id": "z-zinne",
+  "headword": "zìnne",
+  "senses": [
+    {
+      "it": "seni",
+      "en": "breasts",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zìnne: seni",
+    "rawHash": "fb1a724e840a7fdb71494021782ebf12e341eb1e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

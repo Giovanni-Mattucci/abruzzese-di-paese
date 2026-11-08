@@ -1,0 +1,26 @@
+{
+  "id": "s-squacchiate",
+  "headword": "squacchiate",
+  "senses": [
+    {
+      "it": "appiattito",
+      "en": "flattened",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "calpestato",
+      "en": "trampled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "squacchiate: appiattito, calpestato",
+    "rawHash": "62503b18693280aaa2a59547b5c6301a5148d862",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

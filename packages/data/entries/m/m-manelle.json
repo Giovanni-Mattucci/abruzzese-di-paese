@@ -1,0 +1,22 @@
+{
+  "id": "m-manelle",
+  "headword": "manèlle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "fascio di grano",
+      "en": "bundle of wheat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "manèlle (la): fascio di grano",
+    "rawHash": "2616dfe9d3b0300bd49f6eebeb793b652a37e0fe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-fio",
+  "headword": "fiò",
+  "senses": [
+    {
+      "it": "non importa",
+      "en": "it does not matter",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fiò: non importa",
+    "rawHash": "61ed7160ec06cd440d3f53878de4bb51c47fcde0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

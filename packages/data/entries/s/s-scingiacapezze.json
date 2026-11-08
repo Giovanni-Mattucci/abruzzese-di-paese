@@ -1,0 +1,22 @@
+{
+  "id": "s-scingiacapezze",
+  "headword": "scingiacapezze",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "sfaccendato",
+      "en": "idler, layabout",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scingiacapezze (lu): sfaccendato",
+    "rawHash": "9d10bf6018fa965464804bfe791a49a220aaeb52",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

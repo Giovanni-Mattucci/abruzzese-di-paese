@@ -1,0 +1,21 @@
+{
+  "id": "a-abbrusciato",
+  "headword": "abbrusciato",
+  "senses": [
+    {
+      "it": "bruciato",
+      "en": "burnt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbrusciato: bruciato",
+    "rawHash": "a9cc89b270a492d2e6698bc47ddc14ef9e7b93f9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

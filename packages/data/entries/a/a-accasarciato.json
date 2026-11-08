@@ -1,0 +1,21 @@
+{
+  "id": "a-accasarciato",
+  "headword": "accasarciato",
+  "senses": [
+    {
+      "it": "ammucchiato",
+      "en": "heaped up, piled up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accasarciato: ammucchiato",
+    "rawHash": "bf10da5b5af08145fe8755c25fc8de6f659b7972",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

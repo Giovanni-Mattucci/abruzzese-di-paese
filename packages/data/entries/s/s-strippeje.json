@@ -1,0 +1,21 @@
+{
+  "id": "s-strippeje",
+  "headword": "strìppeje",
+  "senses": [
+    {
+      "it": "afferragli e tira con forza",
+      "en": "grab him and pull hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strìppeje: afferragli e tira con forza",
+    "rawHash": "a4da5c9e0ad5151af626104560cccb59f3a45837",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

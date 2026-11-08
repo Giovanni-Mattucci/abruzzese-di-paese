@@ -1,0 +1,21 @@
+{
+  "id": "s-schiaffate",
+  "headword": "schiaffàte",
+  "senses": [
+    {
+      "it": "messo",
+      "en": "put, placed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiaffàte: messo",
+    "rawHash": "2194f7b87892b09bad00089244cb0612225f12bd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

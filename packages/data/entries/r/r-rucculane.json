@@ -1,0 +1,26 @@
+{
+  "id": "r-rucculane",
+  "headword": "rucculane",
+  "senses": [
+    {
+      "it": "della Rocca",
+      "en": "of the Rocca",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "montanaro",
+      "en": "mountain dweller",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rucculane: della Rocca, montanaro",
+    "rawHash": "4748cd6ba92d059da10e671259be36672467f1e5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

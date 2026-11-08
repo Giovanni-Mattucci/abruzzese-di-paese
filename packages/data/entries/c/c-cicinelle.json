@@ -1,0 +1,21 @@
+{
+  "id": "c-cicinelle",
+  "headword": "cicinelle",
+  "senses": [
+    {
+      "it": "salvadanaio",
+      "en": "piggy bank",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cicinelle: salvadanaio",
+    "rawHash": "ca85af12c38eb28dbe8fd48bda5a8c4ffa795b1f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

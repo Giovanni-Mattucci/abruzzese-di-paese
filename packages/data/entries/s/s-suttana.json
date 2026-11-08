@@ -1,0 +1,21 @@
+{
+  "id": "s-suttana",
+  "headword": "suttana",
+  "senses": [
+    {
+      "it": "cantina",
+      "en": "cellar",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "suttana: cantina",
+    "rawHash": "c44c6c6e5e1fcb5508ad1e29328a30eedd6106b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

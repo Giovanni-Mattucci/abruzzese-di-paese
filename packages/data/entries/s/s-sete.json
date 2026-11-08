@@ -1,0 +1,24 @@
+{
+  "id": "s-sete",
+  "headword": "sète",
+  "senses": [
+    {
+      "it": "siete",
+      "en": "you are (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: vu"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sète (vu): siete",
+    "rawHash": "cb4cf1fa32d9b5997865b71e7763eead571efb7d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

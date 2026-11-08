@@ -1,0 +1,26 @@
+{
+  "id": "s-sciurta",
+  "headword": "sciurtà",
+  "senses": [
+    {
+      "it": "allontanare",
+      "en": "to drive away",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "finire",
+      "en": "to finish",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciurtà: allontanare, finire",
+    "rawHash": "52c460c393a62136dceff3f2a4c4367268e17a5a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

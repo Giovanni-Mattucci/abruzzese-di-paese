@@ -1,0 +1,26 @@
+{
+  "id": "j-jarmunnate",
+  "headword": "jarmunnàte",
+  "senses": [
+    {
+      "it": "gli ha pulito",
+      "en": "he cleaned (it) for him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ripulito",
+      "en": "cleaned up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jarmunnàte: gli ha pulito, ripulito",
+    "rawHash": "7d4d9dc9f2c636f3782107a0021c430220d88faf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s-sciapete",
+  "headword": "sciapète",
+  "variants": [
+    "sciapìte"
+  ],
+  "senses": [
+    {
+      "it": "insipido",
+      "en": "tasteless, insipid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciapète, sciapìte: insipido",
+    "rawHash": "78ed2e01b34c9f09ad55bd559ec0fdaf55994a36",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

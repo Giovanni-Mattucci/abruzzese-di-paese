@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-arcale",
+  "headword": "c-i-arcàle",
+  "variants": [
+    "c'arcàle"
+  ],
+  "senses": [
+    {
+      "it": "ci riscendo",
+      "en": "I go back down there",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scendo di nuovo",
+      "en": "I go down again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arcàle, c'arcàle: ci riscendo, scendo di nuovo",
+    "rawHash": "c18b43292ebb1c03ac051c7f5879b6b5f5a86ad6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

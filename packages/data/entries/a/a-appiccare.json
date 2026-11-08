@@ -1,0 +1,34 @@
+{
+  "id": "a-appiccare",
+  "headword": "appiccàre",
+  "senses": [
+    {
+      "it": "appendere",
+      "en": "to hang up",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dare fuoco a qualcosa",
+      "en": "to set fire to something",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "appiccate foche",
+      "it": "ha dato, ha messo fuoco",
+      "en": "he/she set it on fire, lit the fire",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appiccàre: appendere, ma anche dare fuoco a qualcosa, es.:appiccate foche: ha dato, ha messo fuoco",
+    "rawHash": "e90e239d2b87c4e9d9ab6f75c067ba30e2de7c0f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

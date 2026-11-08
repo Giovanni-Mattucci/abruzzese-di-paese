@@ -1,0 +1,21 @@
+{
+  "id": "c-cucene",
+  "headword": "cùcene",
+  "senses": [
+    {
+      "it": "cuciono",
+      "en": "they sew",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cùcene: cuciono",
+    "rawHash": "4bc0428b495e1b209426e1b2a607e185dea7f582",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

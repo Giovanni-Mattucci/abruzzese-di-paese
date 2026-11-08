@@ -1,0 +1,24 @@
+{
+  "id": "a-arrezzate",
+  "headword": "arrezzate",
+  "variants": [
+    "arrizzate"
+  ],
+  "senses": [
+    {
+      "it": "alzato",
+      "en": "raised, risen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrezzate, arrizzate: alzato",
+    "rawHash": "87010ba299393db06df59b1674954e15089c84d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

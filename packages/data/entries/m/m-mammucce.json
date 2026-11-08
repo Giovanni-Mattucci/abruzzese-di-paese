@@ -1,0 +1,24 @@
+{
+  "id": "m-mammucce",
+  "headword": "mammucce",
+  "variants": [
+    "mammuccia"
+  ],
+  "senses": [
+    {
+      "it": "nonna",
+      "en": "grandmother",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mammucce, mammuccia: nonna",
+    "rawHash": "809029ee8528ff2c6a086c9a79cd198e3eaaced2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

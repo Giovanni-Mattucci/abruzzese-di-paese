@@ -1,0 +1,26 @@
+{
+  "id": "s-schiaffemeje",
+  "headword": "schiaffèmeje",
+  "senses": [
+    {
+      "it": "mettiamogli",
+      "en": "let us give him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "diamo a qualcuno qualcosa (es. un colpo, uno schiaffo) con forza",
+      "en": "to give someone something (e.g. a blow, a slap) forcefully",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiaffèmeje: mettiamogli, ma anche diamo a qualcuno qualcosa (es. un colpo, uno schiaffo) con forza",
+    "rawHash": "f0bf8e542d61a51ee5c8f4853fcaf5a2b62cb7f1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

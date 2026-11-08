@@ -1,0 +1,21 @@
+{
+  "id": "j-jamme-mo",
+  "headword": "jamme mò",
+  "senses": [
+    {
+      "it": "adesso andiamo",
+      "en": "let's go now",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jamme mò:adesso andiamo",
+    "rawHash": "e9e6009bbbd1abc0490fbfae5ab86031565c486a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

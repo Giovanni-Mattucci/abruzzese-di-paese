@@ -1,0 +1,31 @@
+{
+  "id": "a-arcole",
+  "headword": "arcòle",
+  "senses": [
+    {
+      "it": "cola di nuovo",
+      "en": "drips again",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "perde",
+      "en": "leaks",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riferito a liquido",
+      "en": "said of a liquid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arcòle: cola di nuovo, perde, riferito a liquido",
+    "rawHash": "391dcf8e2b04f1caa49ecb78214ac0b31ea2a914",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

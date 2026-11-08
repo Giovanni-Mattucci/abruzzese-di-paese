@@ -1,0 +1,21 @@
+{
+  "id": "c-catetrale",
+  "headword": "catetrale",
+  "senses": [
+    {
+      "it": "cattedrale",
+      "en": "cathedral",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "catetrale: cattedrale",
+    "rawHash": "614c95629bf6379cfd308ec03a24ebd13ffca399",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

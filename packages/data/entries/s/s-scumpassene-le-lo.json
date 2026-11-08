@@ -1,0 +1,27 @@
+{
+  "id": "s-scumpassene-le-lo",
+  "headword": "scumpàssene",
+  "senses": [
+    {
+      "it": "lo superano, lo sorpassano",
+      "en": "they overtake it, they pass it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Forma: (le)"
+  ],
+  "notes": [
+    "Typo corrected in review: the source has \"sorpassono\"."
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scumpàssene (le) lo superano, lo sorpassono",
+    "rawHash": "225a56de1e552ae22eb24fa86bfb40c19d179252",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

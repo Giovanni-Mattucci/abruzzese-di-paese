@@ -1,0 +1,26 @@
+{
+  "id": "s-scumpassemele",
+  "headword": "scumpassèmele",
+  "senses": [
+    {
+      "it": "superiamolo",
+      "en": "let us surpass him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sorpassiamolo",
+      "en": "let us overtake him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scumpassèmele: superiamolo, sorpassiamolo",
+    "rawHash": "2ec8f243316a86abe69b657f52adcb2b63b425f6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

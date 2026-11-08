@@ -1,0 +1,26 @@
+{
+  "id": "f-fucaracce",
+  "headword": "fucaracce",
+  "senses": [
+    {
+      "it": "falò",
+      "en": "bonfire",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "fuochi di San Giovanni dove la gente danza saltando a mezz'altezza fino a lambire le fiamme",
+      "en": "St John's fires where people dance, jumping halfway up so as to graze the flames",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fucaracce: falò; fuochi di San Giovanni dove la gente danza saltando a mezz'altezza fino a lambire le fiamme",
+    "rawHash": "553349edb4f42c1619d1aaffef2dffcddf2dbf59",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d-di-la",
+  "headword": "di la",
+  "pos": "prep. art.",
+  "senses": [
+    {
+      "it": "della",
+      "en": "of the (feminine singular)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "di la: della (prep. art.)",
+    "rawHash": "3c9bfda04a6e5c695d4b5b52f6c26d1ffd2d9b9c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

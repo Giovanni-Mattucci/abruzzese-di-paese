@@ -1,0 +1,21 @@
+{
+  "id": "v-verrese",
+  "headword": "verrêse",
+  "senses": [
+    {
+      "it": "garretto",
+      "en": "hock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "verrêse: garretto",
+    "rawHash": "57320e14fe29850bb03efc4fe91d6726102736f8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

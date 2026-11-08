@@ -1,0 +1,24 @@
+{
+  "id": "m-mappene-2",
+  "headword": "mappène",
+  "variants": [
+    "mappìne"
+  ],
+  "senses": [
+    {
+      "it": "strofinaccio da cucina",
+      "en": "kitchen cloth, dish towel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mappène, mappìne: strofinaccio da cucina",
+    "rawHash": "6508e0df768de4a26bd1708574c1466a39b820ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

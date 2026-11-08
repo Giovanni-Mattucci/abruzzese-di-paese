@@ -1,0 +1,21 @@
+{
+  "id": "s-scarvuscia",
+  "headword": "scarvuscià",
+  "senses": [
+    {
+      "it": "frugare",
+      "en": "to rummage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarvuscià: frugare",
+    "rawHash": "ac77cf1916afb47b2a0da2ffa4cf250c06274933",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

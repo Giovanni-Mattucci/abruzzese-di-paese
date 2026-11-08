@@ -1,0 +1,21 @@
+{
+  "id": "p-purtone",
+  "headword": "purtone",
+  "senses": [
+    {
+      "it": "portone",
+      "en": "main door, front gate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "purtone: portone",
+    "rawHash": "611b083524c1efa7297c899f8f6dfb85b9d5b82f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

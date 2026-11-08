@@ -1,0 +1,21 @@
+{
+  "id": "v-vusse",
+  "headword": "vusse",
+  "senses": [
+    {
+      "it": "spinta",
+      "en": "push, shove",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vusse: spinta",
+    "rawHash": "81fd8442b7601fe153c1af2edfa25f47da8bcfbf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

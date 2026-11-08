@@ -1,0 +1,21 @@
+{
+  "id": "a-arbiasteme",
+  "headword": "arbiastème",
+  "senses": [
+    {
+      "it": "bestemmia",
+      "en": "blasphemy, curse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arbiastème: bestemmia",
+    "rawHash": "bc3ba794a75eda4326703bbef43bad44c29ccb53",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

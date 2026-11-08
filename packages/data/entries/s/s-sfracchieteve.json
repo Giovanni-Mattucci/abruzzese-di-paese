@@ -1,0 +1,21 @@
+{
+  "id": "s-sfracchieteve",
+  "headword": "sfracchieteve",
+  "senses": [
+    {
+      "it": "sfracchiatevi",
+      "en": "smash yourselves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfracchieteve: sfracchiatevi",
+    "rawHash": "67f1799b4a7286175b3aa74470041168e31bd59c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

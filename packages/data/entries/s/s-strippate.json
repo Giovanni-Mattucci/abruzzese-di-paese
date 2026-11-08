@@ -1,0 +1,21 @@
+{
+  "id": "s-strippate",
+  "headword": "strippàte",
+  "senses": [
+    {
+      "it": "afferrato e tirato con forza",
+      "en": "grabbed and pulled hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strippàte: afferrato e tirato con forza",
+    "rawHash": "95fe659ed16f0bbe29e96f0d7fb5ce3f071c066b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

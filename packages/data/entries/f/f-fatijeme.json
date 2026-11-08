@@ -1,0 +1,21 @@
+{
+  "id": "f-fatijeme",
+  "headword": "fatijème",
+  "senses": [
+    {
+      "it": "lavoriamo",
+      "en": "we work",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fatijème: lavoriamo",
+    "rawHash": "0a08b2bc22cf94538a59381683d8454ac87a21cc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

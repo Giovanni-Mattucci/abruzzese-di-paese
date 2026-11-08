@@ -1,0 +1,21 @@
+{
+  "id": "v-verre",
+  "headword": "verre",
+  "senses": [
+    {
+      "it": "porco non castrato",
+      "en": "uncastrated pig, boar",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "verre: porco non castrato",
+    "rawHash": "1d4de3b634df2d7c3b1e3a1c277717b214b45168",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

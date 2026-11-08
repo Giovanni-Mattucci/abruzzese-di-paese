@@ -1,0 +1,21 @@
+{
+  "id": "g-gagliavone",
+  "headword": "gagliavone",
+  "senses": [
+    {
+      "it": "gorgo d'acqua, piccola cascatella di fiume con gorghi di risucchio",
+      "en": "whirlpool, small river waterfall with sucking eddies",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gagliavone: gorgo d'acqua, piccola cascatella di fiume con gorghi di risucchio",
+    "rawHash": "24460c9b8f52ecd42ba06dafaf04b920b0f948e2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

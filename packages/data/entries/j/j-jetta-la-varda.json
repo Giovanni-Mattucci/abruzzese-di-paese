@@ -1,0 +1,21 @@
+{
+  "id": "j-jetta-la-varda",
+  "headword": "jettà la varda",
+  "senses": [
+    {
+      "it": "arrabbiarsi",
+      "en": "to get angry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jettà la varda: arrabbiarsi",
+    "rawHash": "dbb440c049377627a144c3280977e0172cd1cc7c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

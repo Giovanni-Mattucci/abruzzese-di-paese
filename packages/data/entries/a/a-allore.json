@@ -1,0 +1,19 @@
+{
+  "id": "a-allore",
+  "headword": "allore",
+  "senses": [
+    {
+      "it": "allore"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allore: allore",
+    "rawHash": "8bc7ab1d8862d4211f0d2c31f9d5ebb7e9263c68",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

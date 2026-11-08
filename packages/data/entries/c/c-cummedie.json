@@ -1,0 +1,21 @@
+{
+  "id": "c-cummedie",
+  "headword": "cummèdie",
+  "senses": [
+    {
+      "it": "chiasso",
+      "en": "noise, racket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummèdie: chiasso",
+    "rawHash": "94c0c5be51adc161e1439b6146e1a054858fa204",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

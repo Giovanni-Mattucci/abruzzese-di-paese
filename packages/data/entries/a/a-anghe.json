@@ -1,0 +1,21 @@
+{
+  "id": "a-anghe",
+  "headword": "anghe",
+  "senses": [
+    {
+      "it": "mascelle",
+      "en": "jaws",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "anghe: mascelle",
+    "rawHash": "520c367140bb2a8536fe4e428b1cc5f2604dd4c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

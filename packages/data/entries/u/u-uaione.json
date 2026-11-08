@@ -1,0 +1,21 @@
+{
+  "id": "u-uaione",
+  "headword": "uaione",
+  "senses": [
+    {
+      "it": "ragazzo",
+      "en": "boy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "uaione: ragazzo",
+    "rawHash": "48002fede1be067f76ec0cc24399516f7042ef50",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

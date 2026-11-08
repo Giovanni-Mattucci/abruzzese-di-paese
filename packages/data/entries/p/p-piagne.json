@@ -1,0 +1,21 @@
+{
+  "id": "p-piagne",
+  "headword": "piagne",
+  "senses": [
+    {
+      "it": "piangere",
+      "en": "to cry, to weep",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piagne: piangere",
+    "rawHash": "3786859947ae9dff3a8525c59b53df2a5b630952",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vussece",
+  "headword": "vùssece",
+  "senses": [
+    {
+      "it": "spingici",
+      "en": "push us",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vùssece: spingici",
+    "rawHash": "40ea2149bb5c2ba7fe24e306a0d43727e997959a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

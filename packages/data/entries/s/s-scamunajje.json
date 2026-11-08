@@ -1,0 +1,26 @@
+{
+  "id": "s-scamunajje",
+  "headword": "scamunajje",
+  "senses": [
+    {
+      "it": "gruppo di ragazzi vocianti",
+      "en": "group of shouting boys",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scalmanati",
+      "en": "rowdy ones",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scamunajje: gruppo di ragazzi vocianti, scalmanati",
+    "rawHash": "58c4f358b30650148497df163ca138fcdc2cc211",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

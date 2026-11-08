@@ -1,0 +1,21 @@
+{
+  "id": "s-sauze",
+  "headword": "sauze",
+  "senses": [
+    {
+      "it": "pianta commestibile che nasce sulle pietre",
+      "en": "edible plant that grows on stones",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sauze: pianta commestibile che nasce sulle pietre",
+    "rawHash": "95ab1377386f60bc16e01cc4424c51c9207a5c37",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

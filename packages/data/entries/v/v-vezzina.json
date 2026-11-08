@@ -1,0 +1,21 @@
+{
+  "id": "v-vezzina",
+  "headword": "vezzina",
+  "senses": [
+    {
+      "it": "fuliggine",
+      "en": "soot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vezzina: fuliggine",
+    "rawHash": "2e4a0294f87f9ad26343935af84294f4edce27a2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

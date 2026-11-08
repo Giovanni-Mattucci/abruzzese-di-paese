@@ -1,0 +1,21 @@
+{
+  "id": "e-ecchiele",
+  "headword": "ecchiele",
+  "senses": [
+    {
+      "it": "occhiali",
+      "en": "glasses, spectacles",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "ecchiele: occhiali",
+    "rawHash": "0d396e2ceebfa1e11d131275f927acd95f421d8c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

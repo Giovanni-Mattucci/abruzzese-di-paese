@@ -1,0 +1,21 @@
+{
+  "id": "l-lacce-2",
+  "headword": "lacce",
+  "senses": [
+    {
+      "it": "nodo",
+      "en": "knot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lacce: nodo",
+    "rawHash": "cf6328f0cb4935e168034529693ee3de87089747",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

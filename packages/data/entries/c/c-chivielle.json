@@ -1,0 +1,21 @@
+{
+  "id": "c-chivielle",
+  "headword": "chivielle",
+  "senses": [
+    {
+      "it": "nessuno",
+      "en": "nobody",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chivielle: nessuno",
+    "rawHash": "e3fd80c9c858b607c26c5bab5d071e098a344de0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

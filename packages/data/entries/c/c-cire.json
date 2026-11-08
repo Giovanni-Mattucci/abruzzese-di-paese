@@ -1,0 +1,21 @@
+{
+  "id": "c-cire",
+  "headword": "cìre",
+  "senses": [
+    {
+      "it": "cera",
+      "en": "wax",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cìre: cera",
+    "rawHash": "3712360f8b3d9c1ee3e0d7762146e8d75e74f1bb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

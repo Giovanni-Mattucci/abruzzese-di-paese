@@ -1,0 +1,24 @@
+{
+  "id": "c-cannarozze",
+  "headword": "cannarozze",
+  "variants": [
+    "cannaruozze"
+  ],
+  "senses": [
+    {
+      "it": "gola",
+      "en": "throat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cannarozze, cannaruozze: gola",
+    "rawHash": "39c0f238d77876b50acba2b81e2293cf47f0ced4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

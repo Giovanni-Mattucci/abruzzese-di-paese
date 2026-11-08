@@ -1,0 +1,21 @@
+{
+  "id": "t-tabarre",
+  "headword": "tabarre",
+  "senses": [
+    {
+      "it": "tabarro ( tabbàrr' appèle: ampio mantello rotondo foderato con pelliccia di capra",
+      "en": "cloak ( tabbàrr' appèle: wide round cloak lined with goat fur",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tabarre: tabarro ( tabbàrr' appèle: ampio mantello rotondo foderato con pelliccia di capra",
+    "rawHash": "c33fbaad89bf4e914b774c41f51da22591954112",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

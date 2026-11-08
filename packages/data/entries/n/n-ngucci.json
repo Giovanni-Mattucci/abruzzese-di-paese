@@ -1,0 +1,21 @@
+{
+  "id": "n-ngucci",
+  "headword": "'nguccì",
+  "senses": [
+    {
+      "it": "incocciare",
+      "en": "to bump into, to run into",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nguccì: incocciare",
+    "rawHash": "e164b95195d8502d6bccb84d61a893915589775c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mulignane",
+  "headword": "mulignàne",
+  "senses": [
+    {
+      "it": "melanzana",
+      "en": "aubergine, eggplant",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mulignàne: melanzana",
+    "rawHash": "3cc9cbc2affaecc9f4f90a28b39ad7b5d0444570",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

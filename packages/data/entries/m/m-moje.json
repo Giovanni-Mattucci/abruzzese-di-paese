@@ -1,0 +1,21 @@
+{
+  "id": "m-moje",
+  "headword": "moje",
+  "senses": [
+    {
+      "it": "moglie",
+      "en": "wife",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "moje: moglie",
+    "rawHash": "d086d88dbec9ae1757449ad8b595af27cf5cad7e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

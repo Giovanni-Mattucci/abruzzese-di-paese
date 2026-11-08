@@ -1,0 +1,21 @@
+{
+  "id": "j-ja-rcote",
+  "headword": "ja 'rcote",
+  "senses": [
+    {
+      "it": "gli ha raccolto",
+      "en": "he picked (it) up for him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja 'rcote: gli ha raccolto",
+    "rawHash": "b6949f53a5b9814cda516b5e9394c5cdb46858f9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

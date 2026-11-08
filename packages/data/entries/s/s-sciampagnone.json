@@ -1,0 +1,21 @@
+{
+  "id": "s-sciampagnone",
+  "headword": "sciampagnone",
+  "senses": [
+    {
+      "it": "spendaccione",
+      "en": "spendthrift",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciampagnone: spendaccione",
+    "rawHash": "2bd2a4c9eff5fead6c402e8104d090deb6c550bc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

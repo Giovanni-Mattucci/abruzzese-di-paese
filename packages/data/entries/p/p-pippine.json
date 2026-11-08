@@ -1,0 +1,19 @@
+{
+  "id": "p-pippine",
+  "headword": "Pippine",
+  "senses": [
+    {
+      "it": "Giuseppe"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "Pippine: Giuseppe",
+    "rawHash": "6615c1e578b5159be2a4738103e79566fa7deda1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

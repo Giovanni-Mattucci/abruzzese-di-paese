@@ -1,0 +1,21 @@
+{
+  "id": "p-pannaccione",
+  "headword": "pannaccione",
+  "senses": [
+    {
+      "it": "grande panno grezzo di canapa usato dai contadini nell'aia o in casa per spannocchiare o per asciugare il grano",
+      "en": "large coarse hemp cloth used by farmers in the farmyard or at home for husking corn or drying wheat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pannaccione: grande panno grezzo di canapa usato dai contadini nell'aia o in casa per spannocchiare o per asciugare il grano.",
+    "rawHash": "ec2024c3df0155190ad398549b37e620aea234ad",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

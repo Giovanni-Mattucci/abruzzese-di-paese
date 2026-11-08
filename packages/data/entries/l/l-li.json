@@ -1,0 +1,26 @@
+{
+  "id": "l-li",
+  "headword": "li",
+  "senses": [
+    {
+      "it": "i",
+      "en": "the (m. pl.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "le",
+      "en": "the (f. pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "li: i, le",
+    "rawHash": "ebe8cc251cb50d4f8a12ea9493f703410e58c9c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

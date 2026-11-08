@@ -1,0 +1,21 @@
+{
+  "id": "a-apri",
+  "headword": "aprì",
+  "senses": [
+    {
+      "it": "aprire",
+      "en": "to open",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aprì: aprire",
+    "rawHash": "d92f0ad9a38117357562ff5b36bc99b454a4f10f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-chische",
+  "headword": "chische",
+  "senses": [
+    {
+      "it": "cadi",
+      "en": "you fall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chische: cadi",
+    "rawHash": "157c74d08708907f3887ebf3495da26a08520cc5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

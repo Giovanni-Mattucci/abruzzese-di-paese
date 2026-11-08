@@ -1,0 +1,21 @@
+{
+  "id": "c-cella",
+  "headword": "cella",
+  "senses": [
+    {
+      "it": "pene",
+      "en": "penis",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cella: pene",
+    "rawHash": "9ee3f93d28d35e41c720d984254fb759965385d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

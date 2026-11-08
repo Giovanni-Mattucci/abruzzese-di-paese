@@ -1,0 +1,39 @@
+{
+  "id": "n-ngarrate",
+  "headword": "'ngarràte",
+  "senses": [
+    {
+      "it": "serrato",
+      "en": "clamped tight",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "stretto",
+      "en": "tight",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bloccato",
+      "en": "stuck, jammed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "nne esce, sta 'ngarrate",
+      "it": "non esce, perché sta molto stretto, serrato, ecc.",
+      "en": "it does not come out, because it is very tight, jammed, etc.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngarràte: serrato, stretto, bloccato (es.: nne esce, sta 'ngarrate: non esce, perché sta molto stretto, serrato, ecc.",
+    "rawHash": "d0907c1fc82ef1e1b09c2a47c6ecd5dc61fc9406",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

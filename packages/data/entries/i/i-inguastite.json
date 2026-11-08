@@ -1,0 +1,21 @@
+{
+  "id": "i-inguastite",
+  "headword": "inguastite",
+  "senses": [
+    {
+      "it": "arrabbiato",
+      "en": "angry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "inguastite: arrabbiato",
+    "rawHash": "77dbad2d7ed4ca9747d2592ee9e4e77af76ec009",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

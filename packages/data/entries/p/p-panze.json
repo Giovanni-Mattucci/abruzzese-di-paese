@@ -1,0 +1,21 @@
+{
+  "id": "p-panze",
+  "headword": "panze",
+  "senses": [
+    {
+      "it": "addome",
+      "en": "abdomen, belly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "panze: addome",
+    "rawHash": "4fd8a77c052ce563f67d7c7d214c3d92193635a4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

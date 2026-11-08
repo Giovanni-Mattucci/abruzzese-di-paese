@@ -1,0 +1,31 @@
+{
+  "id": "e-ecche",
+  "headword": "ecche",
+  "senses": [
+    {
+      "it": "qui",
+      "en": "here",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "qua",
+      "en": "over here",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sul posto",
+      "en": "on the spot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "ecche: qui, qua, sul posto",
+    "rawHash": "9b04560d4a4b33c1afc4fba488d02bed1049a952",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

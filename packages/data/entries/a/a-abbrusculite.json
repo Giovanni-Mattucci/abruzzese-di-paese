@@ -1,0 +1,21 @@
+{
+  "id": "a-abbrusculite",
+  "headword": "abbrusculite",
+  "senses": [
+    {
+      "it": "abbrustolito",
+      "en": "toasted, roasted",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbrusculite: abbrustolito",
+    "rawHash": "c9d9787039b75f128d1b84e78316c5a29766b1d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

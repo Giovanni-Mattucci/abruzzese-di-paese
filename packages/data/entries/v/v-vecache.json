@@ -1,0 +1,21 @@
+{
+  "id": "v-vecache",
+  "headword": "vecàche",
+  "senses": [
+    {
+      "it": "arbusto spinoso con foglie ovali, comune nella macchia mediterranea",
+      "en": "thorny shrub with oval leaves, common in Mediterranean scrub",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vecàche: arbusto spinoso con foglie ovali, comune nella macchia mediterranea",
+    "rawHash": "e9fb542c88f9ed6c8127796322511986783abfb8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

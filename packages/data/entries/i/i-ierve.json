@@ -1,0 +1,21 @@
+{
+  "id": "i-ierve",
+  "headword": "ierve",
+  "senses": [
+    {
+      "it": "erba",
+      "en": "grass",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ierve: erba",
+    "rawHash": "f66598b9fe646269b2667b239959ff90b1d088a5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

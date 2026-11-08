@@ -1,0 +1,26 @@
+{
+  "id": "s-svuscichete",
+  "headword": "svuscichète",
+  "senses": [
+    {
+      "it": "ricercate",
+      "en": "you (plural) search",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cercate",
+      "en": "you (plural) look for",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "svuscichète: ricercate, cercate",
+    "rawHash": "0c8ac0bf827894a5b870d6dc6e3bb7e253a4f461",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

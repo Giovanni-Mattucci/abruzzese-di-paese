@@ -1,0 +1,21 @@
+{
+  "id": "p-pallante",
+  "headword": "pallante",
+  "senses": [
+    {
+      "it": "sasso levigato",
+      "en": "smooth stone, polished pebble",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pallante: sasso levigato",
+    "rawHash": "c95ccdf6e2648fd1148c4cb0db29c192719324fa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

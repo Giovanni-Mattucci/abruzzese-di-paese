@@ -1,0 +1,26 @@
+{
+  "id": "h-honne",
+  "headword": "honne",
+  "senses": [
+    {
+      "it": "gonna",
+      "en": "skirt",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sottana",
+      "en": "petticoat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "honne: gonna, sottana",
+    "rawHash": "78affcbf434ebe176d50913dcefe4047cf78135f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-ciochin",
+  "headword": "ciochin",
+  "senses": [
+    {
+      "it": "campanello",
+      "en": "small bell, doorbell",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciochin: campanello",
+    "rawHash": "26fd711fc19122cc501864af437d2bb22d39d5dc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

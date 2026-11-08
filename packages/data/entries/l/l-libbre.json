@@ -1,0 +1,21 @@
+{
+  "id": "l-libbre",
+  "headword": "libbre",
+  "senses": [
+    {
+      "it": "libri",
+      "en": "books",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "libbre: libri",
+    "rawHash": "6bdc033914401fd75951b72432e3313e5fee4b72",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

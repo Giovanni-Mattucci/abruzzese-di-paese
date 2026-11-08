@@ -1,0 +1,21 @@
+{
+  "id": "s-sgarra",
+  "headword": "sgarrà",
+  "senses": [
+    {
+      "it": "sgarrare, sbagliare, detto pure di chi non si comporta secondo le regale",
+      "en": "to slip up, to make a mistake; also said of someone who does not behave according to the rules",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sgarrà: sgarrare, sbagliare, detto pure di chi non si comporta secondo le regale",
+    "rawHash": "e527fc083c2051999d05628e8e9f23c4eab21d87",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

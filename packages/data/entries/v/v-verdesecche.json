@@ -1,0 +1,21 @@
+{
+  "id": "v-verdesecche",
+  "headword": "verdesecche",
+  "senses": [
+    {
+      "it": "vanume, sorta di malattia del grano",
+      "en": "vanume, a kind of wheat disease",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "verdesecche: vanume, sorta di malattia del grano",
+    "rawHash": "3b4d3353090f184936e50fb0128283610c4e244d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

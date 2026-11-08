@@ -1,0 +1,21 @@
+{
+  "id": "c-cugnatete",
+  "headword": "cugnàtete",
+  "senses": [
+    {
+      "it": "tuo cognato",
+      "en": "your brother-in-law",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cugnàtete: tuo cognato",
+    "rawHash": "bb19b217d7b2db8ad562b69bdf2eb10de7a443a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

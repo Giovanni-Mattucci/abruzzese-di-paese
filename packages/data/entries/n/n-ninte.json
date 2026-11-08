@@ -1,0 +1,21 @@
+{
+  "id": "n-ninte",
+  "headword": "ninte",
+  "senses": [
+    {
+      "it": "Niente",
+      "en": "Nothing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "ninte. Niente",
+    "rawHash": "d45215ad3b66d05b773a6f1dd3161be0d89ef663",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

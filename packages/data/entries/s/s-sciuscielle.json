@@ -1,0 +1,21 @@
+{
+  "id": "s-sciuscielle",
+  "headword": "sciuscielle",
+  "senses": [
+    {
+      "it": "pane e uova bolliti",
+      "en": "boiled bread and eggs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciuscielle: pane e uova bolliti",
+    "rawHash": "ca2b5ea19e6f74232a70fdbaa5fa36a3bcd41dc6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mambrucche",
+  "headword": "mambrucche",
+  "senses": [
+    {
+      "it": "traino, carretto, carro agricolo a quattro ruote, piccole davanti e grandi dietro",
+      "en": "wagon, cart, four-wheeled farm cart with small wheels at the front and large wheels at the back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mambrucche: traino, carretto, carro agricolo a quattro ruote, piccole davanti e grandi dietro",
+    "rawHash": "0f7a3db502e7f659c98f125f248875d34bd9b308",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

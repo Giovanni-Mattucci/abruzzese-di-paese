@@ -1,0 +1,21 @@
+{
+  "id": "v-vennerecule",
+  "headword": "vennerècule",
+  "senses": [
+    {
+      "it": "persona che vende al mercato",
+      "en": "person who sells at the market",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vennerècule: persona che vende al mercato",
+    "rawHash": "bc13ad5642fa1d26343d7ea917a762c67f996924",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c-c-i-arpulite",
+  "headword": "c-i-arpulìte",
+  "variants": [
+    "c'arpulìte"
+  ],
+  "senses": [
+    {
+      "it": "ci ha ripulito",
+      "en": "he/she has cleaned us out",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci ha tolto",
+      "en": "he/she has taken it from us",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riferito al denaro",
+      "en": "referring to money",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arpulìte, c'arpulìte: ci ha ripulito, ci ha tolto, riferito al denaro",
+    "rawHash": "35856d217c7088d732e4367ae64f20f7fe47ce85",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

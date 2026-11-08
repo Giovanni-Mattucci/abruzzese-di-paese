@@ -1,0 +1,21 @@
+{
+  "id": "p-patedda",
+  "headword": "patèdda",
+  "senses": [
+    {
+      "it": "padella",
+      "en": "frying pan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "patèdda: padella",
+    "rawHash": "2137d418643aaed9ea4e16b08c96854befeb25e6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

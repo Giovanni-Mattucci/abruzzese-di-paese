@@ -1,0 +1,21 @@
+{
+  "id": "m-mozzadetere",
+  "headword": "mozzadètere",
+  "senses": [
+    {
+      "it": "scorpione. Letteralmente: mozza dita'mpajiatella sciampa: fiasco impagliato vuoto",
+      "en": "scorpion. Literally: finger-cutter. 'mpajiatella sciampa: empty straw-covered flask",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mozzadètere: scorpione. Letteralmente: mozza dita'mpajiatella sciampa: fiasco impagliato vuoto",
+    "rawHash": "47dded1ce7a667abcd9a9c3fd4ed830dfebb0526",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

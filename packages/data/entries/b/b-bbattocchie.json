@@ -1,0 +1,22 @@
+{
+  "id": "b-bbattocchie",
+  "headword": "bbattocchie",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "battaglio",
+      "en": "bell clapper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbattocchie (lu): battaglio",
+    "rawHash": "5fb7a88c8f81899fce2520fcf9803e5a35f02676",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

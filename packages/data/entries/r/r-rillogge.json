@@ -1,0 +1,21 @@
+{
+  "id": "r-rillogge",
+  "headword": "rillògge",
+  "senses": [
+    {
+      "it": "orologio",
+      "en": "clock, watch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rillògge: orologio",
+    "rawHash": "437dc0c59fba8cf5e5c55171e1727cbf79f79385",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

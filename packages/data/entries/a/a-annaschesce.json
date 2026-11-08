@@ -1,0 +1,21 @@
+{
+  "id": "a-annaschesce",
+  "headword": "annaschésce",
+  "senses": [
+    {
+      "it": "di nascosto",
+      "en": "secretly, on the sly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "annaschésce: di nascosto",
+    "rawHash": "f0f90238ad9328c641c3ce729b436a6bd1f0a9cc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

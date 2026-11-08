@@ -1,0 +1,21 @@
+{
+  "id": "a-aripiccilije",
+  "headword": "aripiccilijè",
+  "senses": [
+    {
+      "it": "litigare per futili motivi",
+      "en": "to quarrel over trivial matters",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aripiccilijè: litigare per futili motivi",
+    "rawHash": "0b2b79189064e8fd12654b08b3cb804b8c661c16",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

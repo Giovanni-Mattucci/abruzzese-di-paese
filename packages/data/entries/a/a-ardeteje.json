@@ -1,0 +1,21 @@
+{
+  "id": "a-ardeteje",
+  "headword": "ardèteje",
+  "senses": [
+    {
+      "it": "ridategli",
+      "en": "give it back to him/her (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardèteje: ridategli",
+    "rawHash": "2dec733a5e348ea3cd46c0c22260edc2b8baab2c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

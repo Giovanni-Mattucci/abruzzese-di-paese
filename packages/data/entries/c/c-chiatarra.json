@@ -1,0 +1,21 @@
+{
+  "id": "c-chiatarra",
+  "headword": "chiatarra",
+  "senses": [
+    {
+      "it": "strumento tipico abruzzese per fare la pasta in casa, detta - alla chitarra -",
+      "en": "typical Abruzzese tool for making pasta at home, known as - alla chitarra -",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiatarra: strumento tipico abruzzese per fare la pasta in casa, detta - alla chitarra -",
+    "rawHash": "514db99458c6b4a6066634860031e65f77a449da",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

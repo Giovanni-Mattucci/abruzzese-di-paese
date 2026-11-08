@@ -1,0 +1,21 @@
+{
+  "id": "s-stajante",
+  "headword": "stajante",
+  "senses": [
+    {
+      "it": "artigiano che percepisce \"lu staje\"",
+      "en": "craftsman who receives \"lu staje\"",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stajante: artigiano che percepisce \"lu staje\"",
+    "rawHash": "b01d7ff8ab69ae7be8ee561535e5f23e53ba5c4c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

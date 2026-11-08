@@ -1,0 +1,21 @@
+{
+  "id": "p-piticate",
+  "headword": "piticàte",
+  "senses": [
+    {
+      "it": "orma del piede",
+      "en": "footprint",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piticàte: orma del piede",
+    "rawHash": "36e47862cd84681ff3b3c40c95c81f17f4d5930a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

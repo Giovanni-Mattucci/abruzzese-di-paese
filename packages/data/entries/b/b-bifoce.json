@@ -1,0 +1,27 @@
+{
+  "id": "b-bifoce",
+  "headword": "bifoce",
+  "variants": [
+    "bifòce"
+  ],
+  "senses": [
+    {
+      "it": "bifolco",
+      "en": "ploughman, boor",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: bifòce: bifolco"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bifoce: bifolco",
+    "rawHash": "6ebff74a4942a6b767ae8cfa2c172f73aa7cf160",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

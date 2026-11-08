@@ -1,0 +1,24 @@
+{
+  "id": "a-addimannare",
+  "headword": "addimannàre",
+  "variants": [
+    "addimànno"
+  ],
+  "senses": [
+    {
+      "it": "domandare, chiedere in sposa una ragazza",
+      "en": "to ask, to ask for a girl's hand in marriage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "addimannàre, addimànno: domandare, chiedere in sposa una ragazza",
+    "rawHash": "906f8bf834a06e089d0928766131eb2e3de0f88e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-pacchiane",
+  "headword": "pacchiàne",
+  "senses": [
+    {
+      "it": "donna volgare",
+      "en": "vulgar woman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pacchiàne: donna volgare",
+    "rawHash": "23529671c4a8979839066c12ff6e54d0b920f832",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

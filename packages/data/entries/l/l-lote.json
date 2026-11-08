@@ -1,0 +1,21 @@
+{
+  "id": "l-lote",
+  "headword": "lòte",
+  "senses": [
+    {
+      "it": "fango",
+      "en": "mud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lòte: fango",
+    "rawHash": "9a13d2daf03b4d775ac7ab3a7fd46db64ae690f2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

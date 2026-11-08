@@ -1,0 +1,21 @@
+{
+  "id": "v-varile",
+  "headword": "varìle",
+  "senses": [
+    {
+      "it": "barile",
+      "en": "barrel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "varìle: barile",
+    "rawHash": "3194c59c5634e4c001deeeeec236cc6b7d564df6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

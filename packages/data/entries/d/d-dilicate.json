@@ -1,0 +1,21 @@
+{
+  "id": "d-dilicate",
+  "headword": "dilicàte",
+  "senses": [
+    {
+      "it": "delicato",
+      "en": "delicate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dilicàte: delicato",
+    "rawHash": "060c65cede98e74e8232f483f3d305b557d7eeb3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c-cridenze",
+  "headword": "cridenze",
+  "senses": [
+    {
+      "it": "credenza",
+      "en": "sideboard, dresser",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mobile da cucina",
+      "en": "kitchen cupboard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cridenze: credenza, mobile da cucina",
+    "rawHash": "b510870ebb99422dd5be293b4b458734524aae4d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n-nguastite",
+  "headword": "'nguastìte",
+  "senses": [
+    {
+      "it": "guastarsi",
+      "en": "to go bad, to spoil",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "imbestialirsi",
+      "en": "to fly into a rage",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "preoccupato",
+      "en": "worried",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "arrabbiato",
+      "en": "angry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'nguastìte: guastarsi, imbestialirsi, preoccupato, arrabbiato",
+    "rawHash": "8730d528937307e8c33a1a171a5fc61f7871218e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

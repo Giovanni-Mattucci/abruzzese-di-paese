@@ -1,0 +1,21 @@
+{
+  "id": "c-cintrelle",
+  "headword": "cintrelle",
+  "senses": [
+    {
+      "it": "chiodi",
+      "en": "nails",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cintrelle: chiodi",
+    "rawHash": "c44fcc2e471911c4f59debd3fd6622420dce91c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

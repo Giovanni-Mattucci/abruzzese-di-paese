@@ -1,0 +1,22 @@
+{
+  "id": "p-picch",
+  "headword": "picch'",
+  "article": "la",
+  "senses": [
+    {
+      "it": "pene",
+      "en": "penis",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "picch' (la): pene",
+    "rawHash": "feb5b2f9e3ad2e4c14f082d4c06dff32561f3564",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

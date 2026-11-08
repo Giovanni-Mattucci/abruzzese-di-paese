@@ -1,0 +1,21 @@
+{
+  "id": "v-viasteme",
+  "headword": "viastème",
+  "senses": [
+    {
+      "it": "bestemmia",
+      "en": "blasphemy, curse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "viastème: bestemmia",
+    "rawHash": "cb6d2c78972f23afeea2789f9a05601612174842",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

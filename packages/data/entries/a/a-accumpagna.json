@@ -1,0 +1,21 @@
+{
+  "id": "a-accumpagna",
+  "headword": "accumpagnà",
+  "senses": [
+    {
+      "it": "accompagnare",
+      "en": "to accompany",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accumpagnà: accompagnare",
+    "rawHash": "a792f7d4dad0edc0be8af8fd550fd38c7c0cedc4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

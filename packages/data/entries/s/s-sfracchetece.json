@@ -1,0 +1,21 @@
+{
+  "id": "s-sfracchetece",
+  "headword": "sfracchetece",
+  "senses": [
+    {
+      "it": "sfracchiateci",
+      "en": "smash us (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfracchetece. sfracchiateci",
+    "rawHash": "9e34b8fe832d486c0af9576c134e33c09b6a2575",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

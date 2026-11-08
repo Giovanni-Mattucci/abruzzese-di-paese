@@ -1,0 +1,21 @@
+{
+  "id": "v-vernacocchele",
+  "headword": "vernacocchele",
+  "senses": [
+    {
+      "it": "albicocca",
+      "en": "apricot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vernacocchele: albicocca",
+    "rawHash": "a70a3563d56898485c587c5adcdec07335d6b17e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-carastose",
+  "headword": "carastòse",
+  "senses": [
+    {
+      "it": "costoso, ma si dice pure di persona difficile da trattare",
+      "en": "expensive, but also said of a person who is hard to deal with",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carastòse: costoso, ma si dice pure di persona difficile da trattare",
+    "rawHash": "8e7908939d328712117424b945a93bb026e26bfd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

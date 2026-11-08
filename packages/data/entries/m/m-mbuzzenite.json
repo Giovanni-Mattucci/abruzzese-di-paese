@@ -1,0 +1,21 @@
+{
+  "id": "m-mbuzzenite",
+  "headword": "'mbuzzenìte",
+  "senses": [
+    {
+      "it": "puzzolente",
+      "en": "stinking, smelly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbuzzenìte: puzzolente",
+    "rawHash": "d07e5d4585c234d956c1bba124d152f65b0100dd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

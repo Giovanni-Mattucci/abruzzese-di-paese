@@ -1,0 +1,21 @@
+{
+  "id": "a-assunna",
+  "headword": "assunnà",
+  "senses": [
+    {
+      "it": "assonnare",
+      "en": "to make sleepy, to grow drowsy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assunnà: assonnare",
+    "rawHash": "5bf095b29e57986818174b210adc739cf4e78674",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

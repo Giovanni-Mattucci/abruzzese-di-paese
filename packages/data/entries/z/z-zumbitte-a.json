@@ -1,0 +1,21 @@
+{
+  "id": "z-zumbitte-a",
+  "headword": "zumbitte (a)",
+  "senses": [
+    {
+      "it": "camminare saltellando",
+      "en": "to walk with a skipping gait",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zumbitte (a): camminare saltellando",
+    "rawHash": "a59a884f13a817b4cbfff013b273737af63573a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-tajaforbece",
+  "headword": "tajafòrbece",
+  "senses": [
+    {
+      "it": "insetto con artigli",
+      "en": "insect with claws (earwig)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tajafòrbece: insetto con artigli",
+    "rawHash": "1dd37aed6e76164ce04fd8d1a3faa66b6b29730e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

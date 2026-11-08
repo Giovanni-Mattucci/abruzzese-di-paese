@@ -1,0 +1,21 @@
+{
+  "id": "p-pinzire",
+  "headword": "pinzìre",
+  "senses": [
+    {
+      "it": "pensieri",
+      "en": "thoughts, worries",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinzìre: pensieri",
+    "rawHash": "6002ff6eebda648db1d23dbbc82e495269c31d79",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

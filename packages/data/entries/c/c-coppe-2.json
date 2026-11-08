@@ -1,0 +1,22 @@
+{
+  "id": "c-coppe-2",
+  "headword": "coppe",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "modo di chiamare le patate cotte sotto la cenere del camino. Es. famme ddu patàne a lu còppe",
+      "en": "name for potatoes cooked under the ashes of the fireplace. E.g. famme ddu patàne a lu còppe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "coppe (lu): modo di chiamare le patate cotte sotto la cenere del camino. Es. famme ddu patàne a lu còppe",
+    "rawHash": "a5d4946192223b08f69193013f842679564d24b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

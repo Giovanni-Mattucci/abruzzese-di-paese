@@ -1,0 +1,21 @@
+{
+  "id": "c-cillette",
+  "headword": "cillètte",
+  "senses": [
+    {
+      "it": "uccelletto",
+      "en": "little bird",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cillètte: uccelletto",
+    "rawHash": "45aca1c3b4b68098417ee25083205966709ffcb4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

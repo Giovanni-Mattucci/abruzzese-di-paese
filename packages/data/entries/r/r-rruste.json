@@ -1,0 +1,21 @@
+{
+  "id": "r-rruste",
+  "headword": "rruste",
+  "senses": [
+    {
+      "it": "arrosticini, spiedini tipici abruzzesi, fatti con carne di pecora",
+      "en": "arrosticini, typical Abruzzese skewers made with sheep meat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rruste: arrosticini, spiedini tipici abruzzesi, fatti con carne di pecora",
+    "rawHash": "c3d2b1103dae286b056c40d40e2b675a7e8314ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

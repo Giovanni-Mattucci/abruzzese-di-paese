@@ -1,0 +1,21 @@
+{
+  "id": "v-vi",
+  "headword": "vi'",
+  "senses": [
+    {
+      "it": "vieni",
+      "en": "come (imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vi': vieni",
+    "rawHash": "5fb7de43e19ea889fc9aff9724d8eae8c69300fc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

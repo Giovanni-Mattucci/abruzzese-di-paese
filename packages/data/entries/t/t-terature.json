@@ -1,0 +1,21 @@
+{
+  "id": "t-terature",
+  "headword": "teratùre",
+  "senses": [
+    {
+      "it": "cassetto",
+      "en": "drawer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "teratùre: cassetto",
+    "rawHash": "f22654428f707595b2f90783e74b02e15938cdde",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-tatone",
+  "headword": "tatòne",
+  "senses": [
+    {
+      "it": "nonno",
+      "en": "grandfather",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tatòne: nonno",
+    "rawHash": "c0679390ef8b686d10b530c1273c524149cb929a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

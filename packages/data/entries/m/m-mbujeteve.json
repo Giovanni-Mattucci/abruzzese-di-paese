@@ -1,0 +1,21 @@
+{
+  "id": "m-mbujeteve",
+  "headword": "'mbujèteve",
+  "senses": [
+    {
+      "it": "fermatevi",
+      "en": "stop (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbujèteve: fermatevi",
+    "rawHash": "441a5adbd20406b6d4bb2d7b6d531ba68f1e9f4b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-a-tempe-a-tempe",
+  "headword": "a tèmpe a tèmpe",
+  "senses": [
+    {
+      "it": "con calma",
+      "en": "calmly, taking one's time",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a tèmpe a tèmpe: con calma",
+    "rawHash": "54abb5adf6159b8509a0b457fa5edc9f2a5456ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

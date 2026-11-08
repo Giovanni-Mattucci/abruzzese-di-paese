@@ -1,0 +1,21 @@
+{
+  "id": "s-sderrenite",
+  "headword": "sderrenite",
+  "senses": [
+    {
+      "it": "persona mal messa",
+      "en": "person in poor shape",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sderrenite: persona mal messa",
+    "rawHash": "1586789945a71e5068bd5f30a07b6656a78184dc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

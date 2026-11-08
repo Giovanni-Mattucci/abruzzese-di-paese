@@ -1,0 +1,22 @@
+{
+  "id": "c-cecemaragne",
+  "headword": "cecemaragne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "ragno",
+      "en": "spider",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cecemaragne (lu): ragno",
+    "rawHash": "7863952da670e325bb0c78623e8eb4605a93acbc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

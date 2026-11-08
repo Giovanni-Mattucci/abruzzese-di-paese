@@ -1,0 +1,21 @@
+{
+  "id": "h-hanasse",
+  "headword": "hanasse",
+  "senses": [
+    {
+      "it": "guancia",
+      "en": "cheek",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hanasse: guancia",
+    "rawHash": "ab8f08fc72b727c4962ae86891abf7f4c420f946",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

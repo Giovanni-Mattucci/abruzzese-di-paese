@@ -1,0 +1,21 @@
+{
+  "id": "l-livante",
+  "headword": "livante",
+  "senses": [
+    {
+      "it": "nebbia",
+      "en": "fog",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "livante: nebbia",
+    "rawHash": "a85dd059860b7905ea8256fe608f2d0ff5bed988",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

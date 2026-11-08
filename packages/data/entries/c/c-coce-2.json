@@ -1,0 +1,21 @@
+{
+  "id": "c-coce-2",
+  "headword": "còce",
+  "senses": [
+    {
+      "it": "cuocere",
+      "en": "to cook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "còce: cuocere",
+    "rawHash": "037d0583513e209041b64dfd3c5f4b016105dec9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

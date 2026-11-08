@@ -1,0 +1,21 @@
+node_modules/
+dist/
+dist-server/
+coverage/
+.turbo/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+apps/web/public/data/
+apps/web/public/r/
+.DS_Store
+Thumbs.db
+
+# Local Claude Code desktop launch configuration
+.claude/launch.json
+
+# Review-loop files (see .claude/skills/review-loop)
+.tmp/

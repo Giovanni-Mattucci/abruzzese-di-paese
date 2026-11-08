@@ -1,0 +1,21 @@
+{
+  "id": "s-scijmente",
+  "headword": "scijmente",
+  "senses": [
+    {
+      "it": "diarrea",
+      "en": "diarrhea",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scijmente: diarrea",
+    "rawHash": "89412b5d881a9d900b60baaa533e8bba8db8aa4a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c-candine",
+  "headword": "candine",
+  "senses": [
+    {
+      "it": "osteria",
+      "en": "tavern, inn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "bettola",
+      "en": "dive, cheap tavern",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "candine: osteria, bettola",
+    "rawHash": "2ef9d5052736ae1013c49ddbcdd9107f0aa8268a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

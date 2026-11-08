@@ -1,0 +1,21 @@
+{
+  "id": "n-nasca",
+  "headword": "nasca",
+  "senses": [
+    {
+      "it": "adorato",
+      "en": "adored",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nasca: adorato",
+    "rawHash": "125d5f81dc0345d5b77d8a8aadb6fa1647000cf4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

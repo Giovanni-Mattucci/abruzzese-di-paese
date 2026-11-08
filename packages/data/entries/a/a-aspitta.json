@@ -1,0 +1,21 @@
+{
+  "id": "a-aspitta",
+  "headword": "aspittà",
+  "senses": [
+    {
+      "it": "aspettare",
+      "en": "to wait",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aspittà: aspettare",
+    "rawHash": "0158c055eef6b7a1e0893362a7d2ffaef14000ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

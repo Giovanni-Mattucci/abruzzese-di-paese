@@ -1,0 +1,21 @@
+{
+  "id": "p-pianticelle",
+  "headword": "pianticèlle",
+  "senses": [
+    {
+      "it": "alberello",
+      "en": "small tree, sapling",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pianticèlle: alberello",
+    "rawHash": "bf601a141bdd89e66a4fcf8dddc7f0dc5fcb8ca3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cummannante",
+  "headword": "cummannànte",
+  "senses": [
+    {
+      "it": "comandante",
+      "en": "commander",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummannànte: comandante",
+    "rawHash": "ec225f34207550bf4283556bb3fc18172c633ad3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

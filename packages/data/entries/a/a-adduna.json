@@ -1,0 +1,24 @@
+{
+  "id": "a-adduna",
+  "headword": "addunà",
+  "variants": [
+    "addunàrse"
+  ],
+  "senses": [
+    {
+      "it": "accorgersi",
+      "en": "to notice, to realize",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "addunà, addunàrse: accorgersi",
+    "rawHash": "34c46326a2610a1ab2d4da4db3b21e0c4288fd57",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

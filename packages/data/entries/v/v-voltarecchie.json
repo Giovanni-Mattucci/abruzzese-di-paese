@@ -1,0 +1,21 @@
+{
+  "id": "v-voltarecchie",
+  "headword": "voltarecchie",
+  "senses": [
+    {
+      "it": "aratro con vomero girevole",
+      "en": "plough with a reversible ploughshare",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "voltarecchie: aratro con vomero girevole",
+    "rawHash": "8af75ea782a88cecd6d6b99c357f44ecefa2e2f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

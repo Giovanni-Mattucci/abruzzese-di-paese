@@ -1,0 +1,22 @@
+{
+  "id": "m-matunelle",
+  "headword": "matunélle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "tavola dentata per lavare i panni, mattonella",
+      "en": "ridged board for washing clothes, washboard; tile",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "matunélle (la): tavola dentata per lavare i panni, mattonella",
+    "rawHash": "9628454aa8029b653ba6bf4c64600774530bc833",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "l-lemmete",
+  "headword": "lêmmete",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "scarpata",
+      "en": "escarpment, embankment",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lêmmete (lu): scarpata",
+    "rawHash": "08eb24da40bbe7e86616f2431efb42e94aab2eea",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

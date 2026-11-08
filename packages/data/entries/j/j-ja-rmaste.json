@@ -1,0 +1,21 @@
+{
+  "id": "j-ja-rmaste",
+  "headword": "ja 'rmaste",
+  "senses": [
+    {
+      "it": "gli è rimasto",
+      "en": "he has (it) left, it remained to him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja 'rmaste: gli è rimasto",
+    "rawHash": "cf3a5af30701ab1c4dc7c44aedcbe6a5e5e4865f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

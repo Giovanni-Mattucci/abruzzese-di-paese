@@ -1,0 +1,21 @@
+{
+  "id": "c-ciunga",
+  "headword": "ciungà",
+  "senses": [
+    {
+      "it": "offendere, rovinare fisicamente qualcuno con la violenza",
+      "en": "to injure, to physically ruin someone through violence",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciungà: offendere, rovinare fisicamente qualcuno con la violenza",
+    "rawHash": "1a04d1cd1a38fd4d61dda5dcba9718a468a9c77a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

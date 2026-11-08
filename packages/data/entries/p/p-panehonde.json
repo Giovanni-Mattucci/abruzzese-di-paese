@@ -1,0 +1,21 @@
+{
+  "id": "p-panehonde",
+  "headword": "panehonde",
+  "senses": [
+    {
+      "it": "paneunto ( adoperato anche come soprannome)",
+      "en": "oiled bread (also used as a nickname)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "panehonde: paneunto ( adoperato anche come soprannome)",
+    "rawHash": "aaa1827f6a546a7bf99a947351b1f4ca07560096",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

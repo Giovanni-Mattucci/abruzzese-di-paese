@@ -1,0 +1,29 @@
+{
+  "id": "a-ammassciche",
+  "headword": "ammasscìche",
+  "variants": [
+    "ammascechì"
+  ],
+  "senses": [
+    {
+      "it": "mastica",
+      "en": "chews",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "masticare",
+      "en": "to chew",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammasscìche, ammascechì: mastica, masticare",
+    "rawHash": "46693bde62fc8c6dfe29ded6a34717c36a18f886",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

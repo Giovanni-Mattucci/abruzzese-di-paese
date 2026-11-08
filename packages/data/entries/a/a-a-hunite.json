@@ -1,0 +1,24 @@
+{
+  "id": "a-a-hunite",
+  "headword": "a hunìte",
+  "variants": [
+    "ahunìte"
+  ],
+  "senses": [
+    {
+      "it": "insieme",
+      "en": "together",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a hunìte, ahunìte: insieme",
+    "rawHash": "2e60f041fef0bfc32093419f51c3453be4536d15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

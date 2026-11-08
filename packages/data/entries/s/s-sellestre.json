@@ -1,0 +1,22 @@
+{
+  "id": "s-sellestre",
+  "headword": "selléstre",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "lampo",
+      "en": "lightning flash",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "selléstre (lu): lampo",
+    "rawHash": "d9071e5053758a6478ffed69cd5b169f105d25a2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

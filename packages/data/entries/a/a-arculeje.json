@@ -1,0 +1,26 @@
+{
+  "id": "a-arculeje",
+  "headword": "arculèje",
+  "senses": [
+    {
+      "it": "colava di nuovo",
+      "en": "was dripping again",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "riferito a liquido",
+      "en": "said of a liquid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arculèje: colava di nuovo, riferito a liquido",
+    "rawHash": "a8a77c851cf22c3897060ab90fe4a7aec2021ced",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sta-catteve",
+  "headword": "sta cattève",
+  "senses": [
+    {
+      "it": "sta per morire",
+      "en": "he/she is about to die",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sta cattève: sta per morire",
+    "rawHash": "67a1200d195eef31432f0f584f208ffb4e5582fe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

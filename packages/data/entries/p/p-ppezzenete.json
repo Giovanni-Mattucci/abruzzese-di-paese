@@ -1,0 +1,26 @@
+{
+  "id": "p-ppezzenete",
+  "headword": "'ppezzenète",
+  "senses": [
+    {
+      "it": "monello",
+      "en": "rascal, urchin",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "puzzolente",
+      "en": "stinking, smelly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "'ppezzenète: monello, puzzolente",
+    "rawHash": "def6d969bf29bd345ca4c23f6b12816d99d17663",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

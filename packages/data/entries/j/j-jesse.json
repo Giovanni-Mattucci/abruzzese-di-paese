@@ -1,0 +1,21 @@
+{
+  "id": "j-jesse",
+  "headword": "jèsse",
+  "senses": [
+    {
+      "it": "andrei",
+      "en": "I would go",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jèsse: andrei",
+    "rawHash": "ac9f56762214f5f3f10c45330a5eac2fbf58fdc8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

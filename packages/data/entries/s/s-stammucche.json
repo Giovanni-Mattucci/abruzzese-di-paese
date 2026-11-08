@@ -1,0 +1,21 @@
+{
+  "id": "s-stammucche",
+  "headword": "stammucche",
+  "senses": [
+    {
+      "it": "tronchi d'albero invecchiati con pochi e punti rami",
+      "en": "aged tree trunks with few, stunted branches",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stammucche: tronchi d'albero invecchiati con pochi e punti rami",
+    "rawHash": "4d4489f5ca939557b40cf859600ecad8f28f572c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

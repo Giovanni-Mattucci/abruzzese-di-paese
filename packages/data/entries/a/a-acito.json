@@ -1,0 +1,21 @@
+{
+  "id": "a-acito",
+  "headword": "acìto",
+  "senses": [
+    {
+      "it": "aceto",
+      "en": "vinegar",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acìto: aceto",
+    "rawHash": "788510b7f18b5518ad50da39004b467fcb79409b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

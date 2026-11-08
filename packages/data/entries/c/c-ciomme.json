@@ -1,0 +1,26 @@
+{
+  "id": "c-ciomme",
+  "headword": "ciomme",
+  "senses": [
+    {
+      "it": "gobba",
+      "en": "hump",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "escrescenza",
+      "en": "growth, lump",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciomme: gobba, escrescenza",
+    "rawHash": "7045450528447b76cb2a38145592ffd7a120caa9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

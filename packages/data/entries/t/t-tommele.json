@@ -1,0 +1,21 @@
+{
+  "id": "t-tommele",
+  "headword": "tommele",
+  "senses": [
+    {
+      "it": "misura agreste corrispondente a circa mezzo ettaro",
+      "en": "rural land measure corresponding to about half a hectare",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tommele: misura agreste corrispondente a circa mezzo ettaro",
+    "rawHash": "4ce50a8f0837ba2dd9caff852828c5c2134abb99",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

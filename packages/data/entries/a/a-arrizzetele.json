@@ -1,0 +1,21 @@
+{
+  "id": "a-arrizzetele",
+  "headword": "arrizzètele",
+  "senses": [
+    {
+      "it": "alzatelo",
+      "en": "lift it up (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrizzètele: alzatelo",
+    "rawHash": "29bd6c36d4dc5514083ac4d976c9cbd7923f3822",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "m-maccarunare",
+  "headword": "maccarunare",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "arnese per fare i maccheroni",
+      "en": "tool for making macaroni",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "maccarunare (lu): arnese per fare i maccheroni",
+    "rawHash": "4402c61dc92f298dc91b769500986a100e059fea",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "u-urze",
+  "headword": "ùrze",
+  "senses": [
+    {
+      "it": "ultimo",
+      "en": "last",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "ùrze: ultimo",
+    "rawHash": "ffef3cf2e0060facb2f5668db3e1a044c22239f3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

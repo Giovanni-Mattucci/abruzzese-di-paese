@@ -1,0 +1,21 @@
+{
+  "id": "a-acciacca-2",
+  "headword": "acciaccà",
+  "senses": [
+    {
+      "it": "masticare con forza",
+      "en": "to chew hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciaccà: masticare con forza",
+    "rawHash": "83abd946793325dac1b9dc19d04aa55899390fe1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

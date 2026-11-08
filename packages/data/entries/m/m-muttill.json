@@ -1,0 +1,24 @@
+{
+  "id": "m-muttill",
+  "headword": "muttill",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "imbuto",
+      "en": "funnel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muttill: imbuto (Montebello sul Sangro)",
+    "rawHash": "53fe7f29b339ecefd16338ad393e292aedef95f8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c-ciappette",
+  "headword": "ciappètte",
+  "senses": [
+    {
+      "it": "piccolo fermaglio",
+      "en": "small clasp",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "molletta",
+      "en": "clip, peg",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciappètte: piccolo fermaglio, molletta",
+    "rawHash": "9266af1d808626998cb9d00350ae1c3ff38f4b2a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-stummachegne",
+  "headword": "stummachêgne",
+  "senses": [
+    {
+      "it": "stomachevole",
+      "en": "nauseating",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stummachêgne: stomachevole",
+    "rawHash": "2b39e4643fa1a01a1580c4c4e21f7fda9ee06385",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

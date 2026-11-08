@@ -1,0 +1,22 @@
+{
+  "id": "c-carratere",
+  "headword": "carratêre",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "arnese per fare i maccheroni",
+      "en": "tool for making macaroni",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carratêre (lu): arnese per fare i maccheroni",
+    "rawHash": "40e37355c1b422bd09ca6057fe16837e4c33500d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

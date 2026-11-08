@@ -1,0 +1,21 @@
+{
+  "id": "c-costa",
+  "headword": "costa",
+  "senses": [
+    {
+      "it": "salita",
+      "en": "slope, climb",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "costa: salita",
+    "rawHash": "dcb6bdba51758fbd2775ab4cd2d70a8d0d345647",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

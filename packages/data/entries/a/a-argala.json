@@ -1,0 +1,21 @@
+{
+  "id": "a-argala",
+  "headword": "argalà",
+  "senses": [
+    {
+      "it": "regalare",
+      "en": "to give as a gift",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "argalà: regalare",
+    "rawHash": "f46bf004dd5f79a94cf6197ea2434955aa69da73",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

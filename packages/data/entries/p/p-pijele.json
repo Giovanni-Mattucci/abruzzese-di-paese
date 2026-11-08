@@ -1,0 +1,21 @@
+{
+  "id": "p-pijele",
+  "headword": "pìjele",
+  "senses": [
+    {
+      "it": "prendilo",
+      "en": "take it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pìjele: prendilo",
+    "rawHash": "6385eca9477130d672995aec91a632d114038d46",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

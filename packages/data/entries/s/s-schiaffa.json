@@ -1,0 +1,26 @@
+{
+  "id": "s-schiaffa",
+  "headword": "schiaffà",
+  "senses": [
+    {
+      "it": "includere",
+      "en": "to include",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mettere",
+      "en": "to put",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiaffà: includere, mettere",
+    "rawHash": "0df439b4d18760151a63d0f0c03b7d49a86af00e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

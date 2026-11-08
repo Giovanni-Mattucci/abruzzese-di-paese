@@ -1,0 +1,31 @@
+{
+  "id": "c-carusate",
+  "headword": "carusàte",
+  "senses": [
+    {
+      "it": "depilato",
+      "en": "hair removed, depilated",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tosato",
+      "en": "shorn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tagliato",
+      "en": "cut",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carusàte: depilato, tosato, tagliato",
+    "rawHash": "3ed4acf3d5c6e449729fcce1c4f41bfb7e4a16bb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

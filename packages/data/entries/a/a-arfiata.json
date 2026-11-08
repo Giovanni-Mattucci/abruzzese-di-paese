@@ -1,0 +1,26 @@
+{
+  "id": "a-arfiata",
+  "headword": "arfiatà",
+  "senses": [
+    {
+      "it": "alitare",
+      "en": "to breathe out",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "respirare",
+      "en": "to breathe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arfiatà: alitare, respirare",
+    "rawHash": "1718165fbce9eff1b1b85ac6b5b23f03cee61b9c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

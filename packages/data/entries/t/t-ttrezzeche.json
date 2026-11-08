@@ -1,0 +1,21 @@
+{
+  "id": "t-ttrezzeche",
+  "headword": "ttrezzeche",
+  "senses": [
+    {
+      "it": "sbattere",
+      "en": "to bang, to slam",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "ttrezzeche: sbattere",
+    "rawHash": "d33a11f94c8aae59bf4707ab00198364a73ba61a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

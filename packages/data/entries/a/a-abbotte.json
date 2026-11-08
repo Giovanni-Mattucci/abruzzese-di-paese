@@ -1,0 +1,29 @@
+{
+  "id": "a-abbotte",
+  "headword": "abbotte",
+  "senses": [
+    {
+      "it": "gonfia, ingrossa, ma viene normalmente adoperato anche in senso figurativo",
+      "en": "swells, enlarges, but it is normally also used in a figurative sense",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "scoccia, dà fastidio",
+      "it": "mò m'abbuttàte l'anime! Adesso ha veramente scocciato! Me sa che a quille, se nn'ha finisce, jabbotte la cocce. Mi sa che a quelli, se non la finisce, gliene dò di santa ragione. Mò j s'abbòtte la panze: ora gli/le si gonfia la pancia)",
+      "en": "mò m'abbuttàte l'anime! Now he has really gotten on my nerves! Me sa che a quille, se nn'ha finisce, jabbotte la cocce. I think that if he does not stop it, I will give those people a good thrashing. Mò j s'abbòtte la panze: now his/her belly is swelling)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbotte: gonfia, ingrossa, ma viene normalmente adoperato anche in senso figurativo. Es.: scoccia, dà fastidio (mò m'abbuttàte l'anime! Adesso ha veramente scocciato! Me sa che a quille, se nn'ha finisce, jabbotte la cocce. Mi sa che a quelli, se non la finisce, gliene dò di santa ragione. Mò j s'abbòtte la panze: ora gli/le si gonfia la pancia)",
+    "rawHash": "1bd9aa7e0cd0aed081e6f363484c400a1522e4a2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "j-jbbite",
+  "headword": "jbbite",
+  "senses": [
+    {
+      "it": "abiti (ddò jbbite? Dove abiti?)",
+      "en": "you live (ddò jbbite? Where do you live?)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: tu"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jbbite (tu): abiti (ddò jbbite? Dove abiti?)",
+    "rawHash": "a8f63cecc2c5e8513b62cb72584a6356c89831d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

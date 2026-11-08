@@ -1,0 +1,21 @@
+{
+  "id": "n-ndranghete",
+  "headword": "'ndranghete",
+  "senses": [
+    {
+      "it": "ci risiamo",
+      "en": "here we go again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndranghete: ci risiamo",
+    "rawHash": "30c8a74ebfed55a8ca69afb00c9e21c0721f3316",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

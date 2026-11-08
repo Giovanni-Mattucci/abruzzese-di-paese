@@ -1,0 +1,21 @@
+{
+  "id": "s-scenne",
+  "headword": "scènne",
+  "senses": [
+    {
+      "it": "ascella",
+      "en": "armpit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scènne: ascella",
+    "rawHash": "436bbd158a9cecd72c6e608ed432ba58c0f02038",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

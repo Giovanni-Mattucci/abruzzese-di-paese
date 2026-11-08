@@ -1,0 +1,24 @@
+{
+  "id": "p-pahese",
+  "headword": "pahese",
+  "variants": [
+    "pajese"
+  ],
+  "senses": [
+    {
+      "it": "paese",
+      "en": "village, town, country",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pahese, pajese: paese",
+    "rawHash": "6daebde6d1f38dcf7dce1a73afa78685ca801007",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

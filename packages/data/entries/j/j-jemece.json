@@ -1,0 +1,21 @@
+{
+  "id": "j-jemece",
+  "headword": "jèmece",
+  "senses": [
+    {
+      "it": "andiamoci",
+      "en": "let's go there",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jèmece: andiamoci",
+    "rawHash": "d0c141af6b3238581e96754caee46106a20613fe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

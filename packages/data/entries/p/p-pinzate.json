@@ -1,0 +1,21 @@
+{
+  "id": "p-pinzate",
+  "headword": "pinzate",
+  "senses": [
+    {
+      "it": "pensata",
+      "en": "an idea, a thought",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinzate: pensata",
+    "rawHash": "f8932f6664a1fd6464523b1e20786949152561d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

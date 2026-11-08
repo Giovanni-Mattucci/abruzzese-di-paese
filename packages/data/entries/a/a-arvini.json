@@ -1,0 +1,21 @@
+{
+  "id": "a-arvini",
+  "headword": "arvinì",
+  "senses": [
+    {
+      "it": "ritornare",
+      "en": "to return, to come back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arvinì: ritornare",
+    "rawHash": "846c9b403ca348813f7c5a6aaefe76bf0d63df67",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

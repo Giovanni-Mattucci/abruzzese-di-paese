@@ -1,0 +1,21 @@
+{
+  "id": "m-mujelle",
+  "headword": "mujèlle",
+  "senses": [
+    {
+      "it": "cefalo",
+      "en": "grey mullet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mujèlle: cefalo",
+    "rawHash": "0ad1ffd7528b9995ab9cfa24ffa885afb4c950c4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

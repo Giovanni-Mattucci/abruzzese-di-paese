@@ -1,0 +1,22 @@
+{
+  "id": "f-fangotte",
+  "headword": "fangotte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "piccolo involto",
+      "en": "small bundle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fangotte (lu): piccolo involto",
+    "rawHash": "e309f5b634f6db7c50b34c2bcec1519ec0064cdc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

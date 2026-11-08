@@ -1,0 +1,31 @@
+{
+  "id": "b-bbrecche",
+  "headword": "bbrecche",
+  "senses": [
+    {
+      "it": "sassolino",
+      "en": "pebble",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "breccia",
+      "en": "gravel, crushed stone",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ghiaietto",
+      "en": "fine gravel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbrecche: sassolino, breccia, ghiaietto",
+    "rawHash": "3ae259d83a9028ca27ba4fdb331cd0277bdbd70a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

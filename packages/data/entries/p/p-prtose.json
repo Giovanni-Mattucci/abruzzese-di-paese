@@ -1,0 +1,21 @@
+{
+  "id": "p-prtose",
+  "headword": "p'rtose",
+  "senses": [
+    {
+      "it": "cerniera dei pantaloni",
+      "en": "trouser fly, trouser zip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "p'rtose: cerniera dei pantaloni",
+    "rawHash": "87c4fa53428ea4a599a6b1e23ff6aa6193b623a9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

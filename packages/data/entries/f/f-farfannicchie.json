@@ -1,0 +1,26 @@
+{
+  "id": "f-farfannicchie",
+  "headword": "farfannicchie",
+  "senses": [
+    {
+      "it": "demonio",
+      "en": "demon",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "Belzebù",
+      "en": "Beelzebub",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "farfannicchie: demonio, Belzebù",
+    "rawHash": "230f418407b62474673804517d56ba3a51094983",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

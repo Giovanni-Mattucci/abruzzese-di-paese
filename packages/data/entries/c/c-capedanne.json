@@ -1,0 +1,21 @@
+{
+  "id": "c-capedanne",
+  "headword": "capedanne",
+  "senses": [
+    {
+      "it": "capodanno",
+      "en": "New Year's Day",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capedanne: capodanno",
+    "rawHash": "4c2679baab60a6e7a2f4db9fbe502cc235cb985c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

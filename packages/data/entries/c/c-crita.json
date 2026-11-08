@@ -1,0 +1,26 @@
+{
+  "id": "c-crita",
+  "headword": "crita",
+  "senses": [
+    {
+      "it": "creta",
+      "en": "clay",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "argilla",
+      "en": "potter's clay",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crita: creta, argilla",
+    "rawHash": "eb88bf7daede91dd9ba0b9b0846a00c10a17513a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

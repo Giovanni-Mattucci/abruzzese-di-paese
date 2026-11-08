@@ -1,0 +1,21 @@
+{
+  "id": "n-ncacia",
+  "headword": "'ncacià",
+  "senses": [
+    {
+      "it": "attaccare innevando",
+      "en": "to stick, to settle (of snow)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ncacià: attaccare innevando",
+    "rawHash": "bfb963adc243ae066e140136f56358c51d7401d1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-scacchia-2",
+  "headword": "scacchià",
+  "senses": [
+    {
+      "it": "si dice di fiore o pianta prossima a germogliare",
+      "en": "said of a flower or plant about to sprout",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scacchià: si dice di fiore o pianta prossima a germogliare",
+    "rawHash": "41dbf0e8e4dd9617d46fcfbd9e5642822b5936b1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

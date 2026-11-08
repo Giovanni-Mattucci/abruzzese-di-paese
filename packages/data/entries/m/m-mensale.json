@@ -1,0 +1,21 @@
+{
+  "id": "m-mensale",
+  "headword": "mensale",
+  "senses": [
+    {
+      "it": "tovaglia",
+      "en": "tablecloth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mensale: tovaglia",
+    "rawHash": "ac67500cb70c6ae6e0f64ff29f4d1c492a3b349d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

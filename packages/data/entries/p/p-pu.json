@@ -1,0 +1,24 @@
+{
+  "id": "p-pu",
+  "headword": "pu'",
+  "senses": [
+    {
+      "it": "tu puoi",
+      "en": "you can",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: tu"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pu' (tu): tu puoi",
+    "rawHash": "44884e2450c6a8ae8b9cfaf8e772f9dba6c62181",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

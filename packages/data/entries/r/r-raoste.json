@@ -1,0 +1,21 @@
+{
+  "id": "r-raoste",
+  "headword": "raòste",
+  "senses": [
+    {
+      "it": "aragosta",
+      "en": "lobster",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "raòste: aragosta",
+    "rawHash": "52682c2886eb5208e5ff09cf5395fc08bd24e9be",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

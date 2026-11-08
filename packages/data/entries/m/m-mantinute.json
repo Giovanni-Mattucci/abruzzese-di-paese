@@ -1,0 +1,26 @@
+{
+  "id": "m-mantinute",
+  "headword": "mantinùte",
+  "senses": [
+    {
+      "it": "amante",
+      "en": "lover, mistress",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mantenuta",
+      "en": "kept woman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mantinùte: amante, mantenuta",
+    "rawHash": "b305dc4e9210ae06998fe6b3d999f289e240ec67",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

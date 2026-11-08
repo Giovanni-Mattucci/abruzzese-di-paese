@@ -1,0 +1,21 @@
+{
+  "id": "c-cicceche",
+  "headword": "cicceche",
+  "senses": [
+    {
+      "it": "pensiero fisso",
+      "en": "fixed idea, obsession",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cicceche: pensiero fisso",
+    "rawHash": "6973d5c56b7a7199ab6dd560532a6000cc279184",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

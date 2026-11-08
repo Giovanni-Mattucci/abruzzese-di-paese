@@ -1,0 +1,21 @@
+{
+  "id": "s-sciampene",
+  "headword": "sciàmpene",
+  "senses": [
+    {
+      "it": "svuotano",
+      "en": "they empty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciàmpene: svuotano",
+    "rawHash": "1736420b02cab01ccabc6ce91776fa5de9fbf1c4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

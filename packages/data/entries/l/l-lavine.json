@@ -1,0 +1,21 @@
+{
+  "id": "l-lavine",
+  "headword": "Lavine",
+  "senses": [
+    {
+      "it": "fiume Lavino, affluente di destra del Pescara",
+      "en": "the river Lavino, a right-bank tributary of the Pescara",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "Lavine: fiume Lavino, affluente di destra del Pescara",
+    "rawHash": "9dc41522cfe510a509b4970ff2c7c5222d08b174",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

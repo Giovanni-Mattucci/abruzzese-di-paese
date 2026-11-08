@@ -1,0 +1,21 @@
+{
+  "id": "s-sbirrute",
+  "headword": "sbirrùte",
+  "senses": [
+    {
+      "it": "srotola",
+      "en": "he/she unrolls, unroll (imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbirrùte: srotola",
+    "rawHash": "ea5ace38db55b0a57f042a7c5970a721f87c0b5c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

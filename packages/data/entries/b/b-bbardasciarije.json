@@ -1,0 +1,21 @@
+{
+  "id": "b-bbardasciarije",
+  "headword": "bbardasciarije",
+  "senses": [
+    {
+      "it": "ragazzaglia",
+      "en": "gang of kids, rabble of youngsters",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbardasciarije: ragazzaglia",
+    "rawHash": "b94c2ca3d2e55bb1905d6bff441aa53792df53ad",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

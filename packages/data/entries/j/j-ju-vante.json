@@ -1,0 +1,26 @@
+{
+  "id": "j-ju-vante",
+  "headword": "ju vante",
+  "senses": [
+    {
+      "it": "davanti",
+      "en": "in front",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lì davanti",
+      "en": "there in front",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ju vante: davanti, lì davanti",
+    "rawHash": "5bab901654b33b0461865bfd2d30b58f51b59e87",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

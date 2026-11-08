@@ -1,0 +1,26 @@
+{
+  "id": "m-mpruntature",
+  "headword": "'mpruntature",
+  "senses": [
+    {
+      "it": "riferito all'aspetto fisico",
+      "en": "referring to physical appearance",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "alla somiglianza con qualcuno",
+      "en": "to resemblance to someone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mpruntature: riferito all'aspetto fisico, alla somiglianza con qualcuno",
+    "rawHash": "2940c1afc611108b5e7d0a8d8b58383a1dbcd028",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

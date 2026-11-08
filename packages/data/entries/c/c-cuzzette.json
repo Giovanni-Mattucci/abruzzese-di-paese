@@ -1,0 +1,21 @@
+{
+  "id": "c-cuzzette",
+  "headword": "cuzzette",
+  "senses": [
+    {
+      "it": "nuca",
+      "en": "nape of the neck",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuzzette: nuca",
+    "rawHash": "1a17816b396b1bcf238491319e0bd4b84a810170",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

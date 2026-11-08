@@ -1,0 +1,26 @@
+{
+  "id": "s-spase",
+  "headword": "spase",
+  "senses": [
+    {
+      "it": "piatto lungo e comune, in uso, un tempo, sulla mensa di tutti i contadini. Zuppiera",
+      "en": "long, shared dish once used on the table of all peasants. Soup tureen",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "participio di spanne (stendere). Termine derivante chiaramente dal verbo italiano espandere, cioè stendere. spatacciate: spiaccicato, schiacciato (spataccì: spiaccicò)",
+      "en": "participle of spanne (to spread out). Term clearly deriving from the Italian verb espandere, that is, to spread out. spatacciate: squashed, crushed (spataccì: he/she squashed)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spase: piatto lungo e comune, in uso, un tempo, sulla mensa di tutti i contadini. Zuppiera, ma anche participio di spanne (stendere). Termine derivante chiaramente dal verbo italiano espandere, cioè stendere. spatacciate: spiaccicato, schiacciato (spataccì: spiaccicò)",
+    "rawHash": "e539f62e6efee9de9b8b6f7a15b1d5c171287bfd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

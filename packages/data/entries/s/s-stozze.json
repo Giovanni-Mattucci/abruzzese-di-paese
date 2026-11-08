@@ -1,0 +1,26 @@
+{
+  "id": "s-stozze",
+  "headword": "stòzze",
+  "senses": [
+    {
+      "it": "panino imbottito",
+      "en": "filled sandwich",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "meranda",
+      "en": "snack",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stòzze: panino imbottito, meranda",
+    "rawHash": "f9f4b7a60278a870ed71a9096dc5ce1ac6eda523",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

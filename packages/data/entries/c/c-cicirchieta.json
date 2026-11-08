@@ -1,0 +1,21 @@
+{
+  "id": "c-cicirchieta",
+  "headword": "cicirchieta",
+  "senses": [
+    {
+      "it": "anello",
+      "en": "ring",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cicirchieta: anello",
+    "rawHash": "ecb694790892996b457c1406075b2660ed3a1190",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

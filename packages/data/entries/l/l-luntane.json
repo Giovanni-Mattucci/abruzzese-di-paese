@@ -1,0 +1,21 @@
+{
+  "id": "l-luntane",
+  "headword": "luntàne",
+  "senses": [
+    {
+      "it": "distante",
+      "en": "far, distant",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "luntàne: distante",
+    "rawHash": "d42a6923725ae0e9ace8e6cc49e255d9905df0ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

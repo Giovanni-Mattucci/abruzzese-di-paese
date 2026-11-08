@@ -1,0 +1,21 @@
+{
+  "id": "f-finande",
+  "headword": "finànde",
+  "senses": [
+    {
+      "it": "fino a",
+      "en": "until, up to",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "finànde: fino a",
+    "rawHash": "eb862e9499393cb85ac67dd3bc30633a7ba343c3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

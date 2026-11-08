@@ -1,0 +1,21 @@
+{
+  "id": "m-mandusine",
+  "headword": "mandusìne",
+  "senses": [
+    {
+      "it": "grembiule da cucina",
+      "en": "kitchen apron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mandusìne: grembiule da cucina",
+    "rawHash": "90efe269589fe31e44a57ce666305cc24df08821",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

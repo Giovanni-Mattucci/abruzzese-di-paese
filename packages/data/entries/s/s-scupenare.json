@@ -1,0 +1,21 @@
+{
+  "id": "s-scupenare",
+  "headword": "scupenare",
+  "senses": [
+    {
+      "it": "zampognaro",
+      "en": "bagpiper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scupenare: zampognaro",
+    "rawHash": "144beb3ff91e7df02a158280174b151fa067583e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

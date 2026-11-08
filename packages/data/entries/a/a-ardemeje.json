@@ -1,0 +1,26 @@
+{
+  "id": "a-ardemeje",
+  "headword": "ardèmeje",
+  "senses": [
+    {
+      "it": "ridiamogli",
+      "en": "let us give it back to him/her",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "restituiamogli",
+      "en": "let us return it to him/her",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardèmeje: ridiamogli, restituiamogli",
+    "rawHash": "f0f7f230e82eed1ca981b09cb269d34c698fc59e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

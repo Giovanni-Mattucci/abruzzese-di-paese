@@ -1,0 +1,19 @@
+{
+  "id": "s-strengarelle",
+  "headword": "strengarélle",
+  "senses": [
+    {
+      "it": "fettuccine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strengarélle: fettuccine",
+    "rawHash": "3a8fd531d9ab152c835ccd214b53b76d80ee042d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

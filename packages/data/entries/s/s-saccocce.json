@@ -1,0 +1,22 @@
+{
+  "id": "s-saccocce",
+  "headword": "saccocce",
+  "article": "la",
+  "senses": [
+    {
+      "it": "tasca",
+      "en": "pocket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "saccocce (la): tasca",
+    "rawHash": "9aa9dc6c82c6bd03fd32479532414b0c08571b2a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

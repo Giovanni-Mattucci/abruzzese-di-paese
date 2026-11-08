@@ -1,0 +1,22 @@
+{
+  "id": "d-di-li",
+  "headword": "di li",
+  "pos": "prep. art.",
+  "senses": [
+    {
+      "it": "delle dei",
+      "en": "of the (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "di li: delle dei ( prep. art.)",
+    "rawHash": "b7439c44255649e6b66e8b9fe1fbe2a15700ae2e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

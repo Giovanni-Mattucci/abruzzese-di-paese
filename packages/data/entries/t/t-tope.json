@@ -1,0 +1,21 @@
+{
+  "id": "t-tope",
+  "headword": "tope",
+  "senses": [
+    {
+      "it": "figa",
+      "en": "pussy (vulgar)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tope: figa",
+    "rawHash": "2df31ac4046d2e64499c351a38ff450136591d66",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

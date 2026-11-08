@@ -1,0 +1,21 @@
+{
+  "id": "s-spizzelle",
+  "headword": "spizzèlle",
+  "senses": [
+    {
+      "it": "caviglia",
+      "en": "ankle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spizzèlle: caviglia",
+    "rawHash": "1330d7ac7fc9cc90383dd0e19a43085915f612cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,39 @@
+{
+  "id": "c-ciautelle",
+  "headword": "ciautèlle",
+  "variants": [
+    "ciaudelle"
+  ],
+  "senses": [
+    {
+      "it": "pane bagnato con basilico",
+      "en": "soaked bread with basil",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "aglio",
+      "en": "garlic",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pomodoro",
+      "en": "tomato",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ecc",
+      "en": "etc.",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciautèlle, ciaudelle: pane bagnato con basilico, aglio, pomodoro, ecc.",
+    "rawHash": "5b26596ea9b27d9766f1887fbc77a018df39c509",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

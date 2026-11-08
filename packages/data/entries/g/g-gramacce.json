@@ -1,0 +1,21 @@
+{
+  "id": "g-gramacce",
+  "headword": "gramacce",
+  "senses": [
+    {
+      "it": "gramigna. Pianta erbacea perenne dannosa alle coltivazioni per la rapidità con cui si propaga",
+      "en": "couch grass. A perennial herbaceous plant harmful to crops because of the speed with which it spreads",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gramacce: gramigna. Pianta erbacea perenne dannosa alle coltivazioni per la rapidità con cui si propaga",
+    "rawHash": "aaf02cd1d22e9dc71e1fde09f79579069f17881f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

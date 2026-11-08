@@ -1,0 +1,21 @@
+{
+  "id": "t-truccone",
+  "headword": "truccone",
+  "senses": [
+    {
+      "it": "trogolo grande",
+      "en": "large trough",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "truccone: trogolo grande",
+    "rawHash": "d5804624d84409e73c979dc2bd4f49752c8687b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

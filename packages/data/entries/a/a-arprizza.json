@@ -1,0 +1,26 @@
+{
+  "id": "a-arprizza",
+  "headword": "arprizzà",
+  "senses": [
+    {
+      "it": "conservare",
+      "en": "to keep, to preserve",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "raccogliere gli scarti",
+      "en": "to gather up the scraps",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arprizzà: conservare, raccogliere gli scarti",
+    "rawHash": "245599e693fb9cd1d6bb1e5d2264a07c08ef655d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

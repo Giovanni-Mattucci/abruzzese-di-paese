@@ -1,0 +1,21 @@
+{
+  "id": "t-telediariu",
+  "headword": "telediàriu",
+  "senses": [
+    {
+      "it": "telegiornale",
+      "en": "television news",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "telediàriu: telegiornale",
+    "rawHash": "40b53ba06414682ab99a8f66e68c4dcb760042c0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

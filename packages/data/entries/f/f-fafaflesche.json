@@ -1,0 +1,21 @@
+{
+  "id": "f-fafaflesche",
+  "headword": "fafaflesche",
+  "senses": [
+    {
+      "it": "è gioco dello schiaffo del soldato. Letteralmente: fava fresca",
+      "en": "it is the game of the soldier's slap. Literally: fresh broad bean",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fafaflesche: è gioco dello schiaffo del soldato. Letteralmente: fava fresca",
+    "rawHash": "f728e80ed380af2f15cf637ce82684917e827092",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

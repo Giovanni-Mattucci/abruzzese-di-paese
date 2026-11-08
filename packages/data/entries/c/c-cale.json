@@ -1,0 +1,21 @@
+{
+  "id": "c-cale",
+  "headword": "cale",
+  "senses": [
+    {
+      "it": "scendi",
+      "en": "come down, go down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cale: scendi",
+    "rawHash": "7da8ba5185b36a6eb56f9b58e12a96939db687e6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "q-quande-arvi",
+  "headword": "quande arvì?",
+  "senses": [
+    {
+      "it": "quando ritorni?",
+      "en": "when are you coming back?",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quande arvì?: quando ritorni?",
+    "rawHash": "4cbd024df786ae85f6447a5c3dc36ad8ecc879ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

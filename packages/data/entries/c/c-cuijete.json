@@ -1,0 +1,31 @@
+{
+  "id": "c-cuijete",
+  "headword": "cuijéte",
+  "senses": [
+    {
+      "it": "zitto",
+      "en": "quiet",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "quieto",
+      "en": "calm",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "buono",
+      "en": "well-behaved",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuijéte: zitto, quieto, buono",
+    "rawHash": "98f80f81e84ec58f22aece2ef3e58d50326e691f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

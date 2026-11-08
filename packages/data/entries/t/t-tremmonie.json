@@ -1,0 +1,21 @@
+{
+  "id": "t-tremmonie",
+  "headword": "tremmònie",
+  "senses": [
+    {
+      "it": "persona grossa e pesante",
+      "en": "big, heavy person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tremmònie: persona grossa e pesante",
+    "rawHash": "8a4d0e9e911a7cdcb5623d2a42866d2bea530b3a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

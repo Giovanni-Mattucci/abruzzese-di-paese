@@ -1,0 +1,21 @@
+{
+  "id": "c-cuane",
+  "headword": "cuàne",
+  "senses": [
+    {
+      "it": "cane",
+      "en": "dog",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuàne: cane",
+    "rawHash": "9b4ad7c3a27b5ac71a569e2ebf6adb3897d6bc53",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

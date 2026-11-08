@@ -1,0 +1,21 @@
+{
+  "id": "c-casciotte",
+  "headword": "casciòtte",
+  "senses": [
+    {
+      "it": "caciotta",
+      "en": "caciotta (soft cheese)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "casciòtte: caciotta",
+    "rawHash": "9a4e5edb17da77b49431f513dace3d84154cfbe5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

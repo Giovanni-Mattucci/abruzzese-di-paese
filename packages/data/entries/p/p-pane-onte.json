@@ -1,0 +1,21 @@
+{
+  "id": "p-pane-onte",
+  "headword": "pane ònte",
+  "senses": [
+    {
+      "it": "pane unto con olio",
+      "en": "bread drizzled with oil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pane ònte: pane unto con olio",
+    "rawHash": "6288b08ac4ee5027b520cafc0c67528dbd7b2b15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

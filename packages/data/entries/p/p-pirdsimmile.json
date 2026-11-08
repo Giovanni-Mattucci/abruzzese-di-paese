@@ -1,0 +1,21 @@
+{
+  "id": "p-pirdsimmile",
+  "headword": "pirdsimmile",
+  "senses": [
+    {
+      "it": "prezzemolo",
+      "en": "parsley",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pirdsimmile: prezzemolo",
+    "rawHash": "b95a6ef3c0e025f4ace0beb7a9a3a9b417a6c8e2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

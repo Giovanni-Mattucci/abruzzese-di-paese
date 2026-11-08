@@ -1,0 +1,21 @@
+{
+  "id": "p-peparole",
+  "headword": "peparòle",
+  "senses": [
+    {
+      "it": "peperone",
+      "en": "bell pepper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "peparòle: peperone",
+    "rawHash": "9391aaf143336980e222b4e2949e1d11400a40ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

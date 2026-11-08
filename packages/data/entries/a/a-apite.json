@@ -1,0 +1,21 @@
+{
+  "id": "a-apite",
+  "headword": "apìte",
+  "senses": [
+    {
+      "it": "pietà",
+      "en": "pity, mercy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "apìte: pietà.",
+    "rawHash": "90140208cab78045f631b74b3efb5d69e4f6e5b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

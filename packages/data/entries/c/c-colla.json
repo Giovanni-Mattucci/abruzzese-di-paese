@@ -1,0 +1,21 @@
+{
+  "id": "c-colla",
+  "headword": "colla",
+  "senses": [
+    {
+      "it": "con la",
+      "en": "with the",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "colla: con la",
+    "rawHash": "66977d06c874d5661d094651e91d8553efe1f243",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

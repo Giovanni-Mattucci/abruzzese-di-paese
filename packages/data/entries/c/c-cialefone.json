@@ -1,0 +1,21 @@
+{
+  "id": "c-cialefone",
+  "headword": "cialefone",
+  "senses": [
+    {
+      "it": "disordinato",
+      "en": "untidy, disorderly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cialefone: disordinato",
+    "rawHash": "ca183c7d2ce80ccce76fdc1b3e5ced2bdc2c423c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-aclisse",
+  "headword": "aclìsse",
+  "senses": [
+    {
+      "it": "eclisse",
+      "en": "eclipse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aclìsse: eclisse",
+    "rawHash": "b82b9e2e29e0458e59d1e9592a9887d5f7bdd2d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d-diavulelle",
+  "headword": "diavulèlle",
+  "senses": [
+    {
+      "it": "peperone piccante",
+      "en": "hot chilli pepper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "diavulèlle: peperone piccante",
+    "rawHash": "c483ede00b88c868295a1ef4ac907718fc9839c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

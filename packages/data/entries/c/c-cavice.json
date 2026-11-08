@@ -1,0 +1,21 @@
+{
+  "id": "c-cavice",
+  "headword": "càvice",
+  "senses": [
+    {
+      "it": "calce",
+      "en": "lime",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "càvice: calce",
+    "rawHash": "e666d2426251907e970fde961292106ae7bc0ae0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

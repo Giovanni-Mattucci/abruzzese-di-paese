@@ -1,0 +1,21 @@
+{
+  "id": "c-calle",
+  "headword": "calle",
+  "senses": [
+    {
+      "it": "caldo",
+      "en": "hot, warm; heat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calle: caldo",
+    "rawHash": "e6f08891fba103feb4d76ade0919630ab2acd15a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

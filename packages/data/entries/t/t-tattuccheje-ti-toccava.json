@@ -1,0 +1,31 @@
+{
+  "id": "t-tattuccheje-ti-toccava",
+  "headword": "t'attucchèje",
+  "senses": [
+    {
+      "it": "ti toccava",
+      "en": "it was your turn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ti spettava",
+      "en": "it was due to you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "era tuo",
+      "en": "it was yours",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "t'attucchèje ti toccava, ti spettava, era tuo",
+    "rawHash": "ea6135eb352e07106f706c95a357690e29485b4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

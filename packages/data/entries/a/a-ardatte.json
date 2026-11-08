@@ -1,0 +1,26 @@
+{
+  "id": "a-ardatte",
+  "headword": "ardàtte",
+  "senses": [
+    {
+      "it": "ridàtti",
+      "en": "give yourself back",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "torna a darti",
+      "en": "give yourself again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardàtte: ridàtti, torna a darti",
+    "rawHash": "07980bcc9dbc9f3442e77a1cac34836e701131b3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

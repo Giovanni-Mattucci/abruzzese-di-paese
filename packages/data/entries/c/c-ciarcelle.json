@@ -1,0 +1,21 @@
+{
+  "id": "c-ciarcelle",
+  "headword": "ciarcélle",
+  "senses": [
+    {
+      "it": "sporco residuo",
+      "en": "leftover dirt, residue of filth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciarcélle: sporco residuo",
+    "rawHash": "0af4a78b633ff4c266d810f2215ccd6030a3b726",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

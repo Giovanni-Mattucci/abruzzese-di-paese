@@ -1,0 +1,22 @@
+{
+  "id": "s-sdiijune",
+  "headword": "sdiijune",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "momento della prima colazione",
+      "en": "breakfast time",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdiijune (lu): momento della prima colazione",
+    "rawHash": "7bacff4b3c8a1f1ca74429626761fec0adaddf40",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-muttelle",
+  "headword": "muttèlle",
+  "senses": [
+    {
+      "it": "imbuto",
+      "en": "funnel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muttèlle: imbuto",
+    "rawHash": "73a453a8f2811c54646931518e908db2e943ea89",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

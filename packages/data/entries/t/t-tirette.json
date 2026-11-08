@@ -1,0 +1,21 @@
+{
+  "id": "t-tirette",
+  "headword": "tirètte",
+  "senses": [
+    {
+      "it": "cassetto",
+      "en": "drawer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tirètte: cassetto",
+    "rawHash": "797ed1a8864aa6e397fde282ab3a77ba10b07116",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

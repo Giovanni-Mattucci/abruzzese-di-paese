@@ -1,0 +1,21 @@
+{
+  "id": "a-arrutelirse",
+  "headword": "arrutelirse",
+  "senses": [
+    {
+      "it": "rotolarsi",
+      "en": "to roll about",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrutelirse: rotolarsi",
+    "rawHash": "ae66bdd5ec23ee4331e65aabbf72c9955a448927",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

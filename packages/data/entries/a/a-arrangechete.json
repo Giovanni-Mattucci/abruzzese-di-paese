@@ -1,0 +1,21 @@
+{
+  "id": "a-arrangechete",
+  "headword": "arrangechète",
+  "senses": [
+    {
+      "it": "rangido",
+      "en": "rancid",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrangechète: rangido",
+    "rawHash": "3b6408a5995f14b470c13ef519322e96151c983c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

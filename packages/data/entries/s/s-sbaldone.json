@@ -1,0 +1,21 @@
+{
+  "id": "s-sbaldone",
+  "headword": "sbaldone",
+  "senses": [
+    {
+      "it": "contenitore di stagno di varie dimensioni utilizzato solitamente per la conservazione dell'olio o del miele",
+      "en": "tin container of various sizes, usually used for storing oil or honey",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbaldone: contenitore di stagno di varie dimensioni utilizzato solitamente per la conservazione dell'olio o del miele.",
+    "rawHash": "fd8368e287903729067e7e64e01286ed4949b2a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

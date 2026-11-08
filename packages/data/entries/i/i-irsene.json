@@ -1,0 +1,21 @@
+{
+  "id": "i-irsene",
+  "headword": "irsene",
+  "senses": [
+    {
+      "it": "andarsene",
+      "en": "to go away",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "irsene: andarsene",
+    "rawHash": "04c697fbaf556bc7831ba57ac09ec2c8413a2c7b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

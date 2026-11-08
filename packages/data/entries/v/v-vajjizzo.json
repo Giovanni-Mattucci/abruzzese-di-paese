@@ -1,0 +1,21 @@
+{
+  "id": "v-vajjizzo",
+  "headword": "vajjizzò",
+  "senses": [
+    {
+      "it": "sobillare",
+      "en": "to incite, to stir up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vajjizzò: sobillare",
+    "rawHash": "c9307026def7883a5e90a21e400c83e184388be7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

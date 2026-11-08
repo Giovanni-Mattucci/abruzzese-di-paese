@@ -1,0 +1,31 @@
+{
+  "id": "s-sciuppa",
+  "headword": "sciuppà",
+  "senses": [
+    {
+      "it": "scippare",
+      "en": "to snatch",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "togliere",
+      "en": "to take away",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "prendere con violenza",
+      "en": "to take by force",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciuppà: scippare, togliere, prendere con violenza",
+    "rawHash": "3212501fbc43d08ecfb39d2a49c3e327c2bc336d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vrecce",
+  "headword": "vrecce",
+  "senses": [
+    {
+      "it": "sassolini",
+      "en": "pebbles",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrecce: sassolini",
+    "rawHash": "cd0a5c4f2d7f20e1db89ac8dffa7e9c1e4f3a4ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

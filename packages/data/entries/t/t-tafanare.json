@@ -1,0 +1,21 @@
+{
+  "id": "t-tafanare",
+  "headword": "tafanàre",
+  "senses": [
+    {
+      "it": "deretano di grosse dimensioni",
+      "en": "large backside",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tafanàre: deretano di grosse dimensioni.",
+    "rawHash": "c8c8939ca1684ed40be1d616323bf29efec69428",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

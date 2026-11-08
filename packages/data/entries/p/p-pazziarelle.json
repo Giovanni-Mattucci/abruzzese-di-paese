@@ -1,0 +1,26 @@
+{
+  "id": "p-pazziarelle",
+  "headword": "pazziarèlle",
+  "senses": [
+    {
+      "it": "giocattolo",
+      "en": "toy",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "giochino per bambini",
+      "en": "little game for children",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pazziarèlle: giocattolo, giochino per bambini",
+    "rawHash": "3cc5cebca46122fc08b4964dc1f58147ceb890ce",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

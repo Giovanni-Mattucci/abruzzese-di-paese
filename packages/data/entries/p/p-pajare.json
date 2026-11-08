@@ -1,0 +1,21 @@
+{
+  "id": "p-pajare",
+  "headword": "pajàre",
+  "senses": [
+    {
+      "it": "fienile, pagliaro o grosso covone di fieno con forma tonda quasi a cilindro",
+      "en": "hayloft, straw stack or large sheaf of hay with a round, almost cylindrical shape",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pajàre: fienile, pagliaro o grosso covone di fieno con forma tonda quasi a cilindro",
+    "rawHash": "41f210e89156c7614aea26154040787d512cec6b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

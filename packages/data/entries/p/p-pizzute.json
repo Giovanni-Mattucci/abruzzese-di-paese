@@ -1,0 +1,26 @@
+{
+  "id": "p-pizzute",
+  "headword": "pizzùte",
+  "senses": [
+    {
+      "it": "aguzzo",
+      "en": "sharp",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "a punta",
+      "en": "pointed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pizzùte: aguzzo, a punta",
+    "rawHash": "d7ccd8c44c90b721cb46680b1c6d54688e7e2558",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

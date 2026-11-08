@@ -1,0 +1,21 @@
+{
+  "id": "a-allancana",
+  "headword": "allancanà",
+  "senses": [
+    {
+      "it": "avere fame",
+      "en": "to be hungry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allancanà: avere fame",
+    "rawHash": "f150975934de266f6f89bea045c4189d6c540766",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

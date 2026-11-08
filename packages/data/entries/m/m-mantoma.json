@@ -1,0 +1,21 @@
+{
+  "id": "m-mantoma",
+  "headword": "mantomà",
+  "senses": [
+    {
+      "it": "questa mattina",
+      "en": "this morning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mantomà: questa mattina",
+    "rawHash": "8da2edb349fe71c61ba0bf8df925096f8356ff4d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

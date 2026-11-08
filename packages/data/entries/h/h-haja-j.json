@@ -1,0 +1,21 @@
+{
+  "id": "h-haja-j",
+  "headword": "haja j",
+  "senses": [
+    {
+      "it": "devo andare",
+      "en": "I have to go",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "haja j: devo andare",
+    "rawHash": "6db962aaf37aa3431f661b0d4f6ac6ff1640cf51",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

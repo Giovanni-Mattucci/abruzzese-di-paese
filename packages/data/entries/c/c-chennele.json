@@ -1,0 +1,22 @@
+{
+  "id": "c-chennele",
+  "headword": "chénnele",
+  "article": "la",
+  "senses": [
+    {
+      "it": "culla",
+      "en": "cradle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chénnele (la): culla",
+    "rawHash": "f8d7c8e810c50a3e503a9b2b8f0aa0bac588b144",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

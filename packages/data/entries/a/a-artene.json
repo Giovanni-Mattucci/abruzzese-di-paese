@@ -1,0 +1,26 @@
+{
+  "id": "a-artene",
+  "headword": "artène",
+  "senses": [
+    {
+      "it": "ha ancora",
+      "en": "still has",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ritiene",
+      "en": "keeps back, retains",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "artène: ha ancora, ritiene",
+    "rawHash": "c0377879ee9b492765c2f72c5db83c0a3a670a10",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

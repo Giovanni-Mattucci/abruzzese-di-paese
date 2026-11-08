@@ -1,0 +1,21 @@
+{
+  "id": "t-tastaferre",
+  "headword": "tastafèrre",
+  "senses": [
+    {
+      "it": "calabrone",
+      "en": "hornet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tastafèrre: calabrone",
+    "rawHash": "4ed4babbc03fe27f80df19e0c894a050c119892a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

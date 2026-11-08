@@ -1,0 +1,27 @@
+{
+  "id": "c-ca",
+  "headword": "ca",
+  "pos": "cong.",
+  "senses": [
+    {
+      "it": "che",
+      "en": "that, which, what",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "so viste ca j cascate. Ho visto che sei caduto"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ca: che ( cong.) (Es.: so viste ca j cascate. Ho visto che sei caduto)",
+    "rawHash": "6acf3999982eb0a6c6aefa38b40fe57058c7d67b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

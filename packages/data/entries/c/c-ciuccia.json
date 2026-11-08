@@ -1,0 +1,21 @@
+{
+  "id": "c-ciuccia",
+  "headword": "ciuccia",
+  "senses": [
+    {
+      "it": "sesso femminile, ma si adopera quando bisogna dare dell'asino a una donna (si' 'na ciuccia: sei un'asina)",
+      "en": "female genitals, but used when one wants to call a woman a donkey (si' 'na ciuccia: you are a she-ass)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciuccia: sesso femminile, ma si adopera quando bisogna dare dell'asino a una donna (si' 'na ciuccia: sei un'asina)",
+    "rawHash": "9f829be5b482e6e285e3d20ef5ba1228b104edc8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-pere",
+  "headword": "père",
+  "senses": [
+    {
+      "it": "pera",
+      "en": "pear",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "père: pera",
+    "rawHash": "0997cb1a4e0963223ac0ca1dc04adf483f827b43",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

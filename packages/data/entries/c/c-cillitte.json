@@ -1,0 +1,21 @@
+{
+  "id": "c-cillitte",
+  "headword": "cillìtte",
+  "senses": [
+    {
+      "it": "uccelli",
+      "en": "birds",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cillìtte: uccelli",
+    "rawHash": "39e9edf51818ad76f14498c940e79a0df96aa0dc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

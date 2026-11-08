@@ -1,0 +1,21 @@
+{
+  "id": "a-arrete",
+  "headword": "arrète",
+  "senses": [
+    {
+      "it": "dietro",
+      "en": "behind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrète: dietro",
+    "rawHash": "c2cd003cc8068965ffe8755e94cb006d73e66623",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

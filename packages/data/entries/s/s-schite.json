@@ -1,0 +1,21 @@
+{
+  "id": "s-schite",
+  "headword": "schite",
+  "senses": [
+    {
+      "it": "pane senza condimento",
+      "en": "bread without seasoning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schite: pane senza condimento",
+    "rawHash": "ea542c24c0666ae890e216152d3f0a8518fd6e51",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

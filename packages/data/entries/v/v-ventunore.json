@@ -1,0 +1,21 @@
+{
+  "id": "v-ventunore",
+  "headword": "vent'un'ore",
+  "senses": [
+    {
+      "it": "21^ ora dopo il tramonto",
+      "en": "21st hour after sunset",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vent'un'ore: 21^ ora dopo il tramonto",
+    "rawHash": "2f22322de50c2de8aa3903fe17243dddb7c0aa6d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

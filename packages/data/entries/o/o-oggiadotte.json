@@ -1,0 +1,21 @@
+{
+  "id": "o-oggiadotte",
+  "headword": "oggiadòtte",
+  "senses": [
+    {
+      "it": "fra una settimana",
+      "en": "in a week, a week from today",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "o",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/o.html",
+    "raw": "oggiadòtte: fra una settimana",
+    "rawHash": "9dba48cbf249146ff3e096d60b6dd2ff9647d2b1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

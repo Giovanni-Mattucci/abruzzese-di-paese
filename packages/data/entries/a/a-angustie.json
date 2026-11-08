@@ -1,0 +1,26 @@
+{
+  "id": "a-angustie",
+  "headword": "angustie",
+  "senses": [
+    {
+      "it": "pena",
+      "en": "distress, suffering",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "stato di angosciosa preoccupazione",
+      "en": "state of anguished worry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "angustie: pena, stato di angosciosa preoccupazione",
+    "rawHash": "fae425ed0b301b9d86a3b0ab2b8498c2ddb55693",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

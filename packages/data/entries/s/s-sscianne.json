@@ -1,0 +1,26 @@
+{
+  "id": "s-sscianne",
+  "headword": "sscianne",
+  "senses": [
+    {
+      "it": "culla",
+      "en": "cradle",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "zana",
+      "en": "wicker cradle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sscianne: culla, zana",
+    "rawHash": "dad8c36d743279d11fee6668bf014e8b767cff93",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

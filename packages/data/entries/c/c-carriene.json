@@ -1,0 +1,21 @@
+{
+  "id": "c-carriene",
+  "headword": "carrìene",
+  "senses": [
+    {
+      "it": "trasportano",
+      "en": "they transport",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carrìene: trasportano",
+    "rawHash": "00d9e01d4373eab707076f6cec0785de0237f065",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

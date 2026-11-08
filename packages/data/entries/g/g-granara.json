@@ -1,0 +1,24 @@
+{
+  "id": "g-granara",
+  "headword": "granara",
+  "variants": [
+    "granare"
+  ],
+  "senses": [
+    {
+      "it": "scopa",
+      "en": "broom",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "granara, granare: scopa",
+    "rawHash": "f992b4479e52f65e8312a149302a296e2f93da59",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

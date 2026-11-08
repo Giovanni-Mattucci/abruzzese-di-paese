@@ -1,0 +1,31 @@
+{
+  "id": "s-statte-bono",
+  "headword": "stàtte bòno",
+  "senses": [
+    {
+      "it": "addio",
+      "en": "farewell",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "arrivederci",
+      "en": "goodbye",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ciao",
+      "en": "bye",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stàtte bòno: addio, arrivederci, ciao",
+    "rawHash": "f3c3f44f1ddaa2121e7b80ccaa80759550ef3c67",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

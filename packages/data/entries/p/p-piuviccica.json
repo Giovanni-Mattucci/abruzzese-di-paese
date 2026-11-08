@@ -1,0 +1,21 @@
+{
+  "id": "p-piuviccica",
+  "headword": "piuviccicà",
+  "senses": [
+    {
+      "it": "si dice quando piove con scarsa entità",
+      "en": "said when it rains lightly, to drizzle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piuviccicà: si dice quando piove con scarsa entità",
+    "rawHash": "ae78431262133e4667271652f689455b4ae30e05",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

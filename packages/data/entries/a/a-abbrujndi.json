@@ -1,0 +1,21 @@
+{
+  "id": "a-abbrujndi",
+  "headword": "abbrujndì",
+  "senses": [
+    {
+      "it": "arroventare",
+      "en": "to make red-hot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbrujndì: arroventare",
+    "rawHash": "d966b4c6ff4ce92d9ddd51e7cf2a5d78b16bf9ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

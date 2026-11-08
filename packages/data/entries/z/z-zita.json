@@ -1,0 +1,24 @@
+{
+  "id": "z-zita",
+  "headword": "zita",
+  "variants": [
+    "zite"
+  ],
+  "senses": [
+    {
+      "it": "sposa",
+      "en": "bride",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zita, zite: sposa",
+    "rawHash": "618031876f00710fb672e06a61e2172d11da6256",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

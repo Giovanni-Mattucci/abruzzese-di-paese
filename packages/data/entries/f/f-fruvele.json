@@ -1,0 +1,26 @@
+{
+  "id": "f-fruvele",
+  "headword": "frùvele",
+  "senses": [
+    {
+      "it": "mortaretto",
+      "en": "firecracker",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "razzo",
+      "en": "rocket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frùvele: mortaretto, razzo",
+    "rawHash": "3ae4f94f5ae7aa6434a20daab90868822463ba70",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

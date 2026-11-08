@@ -1,0 +1,26 @@
+{
+  "id": "s-scumpassate",
+  "headword": "scumpassàte",
+  "senses": [
+    {
+      "it": "superato",
+      "en": "surpassed",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sorpassato",
+      "en": "overtaken",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scumpassàte: superato, sorpassato",
+    "rawHash": "359b07993285af58a393f64bd1015886987410ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

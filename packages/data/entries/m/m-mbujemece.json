@@ -1,0 +1,21 @@
+{
+  "id": "m-mbujemece",
+  "headword": "'mbujèmece",
+  "senses": [
+    {
+      "it": "fermiamoci",
+      "en": "let us stop",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbujèmece: fermiamoci",
+    "rawHash": "9bafb0c907967a574740eb2068ced2e2fd9ee9e3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

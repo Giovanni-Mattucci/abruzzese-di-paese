@@ -1,0 +1,21 @@
+{
+  "id": "c-citele",
+  "headword": "cìtele",
+  "senses": [
+    {
+      "it": "bambino",
+      "en": "child",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cìtele: bambino.",
+    "rawHash": "3701f476fc84a9089de5fdac2df23546f66c587b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,29 @@
+{
+  "id": "f-firzelle",
+  "headword": "firzelle",
+  "senses": [
+    {
+      "it": "striscia sottile",
+      "en": "thin strip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "'na firzelle de terre",
+      "it": "una striscia sittile di terreno",
+      "en": "a thin strip of land",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "firzelle: striscia sottile (es.: 'na firzelle de terre: una striscia sittile di terreno)",
+    "rawHash": "b44fb7cc9c999587e6cf547ad1151212f0691fbe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "r-rugnunate",
+  "headword": "rugnunàte",
+  "article": "la",
+  "senses": [
+    {
+      "it": "interiora degli animali comprendente i reni",
+      "en": "animal offal including the kidneys",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rugnunàte (la): interiora degli animali comprendente i reni",
+    "rawHash": "9743e398b7c05be6c6bba06fa7b85903a0d8afd4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-asena-bandasema",
+  "headword": "asena bandasema",
+  "senses": [
+    {
+      "it": "fantasma",
+      "en": "ghost",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "asena bandasema: fantasma",
+    "rawHash": "d73fde8881040b1a4ae80b84e2553566de4f5953",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

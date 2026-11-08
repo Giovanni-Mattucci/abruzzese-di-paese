@@ -1,0 +1,21 @@
+{
+  "id": "b-boccape",
+  "headword": "boccapè",
+  "senses": [
+    {
+      "it": "rimbambito",
+      "en": "doddering, dim-witted",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "boccapè: rimbambito",
+    "rawHash": "b238e74b64307ff8039508c0322e5ecd44e7af45",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

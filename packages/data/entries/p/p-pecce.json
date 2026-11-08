@@ -1,0 +1,21 @@
+{
+  "id": "p-pecce",
+  "headword": "pècce",
+  "senses": [
+    {
+      "it": "capriccio",
+      "en": "whim, tantrum",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pècce: capriccio",
+    "rawHash": "23f00afddfbe56d0bcd4e4d5995e40dbf56bfea9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

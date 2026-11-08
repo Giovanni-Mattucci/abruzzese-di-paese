@@ -1,0 +1,21 @@
+{
+  "id": "l-limane",
+  "headword": "limàne",
+  "senses": [
+    {
+      "it": "animale",
+      "en": "animal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "limàne: animale",
+    "rawHash": "c89f8b4af878fc7c6b61cd9e9bc74fe4bef92b71",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

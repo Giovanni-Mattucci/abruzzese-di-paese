@@ -1,0 +1,21 @@
+{
+  "id": "l-losche",
+  "headword": "lòsche",
+  "senses": [
+    {
+      "it": "fetta",
+      "en": "slice",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lòsche: fetta",
+    "rawHash": "d2a2a37102c8d28355449b10872955c846665763",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

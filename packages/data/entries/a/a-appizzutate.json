@@ -1,0 +1,21 @@
+{
+  "id": "a-appizzutate",
+  "headword": "appizzutàte",
+  "senses": [
+    {
+      "it": "a punta",
+      "en": "pointed, with a point",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appizzutàte: a punta",
+    "rawHash": "b835a41a8b0774a09d3e596e5c5376b1a0126ca0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

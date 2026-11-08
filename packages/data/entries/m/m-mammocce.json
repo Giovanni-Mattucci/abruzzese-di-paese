@@ -1,0 +1,27 @@
+{
+  "id": "m-mammocce",
+  "headword": "mammocce",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "ragazzo",
+      "en": "boy",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "semplicione",
+      "en": "simpleton",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mammocce (lu): ragazzo, semplicione",
+    "rawHash": "23a6cad4dd6f7db177de97fce9dff8831e491c99",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

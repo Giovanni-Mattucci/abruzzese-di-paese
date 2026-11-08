@@ -1,0 +1,31 @@
+{
+  "id": "s-stuzzate",
+  "headword": "stuzzàte",
+  "senses": [
+    {
+      "it": "rotto",
+      "en": "broken",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "diviso",
+      "en": "divided",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spezzato",
+      "en": "broken off",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stuzzàte: rotto, diviso, spezzato",
+    "rawHash": "ac4e0af95423bace1cf4d7e0c5632a5271a6db79",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

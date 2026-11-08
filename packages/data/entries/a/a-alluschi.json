@@ -1,0 +1,21 @@
+{
+  "id": "a-alluschi",
+  "headword": "alluschì",
+  "senses": [
+    {
+      "it": "vedere",
+      "en": "to see",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "alluschì: vedere",
+    "rawHash": "3664daa3506fce9afb93d6e7cb2199f2b5616b07",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

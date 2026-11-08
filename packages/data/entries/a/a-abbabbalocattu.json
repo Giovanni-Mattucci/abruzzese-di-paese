@@ -1,0 +1,21 @@
+{
+  "id": "a-abbabbalocattu",
+  "headword": "abbabbalocattu",
+  "senses": [
+    {
+      "it": "stupefatto",
+      "en": "astonished, stupefied",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbabbalocattu: stupefatto",
+    "rawHash": "729ca5df8e355b7d9aa29434c4f71a7a19cc6adf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

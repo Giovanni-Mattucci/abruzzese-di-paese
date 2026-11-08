@@ -1,0 +1,21 @@
+{
+  "id": "s-scucula",
+  "headword": "scuculà",
+  "senses": [
+    {
+      "it": "vincere, sconfiggere al gioco lasciando gli avversari disperati",
+      "en": "to win, to defeat at a game leaving the opponents in despair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scuculà: vincere, sconfiggere al gioco lasciando gli avversari disperati",
+    "rawHash": "ddf2a3d7073e366643633fc3e34b01e8c1580910",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-ciosca",
+  "headword": "ciosca",
+  "senses": [
+    {
+      "it": "associazione segreta per delinquere",
+      "en": "secret criminal association",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciosca: associazione segreta per delinquere",
+    "rawHash": "8e5f9fc5cc667fe7aae97ec1d9d4d94f2eba51b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a-add",
+  "headword": "add",
+  "variants": [
+    "adde"
+  ],
+  "senses": [
+    {
+      "it": "alto",
+      "en": "high, tall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "add, adde: alto",
+    "rawHash": "b5981fa70f4d24295a5ad2bd9a292fe0ede825b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

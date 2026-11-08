@@ -1,0 +1,22 @@
+{
+  "id": "s-scallalette",
+  "headword": "scallalette",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "arnese in rame con lungo manico e coperchio bucato che conteneva la brace per riscaldare il letto",
+      "en": "copper utensil with a long handle and a perforated lid that held embers to warm the bed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scallalette (lu): arnese in rame con lungo manico e coperchio bucato che conteneva la brace per riscaldare il letto",
+    "rawHash": "75b170d4b1ff3c340a927621423c9003e66c7bd4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "v-vriscele",
+  "headword": "vriscèle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "stomaco del pollo",
+      "en": "chicken gizzard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vriscèle (lu): stomaco del pollo",
+    "rawHash": "ee69aa65d381fa5a822ab0a95aaf46f48bceb21c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

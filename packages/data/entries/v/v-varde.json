@@ -1,0 +1,21 @@
+{
+  "id": "v-varde",
+  "headword": "vardè",
+  "senses": [
+    {
+      "it": "guardare",
+      "en": "to look",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vardè: guardare",
+    "rawHash": "b6827fb5f429ed45b526f91806a6991c52699ed2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

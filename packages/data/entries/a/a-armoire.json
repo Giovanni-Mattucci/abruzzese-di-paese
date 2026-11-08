@@ -1,0 +1,21 @@
+{
+  "id": "a-armoire",
+  "headword": "armoire",
+  "senses": [
+    {
+      "it": "armadio",
+      "en": "wardrobe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "armoire: armadio",
+    "rawHash": "2122975782dd810439467db075e8d7a44f9e8f55",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

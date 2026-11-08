@@ -1,0 +1,21 @@
+{
+  "id": "l-leccamuse",
+  "headword": "leccamuse",
+  "senses": [
+    {
+      "it": "schiaffo dato con il rovescio della mano",
+      "en": "slap given with the back of the hand",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "leccamuse: schiaffo dato con il rovescio della mano",
+    "rawHash": "9976eee56f18c8d4e3cd4198bd09598d552c18ce",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

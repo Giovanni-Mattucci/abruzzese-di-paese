@@ -1,0 +1,31 @@
+{
+  "id": "c-catorce",
+  "headword": "catòrce",
+  "senses": [
+    {
+      "it": "oggetto o persona logora",
+      "en": "worn-out object or person",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "inservibile",
+      "en": "useless",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "malridotto",
+      "en": "in poor condition, battered",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "catòrce: oggetto o persona logora, inservibile, malridotto",
+    "rawHash": "64ec50d26f57f014c5d249bc1729251bff34fbda",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

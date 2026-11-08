@@ -1,0 +1,21 @@
+{
+  "id": "m-motteju",
+  "headword": "mottèju",
+  "senses": [
+    {
+      "it": "imbuto",
+      "en": "funnel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mottèju: imbuto",
+    "rawHash": "3a557c5653a7e26a9ca78819a2873306eeb49afb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

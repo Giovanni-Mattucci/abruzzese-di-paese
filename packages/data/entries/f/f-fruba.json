@@ -1,0 +1,26 @@
+{
+  "id": "f-fruba",
+  "headword": "frubà",
+  "senses": [
+    {
+      "it": "scorticarsi",
+      "en": "to get scraped, to graze oneself",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "consumarsi",
+      "en": "to wear out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frubà: scorticarsi, consumarsi",
+    "rawHash": "e4c1633f7d8cb2b4db286e206f6abb284f8f5500",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-schenfio",
+  "headword": "schènfio",
+  "senses": [
+    {
+      "it": "persona schizzinosa",
+      "en": "fussy person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schènfio: persona schizzinosa",
+    "rawHash": "0b682208cc1ac7c7d61c3d4a5897913f3e1925c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

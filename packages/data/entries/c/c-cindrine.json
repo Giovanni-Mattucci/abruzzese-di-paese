@@ -1,0 +1,21 @@
+{
+  "id": "c-cindrine",
+  "headword": "cindrine",
+  "senses": [
+    {
+      "it": "cinta",
+      "en": "belt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cindrine: cinta",
+    "rawHash": "a3ceda9d1b43fccd4416928d3cffaae446addf71",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

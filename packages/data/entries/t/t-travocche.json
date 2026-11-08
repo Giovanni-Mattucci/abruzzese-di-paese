@@ -1,0 +1,26 @@
+{
+  "id": "t-travocche",
+  "headword": "travocche",
+  "senses": [
+    {
+      "it": "trabocco, macchina da pesca formata da una struttura non fondata, ma fissata in equilibrio a volte con strallo di cavi e con fissaggio di pali alla roccia, tipica della costa medio adriatica e basso tirrenica italiana. La diversa caratterizzazione della linea costiera ne ha definito la distinzione di due tipologie essenziali: quella abruzzese che si distingue per esser posizionata trasversalmente rispetto alla costa cui è collegata da passerelle, e quella garganica, costruita a filo costa con piattaforma disposta longitudinalmente",
+      "en": "trabocco, a fishing machine consisting of a structure that is not founded but fixed in balance, sometimes with cable stays and with poles fastened to the rock, typical of the central Adriatic and lower Tyrrhenian coasts of Italy. The differing character of the coastline has defined the distinction between two essential types: the Abruzzese one, which stands out for being positioned transversely to the coast, to which it is connected by walkways, and the Gargano one, built flush with the coast with a platform arranged lengthwise",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "nella zona di Latina si potrebbero citare «i bilancioni», piccole macchine dedite alla pesca statica situate nelle acque senza correnti di grandi canali che sboccano al mare, e «le padelle», una sorta di sbarramento mobile impiegato nei cordoni di dune lungo il litorale di Ravenna fin dal XIV secolo, con capanno adiacente",
+      "en": "in the Latina area one could mention «i bilancioni», small machines used for static fishing located in the still waters of large canals that flow into the sea, and «le padelle», a sort of movable barrier used in the dune cordons along the Ravenna coastline since the 14th century, with an adjacent hut",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "travocche: trabocco, macchina da pesca formata da una struttura non fondata, ma fissata in equilibrio a volte con strallo di cavi e con fissaggio di pali alla roccia, tipica della costa medio adriatica e basso tirrenica italiana. La diversa caratterizzazione della linea costiera ne ha definito la distinzione di due tipologie essenziali: quella abruzzese che si distingue per esser posizionata trasversalmente rispetto alla costa cui è collegata da passerelle, e quella garganica, costruita a filo costa con piattaforma disposta longitudinalmente; nella zona di Latina si potrebbero citare «i bilancioni», piccole macchine dedite alla pesca statica situate nelle acque senza correnti di grandi canali che sboccano al mare, e «le padelle», una sorta di sbarramento mobile impiegato nei cordoni di dune lungo il litorale di Ravenna fin dal XIV secolo, con capanno adiacente",
+    "rawHash": "4418e887c21563a2703de51b53e50cfe235d3d01",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

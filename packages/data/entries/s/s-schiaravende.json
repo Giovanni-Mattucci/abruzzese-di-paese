@@ -1,0 +1,21 @@
+{
+  "id": "s-schiaravende",
+  "headword": "schiaravende",
+  "senses": [
+    {
+      "it": "pioggia o nevicata gagliarda di breve durata",
+      "en": "heavy rain or snowfall of short duration",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiaravende: pioggia o nevicata gagliarda di breve durata",
+    "rawHash": "b1de68b28e2cad1194c817ce4ff03f95b1091e78",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

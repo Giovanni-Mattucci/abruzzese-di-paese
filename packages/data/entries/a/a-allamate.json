@@ -1,0 +1,21 @@
+{
+  "id": "a-allamate",
+  "headword": "allamate",
+  "senses": [
+    {
+      "it": "infangato",
+      "en": "muddy, covered in mud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allamate: infangato",
+    "rawHash": "47c92540bf38513ea81b65c8c8b81cec2cd1b3b3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

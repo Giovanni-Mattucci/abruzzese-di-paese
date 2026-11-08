@@ -1,0 +1,21 @@
+{
+  "id": "t-teppone",
+  "headword": "teppòne",
+  "senses": [
+    {
+      "it": "zolla",
+      "en": "clod",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "teppòne: zolla",
+    "rawHash": "bca5b19e5cf0f5737093f56e67fd13b94d87c785",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

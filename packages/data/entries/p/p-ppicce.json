@@ -1,0 +1,31 @@
+{
+  "id": "p-ppicce",
+  "headword": "ppicce",
+  "senses": [
+    {
+      "it": "capricci",
+      "en": "whims, tantrums",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scuse",
+      "en": "excuses",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "giustificazioni",
+      "en": "justifications",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "ppicce: capricci, scuse, giustificazioni",
+    "rawHash": "18306e14151c274e9ff849219f4bb0b4f4959ea0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

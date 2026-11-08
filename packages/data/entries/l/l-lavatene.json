@@ -1,0 +1,22 @@
+{
+  "id": "l-lavatene",
+  "headword": "lavatène",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "clistere",
+      "en": "enema",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lavatène (lu): clistere",
+    "rawHash": "568a9c8ae96266568da72d114d83edf4abdbe292",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

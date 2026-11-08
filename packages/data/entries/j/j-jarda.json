@@ -1,0 +1,35 @@
+{
+  "id": "j-jarda",
+  "headword": "jardà",
+  "senses": [
+    {
+      "it": "gli ridà",
+      "en": "he gives it back to him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gli rende, restituisce",
+      "en": "he returns it to him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "è preciso, riferito al risultato di un calcolo o a qualcosa che riesce con precisione",
+      "en": "it is exact, said of the result of a calculation or of something that comes out precisely",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: jardà gli rende, restituisce",
+    "Source line: o a qualcosa che riesce con precisione"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jardà: gli ridà, è preciso, riferito al risultato di un calcolo",
+    "rawHash": "b49a4602e6cae6e4e00370fec92917e7902fc404",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

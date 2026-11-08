@@ -1,0 +1,22 @@
+{
+  "id": "d-da-lu",
+  "headword": "da lu",
+  "pos": "prep. art.",
+  "senses": [
+    {
+      "it": "dal",
+      "en": "from the (masculine singular)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "da lu: dal (prep. art.)",
+    "rawHash": "1d46c4d73ac4a9bd74a5319e213c1177576178f2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

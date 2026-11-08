@@ -1,0 +1,21 @@
+{
+  "id": "n-ndra",
+  "headword": "'ndrà",
+  "senses": [
+    {
+      "it": "entrare",
+      "en": "to enter",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndrà: entrare",
+    "rawHash": "38c5303c5d88f91aee46de9fa6d13729de6a9d8f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

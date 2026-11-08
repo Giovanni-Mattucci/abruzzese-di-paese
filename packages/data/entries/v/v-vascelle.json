@@ -1,0 +1,21 @@
+{
+  "id": "v-vascelle",
+  "headword": "vascelle",
+  "senses": [
+    {
+      "it": "botte di rovere",
+      "en": "oak cask",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vascelle: botte di rovere",
+    "rawHash": "d81a979fa619439056e707718fb3f61dcaafb638",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

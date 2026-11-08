@@ -1,0 +1,21 @@
+{
+  "id": "m-munachelle",
+  "headword": "munachelle",
+  "senses": [
+    {
+      "it": "fuocherelli",
+      "en": "small fires",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "munachelle: fuocherelli",
+    "rawHash": "7daa4c733be6148793fef7324604c2e81993aa9b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

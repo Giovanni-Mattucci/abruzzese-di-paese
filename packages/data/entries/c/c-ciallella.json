@@ -1,0 +1,21 @@
+{
+  "id": "c-ciallella",
+  "headword": "ciallella",
+  "senses": [
+    {
+      "it": "verdura di montagna e pane bagnato",
+      "en": "mountain greens and soaked bread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciallella: verdura di montagna e pane bagnato",
+    "rawHash": "850dd9b487e3c8d4509d5c765778922694087375",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

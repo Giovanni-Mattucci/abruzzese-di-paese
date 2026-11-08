@@ -1,0 +1,21 @@
+{
+  "id": "a-accede",
+  "headword": "accède",
+  "senses": [
+    {
+      "it": "uccidere",
+      "en": "to kill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accède: uccidere",
+    "rawHash": "c959b23d262515ac13400bd377b25e0c2b18e986",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-crivelle",
+  "headword": "crivelle",
+  "senses": [
+    {
+      "it": "utensile per setacciare il grano dalla polvere di terra",
+      "en": "tool for sifting wheat from soil dust",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crivelle: utensile per setacciare il grano dalla polvere di terra",
+    "rawHash": "00281efb543a957dbcfd129f48c5a386aed81321",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

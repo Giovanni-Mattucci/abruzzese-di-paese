@@ -1,0 +1,21 @@
+{
+  "id": "j-jite",
+  "headword": "jite",
+  "senses": [
+    {
+      "it": "andato",
+      "en": "gone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jite: andato",
+    "rawHash": "74c6b995cc3f4e987620f2a372baaa45fdc18ff1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

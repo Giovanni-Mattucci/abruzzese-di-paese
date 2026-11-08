@@ -1,0 +1,26 @@
+{
+  "id": "a-a-uffe",
+  "headword": "a uffe",
+  "senses": [
+    {
+      "it": "senza pagare",
+      "en": "without paying",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gratis",
+      "en": "free of charge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a uffe: senza pagare, gratis",
+    "rawHash": "070cddc99921cef34c7c507075fd1cb4f3b394f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

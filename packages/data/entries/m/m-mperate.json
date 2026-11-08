@@ -1,0 +1,21 @@
+{
+  "id": "m-mperate",
+  "headword": "'mperate",
+  "senses": [
+    {
+      "it": "irrigidito",
+      "en": "stiffened",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mperate: irrigidito",
+    "rawHash": "d1e1dfb755708b70e40c99c2febb075b9782c35b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f-fonache",
+  "headword": "fònache",
+  "senses": [
+    {
+      "it": "scantinato",
+      "en": "basement",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cantina",
+      "en": "cellar",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fònache: scantinato, cantina",
+    "rawHash": "3da10ae333dfb61149cb47f7f796c5a61123e12e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

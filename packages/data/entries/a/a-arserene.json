@@ -1,0 +1,21 @@
+{
+  "id": "a-arserene",
+  "headword": "arserene",
+  "senses": [
+    {
+      "it": "rasserena",
+      "en": "clears up, brightens (of the sky)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arserene: rasserena",
+    "rawHash": "7683a54a005cf9e3303aeab1e2802d43e7215d15",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}
