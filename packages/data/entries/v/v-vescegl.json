@@ -1,0 +1,24 @@
+{
+  "id": "v-vescegl",
+  "headword": "vescegl",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "quercia",
+      "en": "oak",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vescegl: quercia (Montebello sul Sangro)",
+    "rawHash": "e94bb111dbf484fef0cfc1939dce9a723dddf2a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

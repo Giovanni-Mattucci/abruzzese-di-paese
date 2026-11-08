@@ -1,0 +1,21 @@
+{
+  "id": "t-tajafine",
+  "headword": "tajafìne",
+  "senses": [
+    {
+      "it": "taglia fieno (ammucchiato nel pagliaio)",
+      "en": "hay cutter (for hay piled in the hayloft)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tajafìne: taglia fieno (ammucchiato nel pagliaio)",
+    "rawHash": "2c526d52733c0867b056d87a9e852420438bf1e5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

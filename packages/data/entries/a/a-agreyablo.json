@@ -1,0 +1,21 @@
+{
+  "id": "a-agreyablo",
+  "headword": "agreyablo",
+  "senses": [
+    {
+      "it": "piacevole",
+      "en": "pleasant",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "agreyablo: piacevole",
+    "rawHash": "05bf94a9b2d2e8aa60b80661f8270e53d5363315",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

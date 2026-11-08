@@ -1,0 +1,24 @@
+{
+  "id": "n-nschwait-manc-nanze",
+  "headword": "n'schwait manc nanzè",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "non si vede niente",
+      "en": "nothing can be seen",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "n'schwait manc nanzè: non si vede niente (M. sul S.)",
+    "rawHash": "a9e9ec176eec923da3cfe2877e4b44af0c870d94",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

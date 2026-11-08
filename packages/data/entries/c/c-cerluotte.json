@@ -1,0 +1,21 @@
+{
+  "id": "c-cerluotte",
+  "headword": "cerluotte",
+  "senses": [
+    {
+      "it": "pantofole",
+      "en": "slippers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cerluotte: pantofole",
+    "rawHash": "b1e76c20acc8e26bff286785ed78ca93190744f7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

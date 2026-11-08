@@ -1,0 +1,21 @@
+{
+  "id": "g-gemeje",
+  "headword": "gemeje",
+  "senses": [
+    {
+      "it": "giammai",
+      "en": "never",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gemeje: giammai",
+    "rawHash": "e8d177fd7816b116e6189f3177ee74b3349cade7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

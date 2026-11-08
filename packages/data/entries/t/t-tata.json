@@ -1,0 +1,26 @@
+{
+  "id": "t-tata",
+  "headword": "tatà",
+  "senses": [
+    {
+      "it": "padre",
+      "en": "father",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "papà",
+      "en": "dad",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tatà: padre, papà",
+    "rawHash": "e675aaf0f13aa5dcb05a65bbbc9d91b5649d2cff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cascheme",
+  "headword": "caschème",
+  "senses": [
+    {
+      "it": "cadiamo",
+      "en": "we fall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caschème: cadiamo",
+    "rawHash": "c08ba2a47dd72611f47932016587867c90644f69",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "n-nieste",
+  "headword": "nieste",
+  "senses": [
+    {
+      "it": "presto, subito, usato anche per: a sufficienza",
+      "en": "soon, right away; also used for: enough, sufficiently",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nieste: presto, subito, usato anche per: a sufficienza",
+    "rawHash": "8311676779a04b5354318e068f2a04f4a0f31855",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

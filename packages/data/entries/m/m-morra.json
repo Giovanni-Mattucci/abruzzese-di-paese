@@ -1,0 +1,21 @@
+{
+  "id": "m-morra",
+  "headword": "morra",
+  "senses": [
+    {
+      "it": "branco",
+      "en": "herd, flock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "morra: branco",
+    "rawHash": "6575840a9022a6521cfa6af02f2975d77bdb23d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

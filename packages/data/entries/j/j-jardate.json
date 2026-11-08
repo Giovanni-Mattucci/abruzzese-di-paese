@@ -1,0 +1,29 @@
+{
+  "id": "j-jardate",
+  "headword": "jardàte",
+  "senses": [
+    {
+      "it": "gli ha reso, restituito",
+      "en": "he gave it back, returned it to him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "usato pure per dire che un conto, un calcolo, una teoria, un'idea, ecc. sono giusti",
+      "en": "also used to say that a sum, a calculation, a theory, an idea, etc. is correct",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: un calcolo, una teoria, un'idea, ecc. sono giusti"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jardàte: gli ha reso, restituito, ma usato pure per dire che un conto",
+    "rawHash": "ac0e658f3c77674e8e4d24f2ea53026b94430c4a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

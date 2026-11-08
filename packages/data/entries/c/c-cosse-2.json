@@ -1,0 +1,21 @@
+{
+  "id": "c-cosse-2",
+  "headword": "cosse",
+  "senses": [
+    {
+      "it": "coscia",
+      "en": "thigh",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cosse: coscia",
+    "rawHash": "0a78f6a8e403a6e8eeec2a9ccab54c9306c33e17",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

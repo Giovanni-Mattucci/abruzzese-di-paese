@@ -1,0 +1,21 @@
+{
+  "id": "v-vezzoche",
+  "headword": "vezzoche",
+  "senses": [
+    {
+      "it": "pinzocheta",
+      "en": "sanctimonious woman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vezzoche: pinzocheta",
+    "rawHash": "914fb5ee68e98b9206ca087b5dda20d0a42aba03",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

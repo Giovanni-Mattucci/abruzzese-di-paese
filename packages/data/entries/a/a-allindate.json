@@ -1,0 +1,21 @@
+{
+  "id": "a-allindate",
+  "headword": "allindate",
+  "senses": [
+    {
+      "it": "stanco",
+      "en": "tired",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allindate: stanco",
+    "rawHash": "d5a7cd8060b3f8df2934c1b61a2aaa224236c4b4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

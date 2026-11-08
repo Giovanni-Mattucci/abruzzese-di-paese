@@ -1,0 +1,26 @@
+{
+  "id": "v-veertele",
+  "headword": "vèertele",
+  "senses": [
+    {
+      "it": "pertica",
+      "en": "pole, perch",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lungo bastone",
+      "en": "long stick",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vèertele: pertica, lungo bastone",
+    "rawHash": "e5ab9c76225f227f98f41bcf44d73150c295f872",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

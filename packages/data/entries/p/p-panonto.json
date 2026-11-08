@@ -1,0 +1,21 @@
+{
+  "id": "p-panonto",
+  "headword": "panònto",
+  "senses": [
+    {
+      "it": "unto",
+      "en": "greasy, oily",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "panònto: unto",
+    "rawHash": "44722291110b4cd0e41497ca6acd62e235882655",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

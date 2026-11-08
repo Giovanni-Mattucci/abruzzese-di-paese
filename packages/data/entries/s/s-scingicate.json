@@ -1,0 +1,21 @@
+{
+  "id": "s-scingicate",
+  "headword": "scingicate",
+  "senses": [
+    {
+      "it": "disordinato",
+      "en": "untidy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scingicate: disordinato",
+    "rawHash": "deb0c4037864d3d5a412449380f0a0ae110b6ba6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-saddunate",
+  "headword": "s'addunàte",
+  "senses": [
+    {
+      "it": "si è accorto",
+      "en": "he noticed, he realized",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "s'addunàte: si è accorto",
+    "rawHash": "688db249e254748b270eedc7ed6894fc04c06b6f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

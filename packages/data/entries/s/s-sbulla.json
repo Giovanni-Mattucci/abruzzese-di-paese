@@ -1,0 +1,26 @@
+{
+  "id": "s-sbulla",
+  "headword": "sbullà",
+  "senses": [
+    {
+      "it": "aprire qualcosa chiusa",
+      "en": "to open something closed",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sigillata",
+      "en": "sealed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbullà: aprire qualcosa chiusa, sigillata",
+    "rawHash": "48347997dde632d564c4d6a89b75a16396b9ce4f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-acchiapparelle",
+  "headword": "acchiapparelle",
+  "senses": [
+    {
+      "it": "molletta per il bucato",
+      "en": "clothes peg",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acchiapparelle: molletta per il bucato",
+    "rawHash": "f0f2199e3db501970e4ecb2b5058e42628d67d5c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

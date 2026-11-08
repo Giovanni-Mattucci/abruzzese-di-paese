@@ -1,0 +1,21 @@
+{
+  "id": "c-carvone",
+  "headword": "carvòne",
+  "senses": [
+    {
+      "it": "carbone",
+      "en": "coal, charcoal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carvòne: carbone",
+    "rawHash": "f7a870c4dbfa94fae8673a019538c3898156e692",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

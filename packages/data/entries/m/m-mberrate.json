@@ -1,0 +1,21 @@
+{
+  "id": "m-mberrate",
+  "headword": "'mberrate",
+  "senses": [
+    {
+      "it": "duro",
+      "en": "hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mberrate: duro",
+    "rawHash": "a8fb79778d629482ce1b88705e5d71918451c088",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

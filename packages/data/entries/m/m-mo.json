@@ -1,0 +1,21 @@
+{
+  "id": "m-mo",
+  "headword": "mò",
+  "senses": [
+    {
+      "it": "adesso",
+      "en": "now",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mò: adesso",
+    "rawHash": "6cd12374a612a2d28801afc8d301ed1c558e2b79",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

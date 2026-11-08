@@ -1,0 +1,21 @@
+{
+  "id": "f-favce",
+  "headword": "fàvce",
+  "senses": [
+    {
+      "it": "falce",
+      "en": "scythe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fàvce: falce",
+    "rawHash": "c1f28752c876b37ac3a81170063d77e872dc6851",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

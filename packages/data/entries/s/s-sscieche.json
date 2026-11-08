@@ -1,0 +1,21 @@
+{
+  "id": "s-sscieche",
+  "headword": "sscieche",
+  "senses": [
+    {
+      "it": "asino",
+      "en": "donkey",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sscieche: asino",
+    "rawHash": "4e2d5a173678981993cdda080ed355ecf72b88a8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

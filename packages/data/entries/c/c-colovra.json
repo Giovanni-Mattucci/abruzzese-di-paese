@@ -1,0 +1,21 @@
+{
+  "id": "c-colovra",
+  "headword": "colovra",
+  "senses": [
+    {
+      "it": "biscia",
+      "en": "grass snake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "colovra: biscia",
+    "rawHash": "a2fb3f26d0bed2acd4ffaa4d46dec01633d21860",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

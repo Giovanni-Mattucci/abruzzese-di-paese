@@ -1,0 +1,22 @@
+{
+  "id": "s-screme",
+  "headword": "scrème",
+  "article": "la",
+  "senses": [
+    {
+      "it": "riga che divide i capelli",
+      "en": "parting in the hair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scrème (la): riga che divide i capelli",
+    "rawHash": "a97270c823ca6f2895fbc5aa2e93d04109962174",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

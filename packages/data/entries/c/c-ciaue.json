@@ -1,0 +1,21 @@
+{
+  "id": "c-ciaue",
+  "headword": "ciàue",
+  "senses": [
+    {
+      "it": "ciao",
+      "en": "hello, bye (ciao)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciàue: ciao",
+    "rawHash": "11e6bfc16cd4394a3396a18ff1cc39c3795a96ab",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

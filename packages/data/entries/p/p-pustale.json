@@ -1,0 +1,21 @@
+{
+  "id": "p-pustale",
+  "headword": "pustàle",
+  "senses": [
+    {
+      "it": "autobus che va fuori città corriera",
+      "en": "bus that goes out of town, coach",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pustàle: autobus che va fuori città corriera",
+    "rawHash": "745ff60f4a8e93fb20047ccfd5654288944497cd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

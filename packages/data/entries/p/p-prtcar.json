@@ -1,0 +1,24 @@
+{
+  "id": "p-prtcar",
+  "headword": "prtcar",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "aratro",
+      "en": "plough",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prtcar: aratro (M. sul S.)",
+    "rawHash": "52fab9f89005fe92cd6a829f3bc55eee3c1e699e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

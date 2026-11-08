@@ -1,0 +1,21 @@
+{
+  "id": "a-appezzunete",
+  "headword": "appezzunète",
+  "senses": [
+    {
+      "it": "maleodorante",
+      "en": "foul-smelling",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appezzunète: maleodorante",
+    "rawHash": "ef8977c1b61ff656477655a879d6c912fb7464c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

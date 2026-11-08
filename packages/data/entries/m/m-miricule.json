@@ -1,0 +1,21 @@
+{
+  "id": "m-miricule",
+  "headword": "mirìcule",
+  "senses": [
+    {
+      "it": "more delle siepi",
+      "en": "hedge blackberries",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mirìcule: more delle siepi",
+    "rawHash": "5231817d5151b85e60598f7305dba0c1ba766f81",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

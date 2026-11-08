@@ -1,0 +1,21 @@
+{
+  "id": "d-dice",
+  "headword": "dìce",
+  "senses": [
+    {
+      "it": "dieci",
+      "en": "ten",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dìce: dieci",
+    "rawHash": "d09c29e2444b510d49e293c2e81e74b5e864b101",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

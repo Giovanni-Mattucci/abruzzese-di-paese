@@ -1,0 +1,22 @@
+{
+  "id": "b-bbagne",
+  "headword": "bbagne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "prigione borbonica per detenuti politici",
+      "en": "Bourbon prison for political prisoners",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbagne (lu): prigione borbonica per detenuti politici.",
+    "rawHash": "df0df301b5818a8cd84cd8260e096fe3e7762218",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

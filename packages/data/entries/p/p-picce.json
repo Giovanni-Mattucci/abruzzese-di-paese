@@ -1,0 +1,21 @@
+{
+  "id": "p-picce",
+  "headword": "pìcce",
+  "senses": [
+    {
+      "it": "capricci",
+      "en": "whims, tantrums",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pìcce: capricci",
+    "rawHash": "8b390b90314bf9b1113c81a538065830e9e12d9c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-muccecaco",
+  "headword": "muccecaco",
+  "senses": [
+    {
+      "it": "spregiativo giocato sui due significati di muco (del budello d'animale macellato e del naso) e di Cecò-Cacò",
+      "en": "derogatory term playing on the two meanings of muco (mucus: of the gut of a slaughtered animal and of the nose) and of Cecò-Cacò",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muccecaco: spregiativo giocato sui due significati di muco (del budello d'animale macellato e del naso) e di Cecò-Cacò",
+    "rawHash": "b8ff35f7d7faf2605711de51012d4b694916af52",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

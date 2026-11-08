@@ -1,0 +1,21 @@
+{
+  "id": "c-cicenterre",
+  "headword": "cicenterre",
+  "senses": [
+    {
+      "it": "capinera",
+      "en": "blackcap (bird)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cicenterre: capinera",
+    "rawHash": "4261c6dc977f629588df5ac43317b96f89d3d4a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

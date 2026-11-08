@@ -1,0 +1,24 @@
+{
+  "id": "e-ecchile",
+  "headword": "ècchile",
+  "variants": [
+    "ecchilè"
+  ],
+  "senses": [
+    {
+      "it": "eccolo",
+      "en": "here he is, here it is",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "ècchile, ecchilè: eccolo",
+    "rawHash": "89efcf1f0d33873b8c5849ed188f050751ec67d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

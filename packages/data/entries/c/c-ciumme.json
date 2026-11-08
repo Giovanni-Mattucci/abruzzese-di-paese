@@ -1,0 +1,26 @@
+{
+  "id": "c-ciumme",
+  "headword": "ciumme",
+  "senses": [
+    {
+      "it": "rialzo",
+      "en": "bump, rise",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gobba",
+      "en": "hump",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciumme: rialzo, gobba",
+    "rawHash": "f295b413469da281e4c9de6cbf038b048a139fdc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

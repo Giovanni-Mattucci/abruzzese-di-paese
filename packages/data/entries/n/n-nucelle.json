@@ -1,0 +1,27 @@
+{
+  "id": "n-nucelle",
+  "headword": "nucélle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "nocciolina",
+      "en": "little hazelnut, peanut",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "arachide",
+      "en": "peanut",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nucélle (la): nocciolina, arachide",
+    "rawHash": "bb1ac392dfcef0d545a3709770159b2fcfef527f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

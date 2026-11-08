@@ -1,0 +1,21 @@
+{
+  "id": "p-purtialle",
+  "headword": "purtialle",
+  "senses": [
+    {
+      "it": "arancio",
+      "en": "orange, orange tree",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "purtialle: arancio",
+    "rawHash": "823790bccdb67f6c6689e7f9eef20cd9acaa01ee",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

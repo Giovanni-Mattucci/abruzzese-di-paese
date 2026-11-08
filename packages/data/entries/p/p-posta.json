@@ -1,0 +1,21 @@
+{
+  "id": "p-posta",
+  "headword": "posta",
+  "senses": [
+    {
+      "it": "luogo di sosta",
+      "en": "resting place, stopping place",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "posta: luogo di sosta",
+    "rawHash": "48c55288a7ab9cede2cacb30cc536c3bff43ce5a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

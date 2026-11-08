@@ -1,0 +1,21 @@
+{
+  "id": "v-veta",
+  "headword": "veta",
+  "senses": [
+    {
+      "it": "dita",
+      "en": "fingers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "veta: dita",
+    "rawHash": "c0515ede0ac6bcc38e719861c82dbfbd5d0d0b9d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

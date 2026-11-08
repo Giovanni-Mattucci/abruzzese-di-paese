@@ -1,0 +1,26 @@
+{
+  "id": "f-farrone",
+  "headword": "farrone",
+  "senses": [
+    {
+      "it": "farro",
+      "en": "spelt",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "grano duro",
+      "en": "durum wheat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "farrone: farro, grano duro",
+    "rawHash": "197d8b4fa73208a314b02696e88be3b06b1a1a19",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

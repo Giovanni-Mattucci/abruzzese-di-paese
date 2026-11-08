@@ -1,0 +1,22 @@
+{
+  "id": "t-tojo",
+  "headword": "Tòjo",
+  "variants": [
+    "Tojine"
+  ],
+  "senses": [
+    {
+      "it": "Vittorio"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "Tòjo, Tojine: Vittorio",
+    "rawHash": "89d8f1dde375730aff95a981d0fed5e44c40aaf4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c-cetrene",
+  "headword": "cetrêne",
+  "variants": [
+    "cetròne"
+  ],
+  "article": "lu",
+  "senses": [
+    {
+      "it": "anguria",
+      "en": "watermelon",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cetrêne,cetròne (lu): anguria",
+    "rawHash": "2bedaf816665b060947bb99163f9b8ff2f947690",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

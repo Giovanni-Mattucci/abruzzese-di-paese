@@ -1,0 +1,21 @@
+{
+  "id": "s-spapana",
+  "headword": "spapanà",
+  "senses": [
+    {
+      "it": "allargare troppo",
+      "en": "to widen too much",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spapanà: allargare troppo",
+    "rawHash": "ed88c6c212ea5b03adff4815daa1e64a50d1fe97",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-mante",
+  "headword": "mànte",
+  "senses": [
+    {
+      "it": "coperta",
+      "en": "blanket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mànte: coperta",
+    "rawHash": "e6e5d713c1aee91a7b22dd8d99b1a457203a82cd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

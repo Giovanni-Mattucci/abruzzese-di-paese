@@ -1,0 +1,21 @@
+{
+  "id": "n-nibbele",
+  "headword": "nìbbele",
+  "senses": [
+    {
+      "it": "ginepro (fra-i-nibbele: fra i ginepri )",
+      "en": "juniper (fra-i-nibbele: among the junipers)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nìbbele: ginepro (fra-i-nibbele: fra i ginepri )",
+    "rawHash": "4b4d55e2e12bf95937a2f1fd23884f6fedc7903e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

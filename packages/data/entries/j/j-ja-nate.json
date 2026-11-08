@@ -1,0 +1,21 @@
+{
+  "id": "j-ja-nate",
+  "headword": "ja nate",
+  "senses": [
+    {
+      "it": "gli è nato",
+      "en": "was born to him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja nate: gli è nato",
+    "rawHash": "7b8265c21c8d688dad30d20cdfc3e1a23812e110",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

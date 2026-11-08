@@ -1,0 +1,21 @@
+{
+  "id": "c-chicocce",
+  "headword": "chicòcce",
+  "senses": [
+    {
+      "it": "zucca",
+      "en": "pumpkin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chicòcce: zucca",
+    "rawHash": "f2f9f63f4a6e5c19472eacea19d9d49a94fc4e67",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-allenza",
+  "headword": "allenzà",
+  "senses": [
+    {
+      "it": "cominciare a fare uova",
+      "en": "to begin laying eggs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allenzà: cominciare a fare uova",
+    "rawHash": "963b4ed7de7e43de4ef77fd03a0bc748be3e9528",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

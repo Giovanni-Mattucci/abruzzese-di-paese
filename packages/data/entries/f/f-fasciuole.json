@@ -1,0 +1,21 @@
+{
+  "id": "f-fasciuole",
+  "headword": "fasciuole",
+  "senses": [
+    {
+      "it": "fagiolo. \"Li fasciuole spuricarielle\" sono i fagioli freschi da sbucciare",
+      "en": "bean. \"Li fasciuole spuricarielle\" are fresh beans to be shelled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fasciuole: fagiolo. \"Li fasciuole spuricarielle\" sono i fagioli freschi da sbucciare",
+    "rawHash": "dee49e3b111d07f765171757ee5ef8bcad9e68c8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

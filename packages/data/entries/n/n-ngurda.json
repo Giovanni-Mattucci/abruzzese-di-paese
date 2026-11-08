@@ -1,0 +1,29 @@
+{
+  "id": "n-ngurda",
+  "headword": "'ngurdà",
+  "senses": [
+    {
+      "it": "incordare, si sdopera anche per descrivere una condizione fisica, quando ci si sente molto legati, per essere stati troppo fermi",
+      "en": "to stiffen up; also used to describe a physical condition, when one feels very stiff from having stayed still too long",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "mò m'hja stenne mbò, me sente tutte ngurdàte. Adesso devo stendermi un po'",
+      "it": "stendersi, nel senso di stendere braccia e gambe, oltre a fare altri movimenti per alleggerire muscoli e nervi), mi sento tutto legato, incordato",
+      "en": "to stretch out, in the sense of stretching arms and legs, as well as making other movements to loosen muscles and nerves), I feel all stiff, knotted up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ngurdà: incordare, si sdopera anche per descrivere una condizione fisica, quando ci si sente molto legati, per essere stati troppo fermi. Es.: mò m'hja stenne mbò, me sente tutte ngurdàte. Adesso devo stendermi un po' (stendersi, nel senso di stendere braccia e gambe, oltre a fare altri movimenti per alleggerire muscoli e nervi), mi sento tutto legato, incordato",
+    "rawHash": "603f27236e045d6cfce68306d9f3745ee1887dc2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

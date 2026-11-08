@@ -1,0 +1,21 @@
+{
+  "id": "a-auardeme-2",
+  "headword": "auardème",
+  "senses": [
+    {
+      "it": "guardiamo",
+      "en": "let us look",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "auardème: guardiamo",
+    "rawHash": "3d7855710436bc14f58b7b457152b25a0831e57c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "l-lemete",
+  "headword": "lèmete",
+  "senses": [
+    {
+      "it": "limite",
+      "en": "limit",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "confine",
+      "en": "boundary",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lèmete: limite, confine",
+    "rawHash": "b4f642a66376e75eab45cbd06eb3098aa1241fe0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

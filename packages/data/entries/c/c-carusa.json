@@ -1,0 +1,31 @@
+{
+  "id": "c-carusa",
+  "headword": "carusà",
+  "senses": [
+    {
+      "it": "tosare",
+      "en": "to shear",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "depilare",
+      "en": "to remove hair",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tagliare pelo o capelli",
+      "en": "to cut fur or hair",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carusà: tosare, depilare, tagliare pelo o capelli",
+    "rawHash": "77be70bf6723cddb70ba4a239f1756f03d84167a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

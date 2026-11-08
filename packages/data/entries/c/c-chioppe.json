@@ -1,0 +1,21 @@
+{
+  "id": "c-chioppe",
+  "headword": "chioppe",
+  "senses": [
+    {
+      "it": "scarponi",
+      "en": "heavy boots",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chioppe: scarponi",
+    "rawHash": "e48797db8f2f22039d16765937ca72bae2ff72be",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

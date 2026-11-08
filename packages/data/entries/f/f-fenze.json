@@ -1,0 +1,21 @@
+{
+  "id": "f-fenze",
+  "headword": "fenze",
+  "senses": [
+    {
+      "it": "siepe",
+      "en": "hedge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fenze: siepe",
+    "rawHash": "b88f9d8814d7f813436c5ea01bf33f053943691c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-tumbagne",
+  "headword": "tumbagne",
+  "senses": [
+    {
+      "it": "piano di legno per lavorare il formaggio",
+      "en": "wooden board for working cheese",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tumbagne: piano di legno per lavorare il formaggio",
+    "rawHash": "56f9b81dfd0df1b1bb8e83a63583407907642059",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

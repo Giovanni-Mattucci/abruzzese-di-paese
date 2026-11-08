@@ -1,0 +1,21 @@
+{
+  "id": "v-vone",
+  "headword": "vone",
+  "senses": [
+    {
+      "it": "vino",
+      "en": "wine",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vone: vino",
+    "rawHash": "8c726d274a2f3b75c31c882a3abea7e8f8965750",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

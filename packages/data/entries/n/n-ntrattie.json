@@ -1,0 +1,36 @@
+{
+  "id": "n-ntrattie",
+  "headword": "'ntrattiè",
+  "variants": [
+    "si volevano allontanare i bambini. È tipica la frase"
+  ],
+  "senses": [
+    {
+      "it": "letteralmente vuol dire intrattenimento, ma la parola, di solito, era usata dagli adulti quando, per qualsiasi motivo, si volevano allontanare i bambini",
+      "en": "literally means entertainment, but the word was usually used by adults when, for whatever reason, they wanted to send the children away",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "va da la zie ca ti dà na nzè di 'ntrattiè",
+      "it": "vai da zia che ti dà un po' d'intrattenimento",
+      "en": "go to your aunt, she will give you a bit of entertainment",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: per qualsiasi motivo, si volevano allontanare i bambini. È tipica la frase: va da la zie ca ti dà na nzè di",
+    "Source line: ntrattiè (vai da zia che ti da un po' d'intrattenimento)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ntrattiè: letteralmente vuol dire intrattenimento, ma la parola, di solito, era usata dagli adulti quando,",
+    "rawHash": "924c650f636d1f034ef7d8e7d8ddd32da345ad6c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-merenne",
+  "headword": "merenne",
+  "senses": [
+    {
+      "it": "mirando",
+      "en": "aiming",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "merenne: mirando",
+    "rawHash": "1178c84d252e4c4d3e47e9d01f31580430aa7a59",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,116 @@
+/*
+ * Abruzzese di paese design tokens.
+ * This file is the ONLY place where colours, fonts, spacing and radius are defined.
+ * Components use the semantic Tailwind utilities generated from @theme below
+ * (bg-background, text-primary, font-heading, rounded-lg, ...), never raw values.
+ *
+ * A colour, font or radius refresh replaces the token blocks here, or adds a new
+ * [data-theme="..."] block, without touching component code. Shapes and layout live in
+ * each component's classes (ADR 0015).
+ */
+@import 'tailwindcss';
+@source './';
+
+/* Default theme: "Lexicon", parchment, ink and brick red, Playfair Display over Lora.
+ * Contrast ratios are measured against --background. */
+:root {
+  --background: #f7f2e8; /* parchment */
+  --foreground: #1f1b16; /* warm ink, 14.9:1 */
+  --card: #f4efe4;
+  --card-foreground: #1f1b16;
+  --popover: #f8f4ec;
+  --popover-foreground: #1f1b16;
+  --primary: #9a3324; /* brick red, 6.4:1 */
+  --primary-foreground: #f4efe4;
+  --secondary: #8f463f; /* dusty rose, 5.9:1 with its foreground */
+  --secondary-foreground: #f4efe4;
+  --muted: #ebe4d5;
+  --muted-foreground: #625a50; /* 5.9:1, 5.4:1 on muted */
+  --accent: #ece3d2;
+  --accent-foreground: #8a2e20;
+  --destructive: #a32d2d;
+  --destructive-foreground: #f4efe4;
+  --border: #d8cfbf; /* hairline dividers */
+  --input: #8a8070; /* 3.4:1, meets the non-text contrast minimum */
+  --ring: #9a3324;
+
+  --font-heading: 'Playfair Display Variable', 'Playfair Display', Georgia, serif;
+  --font-body: 'Lora Variable', Georgia, 'Times New Roman', serif;
+
+  --radius: 0.125rem;
+}
+
+/* Rollout slot for the next design refresh (VITE_FLAG_DESIGN_V2, or ?flag_DESIGN_V2=1).
+ * Identical to :root until a new design lands; override tokens here to try one out. */
+[data-theme='v2'] {
+  --background: #f7f2e8;
+  --foreground: #1f1b16;
+  --primary: #9a3324;
+  --secondary: #8f463f;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --font-heading: var(--font-heading);
+  --font-body: var(--font-body);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background font-body text-foreground antialiased;
+  }
+  /* Headings are ink, not accent; the red is kept for small details. Classes on an element win. */
+  h1,
+  h2,
+  h3 {
+    @apply font-heading font-normal tracking-tight text-foreground;
+  }
+  h1 {
+    @apply text-4xl sm:text-5xl;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-ring;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+/*
+ * Component styles live in each component's Tailwind classes, not here (ADR 0015). To try a
+ * flagged design (VITE_FLAG_DESIGN_V2) on a component, prefix classes with v2:, for example
+ * "rounded-none v2:rounded-lg".
+ */
+@custom-variant v2 (&:where([data-theme='v2'], [data-theme='v2'] *));

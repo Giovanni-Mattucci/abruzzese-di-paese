@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-arsumeje",
+  "headword": "c-i-arsumèje",
+  "variants": [
+    "c'arsumèje"
+  ],
+  "senses": [
+    {
+      "it": "ci assomiglia",
+      "en": "he/she resembles him/her",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gli somiglia",
+      "en": "he/she looks like him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arsumèje, c'arsumèje. ci assomiglia, gli somiglia",
+    "rawHash": "ffcf21dd8446510ccf1e4e59290b2cb8882e5887",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

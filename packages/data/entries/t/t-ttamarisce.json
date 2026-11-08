@@ -1,0 +1,21 @@
+{
+  "id": "t-ttamarisce",
+  "headword": "ttamarìsce",
+  "senses": [
+    {
+      "it": "tamerice",
+      "en": "tamarisk",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "ttamarìsce: tamerice",
+    "rawHash": "4fd487325716d2af57f38b4d59fb77a3fda1f359",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

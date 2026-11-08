@@ -1,0 +1,21 @@
+{
+  "id": "r-retrescene",
+  "headword": "retrescene",
+  "senses": [
+    {
+      "it": "raganella",
+      "en": "tree frog, ratchet rattle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "retrescene: raganella",
+    "rawHash": "765e762e2eb94d42c53a6ae69d8809922afdca77",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

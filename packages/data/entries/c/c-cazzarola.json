@@ -1,0 +1,21 @@
+{
+  "id": "c-cazzarola",
+  "headword": "cazzarola",
+  "senses": [
+    {
+      "it": "casseruola",
+      "en": "saucepan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cazzarola: casseruola",
+    "rawHash": "aa0b088c90470b8b9337fda904e3402bd89131ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

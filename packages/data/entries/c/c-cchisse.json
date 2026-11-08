@@ -1,0 +1,21 @@
+{
+  "id": "c-cchisse",
+  "headword": "cchisse",
+  "senses": [
+    {
+      "it": "quelli",
+      "en": "those",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cchisse: quelli",
+    "rawHash": "b286dacbd30c24772e6642039e200bb3cd2762d3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-schiuppette",
+  "headword": "schiuppêtte",
+  "senses": [
+    {
+      "it": "battimuro",
+      "en": "battimuro (coin-tossing game against a wall)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiuppêtte: battimuro",
+    "rawHash": "195da85cc2ca0b544d77fba8d4a12956a9f1d2de",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

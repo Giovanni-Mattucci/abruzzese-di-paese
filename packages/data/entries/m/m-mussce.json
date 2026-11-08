@@ -1,0 +1,21 @@
+{
+  "id": "m-mussce",
+  "headword": "mussce",
+  "senses": [
+    {
+      "it": "moscio",
+      "en": "limp, flabby",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mussce: moscio",
+    "rawHash": "4d19ccd10af22bd48ef9e8c63de3fa74e275d9ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

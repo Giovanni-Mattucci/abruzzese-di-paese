@@ -1,0 +1,21 @@
+{
+  "id": "i-ijami",
+  "headword": "ijamì",
+  "senses": [
+    {
+      "it": "ormai",
+      "en": "by now, at this point",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ijamì: ormai",
+    "rawHash": "ec92584b4f8b4b6b3c1e65df4b855743d30ffa59",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-starucce",
+  "headword": "starucce",
+  "senses": [
+    {
+      "it": "cesto di vimini per il pane",
+      "en": "wicker basket for bread",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "starucce: cesto di vimini per il pane",
+    "rawHash": "056bb26361f6c4c916cf633b8119cb2d4d9e2291",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

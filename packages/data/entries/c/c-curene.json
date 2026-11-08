@@ -1,0 +1,22 @@
+{
+  "id": "c-curene",
+  "headword": "curène",
+  "article": "la",
+  "senses": [
+    {
+      "it": "vento garbino",
+      "en": "south-west wind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "curène (la): vento garbino",
+    "rawHash": "0606da4981709dfb9b1442e21a3c44738e34b424",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

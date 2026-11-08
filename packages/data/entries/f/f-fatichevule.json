@@ -1,0 +1,26 @@
+{
+  "id": "f-fatichevule",
+  "headword": "fatichevule",
+  "senses": [
+    {
+      "it": "lavoratore",
+      "en": "hard-working",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "laborioso",
+      "en": "industrious",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fatichevule: lavoratore, laborioso",
+    "rawHash": "3ec5fabdb6c4ba38d6881f7fa1f939a11569ffdd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

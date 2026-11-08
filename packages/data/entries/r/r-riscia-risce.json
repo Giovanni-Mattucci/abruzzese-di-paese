@@ -1,0 +1,26 @@
+{
+  "id": "r-riscia-risce",
+  "headword": "riscia risce",
+  "senses": [
+    {
+      "it": "vicino vicino",
+      "en": "very close, right next to",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rasente",
+      "en": "close to, skimming along",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "riscia risce: vicino vicino, rasente",
+    "rawHash": "e1b824cac02a810cba6b907580e8e6c92a4e0889",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

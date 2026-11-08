@@ -1,0 +1,21 @@
+{
+  "id": "m-magnatore",
+  "headword": "magnatore",
+  "senses": [
+    {
+      "it": "mangiatoia per animali",
+      "en": "manger, feeding trough for animals",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "magnatore: mangiatoia per animali",
+    "rawHash": "96a0610f82903d04647de6209140a390722e5845",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-frijluse",
+  "headword": "frijluse",
+  "senses": [
+    {
+      "it": "freddoloso",
+      "en": "sensitive to cold",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frijluse: freddoloso",
+    "rawHash": "ba302dba768629e0a1418e8481d8f91b1b830c43",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

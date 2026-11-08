@@ -1,0 +1,21 @@
+{
+  "id": "r-refana",
+  "headword": "refana",
+  "senses": [
+    {
+      "it": "mucchio di neve",
+      "en": "pile of snow, snowdrift",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "refana: mucchio di neve",
+    "rawHash": "39457af713884681721413d6b9ecd8d64cf8085f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

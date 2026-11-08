@@ -1,0 +1,21 @@
+{
+  "id": "s-socce",
+  "headword": "sòcce",
+  "senses": [
+    {
+      "it": "soccio",
+      "en": "livestock-sharing contract (soccio)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sòcce. soccio",
+    "rawHash": "3322ee8daa33639e5429fbf0665965a81b6fee35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

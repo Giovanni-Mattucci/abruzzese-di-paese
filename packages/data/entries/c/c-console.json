@@ -1,0 +1,21 @@
+{
+  "id": "c-console",
+  "headword": "consòle",
+  "senses": [
+    {
+      "it": "pranzo dei parenti per il morto",
+      "en": "meal offered by relatives for the deceased, funeral meal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "consòle: pranzo dei parenti per il morto",
+    "rawHash": "bcf419587486a5f661a907d57e18514602c0483a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

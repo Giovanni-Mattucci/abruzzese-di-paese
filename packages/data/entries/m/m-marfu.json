@@ -1,0 +1,21 @@
+{
+  "id": "m-marfu",
+  "headword": "màrfu",
+  "senses": [
+    {
+      "it": "muco",
+      "en": "mucus",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "màrfu: muco",
+    "rawHash": "6b8298590bafabbea1f82d11a4f8a6c473d20695",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "r-rizzilate",
+  "headword": "rizzilate",
+  "senses": [
+    {
+      "it": "ordinato",
+      "en": "tidy, orderly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rizzilate: ordinato",
+    "rawHash": "3969cf1763851965986809791411399f70b313a9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

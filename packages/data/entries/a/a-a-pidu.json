@@ -1,0 +1,21 @@
+{
+  "id": "a-a-pidu",
+  "headword": "a pidù",
+  "senses": [
+    {
+      "it": "a ciascuno",
+      "en": "to each one, apiece",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a pidù: a ciascuno",
+    "rawHash": "ccfc7764d726a9ef181079739e3c7ded09237201",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

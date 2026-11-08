@@ -1,0 +1,21 @@
+{
+  "id": "i-ispinghere",
+  "headword": "ispìnghere",
+  "senses": [
+    {
+      "it": "spingere",
+      "en": "to push",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ispìnghere: spingere",
+    "rawHash": "b6646d89ec98706143cc777dc82048af8402a46f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

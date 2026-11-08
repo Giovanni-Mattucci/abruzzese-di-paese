@@ -1,0 +1,21 @@
+{
+  "id": "d-deme-diamo",
+  "headword": "deme",
+  "senses": [
+    {
+      "it": "diamo",
+      "en": "we give",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "deme diamo",
+    "rawHash": "c7cd90a3f17202ba5001ea782dbaf549bc0b23d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

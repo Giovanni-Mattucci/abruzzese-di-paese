@@ -1,0 +1,21 @@
+{
+  "id": "f-frate-cuggine",
+  "headword": "frate cuggine",
+  "senses": [
+    {
+      "it": "cugino",
+      "en": "cousin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frate cuggine: cugino",
+    "rawHash": "9a3b0e6cc1a4dd528e2ab81d41c2b036b025f963",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

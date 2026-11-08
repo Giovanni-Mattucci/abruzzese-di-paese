@@ -1,0 +1,21 @@
+{
+  "id": "r-ruell",
+  "headword": "ruèll",
+  "senses": [
+    {
+      "it": "viuzza",
+      "en": "narrow street, lane",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ruèll: viuzza",
+    "rawHash": "440e41641542fd1e454fd6f16bc8235f0592dedc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

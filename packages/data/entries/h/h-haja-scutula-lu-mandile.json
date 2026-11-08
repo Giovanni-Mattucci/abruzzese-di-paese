@@ -1,0 +1,21 @@
+{
+  "id": "h-haja-scutula-lu-mandile",
+  "headword": "haja scutulà lu mandìle",
+  "senses": [
+    {
+      "it": "debo sbattere la tovaglia",
+      "en": "I have to shake out the tablecloth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "haja scutulà lu mandìle: debo sbattere la tovaglia,",
+    "rawHash": "6a26bfbbb87c734384e731cfd49f29e7429936d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

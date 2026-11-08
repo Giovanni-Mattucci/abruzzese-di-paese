@@ -1,0 +1,21 @@
+{
+  "id": "a-assacresa",
+  "headword": "assacrèsa",
+  "senses": [
+    {
+      "it": "sorpresa",
+      "en": "surprise",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "assacrèsa: sorpresa",
+    "rawHash": "30f8014cca8b0c9edb91f711e67977d6844c72f3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

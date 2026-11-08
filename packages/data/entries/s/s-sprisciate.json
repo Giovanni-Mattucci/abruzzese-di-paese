@@ -1,0 +1,21 @@
+{
+  "id": "s-sprisciate",
+  "headword": "sprisciate",
+  "senses": [
+    {
+      "it": "spremuto",
+      "en": "squeezed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sprisciate: spremuto",
+    "rawHash": "fac5fd92bd325242711234a9f3c30937fcca36c2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

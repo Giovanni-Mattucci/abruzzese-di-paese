@@ -1,0 +1,26 @@
+{
+  "id": "s-sfruscene",
+  "headword": "sfrùscene",
+  "senses": [
+    {
+      "it": "scialacquano",
+      "en": "they squander",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spendono",
+      "en": "they spend",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrùscene: scialacquano, spendono",
+    "rawHash": "a6ba801aa5296112b2c1a14a1ed64cadd7d79e46",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

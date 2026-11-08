@@ -1,0 +1,21 @@
+{
+  "id": "j-jangarelle",
+  "headword": "jangarèlle",
+  "senses": [
+    {
+      "it": "vitellino",
+      "en": "little calf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jangarèlle: vitellino",
+    "rawHash": "723b9b62ea61ddd9527de34bf0246f4836063c6a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

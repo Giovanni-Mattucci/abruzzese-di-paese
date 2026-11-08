@@ -1,0 +1,21 @@
+{
+  "id": "a-ammacca",
+  "headword": "ammacca",
+  "senses": [
+    {
+      "it": "ammaccare",
+      "en": "to dent, to bruise",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammacca: ammaccare",
+    "rawHash": "4a1500558ceebc3e3522bca762befe9413593d10",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

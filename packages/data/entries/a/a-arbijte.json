@@ -1,0 +1,21 @@
+{
+  "id": "a-arbijte",
+  "headword": "arbijte",
+  "senses": [
+    {
+      "it": "ha riempito",
+      "en": "he/she has filled",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arbijte: ha riempito",
+    "rawHash": "ab5d4e7d34daaca2c6d40cbb9f3fdedf71a9fbd9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

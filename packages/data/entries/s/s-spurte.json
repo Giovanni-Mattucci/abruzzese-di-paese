@@ -1,0 +1,22 @@
+{
+  "id": "s-spurte",
+  "headword": "spurte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "portico",
+      "en": "portico, porch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spurte (lu): portico",
+    "rawHash": "646907016f703dcfd667f5ba36aac4060324e0fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

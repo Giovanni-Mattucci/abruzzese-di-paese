@@ -1,0 +1,24 @@
+{
+  "id": "v-vrachette",
+  "headword": "vrachètte",
+  "variants": [
+    "vracotte"
+  ],
+  "senses": [
+    {
+      "it": "cerniera dei pantaloni",
+      "en": "trouser fly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vrachètte, vracotte: cerniera dei pantaloni",
+    "rawHash": "e85130dd53d6951a53405f9ba4fe8d8970cd6d25",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

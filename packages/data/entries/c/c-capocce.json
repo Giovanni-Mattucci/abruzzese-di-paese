@@ -1,0 +1,21 @@
+{
+  "id": "c-capocce",
+  "headword": "capocce",
+  "senses": [
+    {
+      "it": "capocchia",
+      "en": "head (of a nail or pin)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capocce: capocchia",
+    "rawHash": "8e16dd17a8890c42cef36866fa4c8e82f47e9abe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

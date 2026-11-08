@@ -1,0 +1,21 @@
+{
+  "id": "c-chese",
+  "headword": "chèse",
+  "senses": [
+    {
+      "it": "casa",
+      "en": "house",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chèse: casa",
+    "rawHash": "487aa04638e7c0c65ce67ecfe90fe9d3ea3b3abf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

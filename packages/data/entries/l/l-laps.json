@@ -1,0 +1,26 @@
+{
+  "id": "l-laps",
+  "headword": "laps",
+  "senses": [
+    {
+      "it": "matita",
+      "en": "pencil",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "lapis",
+      "en": "lead pencil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "laps: matita, lapis",
+    "rawHash": "d20d531abc2e25a89382ef0a5589181c095999b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

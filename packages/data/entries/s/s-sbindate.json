@@ -1,0 +1,21 @@
+{
+  "id": "s-sbindate",
+  "headword": "sbindàte",
+  "senses": [
+    {
+      "it": "detto di qualcuno molto disordinato nella vita",
+      "en": "said of someone very disorderly in life",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbindàte: detto di qualcuno molto disordinato nella vita",
+    "rawHash": "23c47a6a6f3156836b829617e3e06b43d9306278",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

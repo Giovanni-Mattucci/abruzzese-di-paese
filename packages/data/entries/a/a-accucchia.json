@@ -1,0 +1,21 @@
+{
+  "id": "a-accucchia",
+  "headword": "accucchià",
+  "senses": [
+    {
+      "it": "mettere insieme e da parte, racimolare, raggranellare, risparmiare",
+      "en": "to put together and set aside, to scrape together, to scrape up, to save",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accucchià: mettere insieme e da parte, racimolare, raggranellare, risparmiare",
+    "rawHash": "1195c4f3823c9c20cf39a209708b3b12cafa036d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

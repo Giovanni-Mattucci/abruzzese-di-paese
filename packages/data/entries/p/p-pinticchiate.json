@@ -1,0 +1,21 @@
+{
+  "id": "p-pinticchiate",
+  "headword": "pinticchiate",
+  "senses": [
+    {
+      "it": "a puntini, a piccole macchie di colore",
+      "en": "dotted, with small spots of color",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinticchiate: a puntini, a piccole macchie di colore",
+    "rawHash": "00336f8d5309ba0597e3fd147c47168577391c96",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

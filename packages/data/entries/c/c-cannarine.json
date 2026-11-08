@@ -1,0 +1,21 @@
+{
+  "id": "c-cannarine",
+  "headword": "cannarine",
+  "senses": [
+    {
+      "it": "gola",
+      "en": "throat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cannarine: gola",
+    "rawHash": "4b68e3589567f0c42d074bc2db939de298aee37e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

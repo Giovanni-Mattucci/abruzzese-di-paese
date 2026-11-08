@@ -1,0 +1,21 @@
+{
+  "id": "m-mappene",
+  "headword": "mappene",
+  "senses": [
+    {
+      "it": "schiaffo",
+      "en": "slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mappene: schiaffo",
+    "rawHash": "10f112cfd3eb92f587f6478e7d5e492e7abed3aa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

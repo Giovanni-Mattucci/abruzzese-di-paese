@@ -1,0 +1,21 @@
+{
+  "id": "c-carre",
+  "headword": "carre",
+  "senses": [
+    {
+      "it": "carro",
+      "en": "cart, wagon",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carre: carro",
+    "rawHash": "e78b75e4f2a5d6374061940b3f18361283b8f478",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

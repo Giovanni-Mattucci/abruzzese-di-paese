@@ -1,0 +1,21 @@
+{
+  "id": "f-fregnacce",
+  "headword": "fregnàcce",
+  "senses": [
+    {
+      "it": "maltagliati",
+      "en": "maltagliati (irregularly cut pasta)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fregnàcce: maltagliati",
+    "rawHash": "ed063332b15c2b902f8c2e0e6295b1332b27b561",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

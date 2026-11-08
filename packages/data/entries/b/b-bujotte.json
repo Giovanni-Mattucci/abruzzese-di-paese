@@ -1,0 +1,21 @@
+{
+  "id": "b-bujotte",
+  "headword": "bujòtte",
+  "senses": [
+    {
+      "it": "discolo",
+      "en": "unruly child, rascal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bujòtte: discolo",
+    "rawHash": "62d4529ef57165cff0ba7971dd930aeae8bab065",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

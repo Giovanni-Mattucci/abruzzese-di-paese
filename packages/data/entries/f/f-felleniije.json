@@ -1,0 +1,22 @@
+{
+  "id": "f-felleniije",
+  "headword": "fellèniije",
+  "article": "la",
+  "senses": [
+    {
+      "it": "fuliggine",
+      "en": "soot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fellèniije (la): fuliggine",
+    "rawHash": "2a6dba24b3b1749f5e0ec79dfe899285db10ec17",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

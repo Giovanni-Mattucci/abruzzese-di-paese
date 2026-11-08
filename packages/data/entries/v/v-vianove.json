@@ -1,0 +1,21 @@
+{
+  "id": "v-vianove",
+  "headword": "vianòve",
+  "senses": [
+    {
+      "it": "strada asfaltata",
+      "en": "paved road",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vianòve: strada asfaltata",
+    "rawHash": "9368230b3aad382720730c18b1e08ce2c662e5fb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

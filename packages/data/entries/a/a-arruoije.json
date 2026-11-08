@@ -1,0 +1,21 @@
+{
+  "id": "a-arruoije",
+  "headword": "arruoije",
+  "senses": [
+    {
+      "it": "orologio",
+      "en": "clock, watch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arruoije: orologio",
+    "rawHash": "92a59fd724b47ac8a6c96e8ac6372d3915e154f6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

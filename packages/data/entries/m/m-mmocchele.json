@@ -1,0 +1,21 @@
+{
+  "id": "m-mmocchele",
+  "headword": "mmòcchele",
+  "senses": [
+    {
+      "it": "muco che scende dal naso",
+      "en": "mucus running from the nose",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mmòcchele: muco che scende dal naso",
+    "rawHash": "7691ec225f157279220f2b160d1dbfcc4a3f7876",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

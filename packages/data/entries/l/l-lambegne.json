@@ -1,0 +1,24 @@
+{
+  "id": "l-lambegne",
+  "headword": "lambegne",
+  "variants": [
+    "da 'mbegne"
+  ],
+  "senses": [
+    {
+      "it": "finta, far finta (jece lambegne de neo sentì lo sone prese: l'impegno con se stesso di non udire il richiamo)",
+      "en": "pretence, to pretend (jece lambegne de neo sentì lo sone prese: he resolved to himself not to hear the call)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lambegne, da 'mbegne: finta, far finta (jece lambegne de neo sentì lo sone prese: l'impegno con se stesso di non udire il richiamo)",
+    "rawHash": "c4806daba22afe1c93fccc3f6e4793eaea68bcb2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

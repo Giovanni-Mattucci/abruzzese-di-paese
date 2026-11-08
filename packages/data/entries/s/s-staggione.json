@@ -1,0 +1,21 @@
+{
+  "id": "s-staggione",
+  "headword": "staggione",
+  "senses": [
+    {
+      "it": "nel dialetto abruzzese non c'è una traduzione letterale delle quattro stagioni, così la parola - staggione – si adopera per dire : è na bella staggione o è na brutta staggione. E' una bella stagione o è una brutta stagione, secondo il periodo dell'anno",
+      "en": "in the Abruzzese dialect there is no literal translation of the four seasons, so the word - staggione - is used to say: è na bella staggione or è na brutta staggione. It is a good season or it is a bad season, depending on the time of year",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "staggione: nel dialetto abruzzese non c'è una traduzione letterale delle quattro stagioni, così la parola - staggione – si adopera per dire : è na bella staggione o è na brutta staggione. E' una bella stagione o è una brutta stagione, secondo il periodo dell'anno",
+    "rawHash": "80b3924701041532eb01c7f2a10cdc3318c63c0e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "u-uagliune",
+  "headword": "uagliune",
+  "senses": [
+    {
+      "it": "ragazzi",
+      "en": "boys, kids",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "uagliune: ragazzi",
+    "rawHash": "698883e81bcafa559c111f0f4fdd5b514e0da1f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

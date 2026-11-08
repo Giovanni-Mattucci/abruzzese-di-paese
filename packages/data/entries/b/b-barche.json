@@ -1,0 +1,21 @@
+{
+  "id": "b-barche",
+  "headword": "barche",
+  "senses": [
+    {
+      "it": "barca",
+      "en": "boat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "barche: barca",
+    "rawHash": "ffc3053936c01bec9aa0e25fc0e38edc70343aa8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

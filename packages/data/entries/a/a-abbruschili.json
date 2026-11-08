@@ -1,0 +1,27 @@
+{
+  "id": "a-abbruschili",
+  "headword": "abbruschilì",
+  "variants": [
+    "abbrusculì"
+  ],
+  "senses": [
+    {
+      "it": "abbrustolire",
+      "en": "to toast, to roast",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: abbrusculì, abbruschilì: abbrustolire"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbruschilì, abbrusculì: abbrustolire",
+    "rawHash": "fae04342c1a59cba4b03c2520e82ae587aecaf16",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

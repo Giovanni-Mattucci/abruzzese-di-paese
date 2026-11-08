@@ -1,0 +1,21 @@
+{
+  "id": "s-svisciucate",
+  "headword": "svisciucate",
+  "senses": [
+    {
+      "it": "che ha messo le mani, ha cercato",
+      "en": "having rummaged, having searched",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "svisciucate: che ha messo le mani, ha cercato",
+    "rawHash": "ece25587f45c4b520401e7fafb9dd3311b3c5c3f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

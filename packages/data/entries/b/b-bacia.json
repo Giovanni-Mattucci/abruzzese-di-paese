@@ -1,0 +1,21 @@
+{
+  "id": "b-bacia",
+  "headword": "bacià",
+  "senses": [
+    {
+      "it": "baciare",
+      "en": "to kiss",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bacià: baciare",
+    "rawHash": "2f5ef92a73f2324889a33bee36cac1cc3ed61539",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

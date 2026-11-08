@@ -1,0 +1,26 @@
+{
+  "id": "c-citrone",
+  "headword": "citròne",
+  "senses": [
+    {
+      "it": "anguria",
+      "en": "watermelon",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cocomero",
+      "en": "watermelon (cocomero)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "citròne. anguria, cocomero",
+    "rawHash": "a258cb15bd72d3840d87752afd2d4ed7a9fa6492",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

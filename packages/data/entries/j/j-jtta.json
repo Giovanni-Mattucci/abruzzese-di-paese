@@ -1,0 +1,29 @@
+{
+  "id": "j-jtta",
+  "headword": "jttà",
+  "senses": [
+    {
+      "it": "gettare",
+      "en": "to throw",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "buttare",
+      "en": "to throw away",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j jette, tu jtte, esse jette, nu jttème, vu jttète, jsse jèttene – io getto, tu getti, egli getta, noi gettiamo, voi gettate, essi gettano)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jttà: gettare, buttare (j jette, tu jtte, esse jette, nu jttème, vu jttète, jsse jèttene – io getto, tu getti, egli getta, noi gettiamo, voi gettate, essi gettano)",
+    "rawHash": "a698c1fd8ba71cebbb15bd1d4456ceebd48a12f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

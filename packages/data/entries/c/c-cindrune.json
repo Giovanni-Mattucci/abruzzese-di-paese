@@ -1,0 +1,26 @@
+{
+  "id": "c-cindrune",
+  "headword": "cindrune",
+  "senses": [
+    {
+      "it": "chiodo lungo",
+      "en": "long nail",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "grosso e quadrato",
+      "en": "thick and square",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cindrune: chiodo lungo, grosso e quadrato",
+    "rawHash": "4809435c7eca0aba4db849270df0b6e946942784",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

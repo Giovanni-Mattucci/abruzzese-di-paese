@@ -1,0 +1,21 @@
+{
+  "id": "p-pinzeje",
+  "headword": "pinzèje",
+  "senses": [
+    {
+      "it": "pensavo",
+      "en": "I thought, I was thinking",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinzèje: pensavo",
+    "rawHash": "7e03d2b3b59c763f012043e5f82ed5ff98b4915e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

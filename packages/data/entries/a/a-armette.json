@@ -1,0 +1,26 @@
+{
+  "id": "a-armette",
+  "headword": "armètte",
+  "senses": [
+    {
+      "it": "rimettere",
+      "en": "to put back",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mettere di nuovo",
+      "en": "to put again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "armètte: rimettere, mettere di nuovo",
+    "rawHash": "3301aa2b42001a5bf6c4f02ad3c5e7706daa06a0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

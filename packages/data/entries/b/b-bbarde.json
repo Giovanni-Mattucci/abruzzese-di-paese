@@ -1,0 +1,21 @@
+{
+  "id": "b-bbarde",
+  "headword": "bbarde",
+  "senses": [
+    {
+      "it": "poeta che si rivolge al popolo esaltandone le aspirazioni o le tradizioni",
+      "en": "bard, poet who addresses the people, extolling their aspirations or traditions",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbarde : poeta che si rivolge al popolo esaltandone le aspirazioni o le tradizioni",
+    "rawHash": "6660b90055aa380b4f8d094c051ebd3121e53ebe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

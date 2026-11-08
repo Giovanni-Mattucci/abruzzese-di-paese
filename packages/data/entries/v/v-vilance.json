@@ -1,0 +1,21 @@
+{
+  "id": "v-vilance",
+  "headword": "vilance",
+  "senses": [
+    {
+      "it": "bilancia",
+      "en": "scales",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vilance: bilancia",
+    "rawHash": "f51e89d4d42ff5688087d67c39aab32777f8e413",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

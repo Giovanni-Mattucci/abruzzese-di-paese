@@ -1,0 +1,19 @@
+{
+  "id": "m-mestolo",
+  "headword": "mèstolo",
+  "senses": [
+    {
+      "it": "cuppine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mèstolo: cuppine",
+    "rawHash": "860e44379762267e1f69324a81e3765e21d44025",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

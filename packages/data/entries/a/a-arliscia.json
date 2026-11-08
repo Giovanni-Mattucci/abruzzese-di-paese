@@ -1,0 +1,26 @@
+{
+  "id": "a-arliscia",
+  "headword": "arliscià",
+  "senses": [
+    {
+      "it": "lisciare",
+      "en": "to smooth",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "accarezzare",
+      "en": "to caress, to stroke",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arliscià: lisciare, accarezzare",
+    "rawHash": "a1baa5ddf4c9f23ad88f0815197ca7f0e368cdac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

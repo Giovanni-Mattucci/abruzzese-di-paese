@@ -1,0 +1,21 @@
+{
+  "id": "c-candete",
+  "headword": "candete",
+  "senses": [
+    {
+      "it": "cantate",
+      "en": "you (pl.) sing; sung",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "candete: cantate",
+    "rawHash": "c36171bd76ca40d75521f5be8c1824b880476311",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

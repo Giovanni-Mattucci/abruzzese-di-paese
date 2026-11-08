@@ -1,0 +1,21 @@
+{
+  "id": "m-mignicuru",
+  "headword": "mignìcuru",
+  "senses": [
+    {
+      "it": "ombelico",
+      "en": "navel",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mignìcuru: ombelico",
+    "rawHash": "86297cb95b2626e1d7f81c6108e62f85e306eac5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

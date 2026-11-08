@@ -1,0 +1,21 @@
+{
+  "id": "a-ancino",
+  "headword": "ancìno",
+  "senses": [
+    {
+      "it": "uncino",
+      "en": "hook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ancìno: uncino",
+    "rawHash": "97a9d78caecb6edd6fe7bc60856477669cf2e431",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

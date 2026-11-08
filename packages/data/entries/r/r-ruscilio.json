@@ -1,0 +1,21 @@
+{
+  "id": "r-ruscilio",
+  "headword": "rusciliò",
+  "senses": [
+    {
+      "it": "prostituta",
+      "en": "prostitute",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rusciliò: prostituta",
+    "rawHash": "54db84dff94501aae5bbfc102da768e4048850fe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

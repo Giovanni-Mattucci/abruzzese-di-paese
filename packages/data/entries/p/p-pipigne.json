@@ -1,0 +1,21 @@
+{
+  "id": "p-pipigne",
+  "headword": "pipìgne",
+  "senses": [
+    {
+      "it": "capezzolo",
+      "en": "nipple",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pipìgne: capezzolo",
+    "rawHash": "2cf73aa8701ac15afb7d54b190d6fc611a2b8e83",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

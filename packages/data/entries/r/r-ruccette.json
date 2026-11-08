@@ -1,0 +1,22 @@
+{
+  "id": "r-ruccette",
+  "headword": "ruccêtte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "piccolo contenitore",
+      "en": "small container",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ruccêtte (lu): piccolo contenitore",
+    "rawHash": "d656fa5e6d1e2a43954a6686ac84e67385e3e253",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

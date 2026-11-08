@@ -1,0 +1,21 @@
+{
+  "id": "f-fraceche",
+  "headword": "fraceche",
+  "senses": [
+    {
+      "it": "fradicio",
+      "en": "soaked, rotten",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fraceche: fradicio",
+    "rawHash": "1ac1bf15a262d6027f40e5aa9ad5d97ddc0e766a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

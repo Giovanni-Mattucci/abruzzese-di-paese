@@ -1,0 +1,21 @@
+{
+  "id": "m-mirricane",
+  "headword": "mirricàne",
+  "senses": [
+    {
+      "it": "americano",
+      "en": "American",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mirricàne: americano",
+    "rawHash": "e745d18f87e716cffa17943351c999c3d49047eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

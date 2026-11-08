@@ -1,0 +1,21 @@
+{
+  "id": "m-mintone",
+  "headword": "mintòne",
+  "senses": [
+    {
+      "it": "ariete",
+      "en": "ram",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mintòne: ariete",
+    "rawHash": "1dff6709fdae9926ae4ad77a07e745492c470277",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

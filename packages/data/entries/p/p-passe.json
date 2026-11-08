@@ -1,0 +1,26 @@
+{
+  "id": "p-passe",
+  "headword": "passe",
+  "senses": [
+    {
+      "it": "passo",
+      "en": "step, pace",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "valico",
+      "en": "mountain pass",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "passe: passo, valico",
+    "rawHash": "009565f9e0c96d4217e75e1a067e84af78328b90",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

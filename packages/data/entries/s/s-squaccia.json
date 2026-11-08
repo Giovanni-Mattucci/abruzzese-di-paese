@@ -1,0 +1,21 @@
+{
+  "id": "s-squaccia",
+  "headword": "squaccià",
+  "senses": [
+    {
+      "it": "schiacciare",
+      "en": "to crush, to squash",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "squaccià: schiacciare",
+    "rawHash": "cab897958c6606d541b641edfe3a5d777552d06b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

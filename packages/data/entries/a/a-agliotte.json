@@ -1,0 +1,29 @@
+{
+  "id": "a-agliotte",
+  "headword": "agliòtte",
+  "variants": [
+    "agliuttì"
+  ],
+  "senses": [
+    {
+      "it": "inghiotte",
+      "en": "swallows",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "inghiottire",
+      "en": "to swallow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "agliòtte, agliuttì: inghiotte, inghiottire",
+    "rawHash": "e6fff08c525d413b49e15093eec88759dc4a9380",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

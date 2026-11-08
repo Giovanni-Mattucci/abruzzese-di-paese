@@ -1,0 +1,21 @@
+{
+  "id": "q-quijiu",
+  "headword": "quìjiu",
+  "senses": [
+    {
+      "it": "quello",
+      "en": "that, that one",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quìjiu: quello",
+    "rawHash": "69e40df6950eba6ad5be922322aae6e1cd74b0b4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

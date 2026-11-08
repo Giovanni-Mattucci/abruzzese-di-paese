@@ -1,0 +1,22 @@
+{
+  "id": "g-gnagnere",
+  "headword": "gnàgnere",
+  "article": "la",
+  "senses": [
+    {
+      "it": "stato di insoddisfazione",
+      "en": "state of dissatisfaction",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "gnàgnere (la): stato di insoddisfazione",
+    "rawHash": "03a565f1cf7745f0493d3b53a792d7041504429c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

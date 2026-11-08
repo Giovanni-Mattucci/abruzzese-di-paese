@@ -1,0 +1,21 @@
+{
+  "id": "m-mbrizzicate",
+  "headword": "'mbrizzicate",
+  "senses": [
+    {
+      "it": "infilzato",
+      "en": "pierced, skewered",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbrizzicate: infilzato",
+    "rawHash": "247769667e680bd33157bcc049f10c04b0b6c961",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

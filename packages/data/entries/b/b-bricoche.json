@@ -1,0 +1,21 @@
+{
+  "id": "b-bricoche",
+  "headword": "bricòche",
+  "senses": [
+    {
+      "it": "pesca",
+      "en": "peach",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bricòche: pesca",
+    "rawHash": "863a9260966be65a607f1e6d898757508c6f7f24",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

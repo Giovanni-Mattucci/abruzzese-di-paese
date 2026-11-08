@@ -1,0 +1,26 @@
+{
+  "id": "s-sfruscete",
+  "headword": "sfruscète",
+  "senses": [
+    {
+      "it": "scialacquate",
+      "en": "you squander (pl.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spendete",
+      "en": "you spend (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfruscète: scialacquate, spendete",
+    "rawHash": "40b0b23537000bf2fc3f65e5750bcca9c0ede111",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

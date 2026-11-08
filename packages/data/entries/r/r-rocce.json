@@ -1,0 +1,27 @@
+{
+  "id": "r-rocce",
+  "headword": "rocce",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "persona mal ridotta",
+      "en": "person in a bad state",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ciotola",
+      "en": "bowl",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rocce (lu): persona mal ridotta, ciotola",
+    "rawHash": "1a8920c9848789e86920f7597f1dc31aad014852",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

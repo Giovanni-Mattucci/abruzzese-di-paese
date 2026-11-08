@@ -1,0 +1,21 @@
+{
+  "id": "a-armuntunarse",
+  "headword": "armuntunàrse",
+  "senses": [
+    {
+      "it": "accoppiarsi fra ovini",
+      "en": "to mate (of sheep)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "armuntunàrse: accoppiarsi fra ovini",
+    "rawHash": "cb7c151fc0afe003cae7d9b52c652c8a16425cbc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

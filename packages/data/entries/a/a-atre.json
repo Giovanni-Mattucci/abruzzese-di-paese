@@ -1,0 +1,21 @@
+{
+  "id": "a-atre",
+  "headword": "atre",
+  "senses": [
+    {
+      "it": "altro",
+      "en": "other",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "atre: altro",
+    "rawHash": "19a92cae09d67785fd3ee58e913caaae198e21d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

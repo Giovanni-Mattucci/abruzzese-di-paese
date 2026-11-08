@@ -1,0 +1,21 @@
+{
+  "id": "s-sbriga",
+  "headword": "sbrigà",
+  "senses": [
+    {
+      "it": "pulire, rassettare la casa, ma pure fare qualcosa subito",
+      "en": "to clean, to tidy the house, but also to do something right away",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbrigà: pulire, rassettare la casa, ma pure fare qualcosa subito",
+    "rawHash": "49f3994e23ec41effa2565557b5c03b418b2113d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

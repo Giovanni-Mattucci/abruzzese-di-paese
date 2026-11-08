@@ -1,0 +1,24 @@
+{
+  "id": "f-frustalla",
+  "headword": "frustallà",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "per scacciare i gatti",
+      "en": "used to shoo away cats",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frustallà: per scacciare i gatti (M. sul S.)",
+    "rawHash": "18c3f38f51b558730781c6a5335dcb6a7746b46e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "j-ji",
+  "headword": "ji'",
+  "senses": [
+    {
+      "it": "io",
+      "en": "I",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ji': io",
+    "rawHash": "e858bf2f97fb0b5a7b430d3b2d97ea7f4557a78e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

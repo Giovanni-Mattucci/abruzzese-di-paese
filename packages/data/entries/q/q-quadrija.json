@@ -1,0 +1,29 @@
+{
+  "id": "q-quadrija",
+  "headword": "quadrija",
+  "variants": [
+    "quadrije"
+  ],
+  "senses": [
+    {
+      "it": "ballo",
+      "en": "dance",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "quadriglia",
+      "en": "quadrille",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quadrija, quadrije: ballo, quadriglia",
+    "rawHash": "f1f34bbc333be9eb9767216017fe592e987266c9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a-accrocca",
+  "headword": "accroccà",
+  "senses": [
+    {
+      "it": "preparare il fuoco",
+      "en": "to lay the fire",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mettere la tagliola",
+      "en": "to set the trap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accroccà: preparare il fuoco, mettere la tagliola",
+    "rawHash": "40fadc5c3182069cee53291500a9050b99015bc5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

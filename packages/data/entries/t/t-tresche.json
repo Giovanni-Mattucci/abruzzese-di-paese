@@ -1,0 +1,22 @@
+{
+  "id": "t-tresche",
+  "headword": "trêsche",
+  "article": "la",
+  "senses": [
+    {
+      "it": "trebbiatura",
+      "en": "threshing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trêsche (la): trebbiatura",
+    "rawHash": "3f95e591fe78b9b8781dc24fa5afb56512492016",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

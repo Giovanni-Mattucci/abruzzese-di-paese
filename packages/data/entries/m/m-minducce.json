@@ -1,0 +1,26 @@
+{
+  "id": "m-minducce",
+  "headword": "minducce",
+  "senses": [
+    {
+      "it": "erba armatica",
+      "en": "aromatic herb",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "menta",
+      "en": "mint",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "minducce: erba armatica, menta",
+    "rawHash": "bfbe1104e30535f520d967f5f6b001e952da8733",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

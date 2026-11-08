@@ -1,0 +1,29 @@
+{
+  "id": "c-cacchie-2",
+  "headword": "cacchie",
+  "senses": [
+    {
+      "it": "adoperata per chiedere di qualcuno",
+      "en": "used when asking about someone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "addò cacchie se trove",
+      "it": "dove mai si trova",
+      "en": "wherever can he/she be",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cacchie: adoperata per chiedere di qualcuno. Es.: addò cacchie se trove: dove mai si trova",
+    "rawHash": "1bf018b1fef475cd48e87562b992e95682f7efeb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-po-esse",
+  "headword": "po' (esse",
+  "variants": [
+    "lui)"
+  ],
+  "senses": [
+    {
+      "it": "può",
+      "en": "he/she can",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "po' (esse, lui): può",
+    "rawHash": "03c723b645a2d3c97db18e90539e3e1555c2969b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

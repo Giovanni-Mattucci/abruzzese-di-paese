@@ -1,0 +1,21 @@
+{
+  "id": "t-trittichene",
+  "headword": "trittichene",
+  "senses": [
+    {
+      "it": "smuovono",
+      "en": "they shift",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trittichene: smuovono",
+    "rawHash": "6c593682a47e4a5bbb4805e2684e0b6e2347ec01",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

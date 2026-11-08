@@ -1,0 +1,21 @@
+{
+  "id": "j-jucheteve-giocatevi",
+  "headword": "juchèteve",
+  "senses": [
+    {
+      "it": "giocatevi",
+      "en": "gamble it away (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "juchèteve giocatevi",
+    "rawHash": "7d0d035168db852bbea91286370555fdb41e9da9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

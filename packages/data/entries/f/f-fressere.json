@@ -1,0 +1,22 @@
+{
+  "id": "f-fressere",
+  "headword": "fressêre",
+  "article": "la",
+  "senses": [
+    {
+      "it": "teglia con manico che si usato per friggere",
+      "en": "pan with a handle used for frying",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fressêre (la): teglia con manico che si usato per friggere",
+    "rawHash": "386e6edbadb04a2cd234c5762ebc9caeaf429e13",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

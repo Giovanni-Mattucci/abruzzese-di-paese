@@ -1,0 +1,22 @@
+{
+  "id": "m-manire",
+  "headword": "manìre",
+  "article": "la",
+  "senses": [
+    {
+      "it": "mestolo in rame per raccogliere l'acqua dalla conca",
+      "en": "copper ladle for drawing water from the basin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "manìre (la): mestolo in rame per raccogliere l'acqua dalla conca",
+    "rawHash": "31bca5f6d2bd1c9e45bcc7f307b899a3b805362f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

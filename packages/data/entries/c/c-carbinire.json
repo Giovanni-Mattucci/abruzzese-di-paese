@@ -1,0 +1,21 @@
+{
+  "id": "c-carbinire",
+  "headword": "carbinìre",
+  "senses": [
+    {
+      "it": "carabinieri",
+      "en": "carabinieri (Italian military police)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carbinìre: carabinieri",
+    "rawHash": "7f9ea144eba63659f18ed2e90cbbeb730d86b48e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-apparterrete",
+  "headword": "apparterrète",
+  "senses": [
+    {
+      "it": "di dietro",
+      "en": "from behind, at the back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "apparterrète: di dietro",
+    "rawHash": "3ba5fa59c8ef5825f1747684a01b8dab4ab47f39",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c-c-i-arcotte",
+  "headword": "c-i-arcòtte",
+  "variants": [
+    "c'arcòtte"
+  ],
+  "senses": [
+    {
+      "it": "ci ha cotto di nuovo",
+      "en": "he/she has cooked it there again",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-arcòtte, c'arcòtte: ci ha cotto di nuovo",
+    "rawHash": "d6e8d3d4fa73243bc44a2569d65de33032064a73",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

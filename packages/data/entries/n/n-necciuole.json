@@ -1,0 +1,21 @@
+{
+  "id": "n-necciuole",
+  "headword": "necciuole",
+  "senses": [
+    {
+      "it": "erba commestibile",
+      "en": "edible herb",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "necciuole: erba commestibile",
+    "rawHash": "816a7017141839fbf227bc931b37b8fb97a4af60",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

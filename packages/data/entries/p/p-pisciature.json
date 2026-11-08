@@ -1,0 +1,21 @@
+{
+  "id": "p-pisciature",
+  "headword": "pisciature",
+  "senses": [
+    {
+      "it": "vaso da notte",
+      "en": "chamber pot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pisciature: vaso da notte",
+    "rawHash": "4d6bc5ad1710a9b607f8d6975cd6b7f82a757888",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

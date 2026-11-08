@@ -1,0 +1,21 @@
+{
+  "id": "s-schiappe",
+  "headword": "schiappe",
+  "senses": [
+    {
+      "it": "scheggia di legno, usata pure per dire di una persona che vale poco",
+      "en": "wood splinter, also used to describe a person of little worth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiappe: scheggia di legno, usata pure per dire di una persona che vale poco",
+    "rawHash": "ac23a7800b1267b860c34f8af95cd2ec30021ee4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

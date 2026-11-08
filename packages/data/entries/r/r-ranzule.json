@@ -1,0 +1,21 @@
+{
+  "id": "r-ranzule",
+  "headword": "ranzule",
+  "senses": [
+    {
+      "it": "chicchi di grandine",
+      "en": "hailstones",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ranzule: chicchi di grandine",
+    "rawHash": "d76faa5f51299e37e1f9290b471414ae262dcf27",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

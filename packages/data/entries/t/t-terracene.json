@@ -1,0 +1,24 @@
+{
+  "id": "t-terracene",
+  "headword": "terràcene",
+  "variants": [
+    "terrècene"
+  ],
+  "senses": [
+    {
+      "it": "tuono",
+      "en": "thunder",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "terràcene, terrècene: tuono",
+    "rawHash": "cdd00e03ca4f4ffe52bfe20c27b7a93efa5531ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

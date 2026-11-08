@@ -1,0 +1,21 @@
+{
+  "id": "d-delfine",
+  "headword": "delfine",
+  "senses": [
+    {
+      "it": "delfino",
+      "en": "dolphin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "delfine: delfino",
+    "rawHash": "2cbfdd2836fb8f7fe40639e122028b6a564de4b4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

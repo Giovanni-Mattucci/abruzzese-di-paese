@@ -1,0 +1,21 @@
+{
+  "id": "f-fogliacuole",
+  "headword": "fogliacuole",
+  "senses": [
+    {
+      "it": "foglie esterne del cavolfiore",
+      "en": "outer leaves of the cauliflower",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fogliacuole: foglie esterne del cavolfiore",
+    "rawHash": "905403d7c5343249661f07bfe77985cf9a2e30f1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

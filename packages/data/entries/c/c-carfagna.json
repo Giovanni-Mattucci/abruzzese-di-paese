@@ -1,0 +1,21 @@
+{
+  "id": "c-carfagna",
+  "headword": "carfàgna",
+  "senses": [
+    {
+      "it": "sonnolenza",
+      "en": "drowsiness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carfàgna: sonnolenza",
+    "rawHash": "4c4a823d86babd519d56d9dee202ff3b6e95d5bc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

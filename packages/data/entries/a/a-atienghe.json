@@ -1,0 +1,21 @@
+{
+  "id": "a-atienghe",
+  "headword": "atienghe",
+  "senses": [
+    {
+      "it": "devo",
+      "en": "I must, I have to",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "atienghe: devo",
+    "rawHash": "ec870336616301adf801566d41fb2f0eba8a80ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

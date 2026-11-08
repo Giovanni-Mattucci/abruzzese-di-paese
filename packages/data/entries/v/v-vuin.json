@@ -1,0 +1,24 @@
+{
+  "id": "v-vuin",
+  "headword": "vuin",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "vino",
+      "en": "wine",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vuin: vino (M. sul S.)",
+    "rawHash": "3fd599c066eb423700e5c999133da90bf13ce97a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

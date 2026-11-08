@@ -1,0 +1,21 @@
+{
+  "id": "s-sduveme",
+  "headword": "sduvème",
+  "senses": [
+    {
+      "it": "picchiamo",
+      "en": "we beat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sduvème: picchiamo",
+    "rawHash": "951b809ef9e6a3ea69140391e04e1f72936a1ab3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

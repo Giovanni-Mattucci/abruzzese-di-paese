@@ -1,0 +1,21 @@
+{
+  "id": "c-cunzije",
+  "headword": "cunzije",
+  "senses": [
+    {
+      "it": "consiglio",
+      "en": "advice, council",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cunzije: consiglio",
+    "rawHash": "5f6c33cca722aaea274166518683ed9512f1c4d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

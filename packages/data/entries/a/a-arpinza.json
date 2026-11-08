@@ -1,0 +1,21 @@
+{
+  "id": "a-arpinza",
+  "headword": "arpinzà",
+  "senses": [
+    {
+      "it": "ripensare",
+      "en": "to think again, to reconsider",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arpinzà: ripensare",
+    "rawHash": "ee6641904262419823d525f070fbbe034fe231a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

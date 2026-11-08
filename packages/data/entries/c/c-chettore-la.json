@@ -1,0 +1,21 @@
+{
+  "id": "c-chettore-la",
+  "headword": "chettore )la)",
+  "senses": [
+    {
+      "it": "pentolone",
+      "en": "large pot, cauldron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chettore )la): pentolone",
+    "rawHash": "6e5150f325e02f0867e89deca2f8d9fef613824f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

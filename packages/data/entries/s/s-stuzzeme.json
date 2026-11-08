@@ -1,0 +1,21 @@
+{
+  "id": "s-stuzzeme",
+  "headword": "stùzzeme",
+  "senses": [
+    {
+      "it": "riferito a panino, come dire dammene un pò",
+      "en": "referring to a sandwich, as if to say give me a bit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stùzzeme: riferito a panino, come dire dammene un pò",
+    "rawHash": "ecaae0f8a68ee59dab85fc2be43c29ed9c35f484",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-pricoche",
+  "headword": "pricòche",
+  "senses": [
+    {
+      "it": "pesca",
+      "en": "peach",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pricòche: pesca",
+    "rawHash": "653d128513cc0161066b5cb7c538809742654d98",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

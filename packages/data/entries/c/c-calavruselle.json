@@ -1,0 +1,21 @@
+{
+  "id": "c-calavruselle",
+  "headword": "calavrusèlle",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calavrusèlle: altalena",
+    "rawHash": "23fa7e2e154c2fbde7e45f72c2aba765bac765b7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

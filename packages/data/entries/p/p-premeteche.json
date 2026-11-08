@@ -1,0 +1,21 @@
+{
+  "id": "p-premeteche",
+  "headword": "preméteche",
+  "senses": [
+    {
+      "it": "prematuro",
+      "en": "premature",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "preméteche: prematuro",
+    "rawHash": "0ef7948dec85f7269699fc9e4b5f03984d2291fa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "v-vasenecole",
+  "headword": "vasenecòle",
+  "senses": [
+    {
+      "it": "basilico",
+      "en": "basil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vasenecòle: basilico",
+    "rawHash": "db10f22d75454b8e0ce65dc2609f295583138ed1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-spireme",
+  "headword": "spirème",
+  "senses": [
+    {
+      "it": "speriamo",
+      "en": "let us hope; we hope",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spirème: speriamo",
+    "rawHash": "a62bf2ebaef952924cdf35f02f4a80d3c5bbc356",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

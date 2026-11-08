@@ -1,0 +1,21 @@
+{
+  "id": "c-capisturne",
+  "headword": "capistùrne",
+  "senses": [
+    {
+      "it": "capogiri",
+      "en": "dizzy spells",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capistùrne: capogiri",
+    "rawHash": "1e24a061f9a1e73ab93cdab777bd5ccf22b1202e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

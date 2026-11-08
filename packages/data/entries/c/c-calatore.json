@@ -1,0 +1,21 @@
+{
+  "id": "c-calatore",
+  "headword": "calatore",
+  "senses": [
+    {
+      "it": "discesa",
+      "en": "descent, slope",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "calatore: discesa",
+    "rawHash": "5c7bc20c71f6dfa7ebc1b76618a96e5d6137c858",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

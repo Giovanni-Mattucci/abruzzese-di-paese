@@ -1,0 +1,21 @@
+{
+  "id": "p-pallotte",
+  "headword": "pallòtte",
+  "senses": [
+    {
+      "it": "polpette di carne",
+      "en": "meatballs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pallòtte: polpette di carne",
+    "rawHash": "d3690526f53c88befe571777e475aae47af6ceed",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

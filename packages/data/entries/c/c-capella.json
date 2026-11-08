@@ -1,0 +1,21 @@
+{
+  "id": "c-capella",
+  "headword": "capellà",
+  "senses": [
+    {
+      "it": "più in là",
+      "en": "further on, further over",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capellà: più in là",
+    "rawHash": "3644c817ce976554fbbe09098d83558da3019be9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

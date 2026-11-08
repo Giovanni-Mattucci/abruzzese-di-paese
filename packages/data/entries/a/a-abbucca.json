@@ -1,0 +1,21 @@
+{
+  "id": "a-abbucca",
+  "headword": "abbuccà",
+  "senses": [
+    {
+      "it": "abboccare, cadere in trappola, credere a qualcosa non vera",
+      "en": "to take the bait, to fall into a trap, to believe something untrue",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbuccà: abboccare, cadere in trappola, credere a qualcosa non vera",
+    "rawHash": "14b54b0fdcc40c584cc5a342fe3b88bd82b472b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

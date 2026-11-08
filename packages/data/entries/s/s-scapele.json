@@ -1,0 +1,21 @@
+{
+  "id": "s-scapele",
+  "headword": "scapelè",
+  "senses": [
+    {
+      "it": "liberare",
+      "en": "to free",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scapelè: liberare",
+    "rawHash": "c99cb47369e8a4ee8dd19c60d4c4b550ccf67d97",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

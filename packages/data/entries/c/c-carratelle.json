@@ -1,0 +1,21 @@
+{
+  "id": "c-carratelle",
+  "headword": "carratèlle",
+  "senses": [
+    {
+      "it": "caratello, piccola botte per la conservazione di vini pregiati",
+      "en": "small cask for storing fine wines",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carratèlle: caratello, piccola botte per la conservazione di vini pregiati.",
+    "rawHash": "c1acaf46036d6e633be86cc311e661b03ff877a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

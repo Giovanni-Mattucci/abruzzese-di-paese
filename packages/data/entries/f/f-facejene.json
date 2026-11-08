@@ -1,0 +1,21 @@
+{
+  "id": "f-facejene",
+  "headword": "facèjene",
+  "senses": [
+    {
+      "it": "facevano",
+      "en": "they were doing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "facèjene: facevano",
+    "rawHash": "8d24c99903134732dd485c0b74df924690e44f94",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

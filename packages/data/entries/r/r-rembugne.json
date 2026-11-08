@@ -1,0 +1,21 @@
+{
+  "id": "r-rembugne",
+  "headword": "rembugne",
+  "senses": [
+    {
+      "it": "del boccone che resta in gola, che non va giù",
+      "en": "of a mouthful that sticks in the throat and will not go down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rembugne: del boccone che resta in gola, che non va giù",
+    "rawHash": "9165495d520c2dfcb5911161945f847c8fb764ad",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

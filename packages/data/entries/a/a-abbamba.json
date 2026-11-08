@@ -1,0 +1,21 @@
+{
+  "id": "a-abbamba",
+  "headword": "abbambà",
+  "senses": [
+    {
+      "it": "bruciare leggermente",
+      "en": "to burn slightly, to scorch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbambà: bruciare leggermente",
+    "rawHash": "dad947872ee6c16117cfc99d9b6439c1997d565f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

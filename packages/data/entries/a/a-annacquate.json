@@ -1,0 +1,29 @@
+{
+  "id": "a-annacquate",
+  "headword": "annacquate",
+  "senses": [
+    {
+      "it": "alleggerito con l'acqua",
+      "en": "diluted with water",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "m'annacquate lu vine",
+      "it": "mi ha messo l'acqua nel vino",
+      "en": "he/she put water in my wine",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "annacquate: alleggerito con l'acqua. Es.: m'annacquate lu vine: mi ha messo l'acqua nel vino",
+    "rawHash": "bb783c02d96204a264e8eb957dc88dc74093c173",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

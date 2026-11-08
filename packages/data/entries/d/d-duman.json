@@ -1,0 +1,24 @@
+{
+  "id": "d-duman",
+  "headword": "duman",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "mattino",
+      "en": "morning",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "duman: mattino (Montebello sul Sangro)",
+    "rawHash": "b6e002cf9a7d8a0f7228ac21c8a093d2ef36e4b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

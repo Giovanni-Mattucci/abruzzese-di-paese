@@ -1,0 +1,21 @@
+{
+  "id": "c-cusse",
+  "headword": "cussè",
+  "senses": [
+    {
+      "it": "questa - riferita a persona -",
+      "en": "this one - referring to a female person -",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cussè: questa - riferita a persona -",
+    "rawHash": "3a56531ccf5a5b5c8ff946e8f1496149e2139ea4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

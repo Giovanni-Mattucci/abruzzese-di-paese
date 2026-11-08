@@ -1,0 +1,21 @@
+{
+  "id": "b-baseia",
+  "headword": "basèia",
+  "senses": [
+    {
+      "it": "vassoio",
+      "en": "tray",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "basèia: vassoio",
+    "rawHash": "e283b79ffd6ef518e8293f48fed1edba9fb2b0bb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

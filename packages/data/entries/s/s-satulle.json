@@ -1,0 +1,21 @@
+{
+  "id": "s-satulle",
+  "headword": "satulle",
+  "senses": [
+    {
+      "it": "sazio",
+      "en": "full, sated",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "satulle: sazio",
+    "rawHash": "77f0cc920ff751cfc36b98ff7f015f6601e773f5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

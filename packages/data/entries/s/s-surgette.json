@@ -1,0 +1,20 @@
+{
+  "id": "s-surgette",
+  "headword": "surgette",
+  "article": "li",
+  "senses": [
+    {
+      "it": "gnocchi"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "surgette (li): gnocchi",
+    "rawHash": "483ddbea2b2249806d676e92da718b972bfb9a22",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

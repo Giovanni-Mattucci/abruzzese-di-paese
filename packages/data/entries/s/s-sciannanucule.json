@@ -1,0 +1,21 @@
+{
+  "id": "s-sciannanucule",
+  "headword": "sciannanùcule",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciannanùcule: altalena",
+    "rawHash": "6ac36c7e2ebe436350b1ecbeedb246009bf112a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "m-muccecbeve",
+  "headword": "muccecbève",
+  "senses": [
+    {
+      "it": "si mordeva",
+      "en": "he/she used to bite himself/herself",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mozzicava (le mani)",
+      "en": "he/she used to bite (his/her hands)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muccecbève: si mordeva, mozzicava (le mani)",
+    "rawHash": "2d97d7a41059292a8dd24afc6a4049f90695d9fc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

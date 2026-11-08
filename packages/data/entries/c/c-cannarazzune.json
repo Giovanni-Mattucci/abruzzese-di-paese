@@ -1,0 +1,19 @@
+{
+  "id": "c-cannarazzune",
+  "headword": "cannarazzune",
+  "senses": [
+    {
+      "it": "rigatoni"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cannarazzune: rigatoni",
+    "rawHash": "136a5c92ea8e1a02c862b0d1b6113fed957e05df",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

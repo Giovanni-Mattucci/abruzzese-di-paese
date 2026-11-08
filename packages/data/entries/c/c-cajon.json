@@ -1,0 +1,24 @@
+{
+  "id": "c-cajon",
+  "headword": "cajòn",
+  "variants": [
+    "cajone"
+  ],
+  "senses": [
+    {
+      "it": "cesto grande",
+      "en": "large basket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cajòn, cajone: cesto grande",
+    "rawHash": "d42aa4f8a867adb943f6c238a92f01d1f1d2357d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

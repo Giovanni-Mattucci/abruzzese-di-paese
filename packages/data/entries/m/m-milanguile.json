@@ -1,0 +1,21 @@
+{
+  "id": "m-milanguile",
+  "headword": "milanguile",
+  "senses": [
+    {
+      "it": "cetriolo",
+      "en": "cucumber",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "milanguile: cetriolo",
+    "rawHash": "a827b1163d16553b1fbd176d505b18958506205e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

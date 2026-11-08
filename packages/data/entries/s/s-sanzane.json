@@ -1,0 +1,21 @@
+{
+  "id": "s-sanzane",
+  "headword": "sanzane",
+  "senses": [
+    {
+      "it": "mediatore",
+      "en": "middleman, broker",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sanzane: mediatore",
+    "rawHash": "c8aeeb9a2b3687b4d2341a38c44a0a0981fe0bbb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "g-giangrassene",
+  "headword": "giangrassêne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "grassone",
+      "en": "fat person, fatso",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "giangrassêne (lu): grassone",
+    "rawHash": "eebcca039e299487826dfa9393306fa6e841868e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

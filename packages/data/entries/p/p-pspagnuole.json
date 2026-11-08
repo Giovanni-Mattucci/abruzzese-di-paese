@@ -1,0 +1,21 @@
+{
+  "id": "p-pspagnuole",
+  "headword": "p'spagnuole",
+  "senses": [
+    {
+      "it": "peperone",
+      "en": "pepper, bell pepper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "p'spagnuole: peperone",
+    "rawHash": "b3978b77efeb8fd3d47821188e16ddef6ce95b41",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

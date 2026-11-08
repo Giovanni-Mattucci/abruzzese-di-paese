@@ -1,0 +1,26 @@
+{
+  "id": "a-artaja",
+  "headword": "artajà",
+  "senses": [
+    {
+      "it": "ritagliare",
+      "en": "to cut out, to trim",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ridurre",
+      "en": "to reduce",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "artajà: ritagliare, ridurre,",
+    "rawHash": "4251fbde165db49fac1a6122445f5a087e8f83ba",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

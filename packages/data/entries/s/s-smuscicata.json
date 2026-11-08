@@ -1,0 +1,21 @@
+{
+  "id": "s-smuscicata",
+  "headword": "smuscicàta",
+  "senses": [
+    {
+      "it": "mossa",
+      "en": "move, movement",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "smuscicàta: mossa",
+    "rawHash": "a7ffa3b53bbf16c6845b0f91553b56366f351434",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

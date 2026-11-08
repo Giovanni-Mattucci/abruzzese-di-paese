@@ -1,0 +1,21 @@
+{
+  "id": "m-meuma",
+  "headword": "meuma",
+  "senses": [
+    {
+      "it": "loquacità",
+      "en": "talkativeness",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "meuma: loquacità",
+    "rawHash": "7b862da42da3b42c5e632a8b830fdbda73122ad0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

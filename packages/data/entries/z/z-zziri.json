@@ -1,0 +1,21 @@
+{
+  "id": "z-zziri",
+  "headword": "zzirì",
+  "senses": [
+    {
+      "it": "maiale",
+      "en": "pig",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zzirì : maiale",
+    "rawHash": "8688edbc6862f58f09db4a0d577c891e15b21e10",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

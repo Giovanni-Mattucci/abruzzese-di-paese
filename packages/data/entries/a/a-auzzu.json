@@ -1,0 +1,21 @@
+{
+  "id": "a-auzzu",
+  "headword": "àuzzu",
+  "senses": [
+    {
+      "it": "ingordo",
+      "en": "greedy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "àuzzu: ingordo",
+    "rawHash": "b3fbf23463279920f6e750f3393888572e495877",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sfranicheje",
+  "headword": "sfranìcheje",
+  "senses": [
+    {
+      "it": "sbriciolagli",
+      "en": "crumble it for him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfranìcheje: sbriciolagli",
+    "rawHash": "e314521c984d809192c851720eb9217715273df3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

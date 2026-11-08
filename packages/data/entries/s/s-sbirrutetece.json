@@ -1,0 +1,21 @@
+{
+  "id": "s-sbirrutetece",
+  "headword": "sbirrutètece",
+  "senses": [
+    {
+      "it": "srotolateci",
+      "en": "unroll it for us",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbirrutètece: srotolateci",
+    "rawHash": "36e29f17b3ea00d6278cd336ffda79591a063a35",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

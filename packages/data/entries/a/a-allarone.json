@@ -1,0 +1,29 @@
+{
+  "id": "a-allarone",
+  "headword": "allaròne",
+  "variants": [
+    "hallaròne"
+  ],
+  "senses": [
+    {
+      "it": "gallinaccio",
+      "en": "turkey cock",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tacchino",
+      "en": "turkey",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allaròne, hallaròne: gallinaccio, tacchino",
+    "rawHash": "40e3269364f0fc98ab843eeca23a650ff3e4f836",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

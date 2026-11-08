@@ -1,0 +1,21 @@
+{
+  "id": "p-panecuotte",
+  "headword": "panecuotte",
+  "senses": [
+    {
+      "it": "pancotto",
+      "en": "bread soup (pancotto)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "panecuotte: pancotto",
+    "rawHash": "f41d1b62cb9442f4bdab709a581a5b72b1d269a9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

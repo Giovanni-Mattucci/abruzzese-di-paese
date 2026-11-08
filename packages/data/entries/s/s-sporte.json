@@ -1,0 +1,22 @@
+{
+  "id": "s-sporte",
+  "headword": "sporte",
+  "article": "la",
+  "senses": [
+    {
+      "it": "borsa da spesa",
+      "en": "shopping bag",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sporte (la): borsa da spesa",
+    "rawHash": "5588869dc9d9e64bc2199b2ef28cf92e5400602d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

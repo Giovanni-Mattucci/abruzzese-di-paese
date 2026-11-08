@@ -1,0 +1,21 @@
+{
+  "id": "a-anconaglia",
+  "headword": "anconaglia",
+  "senses": [
+    {
+      "it": "inguine",
+      "en": "groin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "anconaglia: inguine",
+    "rawHash": "d94655fac6fda748ace94ed681db0243d8639de2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

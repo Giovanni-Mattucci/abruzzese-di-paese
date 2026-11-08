@@ -1,0 +1,24 @@
+{
+  "id": "s-sorche",
+  "headword": "sòrche",
+  "variants": [
+    "sòreche"
+  ],
+  "senses": [
+    {
+      "it": "topo",
+      "en": "mouse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sòrche, sòreche: topo",
+    "rawHash": "3c2d8353f5924c74028925791611b2623636c001",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

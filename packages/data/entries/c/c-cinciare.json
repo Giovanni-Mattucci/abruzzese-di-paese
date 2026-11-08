@@ -1,0 +1,26 @@
+{
+  "id": "c-cinciare",
+  "headword": "cinciàre",
+  "senses": [
+    {
+      "it": "cenciaio",
+      "en": "ragman",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cenciaiolo",
+      "en": "rag-and-bone man",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cinciàre: cenciaio, cenciaiolo",
+    "rawHash": "a16474716369b25059dcade058327baff5069510",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

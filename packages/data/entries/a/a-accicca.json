@@ -1,0 +1,26 @@
+{
+  "id": "a-accicca",
+  "headword": "acciccà",
+  "senses": [
+    {
+      "it": "schiacciare",
+      "en": "to squash, to crush",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "masticare",
+      "en": "to chew",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciccà: schiacciare, masticare",
+    "rawHash": "2c3cb470a167f53a5880d1309a8b4f96fb4a6576",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

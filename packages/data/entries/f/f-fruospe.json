@@ -1,0 +1,21 @@
+{
+  "id": "f-fruospe",
+  "headword": "fruospe",
+  "senses": [
+    {
+      "it": "fiammifero",
+      "en": "match",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fruospe: fiammifero",
+    "rawHash": "24457eeb3a3f94d0631a385145b110a7619f8469",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

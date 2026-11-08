@@ -1,0 +1,21 @@
+{
+  "id": "c-culle-3",
+  "headword": "culle",
+  "senses": [
+    {
+      "it": "colli",
+      "en": "hills",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "culle: colli",
+    "rawHash": "da0ba837a8e34b39c99f7248b6ddb185358baec8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

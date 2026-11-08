@@ -1,0 +1,21 @@
+{
+  "id": "i-ia",
+  "headword": "ià",
+  "senses": [
+    {
+      "it": "io",
+      "en": "I",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "i",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/i.html",
+    "raw": "ià: io",
+    "rawHash": "7186e91fd45d084637d92696d2768f7cde1ec344",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

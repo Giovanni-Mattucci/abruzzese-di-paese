@@ -1,0 +1,21 @@
+{
+  "id": "p-presentosa",
+  "headword": "presentosa",
+  "senses": [
+    {
+      "it": "spilla",
+      "en": "brooch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "presentosa: spilla",
+    "rawHash": "8ffe57829e52d70ebe074e01286e5a84f5d0e943",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

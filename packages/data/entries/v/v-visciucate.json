@@ -1,0 +1,21 @@
+{
+  "id": "v-visciucate",
+  "headword": "visciucate",
+  "senses": [
+    {
+      "it": "girato",
+      "en": "turned",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "visciucate: girato",
+    "rawHash": "a844415660dc7fdd73377e4c7a91eadbfd857d6d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

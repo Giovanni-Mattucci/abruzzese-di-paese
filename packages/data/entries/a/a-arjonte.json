@@ -1,0 +1,21 @@
+{
+  "id": "a-arjonte",
+  "headword": "arjònte",
+  "senses": [
+    {
+      "it": "è arrivato a destinazione o riunito",
+      "en": "he/she has reached the destination or been reunited",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arjònte: è arrivato a destinazione o riunito",
+    "rawHash": "f986cc7a0c33edbcb13e8c932afa81a5dd660650",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

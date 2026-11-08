@@ -1,0 +1,21 @@
+{
+  "id": "b-bberte",
+  "headword": "bberte",
+  "senses": [
+    {
+      "it": "berta, personificazione di donna ciarliera e bene in carne",
+      "en": "berta, personification of a chatty, plump woman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bberte: berta, personificazione di donna ciarliera e bene in carne",
+    "rawHash": "c4eb6e9e13e94fb3bbc899fa2a58990c1e8d8c3e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

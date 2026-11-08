@@ -1,0 +1,24 @@
+{
+  "id": "p-pandafche",
+  "headword": "pandàfche",
+  "variants": [
+    "pantàfche"
+  ],
+  "senses": [
+    {
+      "it": "intangibile presenza che sta addosso e soffoca, senza che si possa reagire. Personaggio della fantasia popolare",
+      "en": "intangible presence that lies on top of one and suffocates, without one being able to react. Character of popular folklore",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pandàfche, pantàfche: intangibile presenza che sta addosso e soffoca, senza che si possa reagire. Personaggio della fantasia popolare",
+    "rawHash": "b7a83dc93a01862556288aeef0d2b6ae614f3799",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

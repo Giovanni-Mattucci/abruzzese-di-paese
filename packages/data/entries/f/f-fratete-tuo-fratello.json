@@ -1,0 +1,21 @@
+{
+  "id": "f-fratete-tuo-fratello",
+  "headword": "fràtete",
+  "senses": [
+    {
+      "it": "tuo fratello",
+      "en": "your brother",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fràtete tuo fratello",
+    "rawHash": "15184352df57b171f031c4e51b3a64d16a678c51",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

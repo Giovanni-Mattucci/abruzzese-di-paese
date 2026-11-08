@@ -1,0 +1,27 @@
+{
+  "id": "b-bbuttagne",
+  "headword": "bbuttagne",
+  "article": "la",
+  "senses": [
+    {
+      "it": "afa",
+      "en": "sultry heat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ondata di caldo afoso",
+      "en": "wave of muggy heat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbuttagne (la): afa, ondata di caldo afoso",
+    "rawHash": "e90639c45d2c77ef66c9be04c5e399268542c1e6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

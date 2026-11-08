@@ -1,0 +1,26 @@
+{
+  "id": "c-ciurre",
+  "headword": "ciurre",
+  "senses": [
+    {
+      "it": "capelli",
+      "en": "hair",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ciuffo",
+      "en": "tuft, forelock",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciurre: capelli, ciuffo",
+    "rawHash": "291246eb405564a89fd125b9f7bf3072185777da",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-acchiappacane",
+  "headword": "acchiappacàne",
+  "senses": [
+    {
+      "it": "accalappiacani",
+      "en": "dog-catcher",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acchiappacàne: accalappiacani",
+    "rawHash": "03aaba70c0c6eb412fd7ea74ffee971dd99088eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

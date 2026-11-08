@@ -1,0 +1,26 @@
+{
+  "id": "p-prevte",
+  "headword": "prevte",
+  "senses": [
+    {
+      "it": "prete",
+      "en": "priest",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sacerdote",
+      "en": "priest, clergyman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prevte: prete, sacerdote",
+    "rawHash": "4b0ad4cedb16aa8024edc915cfd42a15c559460f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "m-mundachene",
+  "headword": "mundachêne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "mucchio",
+      "en": "heap, pile",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mundachêne (lu): mucchio",
+    "rawHash": "8693b28bc86f339db689dbfe1d3bbec088018115",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

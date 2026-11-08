@@ -1,0 +1,26 @@
+{
+  "id": "r-remite",
+  "headword": "remite",
+  "senses": [
+    {
+      "it": "solitario",
+      "en": "solitary",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "eremita",
+      "en": "hermit",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "remite: solitario, eremita",
+    "rawHash": "788b6a386e2f2bb3e419891a1dc196993841212f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

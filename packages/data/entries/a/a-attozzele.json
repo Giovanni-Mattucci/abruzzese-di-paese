@@ -1,0 +1,26 @@
+{
+  "id": "a-attozzele",
+  "headword": "attozzele",
+  "senses": [
+    {
+      "it": "battere",
+      "en": "to beat",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "il toc toc del cuore",
+      "en": "the thumping of the heart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "attozzele: battere; il toc toc del cuore.",
+    "rawHash": "e46f163b61742ccb6125db8bcbac5f36c114be46",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "z-zezzone",
+  "headword": "zezzòne",
+  "variants": [
+    "zizzòne"
+  ],
+  "senses": [
+    {
+      "it": "sporcaccione",
+      "en": "filthy person, slob",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zezzòne, zizzòne: sporcaccione",
+    "rawHash": "65575b442fc298a98e9c95891c438e19d2777b7c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

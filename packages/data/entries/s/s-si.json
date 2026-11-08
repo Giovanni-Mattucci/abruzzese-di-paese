@@ -1,0 +1,24 @@
+{
+  "id": "s-si",
+  "headword": "si'",
+  "senses": [
+    {
+      "it": "sai",
+      "en": "you know",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: tu"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "si' (tu): sai",
+    "rawHash": "0c0eeaf1e4d4ddcd67d9eb4c81f21171bfd2e5b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

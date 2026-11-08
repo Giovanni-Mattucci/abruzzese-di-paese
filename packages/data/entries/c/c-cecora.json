@@ -1,0 +1,21 @@
+{
+  "id": "c-cecora",
+  "headword": "cecora",
+  "senses": [
+    {
+      "it": "cicoria",
+      "en": "chicory",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cecora: cicoria",
+    "rawHash": "626a940d7e16746b308e646336a7826597a0580f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

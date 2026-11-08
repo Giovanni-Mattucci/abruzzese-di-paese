@@ -1,0 +1,21 @@
+{
+  "id": "g-giravite",
+  "headword": "giravìte",
+  "senses": [
+    {
+      "it": "cacciavite",
+      "en": "screwdriver",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "giravìte: cacciavite",
+    "rawHash": "1204df25383301e53f031ceeda8434515eafc421",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

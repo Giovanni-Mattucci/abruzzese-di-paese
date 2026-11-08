@@ -1,0 +1,21 @@
+{
+  "id": "v-viulitte",
+  "headword": "viulitte",
+  "senses": [
+    {
+      "it": "piccolo velo",
+      "en": "small veil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "viulitte: piccolo velo",
+    "rawHash": "2c76746e33b08202bff638d0a5525947f4c2551b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

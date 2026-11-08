@@ -1,0 +1,21 @@
+{
+  "id": "t-trajne",
+  "headword": "trajne",
+  "senses": [
+    {
+      "it": "traìno, carro di legno con sponde",
+      "en": "cart, wooden wagon with side boards",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trajne: traìno, carro di legno con sponde",
+    "rawHash": "169e8d8cf68ff8e9b2ba531df73c7b0af29ff279",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

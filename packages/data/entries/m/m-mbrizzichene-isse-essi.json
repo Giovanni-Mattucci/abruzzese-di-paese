@@ -1,0 +1,24 @@
+{
+  "id": "m-mbrizzichene-isse-essi",
+  "headword": "'mbrizzìchene",
+  "senses": [
+    {
+      "it": "essi, loro infilzano",
+      "en": "they skewer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: isse"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbrizzìchene (isse) essi, loro infilzano",
+    "rawHash": "27ec28dd03f0e63c3be92231b9e079c7fa452748",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,27 @@
+{
+  "id": "m-mezzette",
+  "headword": "mêzzette",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "misura di capacità",
+      "en": "unit of capacity",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mezzo etto",
+      "en": "half a hectogram (50 grams)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mêzzette (lu): misura di capacità, mezzo etto",
+    "rawHash": "ea3e07e1c7d21b7417fa59702a2cddcbbb6ecb84",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

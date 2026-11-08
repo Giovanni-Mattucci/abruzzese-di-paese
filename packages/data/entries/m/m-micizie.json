@@ -1,0 +1,21 @@
+{
+  "id": "m-micizie",
+  "headword": "micizie",
+  "senses": [
+    {
+      "it": "amicizia",
+      "en": "friendship",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "micizie: amicizia",
+    "rawHash": "eed130b293d1315e5c62c7d2d2bc8d6cbc2c9092",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

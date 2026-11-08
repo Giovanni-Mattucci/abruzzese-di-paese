@@ -1,0 +1,21 @@
+{
+  "id": "j-j-jte",
+  "headword": "j jte",
+  "senses": [
+    {
+      "it": "sei andato",
+      "en": "you went, you have gone",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "j jte: sei andato",
+    "rawHash": "0cdb98f9056f837cc030a0be33f4b3f97c674411",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

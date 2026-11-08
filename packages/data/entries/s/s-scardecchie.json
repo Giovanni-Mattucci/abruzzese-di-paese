@@ -1,0 +1,21 @@
+{
+  "id": "s-scardecchie",
+  "headword": "scardêcchie",
+  "senses": [
+    {
+      "it": "canna tagliata a becco di clarino",
+      "en": "reed cut like a clarinet mouthpiece",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scardêcchie: canna tagliata a becco di clarino",
+    "rawHash": "bc4d9e4c63006c4eabc1e054e06251f38d005a06",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

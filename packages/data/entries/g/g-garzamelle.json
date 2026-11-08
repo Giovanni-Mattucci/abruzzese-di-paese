@@ -1,0 +1,26 @@
+{
+  "id": "g-garzamelle",
+  "headword": "garzamelle",
+  "senses": [
+    {
+      "it": "viscere",
+      "en": "guts",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "interiora",
+      "en": "entrails",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "garzamelle: viscere, interiora",
+    "rawHash": "1d1733f7460cffcecf83b0398c0507e2ca889344",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

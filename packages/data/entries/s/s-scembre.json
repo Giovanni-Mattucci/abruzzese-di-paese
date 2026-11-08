@@ -1,0 +1,21 @@
+{
+  "id": "s-scembre",
+  "headword": "scèmbre",
+  "senses": [
+    {
+      "it": "altalena",
+      "en": "swing",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scèmbre: altalena",
+    "rawHash": "c29984cee0f83cc28820366f8d4918bb50deef31",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

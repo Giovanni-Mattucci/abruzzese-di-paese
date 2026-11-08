@@ -1,0 +1,21 @@
+{
+  "id": "j-jummella",
+  "headword": "jummella",
+  "senses": [
+    {
+      "it": "quantità di prodotto contenuto nelle mani giunte a coppa",
+      "en": "the amount of produce held in two cupped hands",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jummella: quantità di prodotto contenuto nelle mani giunte a coppa",
+    "rawHash": "567b0859b2f991f64ed0459dd4bfcc3a89e973ac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

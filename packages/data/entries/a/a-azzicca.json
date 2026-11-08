@@ -1,0 +1,21 @@
+{
+  "id": "a-azzicca",
+  "headword": "azziccà",
+  "senses": [
+    {
+      "it": "azzeccare",
+      "en": "to guess right, to hit the mark",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "azziccà: azzeccare",
+    "rawHash": "81099318321c917474d3d6fed58dfebb5371ccc0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

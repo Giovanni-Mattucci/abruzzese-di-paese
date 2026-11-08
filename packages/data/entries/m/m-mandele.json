@@ -1,0 +1,30 @@
+{
+  "id": "m-mandele",
+  "headword": "mandèle",
+  "variants": [
+    "mandìle"
+  ],
+  "article": "lu",
+  "senses": [
+    {
+      "it": "copri tavolo da cucina",
+      "en": "kitchen table cover",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tovaglia",
+      "en": "tablecloth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mandèle, mandìle (lu): copri tavolo da cucina, tovaglia",
+    "rawHash": "5c28f30d625f220d04b92ff48a2daefe0bf7b737",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

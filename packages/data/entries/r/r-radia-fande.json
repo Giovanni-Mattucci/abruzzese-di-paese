@@ -1,0 +1,26 @@
+{
+  "id": "r-radia-fande",
+  "headword": "radia fande",
+  "senses": [
+    {
+      "it": "radiofante",
+      "en": "radiofante (\"foot-soldier radio\", the grapevine)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "voce popolare che precorre le notizie ufficiali, d'uso soprattutto in tempi calamitosi o di guerra",
+      "en": "popular rumour that anticipates official news, used especially in times of calamity or war",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "radia fande: radiofante; voce popolare che precorre le notizie ufficiali, d'uso soprattutto in tempi calamitosi o di guerra",
+    "rawHash": "9750464ff829c65aff858863e447469db0876dad",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

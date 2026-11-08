@@ -1,0 +1,26 @@
+{
+  "id": "m-mpizze",
+  "headword": "'mpizze",
+  "senses": [
+    {
+      "it": "nella parte estrema",
+      "en": "at the very end, at the tip",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "proprio sul bordo",
+      "en": "right on the edge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mpizze: nella parte estrema, proprio sul bordo",
+    "rawHash": "98c71c6478b6bff370f38086f1f58aef49d4c3d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

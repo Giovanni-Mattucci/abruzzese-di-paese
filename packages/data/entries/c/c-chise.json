@@ -1,0 +1,24 @@
+{
+  "id": "c-chise",
+  "headword": "chìse",
+  "variants": [
+    "cchijse"
+  ],
+  "senses": [
+    {
+      "it": "chiesa",
+      "en": "church",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chìse, cchijse: chiesa",
+    "rawHash": "f54ba6fcae1f22d1ac13b6009b34ea9133e652a7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

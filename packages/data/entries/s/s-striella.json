@@ -1,0 +1,21 @@
+{
+  "id": "s-striella",
+  "headword": "striella",
+  "senses": [
+    {
+      "it": "tavola sottile",
+      "en": "thin board",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "striella: tavola sottile",
+    "rawHash": "43aa8b5cc9b9c39ef89baade5370a85e8b76fe91",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

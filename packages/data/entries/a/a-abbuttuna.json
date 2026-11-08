@@ -1,0 +1,24 @@
+{
+  "id": "a-abbuttuna",
+  "headword": "abbuttunà",
+  "senses": [
+    {
+      "it": "abbottonare",
+      "en": "to button up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j abbuttòne, tu abbuttùne, esse abbuttòne, nu abbuttunème, vu abbuttunète, isse abbuttònene) (io abbottòno, tu abbottòni, egli abbottòna, noi abbottoniàmo, voi abbottonàte, essi abbottònano)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbuttunà: abbottonare (j abbuttòne, tu abbuttùne, esse abbuttòne, nu abbuttunème, vu abbuttunète, isse abbuttònene) (io abbottòno, tu abbottòni, egli abbottòna, noi abbottoniàmo, voi abbottonàte, essi abbottònano)",
+    "rawHash": "1434c97c73b4a4183e7606b3a69bf5a7426df6e0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

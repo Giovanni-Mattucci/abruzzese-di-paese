@@ -1,0 +1,21 @@
+{
+  "id": "h-humbrate",
+  "headword": "humbrate",
+  "senses": [
+    {
+      "it": "turbato",
+      "en": "troubled, upset",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "humbrate: turbato",
+    "rawHash": "f7b543a6ad6af2cb1d4e6bf6f06876e5df90d701",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

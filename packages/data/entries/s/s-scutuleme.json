@@ -1,0 +1,26 @@
+{
+  "id": "s-scutuleme",
+  "headword": "scutulème",
+  "senses": [
+    {
+      "it": "agitiamo",
+      "en": "we shake",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbattiamo",
+      "en": "we shake out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scutulème: agitiamo, sbattiamo",
+    "rawHash": "4a283f978fcdaa098e9227ca06fea77a836b775f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

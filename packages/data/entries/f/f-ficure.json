@@ -1,0 +1,21 @@
+{
+  "id": "f-ficure",
+  "headword": "fìcure",
+  "senses": [
+    {
+      "it": "fichi",
+      "en": "figs",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fìcure: fichi",
+    "rawHash": "c803b340d6b4659f2cc637acef496549430286f6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

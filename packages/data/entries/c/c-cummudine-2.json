@@ -1,0 +1,21 @@
+{
+  "id": "c-cummudine-2",
+  "headword": "cummudine",
+  "senses": [
+    {
+      "it": "mobiletto a lato del letto",
+      "en": "bedside cabinet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummudine: mobiletto a lato del letto",
+    "rawHash": "cde2285a4474ae79d0caa5dc2740833500cf7341",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,31 @@
+{
+  "id": "t-tribbule",
+  "headword": "tribbule",
+  "senses": [
+    {
+      "it": "tribola",
+      "en": "he/she suffers",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "essere afflitto da continuo",
+      "en": "to be afflicted by continual",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "assiduo tormento",
+      "en": "unrelenting torment",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tribbule: tribola; essere afflitto da continuo, assiduo tormento",
+    "rawHash": "f4abfea399456a3c87be123ae900337d21797a42",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

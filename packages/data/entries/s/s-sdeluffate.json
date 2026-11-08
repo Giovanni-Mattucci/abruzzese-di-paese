@@ -1,0 +1,24 @@
+{
+  "id": "s-sdeluffate",
+  "headword": "sdeluffàte",
+  "variants": [
+    "sdulluffate"
+  ],
+  "senses": [
+    {
+      "it": "picchiato in maniera forete",
+      "en": "beaten hard",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdeluffàte, sdulluffate: picchiato in maniera forete",
+    "rawHash": "f4530bd3ef20cc605d5cd0000e9a26cc01828505",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

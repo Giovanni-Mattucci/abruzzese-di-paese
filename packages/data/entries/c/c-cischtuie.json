@@ -1,0 +1,21 @@
+{
+  "id": "c-cischtuie",
+  "headword": "cischtuie",
+  "senses": [
+    {
+      "it": "tartaruga",
+      "en": "tortoise, turtle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cischtuie: tartaruga",
+    "rawHash": "685ba534b42875b1b8415d7e6561c0b2108fbda5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

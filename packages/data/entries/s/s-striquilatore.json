@@ -1,0 +1,22 @@
+{
+  "id": "s-striquilatore",
+  "headword": "striquilatore",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "tavoletta di legno per lavare i panni",
+      "en": "wooden washboard for laundry",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "striquilatore (lu): tavoletta di legno per lavare i panni",
+    "rawHash": "227de8ec5b9f5979cf8f9d4116a68ff5c296812d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

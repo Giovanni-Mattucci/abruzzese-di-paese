@@ -1,0 +1,21 @@
+{
+  "id": "a-aerta",
+  "headword": "aerta",
+  "senses": [
+    {
+      "it": "alta",
+      "en": "high, tall (feminine)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aerta: alta",
+    "rawHash": "bddbec94e67710255373d605a0738929226c0217",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

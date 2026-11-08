@@ -1,0 +1,21 @@
+{
+  "id": "j-janghe",
+  "headword": "jànghe",
+  "senses": [
+    {
+      "it": "vitello",
+      "en": "calf",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jànghe: vitello",
+    "rawHash": "3b4a0d9b5ed92fc1d4d091213793534141522aa6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

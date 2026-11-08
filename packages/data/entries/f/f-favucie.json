@@ -1,0 +1,21 @@
+{
+  "id": "f-favucie",
+  "headword": "fàvucie",
+  "senses": [
+    {
+      "it": "falcetto",
+      "en": "sickle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fàvucie: falcetto",
+    "rawHash": "216ea3e2bc820b64ceb9495565747c8692b14d54",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

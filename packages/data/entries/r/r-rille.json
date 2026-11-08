@@ -1,0 +1,21 @@
+{
+  "id": "r-rille",
+  "headword": "rille",
+  "senses": [
+    {
+      "it": "grilli",
+      "en": "crickets",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rille: grilli",
+    "rawHash": "0f99984b109600a76b60debff616956ffe93fde7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

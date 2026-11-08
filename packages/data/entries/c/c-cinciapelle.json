@@ -1,0 +1,22 @@
+{
+  "id": "c-cinciapelle",
+  "headword": "cinciapélle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "parte scarta della carne",
+      "en": "waste part of the meat, offcut",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cinciapélle (lu): parte scarta della carne",
+    "rawHash": "39f0e0e15b94d1329ae55946075b9ae74058abb6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

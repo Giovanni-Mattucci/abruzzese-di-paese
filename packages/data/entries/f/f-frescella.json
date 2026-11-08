@@ -1,0 +1,21 @@
+{
+  "id": "f-frescella",
+  "headword": "frescella",
+  "senses": [
+    {
+      "it": "cestello per il formaggio",
+      "en": "small basket for cheese",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frescella: cestello per il formaggio",
+    "rawHash": "16d92c160dd388b5458f8bb65ad1b4a191a16a60",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

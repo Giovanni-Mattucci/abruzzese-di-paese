@@ -1,0 +1,21 @@
+{
+  "id": "s-stritteca",
+  "headword": "strittecà",
+  "senses": [
+    {
+      "it": "scuotere",
+      "en": "to shake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strittecà: scuotere",
+    "rawHash": "88a937b92e150a0dd1b5f007c8720d5f378dd978",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

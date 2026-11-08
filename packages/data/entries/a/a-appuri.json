@@ -1,0 +1,26 @@
+{
+  "id": "a-appuri",
+  "headword": "appurì",
+  "senses": [
+    {
+      "it": "appurare",
+      "en": "to ascertain, to verify",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "risapere",
+      "en": "to come to know, to find out",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appurì: appurare, risapere",
+    "rawHash": "825540a1b3e1f285931ec3408a4ce1561414a51c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

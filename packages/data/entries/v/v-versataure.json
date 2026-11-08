@@ -1,0 +1,21 @@
+{
+  "id": "v-versataure",
+  "headword": "versatàure",
+  "senses": [
+    {
+      "it": "acquaio",
+      "en": "sink",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "versatàure: acquaio",
+    "rawHash": "20f81b693b338bec175ca3808eefdaf44bb08467",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

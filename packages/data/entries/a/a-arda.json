@@ -1,0 +1,26 @@
+{
+  "id": "a-arda",
+  "headword": "ardà",
+  "senses": [
+    {
+      "it": "ridare",
+      "en": "to give back",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "restituire",
+      "en": "to return, to give back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ardà: ridare, restituire",
+    "rawHash": "35e3fab0005e8ccc7e3b786bf60ef90c60f3af52",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

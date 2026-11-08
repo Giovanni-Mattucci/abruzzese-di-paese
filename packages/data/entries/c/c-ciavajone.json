@@ -1,0 +1,21 @@
+{
+  "id": "c-ciavajone",
+  "headword": "ciavajone",
+  "senses": [
+    {
+      "it": "balbuziente",
+      "en": "stutterer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciavajone: balbuziente",
+    "rawHash": "518c501432250f9e05d8ec69dba9d7cc8280d54c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "n-na-ote",
+  "headword": "'na òte",
+  "variants": [
+    "'na vote"
+  ],
+  "senses": [
+    {
+      "it": "una volta",
+      "en": "once, one time",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'na òte, 'na vote: una volta",
+    "rawHash": "dd9c19c5f433b3a5bd1f0297184662934fafe6db",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

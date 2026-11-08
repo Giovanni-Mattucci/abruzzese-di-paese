@@ -1,0 +1,21 @@
+{
+  "id": "a-ammascica",
+  "headword": "ammascicà",
+  "senses": [
+    {
+      "it": "masticare",
+      "en": "to chew",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammascicà: masticare",
+    "rawHash": "980a7c3872de7f30649e1f1b997528a4159bbc20",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

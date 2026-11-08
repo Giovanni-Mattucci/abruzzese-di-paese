@@ -1,0 +1,21 @@
+{
+  "id": "d-debbite",
+  "headword": "dèbbite",
+  "senses": [
+    {
+      "it": "debito",
+      "en": "debt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dèbbite: debito",
+    "rawHash": "01393377f92136392f95e47c04e6ab3cf351e7d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

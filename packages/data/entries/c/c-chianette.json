@@ -1,0 +1,21 @@
+{
+  "id": "c-chianette",
+  "headword": "chianette",
+  "senses": [
+    {
+      "it": "calci, (coppie de chianette: coppie di calci)",
+      "en": "kicks, (coppie de chianette: pairs of kicks)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chianette: calci, (coppie de chianette: coppie di calci)",
+    "rawHash": "97aa475d57c628f8a78cba9ea92cc831632bd4b3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

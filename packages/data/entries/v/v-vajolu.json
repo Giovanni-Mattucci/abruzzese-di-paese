@@ -1,0 +1,21 @@
+{
+  "id": "v-vajolu",
+  "headword": "vajòlu",
+  "senses": [
+    {
+      "it": "vaiolo",
+      "en": "smallpox",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vajòlu: vaiolo",
+    "rawHash": "a33ef1f3e045941f43c4dc18ca75d38df7762018",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

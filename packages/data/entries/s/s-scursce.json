@@ -1,0 +1,26 @@
+{
+  "id": "s-scursce",
+  "headword": "scùrsce",
+  "senses": [
+    {
+      "it": "buccia",
+      "en": "peel",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "scorza",
+      "en": "rind",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scùrsce: buccia, scorza",
+    "rawHash": "d6663fe1bce912d27f4362c78c997580821b51ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

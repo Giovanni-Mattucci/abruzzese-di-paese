@@ -1,0 +1,21 @@
+{
+  "id": "e-evvija-vije",
+  "headword": "evvija vije",
+  "senses": [
+    {
+      "it": "via via",
+      "en": "little by little, gradually",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "evvija vije: via via",
+    "rawHash": "c57340c81b8ab7cae572c5674e6b12ea0113e687",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

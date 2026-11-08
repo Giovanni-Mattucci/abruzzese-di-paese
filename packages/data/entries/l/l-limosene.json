@@ -1,0 +1,21 @@
+{
+  "id": "l-limosene",
+  "headword": "limòsene",
+  "senses": [
+    {
+      "it": "elemosina",
+      "en": "alms",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "limòsene: elemosina",
+    "rawHash": "766cf307f91174fceef121504723899ecb34c667",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

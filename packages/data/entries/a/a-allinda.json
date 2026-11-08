@@ -1,0 +1,21 @@
+{
+  "id": "a-allinda",
+  "headword": "allindà",
+  "senses": [
+    {
+      "it": "allentare. smettere finire",
+      "en": "to loosen, to stop, to finish",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "allindà: allentare. smettere finire",
+    "rawHash": "69ada5b1543cb6207fbf3d993f91b7749f19c1ec",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

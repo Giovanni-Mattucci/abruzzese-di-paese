@@ -1,0 +1,26 @@
+{
+  "id": "s-scajole",
+  "headword": "scajòle",
+  "senses": [
+    {
+      "it": "scagliola",
+      "en": "scagliola (gypsum plaster)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "materiale da costruzione",
+      "en": "building material",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scajòle: scagliola, materiale da costruzione",
+    "rawHash": "1081b45345ac2582669ac262041478cbf745509c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

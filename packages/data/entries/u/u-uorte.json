@@ -1,0 +1,21 @@
+{
+  "id": "u-uorte",
+  "headword": "uorte",
+  "senses": [
+    {
+      "it": "orto",
+      "en": "vegetable garden",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "u",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/u.html",
+    "raw": "uorte: orto",
+    "rawHash": "20908e9c7406e5bb59493a09e3baf216b9de1760",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

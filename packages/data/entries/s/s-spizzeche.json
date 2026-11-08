@@ -1,0 +1,26 @@
+{
+  "id": "s-spizzeche",
+  "headword": "spìzzeche",
+  "senses": [
+    {
+      "it": "piano piano",
+      "en": "little by little",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "a spizzico",
+      "en": "in bits and pieces",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spìzzeche: piano piano, a spizzico",
+    "rawHash": "335194af25c979bc80ac9ea629c99b60dfebaa6b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

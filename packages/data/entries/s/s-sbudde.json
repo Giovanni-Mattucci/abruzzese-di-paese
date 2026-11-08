@@ -1,0 +1,21 @@
+{
+  "id": "s-sbudde",
+  "headword": "sbudde",
+  "senses": [
+    {
+      "it": "vuoto",
+      "en": "empty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbudde: vuoto",
+    "rawHash": "44e67669139ae1e7af7b8f8911fefbb2249e4423",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

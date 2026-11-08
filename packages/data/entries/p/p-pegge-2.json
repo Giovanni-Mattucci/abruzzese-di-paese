@@ -1,0 +1,21 @@
+{
+  "id": "p-pegge-2",
+  "headword": "pégge",
+  "senses": [
+    {
+      "it": "peggio",
+      "en": "worse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pégge: peggio",
+    "rawHash": "1e7b3576c56eb90bddfd1566be2f4959a73d0297",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

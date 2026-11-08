@@ -1,0 +1,21 @@
+{
+  "id": "v-vussa",
+  "headword": "vussà",
+  "senses": [
+    {
+      "it": "spingete",
+      "en": "push (plural imperative)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vussà: spingete",
+    "rawHash": "cc2c37609372b7349f71e0c9ec808a32e6701bf3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

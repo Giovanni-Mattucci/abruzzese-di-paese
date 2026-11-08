@@ -1,0 +1,24 @@
+{
+  "id": "a-ammazzatora",
+  "headword": "ammazzatòra",
+  "variants": [
+    "ammazzatore"
+  ],
+  "senses": [
+    {
+      "it": "mattatoio",
+      "en": "slaughterhouse",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammazzatòra, ammazzatore: mattatoio",
+    "rawHash": "67da5f870ef9bf7084179256f4bdc81e794d7df1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "h-hegne",
+  "headword": "hêgne",
+  "senses": [
+    {
+      "it": "ungere",
+      "en": "to grease, to oil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hêgne: ungere",
+    "rawHash": "250b2d29df0a860104d920c96fb919ffd0538b42",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

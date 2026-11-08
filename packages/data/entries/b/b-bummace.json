@@ -1,0 +1,21 @@
+{
+  "id": "b-bummace",
+  "headword": "bummàce",
+  "senses": [
+    {
+      "it": "ovatta",
+      "en": "cotton wool, wadding",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bummàce: ovatta",
+    "rawHash": "487f9dfb0a24da834a9703f57414d1c2931cd560",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

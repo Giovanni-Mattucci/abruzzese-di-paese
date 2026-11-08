@@ -1,0 +1,21 @@
+{
+  "id": "a-a-cocce-capabballe",
+  "headword": "a cocce cap'abballe",
+  "senses": [
+    {
+      "it": "stare all'ingiù",
+      "en": "to be upside down, head downwards",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a cocce cap'abballe: stare all'ingiù",
+    "rawHash": "87c92bce8e35cd5c68e9fd84586e3a1699b6970d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-true",
+  "headword": "trùe",
+  "senses": [
+    {
+      "it": "navetta del telaio",
+      "en": "loom shuttle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "trùe: navetta del telaio",
+    "rawHash": "73bdd17eb1e1b146d0a15c5d3b68fd4ef0919405",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

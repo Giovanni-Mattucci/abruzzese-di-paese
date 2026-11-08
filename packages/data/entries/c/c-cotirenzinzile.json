@@ -1,0 +1,21 @@
+{
+  "id": "c-cotirenzinzile",
+  "headword": "cotirenzinzile",
+  "senses": [
+    {
+      "it": "vutrettola",
+      "en": "wagtail (vutrettola)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cotirenzinzile: vutrettola",
+    "rawHash": "1b8515e303f020bbd9ad1cdd071d28e6afb9caa4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

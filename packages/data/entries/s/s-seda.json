@@ -1,0 +1,21 @@
+{
+  "id": "s-seda",
+  "headword": "sèda",
+  "senses": [
+    {
+      "it": "seta",
+      "en": "silk",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sèda: seta",
+    "rawHash": "bc42c62abc8c3e384faf9aec83e6f27b2fbc3116",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

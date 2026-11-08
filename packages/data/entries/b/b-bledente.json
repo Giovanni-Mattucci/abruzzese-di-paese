@@ -1,0 +1,22 @@
+{
+  "id": "b-bledente",
+  "headword": "bledente",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "bidente",
+      "en": "two-pronged hoe, bident",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bledente (lu): bidente",
+    "rawHash": "a9886406278d5e5aca8b768444d26461c20f1c89",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

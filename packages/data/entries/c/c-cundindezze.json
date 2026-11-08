@@ -1,0 +1,26 @@
+{
+  "id": "c-cundindezze",
+  "headword": "cundindezze",
+  "senses": [
+    {
+      "it": "allegria",
+      "en": "cheerfulness",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "contentezza",
+      "en": "contentment",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cundindezze: allegria, contentezza",
+    "rawHash": "905cf75d56dec496f00a2dd2f85f623a34a7ab2f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

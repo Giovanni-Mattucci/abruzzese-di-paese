@@ -1,0 +1,21 @@
+{
+  "id": "a-artucca",
+  "headword": "artuccà",
+  "senses": [
+    {
+      "it": "ritoccare",
+      "en": "to touch up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "artuccà: ritoccare",
+    "rawHash": "2d56592584657d799fb11ecf70e213453ed468eb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

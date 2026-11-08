@@ -1,0 +1,21 @@
+{
+  "id": "f-fressora",
+  "headword": "fressora",
+  "senses": [
+    {
+      "it": "padella",
+      "en": "frying pan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fressora: padella",
+    "rawHash": "aab768e136142fefc666c20793a5c4bdbae99243",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

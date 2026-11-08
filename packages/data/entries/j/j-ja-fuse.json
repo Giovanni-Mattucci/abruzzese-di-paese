@@ -1,0 +1,21 @@
+{
+  "id": "j-ja-fuse",
+  "headword": "ja fuse",
+  "senses": [
+    {
+      "it": "gli ha fuso",
+      "en": "he melted (it) on him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja fuse: gli ha fuso",
+    "rawHash": "077e2819ffc9a07a9fddeab3dc06504f071588f4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

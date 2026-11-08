@@ -1,0 +1,21 @@
+{
+  "id": "d-disgrazijate",
+  "headword": "disgrazijàte",
+  "senses": [
+    {
+      "it": "disgraziato",
+      "en": "wretch, unfortunate",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "disgrazijàte: disgraziato",
+    "rawHash": "c6a3bc6c2d4e1c013f93725ee30e1995c878eecb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

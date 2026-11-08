@@ -1,0 +1,21 @@
+{
+  "id": "c-ciurmajje",
+  "headword": "ciurmàjje",
+  "senses": [
+    {
+      "it": "moltitudine ostile",
+      "en": "hostile crowd",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciurmàjje: moltitudine ostile.",
+    "rawHash": "5d50bbf5d2c61a78737b9be41d4b23e234ebfed1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

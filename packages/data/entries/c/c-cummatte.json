@@ -1,0 +1,21 @@
+{
+  "id": "c-cummatte",
+  "headword": "cummatte",
+  "senses": [
+    {
+      "it": "avere a che fare",
+      "en": "to have to do with, to deal with",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummatte: avere a che fare",
+    "rawHash": "ce2839d2780466b79fa8454ca5ece1c096168f72",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

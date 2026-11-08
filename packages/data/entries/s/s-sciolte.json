@@ -1,0 +1,26 @@
+{
+  "id": "s-sciolte",
+  "headword": "sciolte",
+  "senses": [
+    {
+      "it": "sciolta",
+      "en": "loose",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "diarrea",
+      "en": "diarrhea",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciolte: sciolta, diarrea",
+    "rawHash": "6d5b33f3b6178500000b33e14d3c7bd40ac4968c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

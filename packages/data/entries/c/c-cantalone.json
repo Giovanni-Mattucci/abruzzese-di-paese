@@ -1,0 +1,21 @@
+{
+  "id": "c-cantalone",
+  "headword": "cantalone",
+  "senses": [
+    {
+      "it": "nenia funebre",
+      "en": "funeral dirge",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cantalone: nenia funebre",
+    "rawHash": "34701e2ebd2089c8469c5caaf63bfb85d54ae2f6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

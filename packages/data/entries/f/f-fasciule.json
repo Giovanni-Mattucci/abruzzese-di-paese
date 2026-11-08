@@ -1,0 +1,21 @@
+{
+  "id": "f-fasciule",
+  "headword": "fasciule",
+  "senses": [
+    {
+      "it": "fagioli",
+      "en": "beans",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fasciule: fagioli",
+    "rawHash": "de6845c86ab7134524b68e4c6a0212d132797cde",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

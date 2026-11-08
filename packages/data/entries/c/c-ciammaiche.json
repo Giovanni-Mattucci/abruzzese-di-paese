@@ -1,0 +1,26 @@
+{
+  "id": "c-ciammaiche",
+  "headword": "ciammaìche",
+  "variants": [
+    "ciammaijèche",
+    "ciammajiche"
+  ],
+  "article": "la",
+  "senses": [
+    {
+      "it": "lumaca",
+      "en": "snail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciammaìche, ciammaijèche, ciammajiche (la): lumaca",
+    "rawHash": "70958d29f8167e29406437c93ae030f4ebfdc5b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a-acc",
+  "headword": "acc",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "acqua",
+      "en": "water",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acc: acqua (Montebello sul Sangro)",
+    "rawHash": "2cf7f3a0b9d6721b9576c55fcea3cbf9048fab02",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

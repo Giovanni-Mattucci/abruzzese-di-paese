@@ -1,0 +1,21 @@
+{
+  "id": "n-na",
+  "headword": "na",
+  "senses": [
+    {
+      "it": "una",
+      "en": "a, one (feminine)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "na: una",
+    "rawHash": "d30fa64f7ee28c42b66b619b13143ad999e4c58f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

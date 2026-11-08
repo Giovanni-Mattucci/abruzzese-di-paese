@@ -1,0 +1,26 @@
+{
+  "id": "f-fije-de-ndrocchie",
+  "headword": "fije de ndrocchie",
+  "senses": [
+    {
+      "it": "persona furba",
+      "en": "cunning person",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ma poco affidabile",
+      "en": "but not very reliable",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fije de ndrocchie: persona furba, ma poco affidabile",
+    "rawHash": "70782e06c1202aa371d5ed929fb3714fee6c6074",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

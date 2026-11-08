@@ -1,0 +1,21 @@
+{
+  "id": "a-atte",
+  "headword": "atte",
+  "senses": [
+    {
+      "it": "datti",
+      "en": "give yourself",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "atte: datti",
+    "rawHash": "cc00a2845c832082acce816b16f5df917637db4d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

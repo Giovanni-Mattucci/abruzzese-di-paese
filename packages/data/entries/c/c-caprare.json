@@ -1,0 +1,21 @@
+{
+  "id": "c-caprare",
+  "headword": "caprare",
+  "senses": [
+    {
+      "it": "capraio",
+      "en": "goatherd",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caprare: capraio",
+    "rawHash": "7257b34556e8be37bd03ef895fc2e9166f600123",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

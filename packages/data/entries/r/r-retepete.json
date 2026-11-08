@@ -1,0 +1,26 @@
+{
+  "id": "r-retepete",
+  "headword": "retepete",
+  "senses": [
+    {
+      "it": "dicesi di persona molto lenta nel fare le cose e che rimane sempre indietro rispetto agli altri",
+      "en": "said of a very slow person who always lags behind others",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "per indicare una particolare attività che procede molto a rilento. Termine formato dalle due parole dialettali arrete (dietro, dal latino de e retro) e pete (piede, dal latino pedem)",
+      "en": "to indicate a particular activity that proceeds very slowly. Term formed from the two dialect words arrete (behind, from Latin de and retro) and pete (foot, from Latin pedem)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "retepete: dicesi di persona molto lenta nel fare le cose e che rimane sempre indietro rispetto agli altri, ma anche per indicare una particolare attività che procede molto a rilento. Termine formato dalle due parole dialettali arrete (dietro, dal latino de e retro) e pete (piede, dal latino pedem)",
+    "rawHash": "1c92e09df67b77e84fde8176fd6cb929cc83552c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

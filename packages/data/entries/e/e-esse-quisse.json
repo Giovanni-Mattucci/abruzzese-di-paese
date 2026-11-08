@@ -1,0 +1,21 @@
+{
+  "id": "e-esse-quisse",
+  "headword": "esse quisse",
+  "senses": [
+    {
+      "it": "guarda chi arriva",
+      "en": "look who is coming",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "e",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/e.html",
+    "raw": "esse quisse: guarda chi arriva",
+    "rawHash": "d7406397b2e32025148c41137806098f858a7a97",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

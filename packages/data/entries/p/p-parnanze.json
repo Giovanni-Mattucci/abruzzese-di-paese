@@ -1,0 +1,25 @@
+{
+  "id": "p-parnanze",
+  "headword": "parnanze",
+  "article": "la",
+  "senses": [
+    {
+      "it": "grembiule, anche da cucina",
+      "en": "apron, also a kitchen apron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: parnanze (la): grembiule"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "parnanze: grembiule da cucina",
+    "rawHash": "e84e870d0b2e279058d237d1fb1d0c66ae9c9850",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

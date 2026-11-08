@@ -1,0 +1,21 @@
+{
+  "id": "p-pulone",
+  "headword": "pulone",
+  "senses": [
+    {
+      "it": "grande vasca",
+      "en": "large tub, large basin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pulone: grande vasca",
+    "rawHash": "85c210d6b5d7ae7b79ab203c669d7ecc4a9c3fa1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

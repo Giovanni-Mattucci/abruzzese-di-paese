@@ -1,0 +1,21 @@
+{
+  "id": "v-vazzije",
+  "headword": "vazzìje",
+  "senses": [
+    {
+      "it": "vassoio - si adopera anche per indicare tanto, molto",
+      "en": "tray - also used to mean a lot, much",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vazzìje: vassoio - si adopera anche per indicare tanto, molto",
+    "rawHash": "c644b661292c9344e8601c83df968bc3156e5e89",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

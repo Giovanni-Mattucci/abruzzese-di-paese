@@ -1,0 +1,21 @@
+{
+  "id": "s-sduvezza",
+  "headword": "sduvezzà",
+  "senses": [
+    {
+      "it": "scuotere con violenza - riferito a persona",
+      "en": "to shake violently - referring to a person",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sduvezzà: scuotere con violenza - riferito a persona",
+    "rawHash": "73bb747f8d7d0f1722c3c8cf3b024a3fc6fc3e4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

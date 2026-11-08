@@ -1,0 +1,21 @@
+{
+  "id": "d-demore",
+  "headword": "demore",
+  "senses": [
+    {
+      "it": "dimora",
+      "en": "dwelling, abode",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "demore: dimora",
+    "rawHash": "6cf3571964eaaec950773db1b61c25ce1b667b39",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

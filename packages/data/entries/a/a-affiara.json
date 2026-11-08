@@ -1,0 +1,21 @@
+{
+  "id": "a-affiara",
+  "headword": "affiarà",
+  "senses": [
+    {
+      "it": "avvampare",
+      "en": "to flare up, to blaze",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "affiarà: avvampare",
+    "rawHash": "62288fca3c05f852d152efd59ce9b55b1cfc11e2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

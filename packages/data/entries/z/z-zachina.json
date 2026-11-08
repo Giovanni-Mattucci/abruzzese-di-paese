@@ -1,0 +1,21 @@
+{
+  "id": "z-zachina",
+  "headword": "zàchina",
+  "senses": [
+    {
+      "it": "fettuccia",
+      "en": "tape, ribbon",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zàchina: fettuccia",
+    "rawHash": "c42cc90e73193684f45a1eda4673cdfeb71cfb3e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

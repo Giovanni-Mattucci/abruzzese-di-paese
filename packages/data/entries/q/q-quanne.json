@@ -1,0 +1,24 @@
+{
+  "id": "q-quanne",
+  "headword": "quanne",
+  "variants": [
+    "quande"
+  ],
+  "senses": [
+    {
+      "it": "quando quartine: quartino, diminuitivo di quarto. Un quarto di litro, un quartino",
+      "en": "when quartine: quartino, diminutive of quarto (quarter). A quarter of a litre, a quartino",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "q",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/q.html",
+    "raw": "quanne, quande : quando quartine: quartino, diminuitivo di quarto. Un quarto di litro, un quartino",
+    "rawHash": "3eb11a20c0fb92f65eb63a867c8d733e1c9287cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

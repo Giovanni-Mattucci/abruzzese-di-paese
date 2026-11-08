@@ -1,0 +1,21 @@
+{
+  "id": "v-vocche",
+  "headword": "vocche",
+  "senses": [
+    {
+      "it": "bocca",
+      "en": "mouth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vocche: bocca",
+    "rawHash": "2c0144a7016f98cd41c673f766fc3c72efbbb0df",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

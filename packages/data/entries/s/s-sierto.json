@@ -1,0 +1,21 @@
+{
+  "id": "s-sierto",
+  "headword": "sièrto",
+  "senses": [
+    {
+      "it": "certo",
+      "en": "certain, sure",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sièrto: certo",
+    "rawHash": "60a100fddeaf74bdfb58ab95d7adb50bbee9bb25",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

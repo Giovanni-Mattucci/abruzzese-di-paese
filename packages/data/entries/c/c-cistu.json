@@ -1,0 +1,21 @@
+{
+  "id": "c-cistu",
+  "headword": "cistu",
+  "senses": [
+    {
+      "it": "cesto",
+      "en": "basket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cistu: cesto",
+    "rawHash": "743f1bd6fd225f4d8fd5c3c158f237c986b732d0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

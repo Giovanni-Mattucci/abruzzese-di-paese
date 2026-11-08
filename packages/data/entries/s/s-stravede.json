@@ -1,0 +1,21 @@
+{
+  "id": "s-stravede",
+  "headword": "stravedé",
+  "senses": [
+    {
+      "it": "considerare esageratamente",
+      "en": "to think excessively highly of, to dote on",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stravedé: considerare esageratamente",
+    "rawHash": "8b1bf1f7b77b2dd109b3f90fa04e8f583f31f9c3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

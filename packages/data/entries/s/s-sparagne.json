@@ -1,0 +1,21 @@
+{
+  "id": "s-sparagne",
+  "headword": "sparàgne",
+  "senses": [
+    {
+      "it": "risparmio",
+      "en": "saving, savings",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sparàgne: risparmio",
+    "rawHash": "6ae52a9f8368aabdb6681760f782b614dc635655",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

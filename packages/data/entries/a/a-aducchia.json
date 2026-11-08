@@ -1,0 +1,26 @@
+{
+  "id": "a-aducchia",
+  "headword": "aducchià",
+  "senses": [
+    {
+      "it": "adocchiare",
+      "en": "to eye",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "guardare con interesse o desiderio",
+      "en": "to look at with interest or desire",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aducchià: adocchiare; guardare con interesse o desiderio",
+    "rawHash": "e6603fa076cba5ff99c921f21cc178f12289f594",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cintrine",
+  "headword": "cintrìne",
+  "senses": [
+    {
+      "it": "cinta dei pantaloni",
+      "en": "trouser belt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cintrìne: cinta dei pantaloni",
+    "rawHash": "92ef663e1403b8e4d4a910320835ac28ddfa6466",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

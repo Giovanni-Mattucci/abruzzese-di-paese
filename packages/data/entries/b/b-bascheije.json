@@ -1,0 +1,22 @@
+{
+  "id": "b-bascheije",
+  "headword": "baschéije",
+  "article": "la",
+  "senses": [
+    {
+      "it": "bascula",
+      "en": "weighbridge, platform scale",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "baschéije (la): bascula",
+    "rawHash": "eb3922da66bb4f9467ca4c7e9697d67d74199997",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

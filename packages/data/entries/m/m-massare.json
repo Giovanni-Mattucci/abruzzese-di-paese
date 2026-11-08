@@ -1,0 +1,21 @@
+{
+  "id": "m-massare",
+  "headword": "massare",
+  "senses": [
+    {
+      "it": "dirigente",
+      "en": "manager, overseer",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "massare: dirigente",
+    "rawHash": "f321c0806ea543cc4c82c8cd47478318b92d8925",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

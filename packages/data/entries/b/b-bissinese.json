@@ -1,0 +1,21 @@
+{
+  "id": "b-bissinese",
+  "headword": "bissinese",
+  "senses": [
+    {
+      "it": "abissino",
+      "en": "Abyssinian",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bissinese: abissino",
+    "rawHash": "5f0964f46c9ff3b005cc1fb849f4dc5d9dcde289",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

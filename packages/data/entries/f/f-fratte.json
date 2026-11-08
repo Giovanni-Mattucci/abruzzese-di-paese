@@ -1,0 +1,21 @@
+{
+  "id": "f-fratte",
+  "headword": "fratte",
+  "senses": [
+    {
+      "it": "cespuglio",
+      "en": "bush",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fratte: cespuglio",
+    "rawHash": "8fbf9da6975156e6edd88997993565a71ba13edd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

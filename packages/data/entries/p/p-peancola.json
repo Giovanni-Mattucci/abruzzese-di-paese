@@ -1,0 +1,21 @@
+{
+  "id": "p-peancola",
+  "headword": "peàncola",
+  "senses": [
+    {
+      "it": "piede grandissimo",
+      "en": "huge foot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "peàncola: piede grandissimo",
+    "rawHash": "3ba07ebf891857e7eaba861777b2654dd69e0442",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

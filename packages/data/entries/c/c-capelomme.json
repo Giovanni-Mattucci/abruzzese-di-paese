@@ -1,0 +1,32 @@
+{
+  "id": "c-capelomme",
+  "headword": "capelomme",
+  "variants": [
+    "capilòmme"
+  ],
+  "senses": [
+    {
+      "it": "lombata di maiale",
+      "en": "pork loin",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "si adopera pure per dire di qualcuno troppo lento, grosso e tardo alla comprensione",
+      "en": "also used of someone who is too slow, dull and slow on the uptake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: grosso e tardo alla comprensione"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capelomme, capilòmme: lombata di maiale, si adopera pure per dire di qualcuno troppo lento,",
+    "rawHash": "0902d092ccc950fde19061bb2abe71cc6afa7d90",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

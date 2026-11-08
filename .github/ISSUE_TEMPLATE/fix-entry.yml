@@ -1,0 +1,29 @@
+name: Fix an entry
+description: Report a wrong or incomplete dictionary entry.
+title: '[Fix] '
+labels: [data-fix]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry id or word
+      description: The id is in the page URL, for example a-ardeca.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction
+  - type: checkboxes
+    id: licence
+    attributes:
+      label: Licence
+      options:
+        - label: I agree to release this contribution under CC BY-SA 4.0.
+          required: true

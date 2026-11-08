@@ -1,0 +1,21 @@
+{
+  "id": "d-ditone",
+  "headword": "ditòne",
+  "senses": [
+    {
+      "it": "alluce",
+      "en": "big toe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "ditòne: alluce",
+    "rawHash": "ce9133e7ca49533f5cdf50f52e18fa1355fcbcfb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

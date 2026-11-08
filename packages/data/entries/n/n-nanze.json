@@ -1,0 +1,24 @@
+{
+  "id": "n-nanze",
+  "headword": "nanzè",
+  "locality": [
+    "Montebello sul Sangro"
+  ],
+  "senses": [
+    {
+      "it": "un po'",
+      "en": "a little",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nanzè: un po' (Montebello sul Sangro)",
+    "rawHash": "2164f665f75a6a2ebd2b9ef54f596ce91565be82",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

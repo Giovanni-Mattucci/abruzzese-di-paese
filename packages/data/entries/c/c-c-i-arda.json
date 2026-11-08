@@ -1,0 +1,29 @@
+{
+  "id": "c-c-i-arda",
+  "headword": "c-i-ardà",
+  "variants": [
+    "c'ardà"
+  ],
+  "senses": [
+    {
+      "it": "ci ridà",
+      "en": "he/she gives it back to us",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci restituisce",
+      "en": "he/she returns it to us",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "c-i-ardà, c'ardà: ci ridà, ci restituisce",
+    "rawHash": "d76fa95e4f7675cdaea0871bc49bfad6de990e91",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

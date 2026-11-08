@@ -1,0 +1,22 @@
+{
+  "id": "s-scorcie",
+  "headword": "scorcie",
+  "article": "la",
+  "senses": [
+    {
+      "it": "buccia",
+      "en": "peel, skin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scorcie (la): buccia",
+    "rawHash": "da16d879d8c81030f48a5e57a13867fd9c8fb9b9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

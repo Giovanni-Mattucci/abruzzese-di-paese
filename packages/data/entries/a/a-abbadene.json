@@ -1,0 +1,26 @@
+{
+  "id": "a-abbadene",
+  "headword": "abbàdene",
+  "senses": [
+    {
+      "it": "badano",
+      "en": "they mind, they look after",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "prestano attenzione",
+      "en": "they pay attention",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbàdene: badano, prestano attenzione",
+    "rawHash": "651af9ceed3b4130ed26c69a4ebd2a871ff68301",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

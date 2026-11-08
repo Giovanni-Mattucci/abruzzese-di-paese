@@ -1,0 +1,26 @@
+{
+  "id": "j-jtteteve",
+  "headword": "jttèteve",
+  "senses": [
+    {
+      "it": "gettatevi",
+      "en": "throw yourselves",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "buttatevi",
+      "en": "jump in (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jttèteve: gettatevi, buttatevi",
+    "rawHash": "272cbb5425fc2e9ec1b0fb0ba9de569e3b0e8169",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

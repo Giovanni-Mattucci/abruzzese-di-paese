@@ -1,0 +1,26 @@
+{
+  "id": "c-cirche-2",
+  "headword": "cìrche",
+  "senses": [
+    {
+      "it": "cerca",
+      "en": "seek, look for",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "chiedi",
+      "en": "ask",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cìrche: cerca, chiedi",
+    "rawHash": "0f0014094c3b8c3d68dc28914a14fd3a09726a78",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

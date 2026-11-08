@@ -1,0 +1,21 @@
+{
+  "id": "c-caccione",
+  "headword": "cacciòne",
+  "senses": [
+    {
+      "it": "cucciolo",
+      "en": "puppy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cacciòne: cucciolo",
+    "rawHash": "19829d66aba6a970878cad9e2913acd8190de482",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

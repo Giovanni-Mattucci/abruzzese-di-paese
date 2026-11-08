@@ -1,0 +1,21 @@
+{
+  "id": "t-terpore",
+  "headword": "terpore",
+  "senses": [
+    {
+      "it": "torpore",
+      "en": "torpor",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "terpore: torpore.",
+    "rawHash": "5db2c5da6dc12f0a663488850132a8d6e524c88f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-armunna",
+  "headword": "armunnà",
+  "senses": [
+    {
+      "it": "pulire a fondo",
+      "en": "to clean thoroughly",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "armunnà: pulire a fondo",
+    "rawHash": "8e38c31ccd183e8554bbb04515b53b2ea9ae20ac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

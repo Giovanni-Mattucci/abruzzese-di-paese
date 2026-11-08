@@ -1,0 +1,26 @@
+{
+  "id": "f-fetecchie",
+  "headword": "fetecchie",
+  "senses": [
+    {
+      "it": "balordaggini",
+      "en": "foolish acts",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sbagli jetecchie: far cilecca",
+      "en": "mistakes; jetecchie: to misfire, to fail",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fetecchie: balordaggini, sbagli jetecchie: far cilecca",
+    "rawHash": "5b3a4646b20f186850a3150c12116a997b4b5deb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

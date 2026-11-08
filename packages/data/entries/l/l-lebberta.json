@@ -1,0 +1,21 @@
+{
+  "id": "l-lebberta",
+  "headword": "lebbertà",
+  "senses": [
+    {
+      "it": "libertà",
+      "en": "freedom, liberty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lebbertà: libertà",
+    "rawHash": "aa702863a26693e5554bcebee1827fa8b984cde7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

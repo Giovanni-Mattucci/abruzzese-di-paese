@@ -1,0 +1,22 @@
+{
+  "id": "h-helbe",
+  "headword": "hêlbe",
+  "article": "la",
+  "senses": [
+    {
+      "it": "volpe",
+      "en": "fox",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "hêlbe (la): volpe",
+    "rawHash": "dc117a3fc1641b768e6ae153f720db7985f28a6a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "r-rattacasce",
+  "headword": "rattacasce",
+  "article": "la",
+  "senses": [
+    {
+      "it": "grattugia per formaggio",
+      "en": "cheese grater",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rattacasce (la): grattugia per formaggio",
+    "rawHash": "977241a521fac124b6b3d0487c42fbcbc18b5e8b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

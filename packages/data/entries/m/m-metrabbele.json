@@ -1,0 +1,22 @@
+{
+  "id": "m-metrabbele",
+  "headword": "metràbbele",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "eastrello per spargere il grano",
+      "en": "rake for spreading grain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "metràbbele (lu): eastrello per spargere il grano",
+    "rawHash": "4376ccf679253762ed0499ac298ea37e5f164e9d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

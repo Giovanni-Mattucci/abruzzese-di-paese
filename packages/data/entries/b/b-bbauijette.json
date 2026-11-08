@@ -1,0 +1,22 @@
+{
+  "id": "b-bbauijette",
+  "headword": "bbauijêtte",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "piccolo baule",
+      "en": "small trunk",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbauijêtte (lu): piccolo baule",
+    "rawHash": "eadfe3ae63a40f6326efbc9c45924d72f0b136a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

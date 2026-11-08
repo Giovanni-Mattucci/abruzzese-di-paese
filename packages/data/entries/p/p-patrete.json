@@ -1,0 +1,21 @@
+{
+  "id": "p-patrete",
+  "headword": "pàtrete",
+  "senses": [
+    {
+      "it": "tuo padre",
+      "en": "your father",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pàtrete: tuo padre",
+    "rawHash": "ce343ebc407198e40af21df87765e4c11d90d52b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

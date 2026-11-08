@@ -1,0 +1,26 @@
+{
+  "id": "s-scacchia",
+  "headword": "scacchià",
+  "senses": [
+    {
+      "it": "togliere le gemme",
+      "en": "to remove the buds",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "rompere un ramo",
+      "en": "to break a branch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scacchià: togliere le gemme, rompere un ramo",
+    "rawHash": "cf1b0ffc1df30d59328f860075d8b1d72181df3c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

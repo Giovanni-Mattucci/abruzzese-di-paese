@@ -1,0 +1,22 @@
+{
+  "id": "s-salviette",
+  "headword": "salviétte",
+  "article": "la",
+  "senses": [
+    {
+      "it": "tovagliolo",
+      "en": "napkin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "salviétte (la): tovagliolo",
+    "rawHash": "591d586fe55a76b44ea79c047d6728cd9ad2b21e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

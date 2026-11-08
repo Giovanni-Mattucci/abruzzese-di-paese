@@ -1,0 +1,21 @@
+{
+  "id": "s-sciampeme",
+  "headword": "sciampème",
+  "senses": [
+    {
+      "it": "svuotiamo",
+      "en": "we empty",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciampème: svuotiamo",
+    "rawHash": "537b8a3ced544065e59230d28b616a7030a7a09b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

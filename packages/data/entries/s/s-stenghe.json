@@ -1,0 +1,24 @@
+{
+  "id": "s-stenghe",
+  "headword": "stenghe",
+  "variants": [
+    "stinghe piomme"
+  ],
+  "senses": [
+    {
+      "it": "sono a terra",
+      "en": "I am on the ground",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stenghe, stinghe piomme: sono a terra",
+    "rawHash": "9065da8282e0efd6ec265e00014679c6c2ecfe32",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

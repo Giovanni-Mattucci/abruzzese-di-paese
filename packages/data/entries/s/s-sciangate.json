@@ -1,0 +1,26 @@
+{
+  "id": "s-sciangate",
+  "headword": "sciangate",
+  "senses": [
+    {
+      "it": "zoppo",
+      "en": "lame",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "claudicante",
+      "en": "limping",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciangate: zoppo, claudicante",
+    "rawHash": "506af687fbcbff3d8e318aea9c73b0c726e98f23",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

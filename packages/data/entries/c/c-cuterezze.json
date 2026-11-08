@@ -1,0 +1,22 @@
+{
+  "id": "c-cuterezze",
+  "headword": "cuterèzze",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "parte posteriore sporgente dei gallinacei",
+      "en": "protruding rear part of poultry, parson's nose",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuterèzze (lu): parte posteriore sporgente dei gallinacei",
+    "rawHash": "92c415d05438dfaace64b32ed045707d1ae2b114",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

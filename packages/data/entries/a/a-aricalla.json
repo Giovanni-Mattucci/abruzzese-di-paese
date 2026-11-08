@@ -1,0 +1,21 @@
+{
+  "id": "a-aricalla",
+  "headword": "aricallà",
+  "senses": [
+    {
+      "it": "zappettare. Il verbo indica l'esecuzione di una zappatura leggera del campo che permetta alla terra di \"respirare\", in attesa della successiva lavorazione",
+      "en": "to hoe lightly. The verb denotes a light hoeing of the field that lets the soil \"breathe\" while awaiting the next tilling",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "aricallà: zappettare. Il verbo indica l'esecuzione di una zappatura leggera del campo che permetta alla terra di \"respirare\", in attesa della successiva lavorazione",
+    "rawHash": "4e18cf0148acae46eeeee9cd73bcb0d6fea179d9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

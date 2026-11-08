@@ -1,0 +1,21 @@
+{
+  "id": "s-some-2",
+  "headword": "some",
+  "senses": [
+    {
+      "it": "misura agricola corrispondente a 1 ettaro di terreno",
+      "en": "agricultural measure corresponding to 1 hectare of land",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "some: misura agricola corrispondente a 1 ettaro di terreno",
+    "rawHash": "519721048f0050be50d935abe797e451ef12f0c5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cimmitorie",
+  "headword": "cimmitòrie",
+  "senses": [
+    {
+      "it": "ossario",
+      "en": "ossuary",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cimmitòrie: ossario",
+    "rawHash": "1058cb7bf14ceb0906a3d55c9194dff960243f34",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

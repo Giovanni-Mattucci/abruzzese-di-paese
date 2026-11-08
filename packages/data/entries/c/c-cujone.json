@@ -1,0 +1,21 @@
+{
+  "id": "c-cujone",
+  "headword": "cujòne",
+  "senses": [
+    {
+      "it": "coglione",
+      "en": "idiot, fool (vulgar)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cujòne: coglione",
+    "rawHash": "f9cad8d83f71f4ca245fb0ffda22a99235b7b77d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

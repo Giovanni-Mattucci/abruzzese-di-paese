@@ -1,0 +1,21 @@
+{
+  "id": "c-chiu",
+  "headword": "chiù",
+  "senses": [
+    {
+      "it": "più",
+      "en": "more",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiù: più",
+    "rawHash": "93a0520ce936d95f6f19d8834fce55b927837c56",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

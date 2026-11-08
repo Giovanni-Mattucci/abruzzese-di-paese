@@ -1,0 +1,21 @@
+{
+  "id": "c-cionghe",
+  "headword": "ciònghe",
+  "senses": [
+    {
+      "it": "offesa (rivolta a qualcosa che non è normale, che manca, che è rovinata. Te' 'na mana cioghe: ha una mano offesa, rovinata, ecc,)",
+      "en": "crippled, impaired (said of something that is not normal, that is lacking, that is ruined. Te' 'na mana cioghe: he has a crippled, damaged hand, etc.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciònghe: offesa (rivolta a qualcosa che non è normale, che manca, che è rovinata. Te' 'na mana cioghe: ha una mano offesa, rovinata, ecc,)",
+    "rawHash": "57f41a3f4ac3bb765a78be9a6e049341dd3ac12b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

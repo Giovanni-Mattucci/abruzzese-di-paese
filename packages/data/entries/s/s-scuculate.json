@@ -1,0 +1,21 @@
+{
+  "id": "s-scuculate",
+  "headword": "scuculàte",
+  "senses": [
+    {
+      "it": "battuto al gioco e lasciato disperato, senza soldi",
+      "en": "beaten at a game and left in despair, penniless",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scuculàte: battuto al gioco e lasciato disperato, senza soldi",
+    "rawHash": "d6177c952e8fa8e260ac8dc9bdd8b5b5cde5509e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

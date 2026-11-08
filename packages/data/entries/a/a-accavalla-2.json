@@ -1,0 +1,21 @@
+{
+  "id": "a-accavalla-2",
+  "headword": "accavallà",
+  "senses": [
+    {
+      "it": "accavallare",
+      "en": "to cross (one's legs), to overlap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "accavallà: accavallare",
+    "rawHash": "8075688952df40b059bc485265af78dfc7ad9bb3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

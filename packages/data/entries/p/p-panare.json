@@ -1,0 +1,21 @@
+{
+  "id": "p-panare",
+  "headword": "panàre",
+  "senses": [
+    {
+      "it": "cesta",
+      "en": "basket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "panàre: cesta",
+    "rawHash": "b361a4a58d9e50057e1aaec59f8009dd435f4f52",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

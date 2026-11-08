@@ -1,0 +1,26 @@
+{
+  "id": "a-affiarate",
+  "headword": "affiaràte",
+  "senses": [
+    {
+      "it": "bruciacciato",
+      "en": "scorched",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "leggermente bruciato",
+      "en": "slightly burnt",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "affiaràte: bruciacciato, leggermente bruciato",
+    "rawHash": "5c2ab576c80fc6733572a51ebe2298984a432c79",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

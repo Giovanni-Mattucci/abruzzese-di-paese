@@ -1,0 +1,31 @@
+{
+  "id": "a-annacqua",
+  "headword": "annacquà",
+  "senses": [
+    {
+      "it": "dare l'acqua",
+      "en": "to give water",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mettere acqua",
+      "en": "to add water",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "innaffiare",
+      "en": "to water (plants)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "annacquà: dare l'acqua, mettere acqua, innaffiare",
+    "rawHash": "c95f27c2ba2e48ee049b079b24cd307799036d9e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

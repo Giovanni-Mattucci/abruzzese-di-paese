@@ -1,0 +1,22 @@
+{
+  "id": "z-zzozze",
+  "headword": "'zzozze",
+  "article": "la",
+  "senses": [
+    {
+      "it": "melma",
+      "en": "mud, slime",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "'zzozze (la): melma",
+    "rawHash": "09861920c540f9190644139cf821d42c6a7f1dcc",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

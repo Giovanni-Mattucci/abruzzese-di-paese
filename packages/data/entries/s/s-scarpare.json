@@ -1,0 +1,21 @@
+{
+  "id": "s-scarpare",
+  "headword": "scarpare",
+  "senses": [
+    {
+      "it": "calzolaio",
+      "en": "shoemaker",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarpare: calzolaio",
+    "rawHash": "19c31b3c7514993a0f738a31f7291caf20f85775",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-crueje",
+  "headword": "crueje",
+  "senses": [
+    {
+      "it": "scorreggia",
+      "en": "fart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crueje: scorreggia",
+    "rawHash": "edc6d5b50e14096e03e6e3ac31e876931600298f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

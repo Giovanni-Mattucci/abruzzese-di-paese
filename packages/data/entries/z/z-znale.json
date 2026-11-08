@@ -1,0 +1,27 @@
+{
+  "id": "z-znale",
+  "headword": "z'nale",
+  "variants": [
+    "zinàle"
+  ],
+  "senses": [
+    {
+      "it": "grembiule",
+      "en": "apron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: zinàle: grembiule"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "z'nale, zinàle: grembiule",
+    "rawHash": "f11a9e0ea1626bcb0262c537ea6e46497ea7e94a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

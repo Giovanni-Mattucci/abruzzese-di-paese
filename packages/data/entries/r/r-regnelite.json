@@ -1,0 +1,21 @@
+{
+  "id": "r-regnelite",
+  "headword": "regnelite",
+  "senses": [
+    {
+      "it": "gelata",
+      "en": "frost",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "regnelite: gelata",
+    "rawHash": "d169905473decd5dd9251c27189904d3395a5967",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

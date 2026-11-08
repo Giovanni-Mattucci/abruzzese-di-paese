@@ -1,0 +1,21 @@
+{
+  "id": "s-suleche",
+  "headword": "sùleche",
+  "senses": [
+    {
+      "it": "solco",
+      "en": "furrow",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sùleche: solco",
+    "rawHash": "5fcb368aac4183659282e00931e99384f905447e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

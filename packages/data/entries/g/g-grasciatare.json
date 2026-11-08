@@ -1,0 +1,21 @@
+{
+  "id": "g-grasciatare",
+  "headword": "grasciatare",
+  "senses": [
+    {
+      "it": "grembiule in pelle per la mungitura",
+      "en": "leather apron for milking",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "grasciatare: grembiule in pelle per la mungitura",
+    "rawHash": "93dc716dc1031681b61e60cee097f1c892f9d591",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

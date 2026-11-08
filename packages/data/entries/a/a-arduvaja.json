@@ -1,0 +1,21 @@
+{
+  "id": "a-arduvaja",
+  "headword": "arduvajà",
+  "senses": [
+    {
+      "it": "procurare",
+      "en": "to procure, to obtain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arduvajà. procurare",
+    "rawHash": "c7ebadcf0999811326ff3c5a6abeded416116063",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

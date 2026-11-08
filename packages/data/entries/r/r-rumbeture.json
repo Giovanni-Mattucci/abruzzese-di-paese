@@ -1,0 +1,21 @@
+{
+  "id": "r-rumbeture",
+  "headword": "rumbeture",
+  "senses": [
+    {
+      "it": "attrezzo per rompere il formaggio",
+      "en": "tool for breaking cheese",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rumbeture: attrezzo per rompere il formaggio",
+    "rawHash": "1d24051b38e42123b7f8693c512ff824a75deb73",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

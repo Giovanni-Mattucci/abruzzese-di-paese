@@ -1,0 +1,21 @@
+{
+  "id": "j-jemecene",
+  "headword": "jèmecene",
+  "senses": [
+    {
+      "it": "andiamocene",
+      "en": "let's go away, let's leave",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jèmecene: andiamocene",
+    "rawHash": "ecf2d1007ef43e003df8b7bb02155105a2553af5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

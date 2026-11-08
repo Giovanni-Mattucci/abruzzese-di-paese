@@ -1,0 +1,26 @@
+{
+  "id": "s-schiaffeteje",
+  "headword": "schiaffèteje",
+  "senses": [
+    {
+      "it": "mettetegli",
+      "en": "put it on him (pl.)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dategli",
+      "en": "give him (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "schiaffèteje: mettetegli, dategli",
+    "rawHash": "b97e295e1d289fcbcc317d45bad2ec0b555ebc73",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

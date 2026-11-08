@@ -1,0 +1,21 @@
+{
+  "id": "l-landene",
+  "headword": "làndene",
+  "senses": [
+    {
+      "it": "lasciano",
+      "en": "they leave",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "làndene: lasciano",
+    "rawHash": "97b42e7e3c411587a47289c1c4fb35bf3d8a4100",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

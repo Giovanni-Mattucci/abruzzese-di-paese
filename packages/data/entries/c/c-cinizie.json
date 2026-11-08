@@ -1,0 +1,21 @@
+{
+  "id": "c-cinizie",
+  "headword": "cinìzie",
+  "senses": [
+    {
+      "it": "cenere",
+      "en": "ash",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cinìzie: cenere",
+    "rawHash": "deaea15a009c0bc68fd036f84dc60df55973ddd5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

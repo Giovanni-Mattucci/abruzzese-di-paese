@@ -1,0 +1,21 @@
+{
+  "id": "l-lu-bardasce",
+  "headword": "lu bardàsce",
+  "senses": [
+    {
+      "it": "il bambino",
+      "en": "the child, the boy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "lu bardàsce: il bambino",
+    "rawHash": "82b873d6c5b83a8d977c7b6f07b9db8ea4964105",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-penzene",
+  "headword": "penzene",
+  "senses": [
+    {
+      "it": "pensano",
+      "en": "they think",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "penzene: pensano",
+    "rawHash": "7808bf18b5ecebad1bf7df101aa5defdfb8d36fd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b-bbenettalme",
+  "headword": "bbenettàlme",
+  "senses": [
+    {
+      "it": "anima benedetta",
+      "en": "blessed soul",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "la cara persona morta",
+      "en": "the dear departed",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbenettàlme: anima benedetta, la cara persona morta",
+    "rawHash": "e9e7bd926090c4aab04d95123045b47d0e63dfe4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

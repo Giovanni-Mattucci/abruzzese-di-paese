@@ -1,0 +1,21 @@
+{
+  "id": "t-torciavidelle",
+  "headword": "torciavidelle",
+  "senses": [
+    {
+      "it": "dolori di pancia, usato pure per indicare un liquere molto forte",
+      "en": "stomach pains, also used to refer to a very strong liqueur",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "torciavidelle: dolori di pancia, usato pure per indicare un liquere molto forte",
+    "rawHash": "101bd61cec92188d0ba7adb978502a5ae1dd503c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

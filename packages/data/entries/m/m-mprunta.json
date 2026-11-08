@@ -1,0 +1,26 @@
+{
+  "id": "m-mprunta",
+  "headword": "'mpruntà",
+  "senses": [
+    {
+      "it": "puntare",
+      "en": "to bet, to place a stake",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "nel gioco",
+      "en": "in a game",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mpruntà: puntare, nel gioco",
+    "rawHash": "4698f2c60cebbd5f317c81f1ce6cbd055410448a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

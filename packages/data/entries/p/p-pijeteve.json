@@ -1,0 +1,21 @@
+{
+  "id": "p-pijeteve",
+  "headword": "pijèteve",
+  "senses": [
+    {
+      "it": "prendetevi",
+      "en": "take for yourselves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pijèteve: prendetevi",
+    "rawHash": "81327a14a30045c8572b2497d0144160ed9eba4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

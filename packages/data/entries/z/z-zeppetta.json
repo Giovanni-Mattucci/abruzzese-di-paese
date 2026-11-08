@@ -1,0 +1,21 @@
+{
+  "id": "z-zeppetta",
+  "headword": "zeppetta",
+  "senses": [
+    {
+      "it": "mento",
+      "en": "chin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zeppetta: mento",
+    "rawHash": "1b5905ed408e60c4dd96f56d4a19c6569a67b444",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

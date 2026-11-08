@@ -1,0 +1,21 @@
+{
+  "id": "a-azzuppa",
+  "headword": "azzuppà",
+  "senses": [
+    {
+      "it": "cadere",
+      "en": "to fall",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "azzuppà: cadere",
+    "rawHash": "f6f8b6fa42b2fa9e4806fb4a0ba036da785ad7bf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-civommeche",
+  "headword": "civòmmeche",
+  "senses": [
+    {
+      "it": "bozzo",
+      "en": "bump, lump",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "civòmmeche: bozzo",
+    "rawHash": "e2b3d079886af6e1581b31c70cac62a754847a2b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

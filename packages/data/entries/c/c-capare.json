@@ -1,0 +1,21 @@
+{
+  "id": "c-capare",
+  "headword": "capare",
+  "senses": [
+    {
+      "it": "scegliere",
+      "en": "to choose",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capare: scegliere",
+    "rawHash": "211194d553ca5f16710bc5605fa9e2bc22ad6d19",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

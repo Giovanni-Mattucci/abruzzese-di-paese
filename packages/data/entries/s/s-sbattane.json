@@ -1,0 +1,21 @@
+{
+  "id": "s-sbattane",
+  "headword": "sbattàne",
+  "senses": [
+    {
+      "it": "passatella dopo una partita a carte",
+      "en": "passatella (drinking game) after a card game",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sbattàne: passatella dopo una partita a carte",
+    "rawHash": "28e50812458423fa32526b22745167c04700dfdd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

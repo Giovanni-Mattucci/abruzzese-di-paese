@@ -1,0 +1,21 @@
+{
+  "id": "z-zucculone",
+  "headword": "zucculone",
+  "senses": [
+    {
+      "it": "donna di facili costumi molto appariscente",
+      "en": "very showy woman of loose morals",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zucculone: donna di facili costumi molto appariscente",
+    "rawHash": "ebf9222c2b01473febf59190d7641ad5e51b7536",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f-frecagnule",
+  "headword": "frecagnule",
+  "senses": [
+    {
+      "it": "volpino",
+      "en": "Volpino, small spitz dog",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frecagnule: volpino",
+    "rawHash": "89e0a40df6f2f772e66d03127fedba27e7e166b8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

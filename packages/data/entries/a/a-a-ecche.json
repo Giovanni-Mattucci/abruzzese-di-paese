@@ -1,0 +1,21 @@
+{
+  "id": "a-a-ecche",
+  "headword": "a ècche",
+  "senses": [
+    {
+      "it": "qui",
+      "en": "here",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a ècche: qui",
+    "rawHash": "d150e828dc698926ec183ff6b4df377199f382f2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

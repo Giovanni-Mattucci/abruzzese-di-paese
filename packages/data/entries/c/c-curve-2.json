@@ -1,0 +1,21 @@
+{
+  "id": "c-curve-2",
+  "headword": "curve",
+  "senses": [
+    {
+      "it": "curva, (e ffàlle sscì de curve riscia rìsce: lasciala uscire rasentando, sfiorando la curva)",
+      "en": "bend, curve, (e ffàlle sscì de curve riscia rìsce: let it come out skimming, just grazing the bend)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "curve: curva, (e ffàlle sscì de curve riscia rìsce: lasciala uscire rasentando, sfiorando la curva)",
+    "rawHash": "1f73b9fec2cdec5a24f024b474d9b1f7516d5a19",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-carvunare",
+  "headword": "carvunàre",
+  "senses": [
+    {
+      "it": "carbonaro",
+      "en": "charcoal burner",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carvunàre: carbonaro",
+    "rawHash": "bf6020f845c8dd174160a6df07e6d2e293672eb8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

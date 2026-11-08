@@ -1,0 +1,24 @@
+{
+  "id": "c-cresommele",
+  "headword": "cresommele",
+  "variants": [
+    "crisommele"
+  ],
+  "senses": [
+    {
+      "it": "albicocca",
+      "en": "apricot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cresommele, crisommele: albicocca",
+    "rawHash": "0b0231c88e5b3e81a755ef564e5fc002f03a6c60",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

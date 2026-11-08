@@ -1,0 +1,21 @@
+{
+  "id": "s-scenge",
+  "headword": "scènge",
+  "senses": [
+    {
+      "it": "sparpagliate",
+      "en": "scattered",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scènge: sparpagliate",
+    "rawHash": "66468ad2fb40cfba0e8ef5076c22e086215409cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

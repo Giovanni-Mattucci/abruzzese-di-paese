@@ -1,0 +1,21 @@
+{
+  "id": "s-suca",
+  "headword": "suca",
+  "senses": [
+    {
+      "it": "corda",
+      "en": "rope",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "suca: corda",
+    "rawHash": "aa3d8d690710605f6f8e711c4c45c7ef9e03f2b7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

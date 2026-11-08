@@ -1,0 +1,21 @@
+{
+  "id": "c-carote",
+  "headword": "carote",
+  "senses": [
+    {
+      "it": "cazzotto",
+      "en": "punch",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carote: cazzotto",
+    "rawHash": "fddfc143cb3deb2ff0680227b9d51283e35f48b7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

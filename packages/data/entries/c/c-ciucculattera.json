@@ -1,0 +1,21 @@
+{
+  "id": "c-ciucculattera",
+  "headword": "ciucculattera",
+  "senses": [
+    {
+      "it": "caffettier",
+      "en": "coffee pot",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciucculattera: caffettier",
+    "rawHash": "4ad22638dd84f7f5a80f312642bfd36db251532f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

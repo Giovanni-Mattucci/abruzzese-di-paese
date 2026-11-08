@@ -1,0 +1,21 @@
+{
+  "id": "j-jammo",
+  "headword": "jàmmo",
+  "senses": [
+    {
+      "it": "uomo/ padrone",
+      "en": "man / master",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jàmmo: uomo/ padrone",
+    "rawHash": "a6a83786336560566bd00db21d7e0c1807ca1b77",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

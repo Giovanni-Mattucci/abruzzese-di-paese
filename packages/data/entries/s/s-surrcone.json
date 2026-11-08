@@ -1,0 +1,21 @@
+{
+  "id": "s-surrcone",
+  "headword": "surrcòne",
+  "senses": [
+    {
+      "it": "grande topo",
+      "en": "large rat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "surrcòne: grande topo",
+    "rawHash": "3b413accc4cd9218037ca09916af468ccb20361d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

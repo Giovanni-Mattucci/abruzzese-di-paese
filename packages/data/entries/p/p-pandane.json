@@ -1,0 +1,26 @@
+{
+  "id": "p-pandane",
+  "headword": "pandàne",
+  "senses": [
+    {
+      "it": "pantano",
+      "en": "bog, marsh",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pozza d'acqua",
+      "en": "puddle of water",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pandàne: pantano, pozza d'acqua",
+    "rawHash": "455a7afbebe767e70c78fe6d96303448f8afb512",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

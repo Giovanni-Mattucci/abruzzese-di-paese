@@ -1,0 +1,26 @@
+{
+  "id": "a-arbela",
+  "headword": "arbelà",
+  "senses": [
+    {
+      "it": "sotterrare",
+      "en": "to bury (in the ground)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "seppellire",
+      "en": "to bury",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arbelà: sotterrare, seppellire",
+    "rawHash": "75aedd2c6fee1afbd7241368407471c1968e53e3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

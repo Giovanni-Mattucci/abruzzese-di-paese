@@ -1,0 +1,21 @@
+{
+  "id": "s-scama",
+  "headword": "scamà",
+  "senses": [
+    {
+      "it": "scarnare, togliere la pula del grano",
+      "en": "to husk, to remove the chaff from wheat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scamà: scarnare, togliere la pula del grano",
+    "rawHash": "6658ebd1cbea0f4b98a650e398b027af3a79be9f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

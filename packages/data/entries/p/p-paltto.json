@@ -1,0 +1,21 @@
+{
+  "id": "p-paltto",
+  "headword": "palttò",
+  "senses": [
+    {
+      "it": "cappotto",
+      "en": "overcoat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "palttò: cappotto",
+    "rawHash": "ead5b0e0d854cf5124a859fef53e6ca155cf6e72",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

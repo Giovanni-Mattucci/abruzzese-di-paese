@@ -1,0 +1,21 @@
+{
+  "id": "c-chiatre",
+  "headword": "chiatre",
+  "senses": [
+    {
+      "it": "glassa ottenuta montando l'albume dell'uovo con una forchetta o con una frusta da cucina",
+      "en": "icing made by whipping egg white with a fork or a kitchen whisk",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "chiatre: glassa ottenuta montando l'albume dell'uovo con una forchetta o con una frusta da cucina",
+    "rawHash": "fa07e15d20d43b362dcbdc20a1c238ec271c2e5e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

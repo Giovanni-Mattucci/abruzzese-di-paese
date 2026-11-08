@@ -1,0 +1,22 @@
+{
+  "id": "s-scale",
+  "headword": "scale",
+  "article": "la",
+  "senses": [
+    {
+      "it": "scala, arnese per il trasporto della paglia",
+      "en": "ladder, tool for carrying straw",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scale (la): scala, arnese per il trasporto della paglia",
+    "rawHash": "d4095fb2d2344afc72703d4e17808b638c779cc9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

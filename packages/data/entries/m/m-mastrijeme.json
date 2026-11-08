@@ -1,0 +1,22 @@
+{
+  "id": "m-mastrijeme",
+  "headword": "mastrijème",
+  "article": "nu",
+  "senses": [
+    {
+      "it": "ingegnamoci",
+      "en": "let us work it out, let us contrive",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mastrijème (nu): ingegnamoci",
+    "rawHash": "c1981821770d7d3efc9ea6cb6b41a11d4c12817a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

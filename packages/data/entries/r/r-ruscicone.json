@@ -1,0 +1,26 @@
+{
+  "id": "r-ruscicone",
+  "headword": "ruscicòne",
+  "senses": [
+    {
+      "it": "avaro",
+      "en": "miser",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "tirchio",
+      "en": "stingy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "ruscicòne: avaro, tirchio",
+    "rawHash": "00ceed6ffaa3d84825638b64e8d67f4a4f88f8c8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

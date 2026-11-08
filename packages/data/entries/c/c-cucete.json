@@ -1,0 +1,26 @@
+{
+  "id": "c-cucete",
+  "headword": "cucète",
+  "senses": [
+    {
+      "it": "cucìte",
+      "en": "you (pl.) sew, sewn",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "cuocète",
+      "en": "you (pl.) cook",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cucète: cucìte, ma anche cuocète",
+    "rawHash": "ad618b83caf2dfe3d2b453db4112065fc9a80507",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

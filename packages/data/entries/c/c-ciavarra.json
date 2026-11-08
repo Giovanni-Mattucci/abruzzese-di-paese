@@ -1,0 +1,24 @@
+{
+  "id": "c-ciavarra",
+  "headword": "ciavarra",
+  "variants": [
+    "ciavarre"
+  ],
+  "senses": [
+    {
+      "it": "giovane pecora di un anno, oppure: giovane donna ciarliera e vana",
+      "en": "young one-year-old ewe, or: young woman who is chatty and vain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciavarra, ciavarre: giovane pecora di un anno, oppure: giovane donna ciarliera e vana",
+    "rawHash": "fa4d7c0c8818a893dcb7041b882454ca6f3900f8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

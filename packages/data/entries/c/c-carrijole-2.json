@@ -1,0 +1,25 @@
+{
+  "id": "c-carrijole-2",
+  "headword": "carrijòle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "contenitore di cereali a doghe in legno",
+      "en": "a wooden slatted cereal container",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "The source line also holds the entry c-carrine (carrine: ...), split into its own entry."
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "carrijòle (lu): contenitore di cereali a doghe in legno carrine: distorsione dialettale della parola “carlino”. Il “carlino” era una moneta d'oro e d'argento del regno di Sicilia, fatta coniare da Carlo I d'Angiò (da cui il termine carlino); quella d'argento, con varie modificazioni, fu emessa fino all'ultimo sovrano delle due Sicilie. Dieci carlini equivalevano ad un ducato",
+    "rawHash": "0dd4f347f72ce3eb916eb4467bd60ce93a415a4d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

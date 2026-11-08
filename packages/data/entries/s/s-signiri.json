@@ -1,0 +1,21 @@
+{
+  "id": "s-signiri",
+  "headword": "signirì",
+  "senses": [
+    {
+      "it": "titolo adoperato al posto del nome quando si parla con persone autorevoli",
+      "en": "title used in place of the name when speaking with persons of authority",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "signirì: titolo adoperato al posto del nome quando si parla con persone autorevoli",
+    "rawHash": "3d625a46abf2cb4032e0adc69e389adffe72c12b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

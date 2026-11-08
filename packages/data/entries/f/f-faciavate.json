@@ -1,0 +1,21 @@
+{
+  "id": "f-faciavate",
+  "headword": "faciavate",
+  "senses": [
+    {
+      "it": "facevate",
+      "en": "you were doing (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "faciavate: facevate",
+    "rawHash": "c9c366a49b79eaa70912cadd23359f63b64c6bb7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-piseme",
+  "headword": "pisème",
+  "article": "nu",
+  "senses": [
+    {
+      "it": "noi pesiamo",
+      "en": "we weigh",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pisème (nu): noi pesiamo",
+    "rawHash": "0dd81a86322a495d4dd7d85cefd3e84f7ef18a4d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

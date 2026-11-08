@@ -1,0 +1,21 @@
+{
+  "id": "s-stuppele",
+  "headword": "stuppele",
+  "senses": [
+    {
+      "it": "turacciolo",
+      "en": "cork, stopper",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stuppele: turacciolo",
+    "rawHash": "83112902d768e1acf8097bd7b0e1af12b99dde9e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

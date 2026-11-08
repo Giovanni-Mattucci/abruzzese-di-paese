@@ -1,0 +1,21 @@
+{
+  "id": "s-sduvete",
+  "headword": "sduvète",
+  "senses": [
+    {
+      "it": "picchiate",
+      "en": "you beat (pl.)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sduvète: picchiate",
+    "rawHash": "f49271706165de31fe0af761c6926ea54b62e9b2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

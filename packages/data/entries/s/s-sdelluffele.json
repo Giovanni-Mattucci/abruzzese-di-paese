@@ -1,0 +1,21 @@
+{
+  "id": "s-sdelluffele",
+  "headword": "sdellùffele",
+  "senses": [
+    {
+      "it": "picchialo",
+      "en": "beat him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdellùffele: picchialo",
+    "rawHash": "62bc289fb663adffbd78cdbb45216defa30b6a96",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

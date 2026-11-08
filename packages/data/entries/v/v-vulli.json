@@ -1,0 +1,21 @@
+{
+  "id": "v-vulli",
+  "headword": "vullì",
+  "senses": [
+    {
+      "it": "bollire",
+      "en": "to boil",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vullì: bollire",
+    "rawHash": "a27822e2f43145ed2372b2489360eb77c7d3f5d3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

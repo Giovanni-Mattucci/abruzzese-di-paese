@@ -1,0 +1,21 @@
+{
+  "id": "n-nonnete",
+  "headword": "nònnete",
+  "senses": [
+    {
+      "it": "tuo nonno",
+      "en": "your grandfather",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "nònnete: tuo nonno",
+    "rawHash": "0a91088476f384b1f360b00b9c9eed0e9cf2a85b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

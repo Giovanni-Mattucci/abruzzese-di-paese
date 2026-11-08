@@ -1,0 +1,21 @@
+{
+  "id": "c-cummanne",
+  "headword": "cummànne",
+  "senses": [
+    {
+      "it": "comando",
+      "en": "command",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cummànne: comando",
+    "rawHash": "a6730e83383ba60971f7012444edc51cf50770bd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

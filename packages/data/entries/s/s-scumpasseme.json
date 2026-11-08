@@ -1,0 +1,26 @@
+{
+  "id": "s-scumpasseme",
+  "headword": "scumpassème",
+  "senses": [
+    {
+      "it": "superiamo",
+      "en": "we surpass",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "sorpassiamo",
+      "en": "we overtake",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scumpassème: superiamo, sorpassiamo",
+    "rawHash": "d54229fefd59994edc34cabe953325d6a9913e49",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

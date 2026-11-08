@@ -1,0 +1,34 @@
+{
+  "id": "c-ce-vadaime",
+  "headword": "ce vadàime",
+  "variants": [
+    "ce vedème"
+  ],
+  "senses": [
+    {
+      "it": "addio",
+      "en": "farewell",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ci vediamo",
+      "en": "see you",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "arrivederci",
+      "en": "goodbye",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ce vadàime, ce vedème: addio, ci vediamo, arrivederci",
+    "rawHash": "3ecfec69441f8d3ff6ad1a556f1f24afa58f97f3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

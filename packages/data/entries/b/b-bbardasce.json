@@ -1,0 +1,26 @@
+{
+  "id": "b-bbardasce",
+  "headword": "bbardasce",
+  "senses": [
+    {
+      "it": "fanciullo",
+      "en": "young boy",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "ragazzo vivace",
+      "en": "lively boy",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbardasce: fanciullo, ragazzo vivace",
+    "rawHash": "0cf1b445dd52b7e231ad0184f173a17d088080fb",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

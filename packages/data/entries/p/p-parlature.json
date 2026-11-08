@@ -1,0 +1,21 @@
+{
+  "id": "p-parlature",
+  "headword": "parlature",
+  "senses": [
+    {
+      "it": "dialetto",
+      "en": "dialect",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "parlature: dialetto",
+    "rawHash": "dea6888980687a2b8e5e40c9259a3fc1e4b089cf",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

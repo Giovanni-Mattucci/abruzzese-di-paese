@@ -1,0 +1,21 @@
+{
+  "id": "s-setacce",
+  "headword": "setàcce",
+  "senses": [
+    {
+      "it": "setaccio",
+      "en": "sieve",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "setàcce: setaccio",
+    "rawHash": "0b2efe1015ed3360ae89486cf4d90ca877e0af48",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "m-mardete",
+  "headword": "m'ardète",
+  "senses": [
+    {
+      "it": "mi ridate",
+      "en": "you (plural) give it back to me",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "mi restituite",
+      "en": "you (plural) return it to me",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "m'ardète: mi ridate, mi restituite",
+    "rawHash": "1d41680bf102ded840ee7e62a1cd23113b816d71",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

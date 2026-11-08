@@ -1,0 +1,21 @@
+{
+  "id": "s-scarsella",
+  "headword": "scarsella",
+  "senses": [
+    {
+      "it": "tasca",
+      "en": "pocket",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarsella: tasca",
+    "rawHash": "371e28c662de3c0f18f66e6ad48141eb9b4ea147",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

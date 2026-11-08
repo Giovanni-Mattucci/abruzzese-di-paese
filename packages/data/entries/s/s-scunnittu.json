@@ -1,0 +1,21 @@
+{
+  "id": "s-scunnittu",
+  "headword": "scunnìttu",
+  "senses": [
+    {
+      "it": "malocchio",
+      "en": "evil eye",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scunnìttu: malocchio",
+    "rawHash": "3f3fdd80a06ac27f4bf823c71de388723185fe26",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

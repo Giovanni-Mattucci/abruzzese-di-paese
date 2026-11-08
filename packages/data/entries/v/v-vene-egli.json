@@ -1,0 +1,24 @@
+{
+  "id": "v-vene-egli",
+  "headword": "vène (egli",
+  "variants": [
+    "lui)"
+  ],
+  "senses": [
+    {
+      "it": "viene",
+      "en": "he/she comes",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vène (egli, lui): viene",
+    "rawHash": "912988d961b041580124c97aa95544b5bf7a0e37",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

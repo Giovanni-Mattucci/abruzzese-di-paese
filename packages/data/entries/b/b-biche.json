@@ -1,0 +1,21 @@
+{
+  "id": "b-biche",
+  "headword": "biche",
+  "senses": [
+    {
+      "it": "biga, carrozzella scoperta a due ruote",
+      "en": "gig, open two-wheeled carriage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "biche: biga, carrozzella scoperta a due ruote",
+    "rawHash": "e2a7da51786bb89789100fc1a0d5a36c784a7fc2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

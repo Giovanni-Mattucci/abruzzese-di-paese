@@ -1,0 +1,21 @@
+{
+  "id": "a-arriva",
+  "headword": "arrivà",
+  "senses": [
+    {
+      "it": "arrivare",
+      "en": "to arrive",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrivà: arrivare",
+    "rawHash": "a1dbf6a21c249bdb54f71fc127f74402d4244eb2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

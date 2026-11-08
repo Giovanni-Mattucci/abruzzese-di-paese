@@ -1,0 +1,21 @@
+{
+  "id": "b-brehe",
+  "headword": "brèhe",
+  "senses": [
+    {
+      "it": "talismano, portafortuna costruito da una guaritrice o maga da portare addosso",
+      "en": "talisman, lucky charm made by a healer or sorceress to be worn on the body",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "brèhe: talismano, portafortuna costruito da una guaritrice o maga da portare addosso",
+    "rawHash": "38445035000141231016eecb266c153c8c9dec66",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

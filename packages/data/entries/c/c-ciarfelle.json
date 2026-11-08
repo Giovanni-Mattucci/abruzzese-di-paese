@@ -1,0 +1,22 @@
+{
+  "id": "c-ciarfelle",
+  "headword": "ciarfèlle",
+  "article": "la",
+  "senses": [
+    {
+      "it": "testa",
+      "en": "head",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciarfèlle (la): testa",
+    "rawHash": "9c6c23efb9f190f4cfc0ed247fea46d5032879ff",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

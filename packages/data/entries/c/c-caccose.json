@@ -1,0 +1,21 @@
+{
+  "id": "c-caccose",
+  "headword": "caccòse",
+  "senses": [
+    {
+      "it": "qualcosa",
+      "en": "something",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caccòse: qualcosa",
+    "rawHash": "322c1cd032048d40c549fe96f1aad34bbf0eb1b4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

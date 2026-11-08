@@ -1,0 +1,21 @@
+{
+  "id": "s-sfrunna",
+  "headword": "sfrunnà",
+  "senses": [
+    {
+      "it": "togliere le foglie",
+      "en": "to remove the leaves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrunnà: togliere le foglie",
+    "rawHash": "499e21e33fbf3e74600b153d5fd8bf36e572e4ca",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

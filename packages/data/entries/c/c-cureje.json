@@ -1,0 +1,21 @@
+{
+  "id": "c-cureje",
+  "headword": "curèje",
+  "senses": [
+    {
+      "it": "scorreggia rumorosa",
+      "en": "loud fart",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "curèje: scorreggia rumorosa",
+    "rawHash": "e68886cbabdd629ca7c145b0b9ef938f35cc53b9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

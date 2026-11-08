@@ -1,0 +1,21 @@
+{
+  "id": "a-appenne",
+  "headword": "appènne",
+  "senses": [
+    {
+      "it": "appendere",
+      "en": "to hang up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appènne: appendere",
+    "rawHash": "6283da88a92a598e978a7cd20636f288069f2be9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

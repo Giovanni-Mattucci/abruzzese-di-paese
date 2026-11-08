@@ -1,0 +1,22 @@
+{
+  "id": "l-leccamese",
+  "headword": "leccamése",
+  "article": "nu",
+  "senses": [
+    {
+      "it": "manrovescio",
+      "en": "backhanded slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "l",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/l.html",
+    "raw": "leccamése (nu): manrovescio",
+    "rawHash": "7df712451556574202f0759e1a6cf4ba2cc619e3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

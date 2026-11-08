@@ -1,0 +1,21 @@
+{
+  "id": "p-pizzichille",
+  "headword": "pizzichille",
+  "senses": [
+    {
+      "it": "pizzichi dati insieme a un bacio",
+      "en": "pinches given together with a kiss",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pizzichille: pizzichi dati insieme a un bacio",
+    "rawHash": "8bf88bf97f3eb370b6ebda8ca8f3f4dc498862a3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

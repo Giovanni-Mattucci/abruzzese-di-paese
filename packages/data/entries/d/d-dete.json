@@ -1,0 +1,21 @@
+{
+  "id": "d-dete",
+  "headword": "dète",
+  "senses": [
+    {
+      "it": "dito",
+      "en": "finger",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dète: dito",
+    "rawHash": "b17a2fd8262f93863a32c3a358b98ba80049b494",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

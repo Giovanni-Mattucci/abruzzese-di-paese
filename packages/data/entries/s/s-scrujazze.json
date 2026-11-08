@@ -1,0 +1,21 @@
+{
+  "id": "s-scrujazze",
+  "headword": "scrujazze",
+  "senses": [
+    {
+      "it": "frusta",
+      "en": "whip",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scrujazze: frusta",
+    "rawHash": "6740ce289ab31c992c3486cc096ee7f6a6b9749f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

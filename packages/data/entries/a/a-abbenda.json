@@ -1,0 +1,21 @@
+{
+  "id": "a-abbenda",
+  "headword": "abbendà",
+  "senses": [
+    {
+      "it": "suonare a slancio le campane",
+      "en": "to ring the bells at full swing, to peal the bells",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbendà: suonare a slancio le campane",
+    "rawHash": "dbda713eedbee867058c443676c6c3c6a52c579e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

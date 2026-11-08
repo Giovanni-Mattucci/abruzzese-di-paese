@@ -1,0 +1,26 @@
+{
+  "id": "c-crocche",
+  "headword": "crocche",
+  "senses": [
+    {
+      "it": "uncino",
+      "en": "hook",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gancio",
+      "en": "hook, hanger",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crocche: uncino, gancio.",
+    "rawHash": "f9b58f12e5cb7d6f16842f6e43fabd931b91ba01",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

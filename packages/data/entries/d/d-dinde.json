@@ -1,0 +1,21 @@
+{
+  "id": "d-dinde",
+  "headword": "dinde",
+  "senses": [
+    {
+      "it": "denti",
+      "en": "teeth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dinde: denti",
+    "rawHash": "c71be7c86c8ecb17d08ca90871253d6d6b57b611",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

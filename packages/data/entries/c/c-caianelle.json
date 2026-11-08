@@ -1,0 +1,21 @@
+{
+  "id": "c-caianelle",
+  "headword": "caianelle",
+  "senses": [
+    {
+      "it": "gabbiano",
+      "en": "seagull",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caianelle: gabbiano",
+    "rawHash": "d723c66ceb8560cb8ecbb44d2f766a71d089c124",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

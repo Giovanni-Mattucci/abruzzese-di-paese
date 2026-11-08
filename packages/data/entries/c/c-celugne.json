@@ -1,0 +1,21 @@
+{
+  "id": "c-celugne",
+  "headword": "celugne",
+  "senses": [
+    {
+      "it": "schizzinoso",
+      "en": "fussy, squeamish",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "celugne: schizzinoso",
+    "rawHash": "e5d5282458d5c0db21b1d835c10ac30cf4eed07c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

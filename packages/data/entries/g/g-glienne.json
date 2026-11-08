@@ -1,0 +1,21 @@
+{
+  "id": "g-glienne",
+  "headword": "glienne",
+  "senses": [
+    {
+      "it": "ghianda",
+      "en": "acorn",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "glienne: ghianda",
+    "rawHash": "62818a0d79cf08abf7664409d05227806f7fded2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

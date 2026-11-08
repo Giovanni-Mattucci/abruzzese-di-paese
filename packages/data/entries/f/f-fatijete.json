@@ -1,0 +1,21 @@
+{
+  "id": "f-fatijete",
+  "headword": "fatijète",
+  "senses": [
+    {
+      "it": "lavorate",
+      "en": "you work (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fatijète: lavorate",
+    "rawHash": "cc5657a7181da26969b9b00dcd1576aa8449fdc5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

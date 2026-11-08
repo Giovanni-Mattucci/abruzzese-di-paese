@@ -1,0 +1,21 @@
+{
+  "id": "p-palaferre",
+  "headword": "palaférre",
+  "senses": [
+    {
+      "it": "arnese per sollevare pesi",
+      "en": "tool for lifting weights, crowbar",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "palaférre: arnese per sollevare pesi",
+    "rawHash": "781fe7b711ffa61c9adde1ffa090da950d7dbbe6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

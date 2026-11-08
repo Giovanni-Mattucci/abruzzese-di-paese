@@ -1,0 +1,26 @@
+{
+  "id": "p-pinnichelle",
+  "headword": "pinnichelle",
+  "senses": [
+    {
+      "it": "pennichella",
+      "en": "nap",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "pisolino",
+      "en": "snooze",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pinnichelle: pennichella, pisolino",
+    "rawHash": "7d6e9ee531772d649ba2444f2b0eeb486fadbe2d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

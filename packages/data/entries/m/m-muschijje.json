@@ -1,0 +1,21 @@
+{
+  "id": "m-muschijje",
+  "headword": "muschijje",
+  "senses": [
+    {
+      "it": "moscerini",
+      "en": "gnats, midges",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "muschijje: moscerini",
+    "rawHash": "b90ca5edeefeef62fdab9e63d8acc48aa4586259",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

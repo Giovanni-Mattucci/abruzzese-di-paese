@@ -1,0 +1,21 @@
+{
+  "id": "s-scoppola",
+  "headword": "scoppola",
+  "senses": [
+    {
+      "it": "schiaffo",
+      "en": "slap",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scoppola: schiaffo",
+    "rawHash": "99a111f5bafd3e9a5c307bea0a4dc94568b0046b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cannata",
+  "headword": "cannata",
+  "senses": [
+    {
+      "it": "brocca",
+      "en": "jug, pitcher",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cannata: brocca",
+    "rawHash": "fb00b8e58fe45eb3527cc1576ae7d7f84e6fb543",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "r-rrussce",
+  "headword": "rrussce",
+  "senses": [
+    {
+      "it": "rosse",
+      "en": "red (feminine plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "r",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/r.html",
+    "raw": "rrussce: rosse",
+    "rawHash": "a36441e16bac9dba37248a7611a2c1959f642f8a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

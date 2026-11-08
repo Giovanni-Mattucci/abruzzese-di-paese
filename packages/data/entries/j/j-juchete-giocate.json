@@ -1,0 +1,29 @@
+{
+  "id": "j-juchete-giocate",
+  "headword": "juchète",
+  "senses": [
+    {
+      "it": "giocare",
+      "en": "to play",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "giocate",
+      "en": "you play (plural)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: juchète giocare"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "juchète giocate",
+    "rawHash": "76e17bd6f680a681fcc0e064d2344a8a81e2e637",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

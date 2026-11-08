@@ -1,0 +1,21 @@
+{
+  "id": "c-ciuffilune",
+  "headword": "ciuffilùne",
+  "senses": [
+    {
+      "it": "pasta rigata",
+      "en": "ridged pasta",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciuffilùne: pasta rigata",
+    "rawHash": "b8652e708258fe7fff81e8a29e7e2fef4209f4b6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

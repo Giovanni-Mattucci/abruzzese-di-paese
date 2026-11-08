@@ -1,0 +1,21 @@
+{
+  "id": "f-frissore",
+  "headword": "frissòre",
+  "senses": [
+    {
+      "it": "padella per friggere",
+      "en": "frying pan",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "frissòre: padella per friggere",
+    "rawHash": "2a328f0f3d7d78a51dcf4ebae044f0a9111b1f3e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

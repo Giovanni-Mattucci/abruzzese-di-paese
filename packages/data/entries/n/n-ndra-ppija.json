@@ -1,0 +1,29 @@
+{
+  "id": "n-ndra-ppija",
+  "headword": "'ndrà ppijà",
+  "senses": [
+    {
+      "it": "prendersela subito",
+      "en": "to take it straight away",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "examples": [
+    {
+      "abr": "le solde te le da' ndrà pijà",
+      "it": "i soldi devi prenderteli subito",
+      "en": "you must take the money straight away",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "n",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/n.html",
+    "raw": "'ndrà ppijà: prendersela subito. Es.: le solde te le da' ndrà pijà: i soldi devi prenderteli subito",
+    "rawHash": "1c67c6b929b396451cbde24b797dca7a85d34e48",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

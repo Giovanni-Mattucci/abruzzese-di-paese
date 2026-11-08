@@ -1,0 +1,21 @@
+{
+  "id": "d-dumile",
+  "headword": "dumile",
+  "senses": [
+    {
+      "it": "duemila",
+      "en": "two thousand",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dumile: duemila",
+    "rawHash": "e06aea5e9234bf4661e9a48fa29e08d644daa56e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

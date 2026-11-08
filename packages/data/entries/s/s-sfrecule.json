@@ -1,0 +1,22 @@
+{
+  "id": "s-sfrecule",
+  "headword": "sfrècule",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "pezzetto di carne di maiale soffritto",
+      "en": "small piece of fried pork",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfrècule (lu): pezzetto di carne di maiale soffritto",
+    "rawHash": "2112d99516fd87924e64a52b380e9c3a6a8dbf2d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

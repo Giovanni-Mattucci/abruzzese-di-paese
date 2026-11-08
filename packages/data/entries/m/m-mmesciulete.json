@@ -1,0 +1,21 @@
+{
+  "id": "m-mmesciulete",
+  "headword": "'mmesciulète",
+  "senses": [
+    {
+      "it": "molle",
+      "en": "soft, limp",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mmesciulète: molle",
+    "rawHash": "8e9cf6b9927b25ecfe6e0e04b3a13e33c83f6f25",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

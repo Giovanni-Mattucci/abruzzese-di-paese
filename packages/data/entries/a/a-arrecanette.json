@@ -1,0 +1,21 @@
+{
+  "id": "a-arrecanette",
+  "headword": "arrecanette",
+  "senses": [
+    {
+      "it": "a organetto",
+      "en": "accordion-like, in accordion fashion",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arrecanette: a organetto",
+    "rawHash": "9bf6a6b86b1d4bbcdc5014396b9c2dd90c8daf7d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

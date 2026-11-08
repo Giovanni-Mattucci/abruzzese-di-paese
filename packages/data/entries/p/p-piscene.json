@@ -1,0 +1,22 @@
+{
+  "id": "p-piscene",
+  "headword": "piscène",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "spaccone",
+      "en": "braggart, show-off",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "piscène (lu): spaccone",
+    "rawHash": "b641eef089dd0b55c17112ffb3e15d33f9d91ea2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

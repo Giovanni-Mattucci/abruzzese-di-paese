@@ -1,0 +1,22 @@
+{
+  "id": "p-predde",
+  "headword": "prèdde",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "prete",
+      "en": "priest",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "prèdde (lu): prete",
+    "rawHash": "8edb49a50d3c3e14a62a250f1c73e56d8ac942e7",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

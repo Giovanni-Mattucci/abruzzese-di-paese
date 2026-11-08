@@ -1,0 +1,21 @@
+{
+  "id": "b-bomme",
+  "headword": "bòmme",
+  "senses": [
+    {
+      "it": "bomba",
+      "en": "bomb",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bòmme: bomba",
+    "rawHash": "da3f4282cc79ab8d2d52b5e355bedfdb8fb4ef72",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

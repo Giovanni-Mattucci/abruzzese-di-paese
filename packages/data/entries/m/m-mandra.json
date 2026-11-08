@@ -1,0 +1,21 @@
+{
+  "id": "m-mandra",
+  "headword": "mandra",
+  "senses": [
+    {
+      "it": "recinto dell'ovile",
+      "en": "sheepfold enclosure",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mandra: recinto dell'ovile",
+    "rawHash": "c1c3aea3969e23bfc3a5d95e80fc1d65450c0061",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

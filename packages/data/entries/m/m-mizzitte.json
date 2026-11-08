@@ -1,0 +1,21 @@
+{
+  "id": "m-mizzitte",
+  "headword": "mizzitte",
+  "senses": [
+    {
+      "it": "contenitore di legno per granaglie. Poteva contenere fino ad un massimo di cinquanta chili",
+      "en": "wooden container for grain. It could hold up to a maximum of fifty kilos",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mizzitte: contenitore di legno per granaglie. Poteva contenere fino ad un massimo di cinquanta chili",
+    "rawHash": "91a78095e2b96801617e35328e5295fb13d09d5a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

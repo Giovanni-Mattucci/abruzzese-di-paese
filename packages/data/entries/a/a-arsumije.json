@@ -1,0 +1,21 @@
+{
+  "id": "a-arsumije",
+  "headword": "arsumije",
+  "senses": [
+    {
+      "it": "rassomiglia",
+      "en": "resembles",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arsumije: rassomiglia",
+    "rawHash": "8461d29fff6405955e70af5fbe4d999e8bbc05b1",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

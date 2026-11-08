@@ -1,0 +1,21 @@
+{
+  "id": "a-arivotica",
+  "headword": "arivoticà",
+  "senses": [
+    {
+      "it": "capovolgere",
+      "en": "to overturn, to turn upside down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arivoticà: capovolgere",
+    "rawHash": "01ab832a25e4013086257a93fdcc6b66dea903ea",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

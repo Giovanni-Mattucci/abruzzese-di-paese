@@ -1,0 +1,22 @@
+{
+  "id": "b-bbajiocche",
+  "headword": "bbajiòcche",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "baiocco, moneta d'argento (Italia meridionale) del valore di un soldo",
+      "en": "baiocco, silver coin (southern Italy) worth one soldo",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "b",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/b.html",
+    "raw": "bbajiòcche (lu): baiocco, moneta d'argento (Italia meridionale) del valore di un soldo.",
+    "rawHash": "46eb239be6e6f9f73c1927e081b936d8039315aa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-crape",
+  "headword": "crape",
+  "senses": [
+    {
+      "it": "capra",
+      "en": "goat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "crape: capra",
+    "rawHash": "f88f5aeadcf31aed7f08cfbca20960fb2941fb84",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

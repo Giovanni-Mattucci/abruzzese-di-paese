@@ -1,0 +1,21 @@
+{
+  "id": "a-ammete",
+  "headword": "ammète",
+  "senses": [
+    {
+      "it": "invita",
+      "en": "invites",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammète: invita",
+    "rawHash": "b92501ad0fdb710f52a30e82e1bdcaf5378ffc49",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

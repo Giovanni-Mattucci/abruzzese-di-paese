@@ -1,0 +1,21 @@
+{
+  "id": "p-pititte",
+  "headword": "pititte",
+  "senses": [
+    {
+      "it": "contenitore di coccio decorato. Capacità: due litri",
+      "en": "decorated earthenware container. Capacity: two litres",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pititte: contenitore di coccio decorato. Capacità: due litri",
+    "rawHash": "85c9a57d844731fae05ee345a351b7d4475a94a5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

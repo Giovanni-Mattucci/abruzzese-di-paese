@@ -1,0 +1,21 @@
+{
+  "id": "p-portazecchine",
+  "headword": "portazecchine",
+  "senses": [
+    {
+      "it": "portafoglio",
+      "en": "wallet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "portazecchine: portafoglio",
+    "rawHash": "e1c37f47179935fa9b6ea968f9120adf0ad90269",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

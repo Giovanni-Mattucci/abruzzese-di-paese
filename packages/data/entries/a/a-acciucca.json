@@ -1,0 +1,25 @@
+{
+  "id": "a-acciucca",
+  "headword": "acciuccà",
+  "senses": [
+    {
+      "it": "abbassare",
+      "en": "to lower",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Coniugazione: j m'acciùcche, tu t'acchiùcche, esse s'acciùcche, nu ci- acciucchème, vu v'acciucchète, jsse s'acciùcchene.",
+    "Passato: jm'acciucchìve, tu t'acciucchìste, esse s'acciuccò, nu ci-acciucchèmme, vu v'acciucchèste, jsse s'acciucchèrene"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acciuccà: abbassare, j m'acciùcche, tu t'acchiùcche, esse s'acciùcche, nu ci- acciucchème, vu v'acciucchète, jsse s'acciùcchene. Passato: jm'acciucchìve, tu t'acciucchìste, esse s'acciuccò, nu ci-acciucchèmme, vu v'acciucchèste, jsse s'acciucchèrene",
+    "rawHash": "1517bb48fe56e59c0c264dfecb08406ac3009555",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

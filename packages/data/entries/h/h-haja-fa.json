@@ -1,0 +1,21 @@
+{
+  "id": "h-haja-fa",
+  "headword": "haja fa",
+  "senses": [
+    {
+      "it": "devo fare",
+      "en": "I have to do",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "h",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/h.html",
+    "raw": "haja fa: devo fare",
+    "rawHash": "12ba86a6ad21f957c17eed1ab6069dad3a82b7ac",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "g-guerriere",
+  "headword": "guerriere",
+  "senses": [
+    {
+      "it": "guerriero",
+      "en": "warrior",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "soldato",
+      "en": "soldier",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "guerriere: guerriero, soldato",
+    "rawHash": "dff1db76c84efa4ea17d54587d1a3162f57a50e4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

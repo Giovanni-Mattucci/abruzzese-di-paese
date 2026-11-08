@@ -1,0 +1,22 @@
+{
+  "id": "p-pennelate",
+  "headword": "pennelàte",
+  "article": "la",
+  "senses": [
+    {
+      "it": "interiora di agnello",
+      "en": "lamb offal",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pennelàte (la): interiora di agnello",
+    "rawHash": "984db0844591289654a9b0483eb0892c3e0c02f9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

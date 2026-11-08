@@ -1,0 +1,21 @@
+{
+  "id": "s-spezzarole",
+  "headword": "spezzaròle",
+  "senses": [
+    {
+      "it": "acquaio",
+      "en": "sink",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spezzaròle: acquaio",
+    "rawHash": "f4339fc18573bb92720571fe4e04217dd33f1a4e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-a-unite",
+  "headword": "a unìte",
+  "senses": [
+    {
+      "it": "insieme",
+      "en": "together",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "a unìte: insieme",
+    "rawHash": "770bf8b17097219cd34848cfeb263e877c669e16",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

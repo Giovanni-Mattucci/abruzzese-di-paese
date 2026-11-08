@@ -1,0 +1,25 @@
+{
+  "id": "g-grasce",
+  "headword": "grasce",
+  "variants": [
+    "grascia"
+  ],
+  "article": "la",
+  "senses": [
+    {
+      "it": "abbondanza",
+      "en": "abundance",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "grasce, grascia (la): abbondanza",
+    "rawHash": "794f48144b3f6f2c9603d7f96cd8b16b6f73a6a2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

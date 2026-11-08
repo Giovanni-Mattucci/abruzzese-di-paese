@@ -1,0 +1,21 @@
+{
+  "id": "m-mbrizzichemele",
+  "headword": "'mbrizzichèmele",
+  "senses": [
+    {
+      "it": "infilziamolo",
+      "en": "let us pierce it, let us skewer it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "'mbrizzichèmele: infilziamolo",
+    "rawHash": "71f223f3cf4e6b4fb3b0c49c11e11e8e6cd0e052",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

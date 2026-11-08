@@ -1,0 +1,21 @@
+{
+  "id": "d-dicetece",
+  "headword": "dicètece",
+  "senses": [
+    {
+      "it": "diteci",
+      "en": "tell us",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "d",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/d.html",
+    "raw": "dicètece: diteci",
+    "rawHash": "5ab6ed1f96d2c74400cb16532bc066d25781d6d2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

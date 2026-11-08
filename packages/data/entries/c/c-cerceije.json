@@ -1,0 +1,21 @@
+{
+  "id": "c-cerceije",
+  "headword": "cerceije",
+  "senses": [
+    {
+      "it": "orecchini",
+      "en": "earrings",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cerceije: orecchini",
+    "rawHash": "43dfd5430e213ca4749d2e7c37a5fd2c1eb704f0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cuoppe",
+  "headword": "cuoppe",
+  "senses": [
+    {
+      "it": "grosso mestolo",
+      "en": "large ladle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "cuoppe: grosso mestolo",
+    "rawHash": "64daf4cf51ff4896415da76e7ddee09b9115bfb4",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

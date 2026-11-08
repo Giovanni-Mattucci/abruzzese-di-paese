@@ -1,0 +1,21 @@
+{
+  "id": "s-sfranichemele",
+  "headword": "sfranichèmele",
+  "senses": [
+    {
+      "it": "sfranichiamolo",
+      "en": "let us crumble it",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfranichèmele: sfranichiamolo",
+    "rawHash": "227b57aae86843bb4062a95b6aebe1d743b98f05",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

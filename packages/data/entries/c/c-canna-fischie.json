@@ -1,0 +1,26 @@
+{
+  "id": "c-canna-fischie",
+  "headword": "canna fischie",
+  "senses": [
+    {
+      "it": "località battuta dal vento",
+      "en": "windswept place",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "dove le canne fischiano",
+      "en": "where the reeds whistle",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "canna fischie: località battuta dal vento, dove le canne fischiano",
+    "rawHash": "50d67ff6c0f93e09fbf23cf80fbd824be642f53d",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "j-jinnare",
+  "headword": "jinnare",
+  "senses": [
+    {
+      "it": "gennaio",
+      "en": "January",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jinnare: gennaio",
+    "rawHash": "3e7c6b1cea15131542dc94b6a73183185162b891",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

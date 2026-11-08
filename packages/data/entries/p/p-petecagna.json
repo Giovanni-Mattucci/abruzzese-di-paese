@@ -1,0 +1,21 @@
+{
+  "id": "p-petecagna",
+  "headword": "petecagna",
+  "senses": [
+    {
+      "it": "orma, impronta cava lasciata sul terreno dalla scarpa",
+      "en": "footprint, hollow imprint left on the ground by a shoe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "petecagna: orma, impronta cava lasciata sul terreno dalla scarpa",
+    "rawHash": "837c07a253fbc44e6b66e95d9f122a9e79234c9c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

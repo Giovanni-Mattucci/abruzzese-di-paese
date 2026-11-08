@@ -1,0 +1,21 @@
+{
+  "id": "m-mammelle",
+  "headword": "mammelle",
+  "senses": [
+    {
+      "it": "mammella",
+      "en": "breast, udder",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mammelle: mammella",
+    "rawHash": "63a5120e406612c201fa1058eb024938de8cf006",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

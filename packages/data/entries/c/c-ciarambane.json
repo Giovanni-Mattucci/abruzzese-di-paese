@@ -1,0 +1,21 @@
+{
+  "id": "c-ciarambane",
+  "headword": "ciarambane",
+  "senses": [
+    {
+      "it": "il vorticare dell'insetto sul boccio del fiore",
+      "en": "the whirling of an insect over a flower bud",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciarambane: il vorticare dell'insetto sul boccio del fiore.",
+    "rawHash": "c668e9d5847bdb01be2a12045f108c16bb049685",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

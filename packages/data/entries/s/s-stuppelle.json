@@ -1,0 +1,22 @@
+{
+  "id": "s-stuppelle",
+  "headword": "stuppélle",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "misura di grano",
+      "en": "measure of grain",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "stuppélle (lu): misura di grano",
+    "rawHash": "fd83a8827b57fb74a839a2bb5a4a0c81d392a2e8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

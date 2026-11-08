@@ -1,0 +1,21 @@
+{
+  "id": "p-pile",
+  "headword": "pìle",
+  "senses": [
+    {
+      "it": "monete in genere",
+      "en": "coins in general, money",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "pìle: monete in genere",
+    "rawHash": "f2796106bf909c85113caa2bb2bb647bc928a650",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

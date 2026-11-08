@@ -1,0 +1,21 @@
+{
+  "id": "a-armidija",
+  "headword": "armidijà",
+  "senses": [
+    {
+      "it": "rimediare",
+      "en": "to remedy, to make do",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "armidijà: rimediare",
+    "rawHash": "ebe716bf6d50ba45459db3a902f33aab8855c590",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

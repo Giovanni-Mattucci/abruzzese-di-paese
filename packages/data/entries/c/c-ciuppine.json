@@ -1,0 +1,21 @@
+{
+  "id": "c-ciuppine",
+  "headword": "ciuppìne",
+  "senses": [
+    {
+      "it": "andamento irregolare nel camminare",
+      "en": "irregular gait, limping walk",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "ciuppìne: andamento irregolare nel camminare",
+    "rawHash": "aa55520b5498c0fbe36a4b86381a0984fbf02f85",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

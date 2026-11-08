@@ -1,0 +1,21 @@
+{
+  "id": "s-sfranichemice",
+  "headword": "sfranichèmice",
+  "senses": [
+    {
+      "it": "sbricioliamoci",
+      "en": "let us crumble ourselves",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sfranichèmice: sbricioliamoci",
+    "rawHash": "bfb287f9f7bc1d21178a6fe38a4d411599e94d25",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

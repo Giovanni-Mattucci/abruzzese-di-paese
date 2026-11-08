@@ -1,0 +1,21 @@
+{
+  "id": "c-caccave",
+  "headword": "caccave",
+  "senses": [
+    {
+      "it": "grande caldaia",
+      "en": "large cauldron",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "caccave: grande caldaia",
+    "rawHash": "588defbba1a8be3336afcf9dbc1ab6badcd1febe",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

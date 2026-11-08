@@ -1,0 +1,21 @@
+{
+  "id": "s-scarvusceme",
+  "headword": "scarvuscème",
+  "senses": [
+    {
+      "it": "frughiamo",
+      "en": "we rummage",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "scarvuscème: frughiamo",
+    "rawHash": "89c3515bdaa86fd443edb8242f1225c388e757a0",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

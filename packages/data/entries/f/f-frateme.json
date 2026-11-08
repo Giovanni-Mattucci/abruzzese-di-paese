@@ -1,0 +1,24 @@
+{
+  "id": "f-frateme",
+  "headword": "fràteme",
+  "variants": [
+    "fratemo"
+  ],
+  "senses": [
+    {
+      "it": "mio fratello",
+      "en": "my brother",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "f",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/f.html",
+    "raw": "fràteme, fratemo: mio fratello",
+    "rawHash": "5487eb3c0b1138ba166571b7cafa41af2deb6c69",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

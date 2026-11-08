@@ -1,0 +1,22 @@
+{
+  "id": "s-strapezze",
+  "headword": "strapèzze",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "stoffa triangolare per stringere la testa",
+      "en": "triangular cloth for binding the head",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "strapèzze (lu): stoffa triangolare per stringere la testa",
+    "rawHash": "7a7f2f5f8dd73deb3f0380c0a7c64aa2d9a9e870",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

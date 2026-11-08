@@ -1,0 +1,22 @@
+{
+  "id": "s-sparene",
+  "headword": "sparêne",
+  "article": "lu",
+  "senses": [
+    {
+      "it": "strofinaccio",
+      "en": "dishcloth, rag",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sparêne (lu): strofinaccio",
+    "rawHash": "ca3dfbcc9f3f561bd7b8c744faa5cc1efd5b9b45",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s-sciccuje",
+  "headword": "sciccuje",
+  "senses": [
+    {
+      "it": "buccia dell'acino dell'uva",
+      "en": "skin of a grape",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sciccuje: buccia dell'acino dell'uva",
+    "rawHash": "d077f7ce5918a2ed0493ad2e319a2bfdc824abea",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

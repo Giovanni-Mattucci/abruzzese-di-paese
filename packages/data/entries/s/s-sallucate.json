@@ -1,0 +1,21 @@
+{
+  "id": "s-sallucate",
+  "headword": "s'allucàte",
+  "senses": [
+    {
+      "it": "si è seduto",
+      "en": "he sat down",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "s'allucàte: si è seduto",
+    "rawHash": "e7e14c1edf6523be159b33284dcc94d599c6060e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

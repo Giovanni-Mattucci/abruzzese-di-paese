@@ -1,0 +1,21 @@
+{
+  "id": "s-sdelluffe",
+  "headword": "sdellùffe",
+  "senses": [
+    {
+      "it": "picchio",
+      "en": "I beat",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sdellùffe: picchio",
+    "rawHash": "a0914786f6c858f7a53769ece35fda6167d719a6",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "g-gnore",
+  "headword": "'gnore",
+  "senses": [
+    {
+      "it": "signore",
+      "en": "sir, gentleman",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "g",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/g.html",
+    "raw": "'gnore: signore",
+    "rawHash": "18cfaa74586f5c421cabf252a2c2a9afcdc23c18",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

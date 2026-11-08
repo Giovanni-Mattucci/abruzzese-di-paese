@@ -1,0 +1,25 @@
+{
+  "id": "a-abbaja",
+  "headword": "abbajà",
+  "senses": [
+    {
+      "it": "abbaiare",
+      "en": "to bark",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Presente: j abbaje, tu abbije, esse abbaje, nu abbajème, vu abbajète, jsse abbajene (io abbaio, tu abbai, egli abbaia, noi abbaiamo, voi abbaiate, essi abbaiano)",
+    "Passato: j abbajve, tu abbajste, esse abbajò, nu abbajemme, vu abbajeste, jsse abbajèrene (io abbaiai, tu abbaiasti, egli abbaiò, noi abbaiammo, voi abbaiaste, essi abbaiarono)"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbaja': j abbaje, tu abbije, esse abbaje, nu abbajème, vu abbajète, jsse abbajene ( io abbaio, tu abbai, egli abbaia, noi abbaiamo, voi abbaiate, essi abbaiano ). Passato: j abbajve, tu abbajste, esse abbajò, nu abbajemme, vu abbajeste, jsse abbajèrene (io abbaiai, tu abbaiasti, egli abbaiò, noi abbaiammo, voi abbaiaste, essi abbaiarono )",
+    "rawHash": "6d811cce44331f3ffeaf33a41fa06c4226b0964e",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

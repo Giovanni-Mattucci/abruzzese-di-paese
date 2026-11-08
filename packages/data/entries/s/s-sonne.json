@@ -1,0 +1,24 @@
+{
+  "id": "s-sonne",
+  "headword": "sonne",
+  "senses": [
+    {
+      "it": "essi sono",
+      "en": "they are",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "grammarNotes": [
+    "Persona: jsse"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sonne (jsse): essi sono",
+    "rawHash": "1f9a18e2c4bc7583389c0a3e555c4efddacd5af8",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

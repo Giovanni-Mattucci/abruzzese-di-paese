@@ -1,0 +1,21 @@
+{
+  "id": "c-capace-che",
+  "headword": "capàce che",
+  "senses": [
+    {
+      "it": "forse",
+      "en": "perhaps, maybe",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capàce che: forse",
+    "rawHash": "6543d6d908799fb387153d59f8945bd3a64fc7cd",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

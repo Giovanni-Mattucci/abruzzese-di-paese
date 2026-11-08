@@ -1,0 +1,22 @@
+{
+  "id": "s-spennele",
+  "headword": "spènnele",
+  "article": "la",
+  "senses": [
+    {
+      "it": "piccolo trapano a mano",
+      "en": "small hand drill",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "spènnele (la): piccolo trapano a mano",
+    "rawHash": "474729f1ef9fe8f99d9fa4d4db63a9071cc97eb5",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-perdneselle",
+  "headword": "perdnesèlle",
+  "senses": [
+    {
+      "it": "prezzemolo",
+      "en": "parsley",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "p",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/p.html",
+    "raw": "perdnesèlle: prezzemolo",
+    "rawHash": "350b9b1bff1e25612b74a4767661a66eed598d0b",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

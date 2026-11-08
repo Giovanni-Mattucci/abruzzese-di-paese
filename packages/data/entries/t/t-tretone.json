@@ -1,0 +1,21 @@
+{
+  "id": "t-tretone",
+  "headword": "tretone",
+  "senses": [
+    {
+      "it": "Tritone, divinità marina. Qui per maschio muscoloso e forzuto",
+      "en": "Triton, sea deity. Here for a muscular, strong man",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tretone: Tritone, divinità marina. Qui per maschio muscoloso e forzuto",
+    "rawHash": "371deec5f5948f144b007a73f31c086a52e76426",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

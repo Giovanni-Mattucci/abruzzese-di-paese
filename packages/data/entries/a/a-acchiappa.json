@@ -1,0 +1,21 @@
+{
+  "id": "a-acchiappa",
+  "headword": "acchiappà",
+  "senses": [
+    {
+      "it": "acciuffare",
+      "en": "to catch, to grab hold of",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "acchiappà: acciuffare",
+    "rawHash": "3d00bd1e8b13776e86b56c27c4c7792a7e5f266f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

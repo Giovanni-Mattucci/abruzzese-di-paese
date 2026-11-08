@@ -1,0 +1,32 @@
+{
+  "id": "a-ammonde",
+  "headword": "ammonde",
+  "variants": [
+    "ammonte"
+  ],
+  "senses": [
+    {
+      "it": "in su, sopra, in salita (nella maggior parte dei casi)",
+      "en": "up, above, uphill (in most cases)",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "in altri casi: lungo",
+      "en": "in other cases: along",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "notes": [
+    "Source line: ammonde, ammonte: su, sopra, in salita"
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "ammonde: in su (nella maggior parte dei casi), in altri casi: lungo",
+    "rawHash": "e61588cf742b3e747814fe274f94038173a160fa",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

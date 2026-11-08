@@ -1,0 +1,34 @@
+{
+  "name": "@adp/data",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Dictionary entries, JSON Schema, validation and build for Abruzzese di paese",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./node": "./src/node.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "validate": "tsx scripts/validate.ts",
+    "build": "tsx scripts/build.ts",
+    "format": "tsx scripts/format.ts",
+    "translations:export": "tsx scripts/export-untranslated.ts",
+    "translations:apply": "tsx scripts/apply-translations.ts"
+  },
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "marked": "18.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@vitest/coverage-v8": "5.1.0",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "vitest": "5.1.0"
+  }
+}

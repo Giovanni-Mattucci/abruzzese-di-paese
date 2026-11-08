@@ -1,0 +1,21 @@
+{
+  "id": "m-mendone",
+  "headword": "mendone",
+  "senses": [
+    {
+      "it": "montone",
+      "en": "ram",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mendone: montone",
+    "rawHash": "cc9f730f7f47baf761774fb470860c059402356c",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

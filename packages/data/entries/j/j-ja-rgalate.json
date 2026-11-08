@@ -1,0 +1,21 @@
+{
+  "id": "j-ja-rgalate",
+  "headword": "ja 'rgalate",
+  "senses": [
+    {
+      "it": "gli ha regalato",
+      "en": "he gave him (as a gift)",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "ja 'rgalate: gli ha regalato",
+    "rawHash": "016f3a31dfcad2c047ebac65276d3b4b74f5d478",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

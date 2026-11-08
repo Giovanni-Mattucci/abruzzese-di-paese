@@ -1,0 +1,21 @@
+{
+  "id": "a-arve",
+  "headword": "arvè",
+  "senses": [
+    {
+      "it": "ritorna",
+      "en": "comes back",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "arvè: ritorna",
+    "rawHash": "ba4aab5f1ce73a8e84425265dcd0b9d89f6d2353",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

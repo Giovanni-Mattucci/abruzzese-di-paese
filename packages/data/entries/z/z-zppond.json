@@ -1,0 +1,22 @@
+{
+  "id": "z-zppond",
+  "headword": "zppond",
+  "article": "la",
+  "senses": [
+    {
+      "it": "zeppola per tavoli traballanti",
+      "en": "wedge for wobbly tables",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "z",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/z.html",
+    "raw": "zppond (la): zeppola per tavoli traballanti",
+    "rawHash": "90cac6d1d6ba82b9ce96e34a64409d17efde89e2",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

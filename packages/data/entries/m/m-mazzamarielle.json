@@ -1,0 +1,21 @@
+{
+  "id": "m-mazzamarielle",
+  "headword": "mazzamarielle",
+  "senses": [
+    {
+      "it": "folletto",
+      "en": "sprite, goblin",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "m",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/m.html",
+    "raw": "mazzamarielle: folletto",
+    "rawHash": "eda73b18eb114deb78ba71e43d68dc2e2aea0a42",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

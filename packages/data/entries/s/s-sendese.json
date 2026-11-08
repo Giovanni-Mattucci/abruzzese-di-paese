@@ -1,0 +1,21 @@
+{
+  "id": "s-sendese",
+  "headword": "sendese",
+  "senses": [
+    {
+      "it": "si è sentito dire",
+      "en": "it has been heard said",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "s",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/s.html",
+    "raw": "sendese: si è sentito dire",
+    "rawHash": "46500016479e5be067a73db1cda1d960a4fd1bb3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

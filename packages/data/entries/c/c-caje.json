@@ -1,0 +1,21 @@
+{
+  "id": "c-caje",
+  "headword": "càje",
+  "senses": [
+    {
+      "it": "caglio",
+      "en": "rennet",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "càje: caglio",
+    "rawHash": "d447755643acc24b3becdf284660c07c6353cf2f",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

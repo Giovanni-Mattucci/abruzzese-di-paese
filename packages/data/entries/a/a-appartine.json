@@ -1,0 +1,21 @@
+{
+  "id": "a-appartine",
+  "headword": "appartinè",
+  "senses": [
+    {
+      "it": "appartenere",
+      "en": "to belong",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "appartinè: appartenere",
+    "rawHash": "3d1468a028d35d139d9d63bfeeeded587ed90f02",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

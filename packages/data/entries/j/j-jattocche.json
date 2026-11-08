@@ -1,0 +1,31 @@
+{
+  "id": "j-jattocche",
+  "headword": "jattòcche",
+  "senses": [
+    {
+      "it": "gli tocca",
+      "en": "it falls to him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "gli spetta",
+      "en": "it is due to him",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "spetta a lui",
+      "en": "it is up to him",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "j",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/j.html",
+    "raw": "jattòcche: gli tocca, gli spetta, spetta a lui",
+    "rawHash": "e20527b1e276b422c2a973e47251a346d552bead",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

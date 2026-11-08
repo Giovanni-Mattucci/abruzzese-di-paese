@@ -1,0 +1,21 @@
+{
+  "id": "c-capistete",
+  "headword": "capistète",
+  "senses": [
+    {
+      "it": "calpestate",
+      "en": "you (pl.) trample",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "c",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/c.html",
+    "raw": "capistète: calpestate",
+    "rawHash": "83f1a7221ff66a9a47e7d6b55abfd263888d5009",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

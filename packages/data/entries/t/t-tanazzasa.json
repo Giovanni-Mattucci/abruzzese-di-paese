@@ -1,0 +1,21 @@
+{
+  "id": "t-tanazzasa",
+  "headword": "tanazzasa",
+  "senses": [
+    {
+      "it": "tenaglie",
+      "en": "pincers, pliers",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tanazzasa: tenaglie",
+    "rawHash": "18639fb275c09b2b06a9093ba629385602fd2e04",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

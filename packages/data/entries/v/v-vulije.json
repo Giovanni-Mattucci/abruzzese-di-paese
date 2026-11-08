@@ -1,0 +1,26 @@
+{
+  "id": "v-vulije",
+  "headword": "vulìje",
+  "senses": [
+    {
+      "it": "voglia",
+      "en": "wish, craving",
+      "enTranslateStatus": "machine"
+    },
+    {
+      "it": "desiderio",
+      "en": "desire",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "v",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/v.html",
+    "raw": "vulìje: voglia, desiderio",
+    "rawHash": "40f6f30c75409a3346c39781a45bff53e48c5c66",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

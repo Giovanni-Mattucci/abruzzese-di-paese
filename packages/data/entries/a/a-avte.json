@@ -1,0 +1,24 @@
+{
+  "id": "a-avte",
+  "headword": "avte",
+  "variants": [
+    "àvete"
+  ],
+  "senses": [
+    {
+      "it": "alto",
+      "en": "tall, high",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "avte, àvete: alto",
+    "rawHash": "454e3cccbb91d18054d2d83c89594d2fb87bd687",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

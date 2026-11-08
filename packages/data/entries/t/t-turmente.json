@@ -1,0 +1,22 @@
+{
+  "id": "t-turmente",
+  "headword": "turmente",
+  "article": "la",
+  "senses": [
+    {
+      "it": "sbornia",
+      "en": "drunken state",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "turmente (la): sbornia",
+    "rawHash": "6011309e382137f52ed406698a1da0cda9a49cd9",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

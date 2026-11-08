@@ -1,0 +1,21 @@
+{
+  "id": "t-tocca",
+  "headword": "tocca",
+  "senses": [
+    {
+      "it": "pezzo di tela dura",
+      "en": "piece of stiff cloth",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "t",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/t.html",
+    "raw": "tocca: pezzo di tela dura",
+    "rawHash": "f8848024964c5443f6797886ac640261140d192a",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}

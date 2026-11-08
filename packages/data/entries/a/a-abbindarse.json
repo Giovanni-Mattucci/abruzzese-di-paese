@@ -1,0 +1,21 @@
+{
+  "id": "a-abbindarse",
+  "headword": "abbindarse",
+  "senses": [
+    {
+      "it": "prendere la rincorsa",
+      "en": "to take a run-up",
+      "enTranslateStatus": "machine"
+    }
+  ],
+  "source": {
+    "site": "abruzzo.fm",
+    "letter": "a",
+    "url": "https://www.abruzzo.fm/archivio/treppecore/a.html",
+    "raw": "abbindarse: prendere la rincorsa",
+    "rawHash": "9844558bd16447172a2e8947b18fc31d8ccb24b3",
+    "scrapedAt": "2026-11-07"
+  },
+  "contributors": [],
+  "schemaVersion": 1
+}
