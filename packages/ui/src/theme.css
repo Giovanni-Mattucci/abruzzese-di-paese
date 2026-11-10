@@ -138,6 +138,12 @@
   }
 }
 
+@layer components {
+  :where(.content) a {
+    @apply text-primary underline underline-offset-2;
+  }
+}
+
 /*
  * Component styles live in each component's Tailwind classes, not here (ADR 0015). To try a
  * flagged design (VITE_FLAG_DESIGN_V2) on a component, prefix classes with v2:, for example

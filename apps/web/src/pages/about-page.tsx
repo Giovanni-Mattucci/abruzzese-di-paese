@@ -7,28 +7,22 @@ export function AboutPage() {
   useDocumentTitle(t('about.title'));
   return (
     <>
-      <h1>{t('about.title')}</h1>
-      <div className="mt-4 space-y-4 text-lg">
-        <p>{t('about.what')}</p>
-        <p>
-          {t('about.source')}{' '}
-          <a className="text-primary underline" href={SOURCE_INDEX_URL}>
-            {t('footer.source_name')}
-          </a>
-        </p>
-        <p>
-          {t('about.radio')}{' '}
-          <a className="text-primary underline" href={RADIO_ABRUZZO_URL}>
-            {t('about.radio_link')}
-          </a>
-        </p>
-        <p>{t('about.contribute')}</p>
-        <p>{t('about.licences')}</p>
-        <p>
-          <a className="text-primary underline" href={REPO_URL}>
-            {t('about.github')}
-          </a>
-        </p>
+      <div className="content">
+        <h1>{t('about.title')}</h1>
+        <div className="mt-4 space-y-4 text-lg">
+          <p>{t('about.what')}</p>
+          <p>
+            {t('about.source')} <a href={SOURCE_INDEX_URL}>{t('footer.source_name')}</a>
+          </p>
+          <p>
+            {t('about.radio')} <a href={RADIO_ABRUZZO_URL}>{t('about.radio_link')}</a>
+          </p>
+          <p>{t('about.contribute')}</p>
+          <p>{t('about.licences')}</p>
+          <p>
+            <a href={REPO_URL}>{t('about.github')}</a>
+          </p>
+        </div>
       </div>
     </>
   );
