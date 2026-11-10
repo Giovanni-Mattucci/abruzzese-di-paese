@@ -62,7 +62,8 @@
   },
   "grammar": {
     "title": "The rules of the Abruzzese dialect",
-    "intro": "Reproduced from the Treppecore archive on abruzzo.fm."
+    "intro": "Reproduced from the Treppecore archive on abruzzo.fm.",
+    "source_link": "Original rules on abruzzo.fm"
   },
   "about": {
     "title": "About this project",

@@ -39,3 +39,6 @@ export {
   VisuallyHidden,
   type VisuallyHiddenProps,
 } from './components/visually-hidden/visually-hidden';
+
+// Icons
+export { Link as LinkIcon } from 'lucide-react';
