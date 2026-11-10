@@ -43,6 +43,7 @@
   },
   "entry": {
     "not_found": "No entry with id \"{{id}}\".",
+    "breadcrumb": "Breadcrumb",
     "meanings": "Meaning",
     "examples": "Examples",
     "grammar_notes": "Grammar notes",

@@ -2,7 +2,7 @@ import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { describe, expect, it } from 'vitest';
 import { expectNoA11yViolations } from '../../test/axe';
-import { DefinitionCard, type DefinitionLabels } from './definition-card';
+import { DIALECT_LANG, DefinitionCard, type DefinitionLabels } from './definition-card';
 
 const labels: DefinitionLabels = {
   meanings: 'Meaning',
@@ -37,6 +37,29 @@ describe('DefinitionCard', () => {
     );
     expect(screen.getByText('ardeche')).toBeInTheDocument();
     expect(screen.getByText('ortica')).toHaveAttribute('lang', 'it');
+  });
+
+  it('marks the headword as the defined term and tags dialect text with its language', () => {
+    const { container } = render(
+      <DefinitionCard
+        variant="full"
+        headword="cìtele"
+        article="lu"
+        variants={['citele']}
+        senses={[{ it: 'bambino' }]}
+        examples={[{ abr: 'lu cìtele dorme', it: 'il bambino dorme' }]}
+        labels={labels}
+      />,
+    );
+    const term = container.querySelector('dfn');
+    expect(term).toHaveTextContent(/^cìtele$/);
+    expect(screen.getByRole('heading', { name: 'lu cìtele' })).toHaveAttribute(
+      'lang',
+      DIALECT_LANG,
+    );
+    expect(screen.getByText('citele')).toHaveAttribute('lang', DIALECT_LANG);
+    expect(screen.getByText('lu cìtele dorme')).toHaveAttribute('lang', DIALECT_LANG);
+    expect(screen.getByText('bambino')).toHaveAttribute('lang', 'it');
   });
 
   it('shows tags as badges', () => {

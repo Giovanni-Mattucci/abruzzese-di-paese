@@ -43,6 +43,7 @@
   },
   "entry": {
     "not_found": "Nessuna voce con id \"{{id}}\".",
+    "breadcrumb": "Percorso di navigazione",
     "meanings": "Significato",
     "examples": "Esempi",
     "grammar_notes": "Note grammaticali",

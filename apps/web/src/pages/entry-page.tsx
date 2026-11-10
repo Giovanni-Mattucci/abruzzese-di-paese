@@ -29,11 +29,11 @@ export function EntryPage() {
   const letter = entry.source.letter;
   return (
     <>
-      <p className="mb-3 text-sm">
+      <nav aria-label={t('entry.breadcrumb')} className="mb-3 text-sm">
         <Link className="text-primary underline" to={`/browse/${letter}`}>
           {t('browse.letter_title', { letter: letter.toUpperCase() })}
         </Link>
-      </p>
+      </nav>
       <DefinitionCard
         variant="full"
         headingLevel={1}

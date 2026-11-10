@@ -11,7 +11,6 @@ export function GrammarPage({ promise = loadGrammar() }: { promise?: Promise<str
     <>
       <h1>{t('grammar.title')}</h1>
       <p className="mt-2 text-sm text-muted-foreground">{t('grammar.intro')}</p>
-      {/* Our own build output from a committed Markdown file, not user input. */}
       <div lang="it" className="prose-grammar mt-6" dangerouslySetInnerHTML={{ __html: html }} />
     </>
   );

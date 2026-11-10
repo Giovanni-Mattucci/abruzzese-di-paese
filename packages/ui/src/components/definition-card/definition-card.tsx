@@ -56,6 +56,13 @@ export interface DefinitionCardProps {
   className?: string;
 }
 
+/**
+ * BCP 47 tag for dictionary text in dialect. Abruzzese has no registered subtag of its own, so the
+ * Italian primary subtag lets screen readers pick an Italian voice instead of the page language,
+ * and the private-use suffix keeps the dialect distinguishable for machine readers.
+ */
+export const DIALECT_LANG = 'it-x-abruzzo';
+
 /** Small letter-spaced capitals on the shadcn Badge, which keeps its own variant colours. */
 const tagClass =
   'rounded-none px-1.5 font-body text-[0.625rem] leading-[calc(4/3)] font-normal tracking-[0.18em] uppercase';
@@ -88,13 +95,15 @@ export function DefinitionCard({
   // label would repeat as one landmark per card.
   const Meanings = full ? 'section' : 'div';
   const hasEnglish = senses.some((s) => s.en);
+  // <dfn> marks the defining instance of the term; each card is its own article, so it is the
+  // definition's scope. The article ("la") is grammar, not part of the term, so it stays outside.
+  const term = <dfn className="not-italic">{headword}</dfn>;
   const title = article ? (
     <>
-      <span className="font-normal text-muted-foreground">{article}</span>
-      {` ${headword}`}
+      <span className="font-normal text-muted-foreground">{article}</span> {term}
     </>
   ) : (
-    headword
+    term
   );
 
   return (
@@ -102,6 +111,7 @@ export function DefinitionCard({
     <article className={cn('text-card-foreground', full ? 'pb-5' : 'border-b py-5', className)}>
       <header className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
         <Heading
+          lang={DIALECT_LANG}
           className={cn(
             'font-heading font-normal tracking-tight text-foreground',
             full ? 'text-5xl sm:text-6xl' : 'text-2xl',
@@ -143,7 +153,7 @@ export function DefinitionCard({
       {variants && variants.length > 0 ? (
         <p className="mt-1 text-sm text-muted-foreground">
           <span className="sr-only">{labels.variants}: </span>
-          {variants.join(', ')}
+          <span lang={DIALECT_LANG}>{variants.join(', ')}</span>
         </p>
       ) : null}
 
@@ -211,7 +221,9 @@ export function DefinitionCard({
           <ul className="mt-1 space-y-2">
             {examples.map((ex, i) => (
               <li key={i} className="border-l pl-4 text-muted-foreground">
-                <q className="font-body text-lg text-foreground italic">{ex.abr}</q>
+                <q lang={DIALECT_LANG} className="font-body text-lg text-foreground italic">
+                  {ex.abr}
+                </q>
                 {ex.it ? (
                   <span lang="it" className="block text-muted-foreground">
                     {ex.it}
