@@ -44,8 +44,8 @@ async function preload(): Promise<RouteData> {
   const [dictionary, grammar, grammarPage, aboutPage] = await Promise.all([
     loadDictionary().catch(() => undefined),
     path === '/grammar' ? loadGrammar().catch(() => undefined) : undefined,
-    path === '/grammar' ? import('./pages/grammar-page') : undefined,
-    path === '/about' ? import('./pages/about-page') : undefined,
+    path === '/grammar' ? import('./pages/grammar-page/grammar-page') : undefined,
+    path === '/about' ? import('./pages/about-page/about-page') : undefined,
   ]);
   return {
     ...(dictionary ? { dictionary: fulfilled(dictionary) } : {}),

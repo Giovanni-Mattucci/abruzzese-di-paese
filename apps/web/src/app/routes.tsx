@@ -1,11 +1,11 @@
 import type { ComponentType } from 'react';
 import type { RouteObject } from 'react-router';
 import type { Dictionary } from '../data/dictionary';
-import { BrowsePage } from '../pages/browse-page';
-import { EntryPage } from '../pages/entry-page';
+import { BrowsePage } from '../pages/browse-page/browse-page';
+import { EntryPage } from '../pages/entry-page/entry-page';
 import { AboutPage, GrammarPage } from '../pages/lazy';
-import { NotFoundPage } from '../pages/not-found-page';
-import { SearchPage } from '../pages/search-page';
+import { NotFoundPage } from '../pages/not-found-page/not-found-page';
+import { SearchPage } from '../pages/search-page/search-page';
 import { ErrorPage } from './error-page';
 import { Layout } from './layout';
 

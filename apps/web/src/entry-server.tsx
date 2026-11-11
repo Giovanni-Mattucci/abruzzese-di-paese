@@ -8,8 +8,8 @@ import { appBasename, createTestRouter } from './app/router';
 import { buildDictionary, type Dictionary } from './data/dictionary';
 import { fulfilled } from './data/thenable';
 import { createI18n } from './i18n';
-import { AboutPage } from './pages/about-page';
-import { GrammarPage } from './pages/grammar-page';
+import { AboutPage } from './pages/about-page/about-page';
+import { GrammarPage } from './pages/grammar-page/grammar-page';
 
 export interface ServerData {
   dictionary: Promise<Dictionary>;
