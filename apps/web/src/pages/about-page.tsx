@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import { RADIO_ABRUZZO_URL, REPO_URL, SOURCE_INDEX_URL } from '../config';
+import { analyticsEnabled, RADIO_ABRUZZO_URL, REPO_URL, SOURCE_INDEX_URL } from '../config';
 import { useDocumentTitle } from '../hooks/use-document-title';
 
 export function AboutPage() {
@@ -23,6 +23,10 @@ export function AboutPage() {
             <a href={REPO_URL}>{t('about.github')}</a>
           </p>
         </div>
+        <h2 className="mt-8">{t('about.privacy_title')}</h2>
+        <p className="mt-4 text-lg">
+          {analyticsEnabled() ? t('about.privacy_analytics') : t('about.privacy_none')}
+        </p>
       </div>
     </>
   );

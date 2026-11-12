@@ -73,7 +73,10 @@
     "radio_link": "Radio Abruzzo",
     "contribute": "Suggest a word or a correction on GitHub, or edit an entry directly from its page.",
     "licences": "Dictionary data is licensed CC BY-SA 4.0. Code is licensed MIT.",
-    "github": "Project on GitHub"
+    "github": "Project on GitHub",
+    "privacy_title": "Privacy",
+    "privacy_analytics": "This site uses Cloudflare Web Analytics to count visits. It sets no cookies and does not track you as an individual; it records only aggregate data such as pages viewed, referring sites, country and device type. Your language choice is stored only in your browser.",
+    "privacy_none": "This site sets no cookies and uses no analytics or tracking. Your language choice is stored only in your browser."
   },
   "footer": {
     "attribution": "Dictionary content reproduced with attribution from",

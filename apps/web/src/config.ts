@@ -7,6 +7,11 @@ export const RADIO_ABRUZZO_URL = 'https://www.abruzzo.fm/';
 export const RESULTS_LIMIT = 50;
 export const BROWSE_PAGE_SIZE = 50;
 
+/** True when the build includes the Cloudflare Web Analytics beacon (ADR 0016). */
+export function analyticsEnabled(): boolean {
+  return Boolean(import.meta.env.VITE_CF_ANALYTICS_TOKEN?.trim());
+}
+
 export function entryEditUrl(letter: string, id: string): string {
   return `${REPO_URL}/edit/main/packages/data/entries/${letter}/${id}.json`;
 }
