@@ -5,11 +5,8 @@ import type * as DictionaryModule from '../data/dictionary';
 import { renderApp } from '../test/render';
 
 vi.mock('../data/dictionary', async (importOriginal) => {
-  const actual = await importOriginal<typeof DictionaryModule>();
-  const { sampleEntries } = await import('../test/sample');
-  const { fulfilled } = await import('../data/thenable');
-  const promise = fulfilled(actual.buildDictionary(sampleEntries));
-  return { ...actual, loadDictionary: () => promise };
+  const { mockDictionary } = await import('../test/mock-dictionary');
+  return mockDictionary(await importOriginal<typeof DictionaryModule>());
 });
 
 afterEach(() => {

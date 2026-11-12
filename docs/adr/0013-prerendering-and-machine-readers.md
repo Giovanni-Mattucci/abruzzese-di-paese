@@ -11,7 +11,7 @@ read and cite.
 
 ## Decision
 
-After `vite build`, `apps/web/scripts/prerender.ts` renders all routes (about 3,760 pages) to
+After `vite build`, `apps/web/build/prerender.ts` renders all routes (about 3,760 pages) to
 static HTML with a server build of the same React tree. Each page gets a title, description,
 canonical link, Open Graph tags and Schema.org JSON-LD: `WebSite` and `DefinedTermSet` on the home
 page, `DefinedTerm` on every entry. The script also writes `sitemap.xml`, `robots.txt`,
