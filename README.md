@@ -55,14 +55,14 @@ raw colours and fonts is a convention, not a checked rule.
 
 ## Static output, SEO and machine readers
 
-`pnpm build` runs the client build, then `scripts/prerender.ts` renders every route to static
+`pnpm build` runs the client build, then `build/prerender.ts` renders every route to static
 HTML (home, browse pages, all entry pages, grammar, about) with a title, description, canonical
 link, Open Graph tags and Schema.org JSON-LD (`WebSite` and `DefinedTermSet` on the home page,
 `DefinedTerm` on every entry). It also writes `sitemap.xml`, `robots.txt` and `llms.txt`.
 The browser hydrates the prerendered English markup, or renders fresh when the visitor has
 chosen Italian. AI agents and crawlers that do not run JavaScript get full content, and the
 dataset is advertised at `/data/dictionary.json`. The main bundle is held under 150 KB gzip by
-`scripts/check-bundle-size.mjs`.
+`build/check-bundle-size.ts`.
 
 Set `VITE_SITE_URL` and `VITE_REPO_URL` for a deployment; the workflows derive them from the
 repository.

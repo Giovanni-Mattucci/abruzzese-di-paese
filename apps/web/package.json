@@ -7,14 +7,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && pnpm prerender && node scripts/check-bundle-size.mjs",
+    "build": "vite build && pnpm prerender && tsx build/check-bundle-size.ts",
     "preview": "vite preview",
-    "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.node.json",
+    "typecheck": "tsc -p tsconfig.app.json && tsc -p tsconfig.node.json",
     "test": "vitest run",
     "test:coverage": "vitest run --coverage",
     "e2e": "playwright test",
     "e2e:install": "playwright install --with-deps chromium",
-    "prerender": "tsx scripts/prerender.ts"
+    "prerender": "tsx build/prerender.ts"
   },
   "dependencies": {
     "@adp/data": "workspace:*",

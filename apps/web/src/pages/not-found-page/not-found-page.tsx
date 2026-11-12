@@ -1,7 +1,7 @@
 import { Button } from '@mannaggia/ui';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router';
-import { useDocumentTitle } from '../hooks/use-document-title';
+import { useDocumentTitle } from '../../hooks/use-document-title';
 
 export function NotFoundPage() {
   const { t } = useTranslation();

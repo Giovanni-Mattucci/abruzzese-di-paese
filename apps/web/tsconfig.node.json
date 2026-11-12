@@ -5,7 +5,7 @@
     "types": ["node", "vite/client", "@testing-library/jest-dom"]
   },
   "include": [
-    "scripts",
+    "build",
     "e2e",
     "src/**/*.test.ts",
     "src/**/*.test.tsx",
