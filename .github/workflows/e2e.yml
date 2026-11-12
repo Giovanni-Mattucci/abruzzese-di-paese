@@ -16,7 +16,9 @@ permissions:
 jobs:
   e2e:
     name: Playwright
-    runs-on: ubuntu-latest
+    # Pinned: Playwright's WebKit build needs Ubuntu 24.04 system libraries (libicudata.so.74),
+    # which ubuntu-latest (Ubuntu 26) does not ship. Unpin after a Playwright upgrade supports it.
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     env:
       # WebKit runs on main only; install exactly the browsers this run uses.
@@ -30,11 +32,16 @@ jobs:
           node-version: 24
           cache: pnpm
       - run: pnpm install --frozen-lockfile
+      # ImageOS (for example "ubuntu24") is set by the runner image, not the workflow, so it is read
+      # in a step. Keying on it stops browsers cached on one Ubuntu release loading on another.
+      - name: Read runner image
+        id: image
+        run: echo "os=$ImageOS" >> "$GITHUB_OUTPUT"
       - name: Cache Playwright browsers
         uses: actions/cache@v6
         with:
           path: ~/.cache/ms-playwright
-          key: playwright-${{ runner.os }}-${{ env.PLAYWRIGHT_BROWSERS }}-${{ hashFiles('pnpm-lock.yaml') }}
+          key: playwright-${{ steps.image.outputs.os }}-${{ env.PLAYWRIGHT_BROWSERS }}-${{ hashFiles('pnpm-lock.yaml') }}
       - run: pnpm --filter @adp/web exec playwright install --with-deps ${{ env.PLAYWRIGHT_BROWSERS }}
       - run: pnpm data:build
       - run: pnpm --filter @adp/web build

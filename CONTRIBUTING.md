@@ -67,6 +67,8 @@ Visitors switch language with the toggle in the header; the choice is remembered
   base one rather than editing the base file; `ui:add` refuses to re-add an existing base component unless you pass
   `--force`, and then you restore your edits from `git diff`. Every component needs a unit
   test and an axe accessibility test.
+- Analytics are off unless `VITE_CF_ANALYTICS_TOKEN` is set (ADR 0016). Do not hard-code a
+  token; if you deploy a fork, use your own Cloudflare token or none.
 - Keep pull requests small and focused.
 
 ## Visual snapshots

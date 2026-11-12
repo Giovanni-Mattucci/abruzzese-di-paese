@@ -73,7 +73,10 @@
     "radio_link": "Radio Abruzzo",
     "contribute": "Suggerisci una parola o una correzione su GitHub, oppure modifica una voce direttamente dalla sua pagina.",
     "licences": "I dati del dizionario sono rilasciati con licenza CC BY-SA 4.0. Il codice con licenza MIT.",
-    "github": "Progetto su GitHub"
+    "github": "Progetto su GitHub",
+    "privacy_title": "Privacy",
+    "privacy_analytics": "Questo sito usa Cloudflare Web Analytics per contare le visite. Non imposta cookie e non ti traccia come singola persona; registra solo dati aggregati come le pagine visitate, i siti di provenienza, il paese e il tipo di dispositivo. La lingua che scegli è salvata solo nel tuo browser.",
+    "privacy_none": "Questo sito non imposta cookie e non usa strumenti di analisi o tracciamento. La lingua che scegli è salvata solo nel tuo browser."
   },
   "footer": {
     "attribution": "Contenuto del dizionario riprodotto citando la fonte",
