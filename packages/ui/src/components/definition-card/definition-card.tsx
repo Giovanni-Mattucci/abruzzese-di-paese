@@ -1,5 +1,5 @@
 import { ChevronRightIcon } from 'lucide-react';
-import type { ReactNode } from 'react';
+import { Fragment, type ReactNode } from 'react';
 import { Badge } from '../../base/badge/badge';
 import { cn } from '../../lib/utils';
 import { AnchorLink, type LinkComponent } from '../link-component/link-component';
@@ -67,6 +67,16 @@ export const DIALECT_LANG = 'it-x-abruzzo';
 const tagClass =
   'rounded-none px-1.5 font-body text-[0.625rem] leading-[calc(4/3)] font-normal tracking-[0.18em] uppercase';
 
+/** A middle dot for sighted readers; screen readers hear a comma pause instead. */
+function DotSeparator() {
+  return (
+    <>
+      <span aria-hidden="true"> · </span>
+      <span className="sr-only">, </span>
+    </>
+  );
+}
+
 export function DefinitionCard({
   headword,
   article,
@@ -128,6 +138,25 @@ export function DefinitionCard({
             title
           )}
         </Heading>
+        {variants && variants.length > 0 ? (
+          // Variants are other spellings of the same word, so they sit beside the headword at a
+          // near-matching size. They stay outside the heading so its accessible name is the term.
+          <span
+            className={cn(
+              'font-heading tracking-tight text-muted-foreground',
+              full ? 'text-4xl sm:text-5xl' : 'text-xl',
+            )}
+          >
+            <DotSeparator />
+            <span className="sr-only">{labels.variants}: </span>
+            {variants.map((v, i) => (
+              <Fragment key={i}>
+                {i > 0 ? <DotSeparator /> : null}
+                <span lang={DIALECT_LANG}>{v}</span>
+              </Fragment>
+            ))}
+          </span>
+        ) : null}
         {pronunciation ? (
           <span className="text-sm tracking-wide text-primary">
             <span className="sr-only">{labels.pronunciation}: </span>[{pronunciation}]
@@ -149,13 +178,6 @@ export function DefinitionCard({
           </Badge>
         ) : null}
       </header>
-
-      {variants && variants.length > 0 ? (
-        <p className="mt-1 text-sm text-muted-foreground">
-          <span className="sr-only">{labels.variants}: </span>
-          <span lang={DIALECT_LANG}>{variants.join(', ')}</span>
-        </p>
-      ) : null}
 
       {isStub ? (
         <p className="mt-3 text-muted-foreground">{labels.awaitingReview}</p>

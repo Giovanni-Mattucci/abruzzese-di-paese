@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
-import { RADIO_ABRUZZO_URL, REPO_URL, SOURCE_INDEX_URL } from '../config';
-import { useDocumentTitle } from '../hooks/use-document-title';
+import { RADIO_ABRUZZO_URL, REPO_URL, SOURCE_INDEX_URL } from '../../config';
+import { useDocumentTitle } from '../../hooks/use-document-title';
 
 export function AboutPage() {
   const { t } = useTranslation();

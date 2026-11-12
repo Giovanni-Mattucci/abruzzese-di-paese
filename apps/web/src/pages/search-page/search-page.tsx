@@ -3,11 +3,11 @@ import { DIRECTIONS, type Direction } from '@adp/search';
 import { useMemo, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { useLocation, useNavigationType, useSearchParams } from 'react-router';
-import { useDefinitionLabels } from '../app/labels';
-import { RouterLink } from '../app/router-link';
-import { helpTranslateUrl, RESULTS_LIMIT } from '../config';
-import { useDictionary } from '../data/context';
-import { useDocumentTitle } from '../hooks/use-document-title';
+import { useDefinitionLabels } from '../../app/labels';
+import { RouterLink } from '../../app/router-link';
+import { helpTranslateUrl, RESULTS_LIMIT } from '../../config';
+import { useDictionary } from '../../data/context';
+import { useDocumentTitle } from '../../hooks/use-document-title';
 
 function isDirection(value: string | null): value is Direction {
   return value !== null && (DIRECTIONS as readonly string[]).includes(value);
