@@ -1,4 +1,4 @@
-// Server entry used by scripts/prerender.ts. Renders one route to static HTML.
+// Server entry used by build/prerender.ts. Renders one route to static HTML.
 import type { DictionaryEntry } from '@adp/data';
 import { StrictMode } from 'react';
 import { renderToString } from 'react-dom/server';
