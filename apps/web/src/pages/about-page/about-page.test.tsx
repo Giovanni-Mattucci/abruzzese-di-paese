@@ -21,4 +21,18 @@ describe('AboutPage', () => {
       'https://www.abruzzo.fm/',
     );
   });
+
+  it('says there is no tracking when the analytics token is unset', async () => {
+    vi.stubEnv('VITE_CF_ANALYTICS_TOKEN', '');
+    renderApp('/about', { eagerPages: { AboutPage } });
+    expect(await screen.findByText(/uses no analytics or tracking/)).toBeInTheDocument();
+    vi.unstubAllEnvs();
+  });
+
+  it('describes Cloudflare Web Analytics when the token is set', async () => {
+    vi.stubEnv('VITE_CF_ANALYTICS_TOKEN', '33b146eedfd74187a52700c51ad086f9');
+    renderApp('/about', { eagerPages: { AboutPage } });
+    expect(await screen.findByText(/Cloudflare Web Analytics/)).toBeInTheDocument();
+    vi.unstubAllEnvs();
+  });
 });

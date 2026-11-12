@@ -22,5 +22,6 @@ old one as superseded.
 | [0013](0013-prerendering-and-machine-readers.md) | Prerender every page; serve structured data for machines     | Accepted |
 | [0014](0014-testing-strategy.md)                 | Testing strategy                                             | Accepted |
 | [0015](0015-component-styles-in-classes.md)      | Component styles in Tailwind classes, themes in tokens       | Accepted |
+| [0016](0016-cookieless-analytics.md)             | Cookieless analytics with Cloudflare Web Analytics           | Accepted |
 
 To add a record, copy [template.md](template.md) to the next number and open a pull request.
