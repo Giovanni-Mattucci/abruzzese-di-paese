@@ -20,8 +20,8 @@ export function createAppRouter(data: RouteData = {}) {
   return createBrowserRouter(createRoutes(data), { basename: appBasename() });
 }
 
-/** Memory router for tests and server rendering; links carry `basename` like the browser's. */
-export function createTestRouter(initialPath: string, data: RouteData = {}, basename = '/') {
+/** In-memory router for prerendering and tests; links carry `basename` like the browser's. */
+export function createMemoryAppRouter(initialPath: string, data: RouteData = {}, basename = '/') {
   return createMemoryRouter(createRoutes(data), {
     basename,
     initialEntries: [withBasename(basename, initialPath)],

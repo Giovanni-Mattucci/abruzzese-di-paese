@@ -9,5 +9,5 @@ export type {
   TranslateStatus,
 } from './types';
 export { fold, normaliseApostrophes, slugify, uniqueSlug } from './text';
-export { buildDictionary, toDictionaryEntry } from './build';
+export { exportEntries, toDictionaryEntry } from './export';
 export { type SourceFragment, withTextFragment } from './source-fragment';

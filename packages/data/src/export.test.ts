@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { buildDictionary } from './build';
+import { exportEntries } from './export';
 import type { Entry } from './types';
 
 const entry = (id: string, letter: string): Entry => ({
@@ -18,9 +18,9 @@ const entry = (id: string, letter: string): Entry => ({
   schemaVersion: 1,
 });
 
-describe('buildDictionary', () => {
+describe('exportEntries', () => {
   it('sorts by id and strips provenance fields', () => {
-    const out = buildDictionary([entry('b-x', 'b'), entry('a-x', 'a')]);
+    const out = exportEntries([entry('b-x', 'b'), entry('a-x', 'a')]);
     expect(out.map((e) => e.id)).toEqual(['a-x', 'b-x']);
     expect(out[0]).not.toHaveProperty('schemaVersion');
     expect(out[0]).not.toHaveProperty('contributors');
@@ -28,9 +28,9 @@ describe('buildDictionary', () => {
   });
 });
 
-describe('buildDictionary with source fragments', () => {
+describe('exportEntries with source fragments', () => {
   it('appends the entry text fragment to its source URL, and leaves others unchanged', () => {
-    const out = buildDictionary([entry('a-x', 'a'), entry('b-x', 'b')], {
+    const out = exportEntries([entry('a-x', 'a'), entry('b-x', 'b')], {
       'a-x': { start: 'ardeca:' },
     });
     expect(out[0]?.source.url).toBe('https://example.test#:~:text=ardeca%3A');

@@ -4,7 +4,7 @@ import { StrictMode } from 'react';
 import { renderToString } from 'react-dom/server';
 import { I18nextProvider } from 'react-i18next';
 import { RouterProvider } from 'react-router';
-import { appBasename, createTestRouter } from './app/router';
+import { appBasename, createMemoryAppRouter } from './app/router';
 import { buildDictionary, type Dictionary } from './data/dictionary';
 import { fulfilled } from './data/thenable';
 import { createI18n } from './i18n';
@@ -26,7 +26,7 @@ export function prepare(entries: DictionaryEntry[], grammarHtml: string): Server
  */
 export function renderPath(path: string, data: ServerData, basename = appBasename()): string {
   const i18n = createI18n('en');
-  const router = createTestRouter(
+  const router = createMemoryAppRouter(
     path,
     {
       dictionary: data.dictionary,

@@ -11,7 +11,7 @@ export function toDictionaryEntry(entry: Entry, fragment?: SourceFragment): Dict
 }
 
 /** `fragments` maps entry ids to the text fragment of their source line (source-fragments.json). */
-export function buildDictionary(
+export function exportEntries(
   entries: Entry[],
   fragments: Readonly<Record<string, SourceFragment>> = {},
 ): DictionaryEntry[] {

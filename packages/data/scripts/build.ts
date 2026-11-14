@@ -2,7 +2,7 @@ import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
-  buildDictionary,
+  exportEntries,
   loadEntryFiles,
   renderGrammar,
   validateEntryFiles,
@@ -29,7 +29,7 @@ const { fragments } = JSON.parse(
   readFileSync(new URL('../source-fragments.json', import.meta.url), 'utf8'),
 ) as { fragments: Record<string, SourceFragment> };
 const json = JSON.stringify(
-  buildDictionary(
+  exportEntries(
     files.map((f) => f.entry),
     fragments,
   ),
