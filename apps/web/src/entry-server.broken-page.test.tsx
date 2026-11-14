@@ -8,7 +8,11 @@ vi.mock('./pages/grammar-page/grammar-page', () => {
 
 it('fails the prerender when a code-split page cannot be loaded, instead of writing an empty page', async () => {
   const data = prepare(sampleEntries, '<p>grammar</p>');
-  await expect(renderPath('/grammar', data, '/')).rejects.toThrow();
+  // Vitest wraps an error thrown by a module mock; the page's own error is its cause.
+  await expect(renderPath('/grammar', data, '/')).rejects.toHaveProperty(
+    'cause.message',
+    'grammar page failed to load',
+  );
   // Other pages are unaffected.
   expect(await renderPath('/about', data, '/')).toContain('<h1');
 });

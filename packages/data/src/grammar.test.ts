@@ -36,4 +36,10 @@ describe('renderGrammar', () => {
   ])('refuses %s', (source) => {
     expect(() => renderGrammar(source)).toThrow('must start with');
   });
+
+  it('names every refused link, in an error of its own', () => {
+    const run = () => renderGrammar('[a](/uno) e [b](javascript:x)');
+    expect(run).toThrow('found: /uno, javascript:x');
+    expect(run).not.toThrow('markedjs');
+  });
 });
