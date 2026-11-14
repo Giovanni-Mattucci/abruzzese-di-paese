@@ -1,5 +1,6 @@
 /** Node-only surface (file system, Ajv) for scripts and tests. Never import from browser code. */
 export * from './index';
+export { renderGrammar } from './grammar';
 export {
   formatEntry,
   loadEntryFiles,

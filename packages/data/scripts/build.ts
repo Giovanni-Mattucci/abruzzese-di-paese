@@ -1,9 +1,9 @@
-import { marked } from 'marked';
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import {
   buildDictionary,
   loadEntryFiles,
+  renderGrammar,
   validateEntryFiles,
   type SourceFragment,
 } from '../src/node';
@@ -42,8 +42,6 @@ for (const target of targets) {
 }
 
 // Grammar page: Markdown -> HTML fragment served as a static asset.
-const markdown = readFileSync(new URL('../grammar/regole.md', import.meta.url), 'utf8');
-const body = markdown.replace(/^# .*\n+(Source: .*\n+)?/, '');
-const html = marked.parse(body, { async: false });
+const html = renderGrammar(readFileSync(new URL('../grammar/regole.md', import.meta.url), 'utf8'));
 writeFileSync(new URL('grammar.html', webPublic), html);
 console.log(`data:build wrote data/grammar.html (${(html.length / 1024).toFixed(1)} KB)`);
