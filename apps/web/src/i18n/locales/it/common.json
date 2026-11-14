@@ -93,6 +93,7 @@
     "loading": "Caricamento del dizionario…",
     "error_title": "Qualcosa è andato storto",
     "error_body": "Non è stato possibile caricare il dizionario. Riprova.",
+    "try_again": "Riprova",
     "not_found_title": "Pagina non trovata",
     "go_to_search": "Vai alla ricerca"
   }

@@ -93,6 +93,7 @@
     "loading": "Loading the dictionary…",
     "error_title": "Something went wrong",
     "error_body": "The dictionary could not be loaded. Please try again.",
+    "try_again": "Try again",
     "not_found_title": "Page not found",
     "go_to_search": "Go to search"
   }

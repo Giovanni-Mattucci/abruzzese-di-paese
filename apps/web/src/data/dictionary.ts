@@ -1,5 +1,6 @@
 import type { DictionaryEntry } from '@adp/data';
 import { createIndex, type DictionaryIndex } from '@adp/search';
+import { cachedLoad } from './cached-load';
 
 export interface Dictionary {
   entries: DictionaryEntry[];
@@ -27,20 +28,19 @@ export function buildDictionary(entries: DictionaryEntry[]): Dictionary {
   return { entries, byId, byLetter, letters, index: createIndex(entries) };
 }
 
-let cached: Promise<Dictionary> | undefined;
+const dictionary = cachedLoad(async (fetchImpl: typeof fetch = fetch) => {
+  const res = await fetchImpl(`${import.meta.env.BASE_URL}data/dictionary.json`);
+  if (!res.ok) {
+    throw new Error(`dictionary.json: HTTP ${res.status}`);
+  }
+  return buildDictionary((await res.json()) as DictionaryEntry[]);
+});
 
 /** Fetches dictionary.json once per page load and builds the lookup tables and search index. */
-export function loadDictionary(fetchImpl: typeof fetch = fetch): Promise<Dictionary> {
-  cached ??= fetchImpl(`${import.meta.env.BASE_URL}data/dictionary.json`).then(async (res) => {
-    if (!res.ok) {
-      throw new Error(`dictionary.json: HTTP ${res.status}`);
-    }
-    return buildDictionary((await res.json()) as DictionaryEntry[]);
-  });
-  return cached;
-}
+export const loadDictionary = dictionary.load;
+
+/** After a failed fetch has been shown, let the next render try again. */
+export const forgetFailedDictionary = dictionary.forgetFailure;
 
 /** Test hook: forget the cached promise. */
-export function resetDictionaryCache(): void {
-  cached = undefined;
-}
+export const resetDictionaryCache = dictionary.reset;
