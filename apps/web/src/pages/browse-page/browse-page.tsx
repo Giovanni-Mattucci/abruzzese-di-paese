@@ -1,8 +1,8 @@
-import { DefinitionCard, LetterNav } from '@mannaggia/ui';
+import { LetterNav } from '@mannaggia/ui';
 import { useTranslation } from 'react-i18next';
 import { useParams, useSearchParams } from 'react-router';
-import { useDefinitionLabels } from '../../app/labels';
 import { RouterLink } from '../../app/router-link';
+import { EntryCard } from '../../components/entry-card/entry-card';
 import { paginate } from '../../components/pagination/paginate';
 import { Pagination } from '../../components/pagination/pagination';
 import { BROWSE_PAGE_SIZE } from '../../config';
@@ -11,7 +11,6 @@ import { useDocumentTitle } from '../../seo/use-document-title';
 
 export function BrowsePage() {
   const { t } = useTranslation();
-  const labels = useDefinitionLabels();
   const dictionary = useDictionary();
   // Letters are stored lower-case; /browse/S shows the same page as /browse/s.
   const letter = useParams().letter?.toLowerCase();
@@ -48,21 +47,7 @@ export function BrowsePage() {
           <ul className="mt-4 space-y-3">
             {items.map((entry) => (
               <li key={entry.id}>
-                <DefinitionCard
-                  headword={entry.headword}
-                  article={entry.article}
-                  variants={entry.variants}
-                  pronunciation={entry.pronunciation}
-                  locality={entry.locality}
-                  senses={entry.senses}
-                  grammarNotes={entry.grammarNotes}
-                  tags={entry.tags}
-                  labels={labels}
-                  href={`/word/${entry.id}`}
-                  Link={RouterLink}
-                  headingLevel={2}
-                  showEnglish
-                />
+                <EntryCard entry={entry} />
               </li>
             ))}
           </ul>

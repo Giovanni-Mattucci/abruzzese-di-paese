@@ -1,14 +1,12 @@
-import { DefinitionCard } from '@mannaggia/ui';
 import { useTranslation } from 'react-i18next';
 import { Link, useParams } from 'react-router';
-import { useDefinitionLabels } from '../../app/labels';
+import { EntryCard } from '../../components/entry-card/entry-card';
 import { entryEditUrl, reportEntryUrl } from '../../config';
 import { useDictionary } from '../../data/context';
 import { useDocumentTitle } from '../../seo/use-document-title';
 
 export function EntryPage() {
   const { t } = useTranslation();
-  const labels = useDefinitionLabels();
   const dictionary = useDictionary();
   const { id = '' } = useParams();
   const entry = dictionary.byId.get(id);
@@ -34,21 +32,7 @@ export function EntryPage() {
           {t('browse.letter_title', { letter: letter.toUpperCase() })}
         </Link>
       </nav>
-      <DefinitionCard
-        variant="full"
-        headingLevel={1}
-        headword={entry.headword}
-        article={entry.article}
-        variants={entry.variants}
-        pronunciation={entry.pronunciation}
-        locality={entry.locality}
-        senses={entry.senses}
-        examples={entry.examples}
-        grammarNotes={entry.grammarNotes}
-        tags={entry.tags}
-        labels={labels}
-        showEnglish
-      >
+      <EntryCard entry={entry} variant="full">
         <p>
           {t('entry.source')}:{' '}
           <a className="text-primary underline" href={entry.source.url}>
@@ -63,7 +47,7 @@ export function EntryPage() {
             {t('entry.report_problem')}
           </a>
         </p>
-      </DefinitionCard>
+      </EntryCard>
     </>
   );
 }

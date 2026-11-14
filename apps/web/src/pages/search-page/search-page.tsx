@@ -1,10 +1,10 @@
-import { DefinitionCard, DirectionToggle, LetterNav, SearchInput } from '@mannaggia/ui';
+import { DirectionToggle, LetterNav, SearchInput } from '@mannaggia/ui';
 import { DIRECTIONS, type Direction } from '@adp/search';
 import { useMemo, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { useLocation, useNavigationType, useSearchParams } from 'react-router';
-import { useDefinitionLabels } from '../../app/labels';
 import { RouterLink } from '../../app/router-link';
+import { EntryCard } from '../../components/entry-card/entry-card';
 import { paginate } from '../../components/pagination/paginate';
 import { Pagination } from '../../components/pagination/pagination';
 import { helpTranslateUrl, SEARCH_PAGE_SIZE } from '../../config';
@@ -17,7 +17,6 @@ function isDirection(value: string | null): value is Direction {
 
 export function SearchPage() {
   const { t } = useTranslation();
-  const labels = useDefinitionLabels();
   const dictionary = useDictionary();
   const [params, setParams] = useSearchParams();
   const location = useLocation();
@@ -116,21 +115,7 @@ export function SearchPage() {
                 if (!entry) return null;
                 return (
                   <li key={entry.id}>
-                    <DefinitionCard
-                      headword={entry.headword}
-                      article={entry.article}
-                      variants={entry.variants}
-                      pronunciation={entry.pronunciation}
-                      locality={entry.locality}
-                      senses={entry.senses}
-                      grammarNotes={entry.grammarNotes}
-                      tags={entry.tags}
-                      labels={labels}
-                      href={`/word/${entry.id}`}
-                      Link={RouterLink}
-                      headingLevel={2}
-                      showEnglish
-                    />
+                    <EntryCard entry={entry} />
                   </li>
                 );
               })}
