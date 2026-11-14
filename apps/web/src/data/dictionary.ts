@@ -32,7 +32,9 @@ let cached: Promise<Dictionary> | undefined;
 /** Fetches dictionary.json once per page load and builds the lookup tables and search index. */
 export function loadDictionary(fetchImpl: typeof fetch = fetch): Promise<Dictionary> {
   cached ??= fetchImpl(`${import.meta.env.BASE_URL}data/dictionary.json`).then(async (res) => {
-    if (!res.ok) throw new Error(`dictionary.json: HTTP ${res.status}`);
+    if (!res.ok) {
+      throw new Error(`dictionary.json: HTTP ${res.status}`);
+    }
     return buildDictionary((await res.json()) as DictionaryEntry[]);
   });
   return cached;

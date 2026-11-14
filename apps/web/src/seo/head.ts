@@ -1,4 +1,6 @@
 import type { DictionaryEntry } from '@adp/data';
+// Prerendered pages are English, so their titles come from the same strings the app shows.
+import en from '../i18n/locales/en/common.json' with { type: 'json' };
 
 export interface PageHead {
   title: string;
@@ -10,7 +12,12 @@ export interface PageHead {
   noindex?: boolean;
 }
 
-export const SITE_NAME = 'Abruzzese di paese';
+export const SITE_NAME = en.app.name;
+
+/** "<title> · <site name>", or the site name alone. Shared by prerendered heads and the browser. */
+export function formatTitle(title?: string, siteName: string = SITE_NAME): string {
+  return title ? `${title} · ${siteName}` : siteName;
+}
 const SITE_DESCRIPTION =
   'A searchable, open-source dictionary of the Abruzzese dialect with Italian and English meanings.';
 
@@ -67,7 +74,7 @@ export function entryHead(entry: DictionaryEntry, siteUrl: string): PageHead {
         : `${entry.headword}: ${italian}.`,
   );
   return {
-    title: `${entry.headword} · ${SITE_NAME}`,
+    title: formatTitle(entry.headword),
     description,
     path: `/word/${entry.id}`,
     ...(isStub ? { noindex: true } : {}),
@@ -88,7 +95,7 @@ export function entryHead(entry: DictionaryEntry, siteUrl: string): PageHead {
 export function browseHead(letter: string, count: number): PageHead {
   const upper = letter.toUpperCase();
   return {
-    title: `Words starting with ${upper} · ${SITE_NAME}`,
+    title: formatTitle(en.browse.letter_title.replace('{{letter}}', upper)),
     description: truncate(
       `${count} Abruzzese dialect words starting with ${upper}, with Italian and English meanings.`,
     ),
@@ -100,26 +107,26 @@ export function staticHead(path: '/browse' | '/grammar' | '/about'): PageHead {
   switch (path) {
     case '/browse':
       return {
-        title: `Browse by letter · ${SITE_NAME}`,
+        title: formatTitle(en.browse.title),
         description: 'Browse the Abruzzese dialect dictionary letter by letter.',
         path,
       };
     case '/grammar':
       return {
-        title: `The rules of the Abruzzese dialect · ${SITE_NAME}`,
+        title: formatTitle(en.grammar.title),
         description:
           'Phonology, metaphony and morphology of the Abruzzese dialect, from the Treppecore archive.',
         path,
       };
     case '/about':
-      return { title: `About · ${SITE_NAME}`, description: SITE_DESCRIPTION, path };
+      return { title: formatTitle(en.about.title), description: SITE_DESCRIPTION, path };
   }
 }
 
 /** Served by GitHub Pages for unknown paths; the client router renders the not-found page. */
 export function notFoundHead(): PageHead {
   return {
-    title: `Page not found · ${SITE_NAME}`,
+    title: formatTitle(en.common.not_found_title),
     description: SITE_DESCRIPTION,
     path: '/404',
     noindex: true,

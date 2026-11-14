@@ -14,7 +14,7 @@ their visitors' data to this project's account.
 
 Use Cloudflare Web Analytics: no cookies, no individual tracking, free, and one script tag. A Vite
 plugin in `apps/web/vite.config.ts` adds the beacon only when `VITE_CF_ANALYTICS_TOKEN` is set.
-The deploy workflow reads it from the `CF_ANALYTICS_TOKEN` repository variable, which forks do not
+The CI workflow's build job reads it from the `CF_ANALYTICS_TOKEN` repository variable, which forks do not
 inherit. The token is public (it appears in the page), so it is a variable, not a secret; keeping
 it out of the code is about forks, not secrecy.
 

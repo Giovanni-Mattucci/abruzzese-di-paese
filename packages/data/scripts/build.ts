@@ -9,6 +9,9 @@ import {
 } from '../src/node';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
+// dictionary.json has two readers. The web app fetches it to build its lookup tables and search
+// index, and it is the published dataset for machine readers: llms.txt, the JSON-LD DataDownload
+// and the rel="alternate" link all point AI agents and crawlers at /data/dictionary.json.
 // Served under /data/ so static file names never collide with app routes such as /grammar.
 const webPublic = new URL('../../../apps/web/public/data/', import.meta.url);
 const files = loadEntryFiles(fileURLToPath(new URL('../entries', import.meta.url)));

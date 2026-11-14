@@ -16,9 +16,16 @@ with the written permission of its editors. See [ATTRIBUTION.md](./ATTRIBUTION.m
 | `packages/data`   | `@adp/data`     | Dictionary entries, JSON Schema, validation and build scripts                |
 | `packages/search` | `@adp/search`   | In-browser search index (MiniSearch) and direction logic                     |
 
+The two scopes are deliberate: `@mannaggia` is the design system, kept separate so it can be
+replaced or reused on its own, and `@adp` (Abruzzese di paese) is the short scope for the
+project's own packages.
+
 ## Data Origin
 
-The 3,737 entries were imported once, on 2026-11-07, from the Treppecore archive by a web scraper, whose tip is Every entry keeps the exact source line, its hash, URL and date under `source`. Entries tagged `needs-review` could not be parsed cleanly; `possible-duplicate` marks entries that share a headword.
+The 3,646 entries were imported once, on 2026-11-07, from the Treppecore archive by a one-time web
+scraper; [ATTRIBUTION.md](./ATTRIBUTION.md) holds the import record. Every entry keeps the exact
+source line, its hash, URL and date under `source`. Entries tagged `needs-review` could not be
+parsed cleanly; `possible-duplicate` marks entries that share a headword.
 
 ## Getting started
 
@@ -60,12 +67,16 @@ HTML (home, browse pages, all entry pages, grammar, about) with a title, descrip
 link, Open Graph tags and Schema.org JSON-LD (`WebSite` and `DefinedTermSet` on the home page,
 `DefinedTerm` on every entry). It also writes `sitemap.xml`, `robots.txt` and `llms.txt`.
 The browser hydrates the prerendered English markup, or renders fresh when the visitor has
-chosen Italian. AI agents and crawlers that do not run JavaScript get full content, and the
-dataset is advertised at `/data/dictionary.json`. The main bundle is held under 150 KB gzip by
+chosen Italian. AI agents and crawlers that do not run JavaScript get full content.
+
+`/data/dictionary.json` has two readers: the app fetches it to build its search index, and it is
+the published dataset for AI agents and crawlers, which `llms.txt`, the JSON-LD `DataDownload` and
+a `rel="alternate"` link all point to. `robots.txt` therefore allows everything. The main bundle is held under 150 KB gzip by
 `build/check-bundle-size.ts`.
 
-Set `VITE_SITE_URL` and `VITE_REPO_URL` for a deployment; the workflows derive them from the
-repository.
+Set `VITE_SITE_URL` and `VITE_REPO_URL` for a deployment; the CI workflow derives them from
+the repository. It builds the site once, runs the Playwright tests against that build, and
+deploys the same artefact from `main`.
 
 Submit the sitemap to search consoles directly, or deploy to a user site or
 custom domain (set `VITE_BASE_PATH=/`) for both files to take effect. Entries awaiting review are

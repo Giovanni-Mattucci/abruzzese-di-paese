@@ -40,9 +40,9 @@ repository. Round N is `<mode>-round-N.md`, and the author's answer is `<mode>-r
 ## Checks
 
 These are the checks for this repository. Run the ones the change touches; the reviewer runs the
-same ones. CI (`.github/workflows/ci.yml`) runs lint, typecheck, unit tests, the data build and
-the web build on every pull request; the E2E workflow runs Playwright when `apps/**` or
-`packages/**` change. Everything needs Node 24 and pnpm (`corepack enable`).
+same ones. CI (`.github/workflows/ci.yml`) runs lint, typecheck and unit tests, builds the site
+once and runs Playwright against that build on every pull request; on `main` it then deploys the
+same build. Everything needs Node 24 and pnpm (`corepack enable`).
 
 | Check         | Command                                                               | When                                                  |
 | ------------- | --------------------------------------------------------------------- | ----------------------------------------------------- |

@@ -1,20 +1,29 @@
 name: CI
 
+# One pipeline: check, build once, run the browser tests against that build, then deploy the same
+# artefact. Nothing is rebuilt between the steps, so what is tested is what ships.
 on:
   pull_request:
   push:
     branches: [main]
+  # A manual run on main re-tests and redeploys the current main.
+  workflow_dispatch:
 
 concurrency:
   group: ci-${{ github.ref }}
-  cancel-in-progress: true
+  # A newer push replaces a pull request's run, but a run on main is never cancelled mid-deploy.
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 permissions:
   contents: read
 
+env:
+  # Project site: https://<owner>.github.io/<repo>/ . Set to "/" for a user site or custom domain.
+  VITE_BASE_PATH: /${{ github.event.repository.name }}/
+
 jobs:
-  ci:
-    name: Lint, typecheck, test, build
+  check:
+    name: Lint, typecheck, unit tests
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -28,9 +37,103 @@ jobs:
       - run: pnpm typecheck
       # Unit tests with the per-package coverage thresholds (ADR 0014).
       - run: pnpm test:coverage
+
+  build:
+    name: Build the site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
       - run: pnpm data:build
       - run: pnpm --filter @adp/web build
         env:
-          VITE_BASE_PATH: /${{ github.event.repository.name }}/
           VITE_SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
           VITE_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          VITE_FLAG_DESIGN_V2: 'false'
+          # Cloudflare Web Analytics (ADR 0016). A repository variable, so forks build without it.
+          # Unset or empty means no beacon. The E2E suite stubs every request to another host.
+          VITE_CF_ANALYTICS_TOKEN: ${{ vars.CF_ANALYTICS_TOKEN }}
+      # The Pages artefact ("github-pages") is both what E2E tests and what deploy publishes.
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: apps/web/dist
+
+  e2e:
+    name: Playwright
+    needs: build
+    # Pinned: Playwright's WebKit build needs Ubuntu 24.04 system libraries (libicudata.so.74),
+    # which ubuntu-latest (Ubuntu 26) does not ship. Unpin after a Playwright upgrade supports it.
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:
+      # WebKit runs on main only; install exactly the browsers this run uses.
+      E2E_WEBKIT: ${{ github.ref == 'refs/heads/main' && '1' || '' }}
+      PLAYWRIGHT_BROWSERS: ${{ github.ref == 'refs/heads/main' && 'chromium webkit' || 'chromium' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      # ImageOS (for example "ubuntu24") is set by the runner image, not the workflow, so it is read
+      # in a step. Keying on it stops browsers cached on one Ubuntu release loading on another.
+      - name: Read runner image
+        id: image
+        run: echo "os=$ImageOS" >> "$GITHUB_OUTPUT"
+      - name: Cache Playwright browsers
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ steps.image.outputs.os }}-${{ env.PLAYWRIGHT_BROWSERS }}-${{ hashFiles('pnpm-lock.yaml') }}
+      - run: pnpm --filter @adp/web exec playwright install --with-deps ${{ env.PLAYWRIGHT_BROWSERS }}
+      # The site built by the build job, unpacked where `vite preview` serves it from.
+      - uses: actions/download-artifact@v8
+        with:
+          name: github-pages
+          path: ${{ runner.temp }}/site
+      - run: mkdir -p apps/web/dist && tar -xf "$RUNNER_TEMP/site/artifact.tar" -C apps/web/dist
+      # Visual snapshots run on Linux only. Missing baselines are written and uploaded below;
+      # commit them once (see CONTRIBUTING.md), after which every run compares against them.
+      - run: pnpm --filter @adp/web e2e --update-snapshots=missing
+        env:
+          E2E_VISUAL: '1'
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: visual-baselines
+          path: apps/web/e2e/visual.spec.ts-snapshots
+          if-no-files-found: ignore
+          retention-days: 14
+      - uses: actions/upload-artifact@v7
+        if: failure()
+        with:
+          name: playwright-report
+          path: apps/web/playwright-report
+          retention-days: 7
+
+  deploy:
+    name: Deploy to GitHub Pages
+    # Only main deploys, and only after the checks and the browser tests have passed on this build.
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: [check, build, e2e]
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - id: deployment
+        uses: actions/deploy-pages@v5

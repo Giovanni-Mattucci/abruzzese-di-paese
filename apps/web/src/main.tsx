@@ -8,9 +8,10 @@ import { loadGrammar } from './data/grammar';
 import { fulfilled } from './data/thenable';
 import { isFlagEnabled } from './flags/flags';
 import { createI18n, DEFAULT_LOCALE, detectLocale } from './i18n';
+import { safeLocalStorage } from './storage';
 import './index.css';
 
-const locale = detectLocale(window.localStorage, navigator.language);
+const locale = detectLocale(safeLocalStorage(), navigator.language);
 createI18n(locale);
 document.documentElement.lang = locale;
 if (isFlagEnabled('DESIGN_V2')) document.documentElement.setAttribute('data-theme', 'v2');

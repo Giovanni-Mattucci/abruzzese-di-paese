@@ -9,6 +9,8 @@
  *
  * Flags give a controlled rollout and a one-line rollback (change the env, redeploy).
  */
+import { safeLocalStorage } from '../storage';
+
 export const FLAG_NAMES = ['DESIGN_V2'] as const;
 export type FlagName = (typeof FLAG_NAMES)[number];
 
@@ -29,17 +31,9 @@ function parseSwitch(value: string | null | undefined): boolean | undefined {
   return undefined;
 }
 
-function defaultStorage(): Pick<Storage, 'getItem'> | null {
-  try {
-    return typeof window !== 'undefined' ? window.localStorage : null;
-  } catch {
-    return null;
-  }
-}
-
 export function isFlagEnabled(name: FlagName, sources: FlagSources = {}): boolean {
   const search = sources.search ?? (typeof window !== 'undefined' ? window.location.search : '');
-  const storage = sources.storage === undefined ? defaultStorage() : sources.storage;
+  const storage = sources.storage === undefined ? safeLocalStorage() : sources.storage;
   const env = sources.env ?? (import.meta.env as Record<string, string | undefined>);
 
   const fromQuery = parseSwitch(new URLSearchParams(search).get(`flag_${name}`));

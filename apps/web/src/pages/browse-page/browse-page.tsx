@@ -22,7 +22,7 @@ export function BrowsePage() {
   useDocumentTitle(title);
 
   const pages = entries ? Math.max(1, Math.ceil(entries.length / BROWSE_PAGE_SIZE)) : 1;
-  const page = Math.min(pages, Math.max(1, Number(params.get('page')) || 1));
+  const page = Math.min(pages, Math.max(1, Math.round(Number(params.get('page'))) || 1));
   const slice = entries?.slice((page - 1) * BROWSE_PAGE_SIZE, page * BROWSE_PAGE_SIZE) ?? [];
 
   return (

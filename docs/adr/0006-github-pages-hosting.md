@@ -26,7 +26,9 @@ router handle unknown paths.
 - On a project site (served under `/<repo>/`), crawlers do not read `robots.txt` or `llms.txt`
   from the sub-path; a user site or custom domain is needed for those to take effect.
 - The repository settings must set the Pages source to "GitHub Actions".
-- The deploy workflow runs only after CI succeeds on `main`, and deploys the commit CI tested.
-  End-to-end tests run in parallel and do not gate the deploy; branch protection on `main`
-  (required checks `CI` and `E2E`, pull requests required) is a manual repository setting that
-  keeps red commits out of `main` in the first place.
+- One CI workflow builds the site once, runs the end-to-end tests against that build, and on
+  `main` deploys the same artefact, so the deploy waits for lint, typecheck, unit tests and
+  end-to-end tests (amended 2026-11-13; the tests used to run in a separate workflow that did not
+  gate the deploy). Branch protection on `main` (required checks from the `CI` workflow, pull
+  requests required) is a manual repository setting that keeps red commits out of `main` in the
+  first place.

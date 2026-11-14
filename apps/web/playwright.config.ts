@@ -1,6 +1,10 @@
 import { defineConfig, devices } from '@playwright/test';
 
 const PORT = 4173;
+// The same base path the site was built with ("/" locally, "/<repo>/" in CI), so the suite can run
+// against the artefact that is deployed. Specs navigate with relative paths such as "./browse/s".
+const BASE_PATH = process.env['VITE_BASE_PATH'] ?? '/';
+const BASE_URL = `http://localhost:${PORT}${BASE_PATH}`;
 
 export default defineConfig({
   testDir: './e2e',
@@ -9,7 +13,7 @@ export default defineConfig({
   retries: process.env['CI'] ? 2 : 0,
   reporter: process.env['CI'] ? [['html', { open: 'never' }], ['github']] : 'list',
   use: {
-    baseURL: `http://localhost:${PORT}`,
+    baseURL: BASE_URL,
     trace: 'on-first-retry',
   },
   projects: [
@@ -20,7 +24,7 @@ export default defineConfig({
   ],
   webServer: {
     command: `pnpm exec vite preview --port ${PORT} --strictPort`,
-    url: `http://localhost:${PORT}`,
+    url: BASE_URL,
     reuseExistingServer: !process.env['CI'],
     timeout: 60_000,
   },

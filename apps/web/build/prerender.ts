@@ -115,7 +115,7 @@ writeFileSync(
 
 writeFileSync(
   join(dist, 'robots.txt'),
-  `User-agent: *\nAllow: /\n# Raw data and HTML fragments are not pages; fetch them directly instead.\nDisallow: ${basePath}data/\n\nSitemap: ${siteUrl}/sitemap.xml\n`,
+  `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`,
 );
 
 const withEnglish = entries.filter((e) => e.senses.some((s) => s.en)).length;
@@ -129,7 +129,7 @@ Every entry page is static HTML with a Schema.org DefinedTerm in JSON-LD. Englis
 
 ## Data
 
-- [Full dictionary as JSON](${siteUrl}/data/dictionary.json): array of entries with id, headword, variants, article, senses (it, en, enTranslateStatus), examples, grammarNotes, tags, source (letter, url)
+- [Full dictionary as JSON](${siteUrl}/data/dictionary.json): the whole dataset in one file, published for AI agents, crawlers and reuse (prefer it to fetching entry pages one by one). Array of entries with id, headword, variants, article, senses (it, en, enTranslateStatus), examples, grammarNotes, tags, source (letter, url)
 - [Grammar of the dialect (HTML fragment)](${siteUrl}/data/grammar.html)
 - [Sitemap](${siteUrl}/sitemap.xml)
 

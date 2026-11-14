@@ -12,7 +12,7 @@ so flags must work in a static build.
 
 Use build-time `VITE_FLAG_*` variables, with runtime overrides through the query string
 (`?flag_NAME=1`) and `localStorage` (`flag:NAME`) for testing. Rollback is a one-line change to
-the deploy workflow and a redeploy.
+the CI workflow's build job and a redeploy.
 
 The Italian interface and English search were built behind `VITE_FLAG_LOCALE_IT` and
 `VITE_FLAG_ENGLISH_PIVOT`, then shipped and the flags removed. Reason, as decided by the

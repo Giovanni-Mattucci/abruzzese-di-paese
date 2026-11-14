@@ -1,6 +1,7 @@
 import { Button } from '@mannaggia/ui';
 import { useTranslation } from 'react-i18next';
 import { applyLocale, isLocale, SUPPORTED_LOCALES, type Locale } from '../i18n';
+import { safeLocalStorage } from '../storage';
 
 /** Two-button language switch shown in the header on every page. */
 export function LocaleToggle() {
@@ -24,7 +25,7 @@ export function LocaleToggle() {
             aria-pressed={active}
             lang={locale}
             onClick={() => {
-              if (!active) applyLocale(i18n, locale, window.localStorage);
+              if (!active) applyLocale(i18n, locale, safeLocalStorage());
             }}
           >
             {t(`locale.${locale}`)}

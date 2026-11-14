@@ -1,4 +1,4 @@
-import { expect, test } from '@playwright/test';
+import { expect, test } from './test';
 
 // Visual snapshots are platform-dependent, so they run only when E2E_VISUAL=1, which the E2E
 // workflow sets on Linux. Baseline file names carry a platform suffix (-linux, -win32, -darwin).
@@ -6,9 +6,9 @@ import { expect, test } from '@playwright/test';
 test.skip(!process.env['E2E_VISUAL'], 'set E2E_VISUAL=1 to run visual snapshots');
 
 for (const [name, path] of [
-  ['search', '/?q=ortica&dir=it-abr'],
-  ['entry', '/word/a-abbija'],
-  ['browse', '/browse/s'],
+  ['search', './?q=ortica&dir=it-abr'],
+  ['entry', './word/a-abbija'],
+  ['browse', './browse/s'],
 ] as const) {
   test(`${name} page looks as expected`, async ({ page }) => {
     await page.goto(path);

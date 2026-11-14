@@ -73,7 +73,7 @@ Visitors switch language with the toggle in the header; the choice is remembered
 
 ## Visual snapshots
 
-The E2E workflow runs three full-page screenshot comparisons on Linux. Baselines live in
+The Playwright job of the CI workflow runs three full-page screenshot comparisons on Linux. Baselines live in
 `apps/web/e2e/visual.spec.ts-snapshots/` and are committed. When a baseline is missing, the
 workflow writes it and uploads it as the `visual-baselines` artifact instead of failing:
 download that artifact from the run and commit the `-linux` images. After an intended visual
