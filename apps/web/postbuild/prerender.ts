@@ -90,7 +90,7 @@ writeFileSync(join(dist, '404.html'), fillTemplate(notFoundHead(), ''));
 
 const started = Date.now();
 for (const page of pages) {
-  const html = fillTemplate(page, server.renderPath(page.path, data));
+  const html = fillTemplate(page, await server.renderPath(page.path, data));
   const file = outputFile(page.path);
   mkdirSync(dirname(file), { recursive: true });
   writeFileSync(file, html);
