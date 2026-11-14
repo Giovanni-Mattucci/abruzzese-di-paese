@@ -1,5 +1,5 @@
 import type { DictionaryEntry } from '@adp/data';
-import { describe, expect, it } from 'vitest';
+import { afterEach, describe, expect, it, vi } from 'vitest';
 import { buildDictionary, loadDictionary, resetDictionaryCache } from './dictionary';
 
 const entry = (id: string, headword: string, letter: string): DictionaryEntry => ({
@@ -24,24 +24,28 @@ describe('buildDictionary', () => {
 });
 
 describe('loadDictionary', () => {
-  it('fetches once and caches', async () => {
+  afterEach(() => {
     resetDictionaryCache();
-    let calls = 0;
-    const fetchImpl = (async () => {
-      calls += 1;
-      return new Response(JSON.stringify([entry('a-a', 'a', 'a')]), { status: 200 });
-    }) as typeof fetch;
-    const first = await loadDictionary(fetchImpl);
-    const second = await loadDictionary(fetchImpl);
+    vi.unstubAllGlobals();
+  });
+
+  it('fetches once and caches', async () => {
+    const fetchMock = vi.fn(
+      async () => new Response(JSON.stringify([entry('a-a', 'a', 'a')]), { status: 200 }),
+    );
+    vi.stubGlobal('fetch', fetchMock);
+    const first = await loadDictionary();
+    const second = await loadDictionary();
     expect(first).toBe(second);
-    expect(calls).toBe(1);
+    expect(fetchMock).toHaveBeenCalledTimes(1);
     expect(first.entries).toHaveLength(1);
   });
 
   it('rejects on HTTP errors', async () => {
-    resetDictionaryCache();
-    const fetchImpl = (async () => new Response('', { status: 404 })) as typeof fetch;
-    await expect(loadDictionary(fetchImpl)).rejects.toThrow('HTTP 404');
-    resetDictionaryCache();
+    vi.stubGlobal(
+      'fetch',
+      vi.fn(async () => new Response('', { status: 404 })),
+    );
+    await expect(loadDictionary()).rejects.toThrow('HTTP 404');
   });
 });

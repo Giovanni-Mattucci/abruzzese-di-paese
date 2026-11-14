@@ -28,8 +28,8 @@ export function buildDictionary(entries: DictionaryEntry[]): Dictionary {
   return { entries, byId, byLetter, letters, index: createIndex(entries) };
 }
 
-const dictionary = cachedLoad(async (fetchImpl: typeof fetch = fetch) => {
-  const res = await fetchImpl(`${import.meta.env.BASE_URL}data/dictionary.json`);
+const dictionary = cachedLoad(async () => {
+  const res = await fetch(`${import.meta.env.BASE_URL}data/dictionary.json`);
   if (!res.ok) {
     throw new Error(`dictionary.json: HTTP ${res.status}`);
   }

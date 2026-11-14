@@ -39,9 +39,4 @@ describe('cachedLoad', () => {
     expect(load()).toBe(pending);
     expect(calls).toBe(1);
   });
-
-  it('passes arguments to the first load', async () => {
-    const { load } = cachedLoad(async (a: number, b: number) => a + b);
-    expect(await load(2, 3)).toBe(5);
-  });
 });

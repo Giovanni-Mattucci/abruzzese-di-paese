@@ -29,6 +29,7 @@ router handle unknown paths.
 - One CI workflow builds the site once, runs the end-to-end tests against that build, and on
   `main` deploys the same artefact, so the deploy waits for lint, typecheck, unit tests and
   end-to-end tests (amended 2026-11-13; the tests used to run in a separate workflow that did not
-  gate the deploy). Branch protection on `main` (required checks from the `CI` workflow, pull
-  requests required) is a manual repository setting that keeps red commits out of `main` in the
-  first place.
+  gate the deploy). Branch protection on `main` (pull requests required, and the required checks
+  "Lint, typecheck, unit tests", "Build the site" and "Playwright"; not "Deploy to GitHub Pages",
+  which is skipped on pull requests) is a manual repository setting that keeps red commits out
+  of `main` in the first place.

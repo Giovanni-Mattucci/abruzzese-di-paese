@@ -9,11 +9,14 @@ import {
   type SourceFragment,
 } from '../src/node';
 
-// Usage: tsx scripts/build.ts [outDir]. The package does not know who consumes it: the caller
-// names the directory (the repository's data:build script passes the web app's public/data), and
-// the default is this package's own dist/.
+// Usage: tsx scripts/build.ts <outDir>. The package does not know who consumes it: the caller
+// names the directory (the repository's data:build script passes the web app's public/data).
 const root = fileURLToPath(new URL('..', import.meta.url));
-const outDir = resolve(process.argv[2] ?? join(root, 'dist'));
+if (!process.argv[2]) {
+  console.error('Usage: tsx scripts/build.ts <outDir> (from the repository root: pnpm data:build)');
+  process.exit(1);
+}
+const outDir = resolve(process.argv[2]);
 // dictionary.json has two readers. The web app fetches it to build its lookup tables and search
 // index, and it is the published dataset for machine readers: llms.txt, the JSON-LD DataDownload
 // and the rel="alternate" link all point AI agents and crawlers at /data/dictionary.json.

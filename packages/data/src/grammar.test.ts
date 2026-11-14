@@ -18,8 +18,22 @@ describe('renderGrammar', () => {
     expect(html).toContain('Testo');
   });
 
-  it('refuses a link with a script URL', () => {
-    expect(() => renderGrammar('[qui](javascript:alert(1))')).toThrow('links must not use');
+  it('allows only web, mail and same-page links', () => {
     expect(renderGrammar('[qui](https://www.abruzzo.fm/)')).toContain('href="https://');
+    expect(renderGrammar('[su](#metafonie)')).toContain('href="#metafonie"');
+    expect(renderGrammar('<mailto:radio@example.test>')).toContain('href="mailto:');
+  });
+
+  it.each([
+    '[qui](javascript:alert(1))',
+    '[qui](JAVASCRIPT:alert(1))',
+    // The HTML parser decodes the reference and drops the tab, so both are javascript: links.
+    '[qui](&#106;avascript:alert(1))',
+    '[qui](java&#9;script:alert(1))',
+    '[qui](data:text/html,x)',
+    '[qui](/altrove)',
+    '![img](javascript:alert(1))',
+  ])('refuses %s', (source) => {
+    expect(() => renderGrammar(source)).toThrow('must start with');
   });
 });

@@ -1,7 +1,7 @@
 import { cachedLoad } from './cached-load';
 
-const grammar = cachedLoad(async (fetchImpl: typeof fetch = fetch) => {
-  const res = await fetchImpl(`${import.meta.env.BASE_URL}data/grammar.html`);
+const grammar = cachedLoad(async () => {
+  const res = await fetch(`${import.meta.env.BASE_URL}data/grammar.html`);
   if (!res.ok) throw new Error(`grammar.html: HTTP ${res.status}`);
   return res.text();
 });

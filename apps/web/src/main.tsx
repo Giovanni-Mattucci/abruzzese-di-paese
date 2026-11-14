@@ -2,7 +2,7 @@ import { StrictMode } from 'react';
 import { createRoot, hydrateRoot } from 'react-dom/client';
 import { RouterProvider } from 'react-router/dom';
 import type { RouteObject } from 'react-router';
-import { createAppRouter, loadRoutes } from './app/router';
+import { createAppRouter, createRoutes, loadRoutes } from './app/router';
 import type { RouteData } from './app/routes';
 import { loadDictionary } from './data/dictionary';
 import { loadGrammar } from './data/grammar';
@@ -52,14 +52,16 @@ async function start(): Promise<void> {
   const prerendered = container.hasChildNodes();
   const hydrate = prerendered && locale === DEFAULT_LOCALE && window.location.search === '';
   const data = prerendered && !hydrate ? await preload() : {};
-  // The code-split page for this URL is loaded first, so neither path shows a loading state.
-  const routes = await loadRoutes(window.location.pathname, data);
-  if (hydrate) {
+  // The code-split page for this URL is loaded first, so neither path shows a loading state. It
+  // is requested after the data on the non-hydrating path: one extra round trip, on two pages.
+  // If it cannot be loaded, render fresh: the router tries again and shows the error page.
+  const routes = await loadRoutes(window.location.pathname, data).catch(() => null);
+  if (hydrate && routes) {
     hydrateRoot(container, app(routes));
     return;
   }
   container.replaceChildren();
-  createRoot(container).render(app(routes));
+  createRoot(container).render(app(routes ?? createRoutes(data)));
 }
 
 void start();

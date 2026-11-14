@@ -25,6 +25,7 @@ export const appBasename = (): string => basenameFromBase(import.meta.env.BASE_U
  * The routes, with the code-split page that `pathname` needs already loaded. The first render
  * (hydration in the browser, a prerendered page on the server) can then finish in one pass,
  * without a loading state. `pathname` includes the basename, like window.location.pathname.
+ * Rejects when the page cannot be loaded: the prerender must fail, not write an empty page.
  */
 export async function loadRoutes(
   pathname: string,
@@ -33,17 +34,13 @@ export async function loadRoutes(
 ): Promise<RouteObject[]> {
   const routes = createRoutes(data);
   const matches = matchRoutes(routes, pathname, basename) ?? [];
-  try {
-    await Promise.all(
-      matches.map(async ({ route }) => {
-        if (typeof route.lazy === 'function') {
-          Object.assign(route, await route.lazy(), { lazy: undefined });
-        }
-      }),
-    );
-  } catch {
-    // A page that failed to load stays lazy: the router tries again and shows the error page.
-  }
+  await Promise.all(
+    matches.map(async ({ route }) => {
+      if (typeof route.lazy === 'function') {
+        Object.assign(route, await route.lazy(), { lazy: undefined });
+      }
+    }),
+  );
   return routes;
 }
 

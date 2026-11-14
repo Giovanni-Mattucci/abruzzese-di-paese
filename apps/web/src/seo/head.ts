@@ -1,6 +1,6 @@
 import type { DictionaryEntry } from '@adp/data';
 // Prerendered pages are English, so their titles come from the same strings the app shows.
-import en from '../i18n/locales/en/common.json' with { type: 'json' };
+import en from '../i18n/locales/en/common.json';
 
 export interface PageHead {
   title: string;
