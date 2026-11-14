@@ -1,8 +1,9 @@
-import { expect, test } from './test';
+import { appReady, expect, test } from './test';
 import { expectAccessible } from './axe';
 
 test('search Abruzzese to Italian and open the entry', async ({ page }) => {
   await page.goto('./');
+  await appReady(page);
   await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
   await page.getByRole('searchbox', { name: 'Search the dictionary' }).fill('ardeca');
   await expect(page.getByRole('status')).toContainText('result');
@@ -18,6 +19,7 @@ test('search Abruzzese to Italian and open the entry', async ({ page }) => {
 
 test('search Italian to Abruzzese reaches the same entry', async ({ page }) => {
   await page.goto('./');
+  await appReady(page);
   await page.getByRole('radio', { name: 'Italian to Abruzzese' }).click();
   await expect(page.getByRole('radio', { name: 'Italian to Abruzzese' })).toBeChecked();
   await page.getByRole('searchbox', { name: 'Search the dictionary' }).fill('ortica');
@@ -28,6 +30,7 @@ test('search Italian to Abruzzese reaches the same entry', async ({ page }) => {
 
 test('browse letter S, paginate, open an entry', async ({ page }) => {
   await page.goto('./browse/s');
+  await appReady(page);
   await expect(page.getByRole('heading', { level: 1 })).toContainText('S');
   await expect(
     page.getByRole('navigation', { name: 'Letters' }).getByRole('link', { name: 's' }),
@@ -78,6 +81,7 @@ test('deep link to an unknown word shows not found', async ({ page }) => {
 
 test('switching the UI to Italian persists across reloads', async ({ page }) => {
   await page.goto('./');
+  await appReady(page);
   await page
     .getByRole('group', { name: 'Language' })
     .getByRole('button', { name: 'Italiano' })
@@ -87,6 +91,7 @@ test('switching the UI to Italian persists across reloads', async ({ page }) => 
   );
   await expect(page.locator('html')).toHaveAttribute('lang', 'it');
   await page.reload();
+  await appReady(page);
   await expect(page.getByRole('heading', { level: 1 })).toContainText(
     'Un dizionario del dialetto abruzzese',
   );

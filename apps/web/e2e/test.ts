@@ -1,4 +1,4 @@
-import { test as base } from '@playwright/test';
+import { expect, test as base, type Page } from '@playwright/test';
 
 export { expect } from '@playwright/test';
 
@@ -18,3 +18,12 @@ export const test = base.extend({
     await use(context);
   },
 });
+
+/**
+ * Waits until the page responds to input. A prerendered page is on screen before its scripts and
+ * dictionary.json have loaded, and a click or keystroke in that window lands on markup with no
+ * handlers. Call it after a navigation or reload and before the first interaction.
+ */
+export async function appReady(page: Page): Promise<void> {
+  await expect(page.locator('html')).toHaveAttribute('data-app-ready', '');
+}
