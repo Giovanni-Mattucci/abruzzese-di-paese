@@ -4,7 +4,7 @@ import { Link, useParams } from 'react-router';
 import { useDefinitionLabels } from '../../app/labels';
 import { entryEditUrl, reportEntryUrl } from '../../config';
 import { useDictionary } from '../../data/context';
-import { useDocumentTitle } from '../../hooks/use-document-title';
+import { useDocumentTitle } from '../../seo/use-document-title';
 
 export function EntryPage() {
   const { t } = useTranslation();

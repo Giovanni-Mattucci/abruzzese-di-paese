@@ -7,7 +7,7 @@ import { paginate } from '../../components/pagination/paginate';
 import { Pagination } from '../../components/pagination/pagination';
 import { BROWSE_PAGE_SIZE } from '../../config';
 import { useDictionary } from '../../data/context';
-import { useDocumentTitle } from '../../hooks/use-document-title';
+import { useDocumentTitle } from '../../seo/use-document-title';
 
 export function BrowsePage() {
   const { t } = useTranslation();

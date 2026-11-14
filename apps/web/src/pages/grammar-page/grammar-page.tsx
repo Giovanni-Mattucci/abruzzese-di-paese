@@ -1,7 +1,7 @@
 import { use } from 'react';
 import { useTranslation } from 'react-i18next';
 import { loadGrammar } from '../../data/grammar';
-import { useDocumentTitle } from '../../hooks/use-document-title';
+import { useDocumentTitle } from '../../seo/use-document-title';
 import { LinkIcon, VisuallyHidden } from '@mannaggia/ui';
 
 export function GrammarPage({ promise = loadGrammar() }: { promise?: Promise<string> }) {
