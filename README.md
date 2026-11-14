@@ -62,7 +62,7 @@ raw colours and fonts is a convention, not a checked rule.
 
 ## Static output, SEO and machine readers
 
-`pnpm build` runs the client build, then `build/prerender.ts` renders every route to static
+`pnpm build` runs the client build, then `postbuild/prerender.ts` renders every route to static
 HTML (home, browse pages, all entry pages, grammar, about) with a title, description, canonical
 link, Open Graph tags and Schema.org JSON-LD (`WebSite` and `DefinedTermSet` on the home page,
 `DefinedTerm` on every entry). It also writes `sitemap.xml`, `robots.txt` and `llms.txt`.
@@ -72,7 +72,7 @@ chosen Italian. AI agents and crawlers that do not run JavaScript get full conte
 `/data/dictionary.json` has two readers: the app fetches it to build its search index, and it is
 the published dataset for AI agents and crawlers, which `llms.txt`, the JSON-LD `DataDownload` and
 a `rel="alternate"` link all point to. `robots.txt` therefore allows everything. The main bundle is held under 150 KB gzip by
-`build/check-bundle-size.ts`.
+`postbuild/check-bundle-size.ts`.
 
 Set `VITE_SITE_URL` and `VITE_REPO_URL` for a deployment; the CI workflow derives them from
 the repository. It builds the site once, runs the Playwright tests against that build, and
