@@ -1,7 +1,9 @@
-import { act, screen, waitFor } from '@testing-library/react';
+import { act, screen, waitFor, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { afterEach, describe, expect, it, vi } from 'vitest';
 import type * as DictionaryModule from '../../data/dictionary';
+import { buildDictionary } from '../../data/dictionary';
+import { fulfilled } from '../../data/thenable';
 import { renderApp } from '../../test/render';
 
 vi.mock('../../data/dictionary', async (importOriginal) => {
@@ -56,6 +58,36 @@ describe('SearchPage', () => {
     expect(box).toHaveValue('sorete');
     await act(() => router.navigate(-1));
     expect(box).toHaveValue('orticax');
+  });
+
+  it('pages through more results than fit on one page', async () => {
+    const user = userEvent.setup();
+    const many = Array.from({ length: 120 }, (_, i) => ({
+      id: `p-parola-${i}`,
+      headword: `parola${i}`,
+      senses: [{ it: 'parola' }],
+      source: { letter: 'p', url: 'https://example.test/p.html' },
+    }));
+    const { router } = renderApp('/?q=parola&dir=abr-it', {
+      dictionary: fulfilled(buildDictionary(many)),
+    });
+    expect(await screen.findByText('120 results. Page 1 of 3')).toBeInTheDocument();
+    expect(screen.getAllByRole('article')).toHaveLength(50);
+
+    const nav = screen.getByRole('navigation', { name: 'Pagination' });
+    await user.click(within(nav).getByRole('link', { name: 'Next' }));
+    expect(await screen.findByText('120 results. Page 2 of 3')).toBeInTheDocument();
+    expect(screen.getByRole('searchbox')).toHaveValue('parola');
+    expect(screen.getByRole('radio', { name: 'Abruzzese to Italian' })).toBeChecked();
+
+    await user.click(within(nav).getByRole('link', { name: 'Next' }));
+    expect(await screen.findByText('120 results. Page 3 of 3')).toBeInTheDocument();
+    expect(screen.getAllByRole('article')).toHaveLength(20);
+
+    // Typing a different query starts again at the first page.
+    await user.type(screen.getByRole('searchbox'), '1');
+    await waitFor(() => expect(router.state.location.search).toBe('?q=parola1&dir=abr-it'));
+    expect(screen.queryByText(/Page 3 of/)).not.toBeInTheDocument();
   });
 
   it('shows a no-results message', async () => {

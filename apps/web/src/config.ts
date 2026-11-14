@@ -4,7 +4,7 @@ export const REPO_URL =
 export const SOURCE_INDEX_URL = 'https://www.abruzzo.fm/archivio/treppecore/treppecore.html';
 /** abruzzo.fm is Radio Abruzzo; its editors asked to be credited under that name. */
 export const RADIO_ABRUZZO_URL = 'https://www.abruzzo.fm/';
-export const RESULTS_LIMIT = 50;
+export const SEARCH_PAGE_SIZE = 50;
 export const BROWSE_PAGE_SIZE = 50;
 
 /** True when the build includes the Cloudflare Web Analytics beacon (ADR 0016). */

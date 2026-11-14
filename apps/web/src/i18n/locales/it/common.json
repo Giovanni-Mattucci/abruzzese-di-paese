@@ -23,7 +23,6 @@
     },
     "results_count_one": "{{count}} risultato",
     "results_count_other": "{{count}} risultati",
-    "showing": "Mostrati i primi {{shown}} di {{total}}",
     "no_results": "Nessuna voce corrisponde a \"{{query}}\".",
     "no_results_en": "Nessuna traduzione inglese corrisponde ancora. Prova in italiano, oppure aiutaci a tradurre.",
     "help_translate": "Aiuta a tradurre",
@@ -35,11 +34,13 @@
     "nav_label": "Lettere",
     "entries_count_one": "{{count}} voce",
     "entries_count_other": "{{count}} voci",
-    "page_of": "Pagina {{page}} di {{pages}}",
-    "pagination_label": "Paginazione",
-    "previous": "Precedente",
-    "next": "Successiva",
     "unknown_letter": "Nel dizionario non esiste la lettera \"{{letter}}\"."
+  },
+  "pagination": {
+    "label": "Paginazione",
+    "page_of": "Pagina {{page}} di {{pages}}",
+    "previous": "Precedente",
+    "next": "Successiva"
   },
   "entry": {
     "not_found": "Nessuna voce con id \"{{id}}\".",

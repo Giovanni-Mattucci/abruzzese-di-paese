@@ -23,7 +23,6 @@
     },
     "results_count_one": "{{count}} result",
     "results_count_other": "{{count}} results",
-    "showing": "Showing the first {{shown}} of {{total}}",
     "no_results": "No entries match \"{{query}}\".",
     "no_results_en": "No English glosses match yet. Try Italian, or help translate.",
     "help_translate": "Help translate",
@@ -35,11 +34,13 @@
     "nav_label": "Letters",
     "entries_count_one": "{{count}} entry",
     "entries_count_other": "{{count}} entries",
-    "page_of": "Page {{page}} of {{pages}}",
-    "pagination_label": "Pagination",
-    "previous": "Previous",
-    "next": "Next",
     "unknown_letter": "There is no letter \"{{letter}}\" in the dictionary."
+  },
+  "pagination": {
+    "label": "Pagination",
+    "page_of": "Page {{page}} of {{pages}}",
+    "previous": "Previous",
+    "next": "Next"
   },
   "entry": {
     "not_found": "No entry with id \"{{id}}\".",

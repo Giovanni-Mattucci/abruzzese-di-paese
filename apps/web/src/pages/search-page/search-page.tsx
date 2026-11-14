@@ -5,7 +5,9 @@ import { useTranslation } from 'react-i18next';
 import { useLocation, useNavigationType, useSearchParams } from 'react-router';
 import { useDefinitionLabels } from '../../app/labels';
 import { RouterLink } from '../../app/router-link';
-import { helpTranslateUrl, RESULTS_LIMIT } from '../../config';
+import { paginate } from '../../components/pagination/paginate';
+import { Pagination } from '../../components/pagination/pagination';
+import { helpTranslateUrl, SEARCH_PAGE_SIZE } from '../../config';
 import { useDictionary } from '../../data/context';
 import { useDocumentTitle } from '../../hooks/use-document-title';
 
@@ -48,7 +50,7 @@ export function SearchPage() {
     () => dictionary.index.search(query, direction),
     [dictionary, query, direction],
   );
-  const shown = results.slice(0, RESULTS_LIMIT);
+  const { page, pages, items: shown } = paginate(results, params.get('page'), SEARCH_PAGE_SIZE);
 
   const update = (next: { q?: string; dir?: Direction }) => {
     const q = next.q ?? query;
@@ -57,6 +59,8 @@ export function SearchPage() {
     if (q) p.set('q', q);
     else p.delete('q');
     if (next.dir !== undefined) p.set('dir', next.dir);
+    // A new query or direction is a new result list, so it starts again at its first page.
+    p.delete('page');
     setParams(p, { replace: true });
   };
 
@@ -90,9 +94,7 @@ export function SearchPage() {
         <section className="mt-8" aria-label={t('nav.search')}>
           <p className="text-sm text-muted-foreground">
             {statusText}
-            {results.length > shown.length
-              ? `. ${t('search.showing', { shown: shown.length, total: results.length })}`
-              : null}
+            {pages > 1 ? `. ${t('pagination.page_of', { page, pages })}` : null}
           </p>
           {results.length === 0 ? (
             <p className="mt-4">
@@ -134,6 +136,15 @@ export function SearchPage() {
               })}
             </ul>
           )}
+          <Pagination
+            page={page}
+            pages={pages}
+            hrefFor={(n) => {
+              const p = new URLSearchParams(params);
+              p.set('page', String(n));
+              return `/?${p.toString()}`;
+            }}
+          />
         </section>
       ) : (
         <section className="mt-10">

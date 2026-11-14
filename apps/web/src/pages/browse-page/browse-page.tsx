@@ -1,8 +1,10 @@
-import { Button, DefinitionCard, LetterNav } from '@mannaggia/ui';
+import { DefinitionCard, LetterNav } from '@mannaggia/ui';
 import { useTranslation } from 'react-i18next';
-import { Link, useParams, useSearchParams } from 'react-router';
+import { useParams, useSearchParams } from 'react-router';
 import { useDefinitionLabels } from '../../app/labels';
 import { RouterLink } from '../../app/router-link';
+import { paginate } from '../../components/pagination/paginate';
+import { Pagination } from '../../components/pagination/pagination';
 import { BROWSE_PAGE_SIZE } from '../../config';
 import { useDictionary } from '../../data/context';
 import { useDocumentTitle } from '../../hooks/use-document-title';
@@ -21,9 +23,7 @@ export function BrowsePage() {
     : t('browse.title');
   useDocumentTitle(title);
 
-  const pages = entries ? Math.max(1, Math.ceil(entries.length / BROWSE_PAGE_SIZE)) : 1;
-  const page = Math.min(pages, Math.max(1, Math.round(Number(params.get('page'))) || 1));
-  const slice = entries?.slice((page - 1) * BROWSE_PAGE_SIZE, page * BROWSE_PAGE_SIZE) ?? [];
+  const { page, pages, items } = paginate(entries ?? [], params.get('page'), BROWSE_PAGE_SIZE);
 
   return (
     <>
@@ -43,10 +43,10 @@ export function BrowsePage() {
         <>
           <p className="mt-6 text-sm text-muted-foreground">
             {t('browse.entries_count', { count: entries.length })}.{' '}
-            {t('browse.page_of', { page, pages })}
+            {t('pagination.page_of', { page, pages })}
           </p>
           <ul className="mt-4 space-y-3">
-            {slice.map((entry) => (
+            {items.map((entry) => (
               <li key={entry.id}>
                 <DefinitionCard
                   headword={entry.headword}
@@ -66,22 +66,7 @@ export function BrowsePage() {
               </li>
             ))}
           </ul>
-          {pages > 1 ? (
-            <nav
-              aria-label={t('browse.pagination_label')}
-              className="mt-6 flex items-center justify-between"
-            >
-              <Button asChild variant="outline" className={page <= 1 ? 'invisible' : ''}>
-                <Link to={`/browse/${letter}?page=${page - 1}`}>{t('browse.previous')}</Link>
-              </Button>
-              <span className="text-sm text-muted-foreground">
-                {t('browse.page_of', { page, pages })}
-              </span>
-              <Button asChild variant="outline" className={page >= pages ? 'invisible' : ''}>
-                <Link to={`/browse/${letter}?page=${page + 1}`}>{t('browse.next')}</Link>
-              </Button>
-            </nav>
-          ) : null}
+          <Pagination page={page} pages={pages} hrefFor={(n) => `/browse/${letter}?page=${n}`} />
         </>
       ) : null}
     </>
