@@ -5,11 +5,11 @@
     {
       "it": "qualcosa al contrario, di contrario",
       "en": "something backwards, something contrary",
-      "enTranslateStatus": "machine"
+      "enTranslateStatus": "reviewed"
     }
   ],
   "notes": [
-    "Source line: a s'imbesse: qualcosa al contrario"
+    "Source line: a s'imbesse: qualcosa al contrario. Combined duplicate."
   ],
   "source": {
     "site": "abruzzo.fm",
@@ -19,6 +19,6 @@
     "rawHash": "13addec23d6d41b8a12a5bc70f29b9ceeb3406c2",
     "scrapedAt": "2026-11-07"
   },
-  "contributors": [],
+  "contributors": ["Giovanni-Mattucci"],
   "schemaVersion": 1
 }

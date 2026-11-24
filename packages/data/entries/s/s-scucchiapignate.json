@@ -3,7 +3,9 @@
   "headword": "scucchiapignate",
   "senses": [
     {
-      "it": "pendolaccia"
+      "it": "pendolaccia, pentolaccia",
+      "en": "pinata",
+      "enTranslateStatus": "reviewed"
     }
   ],
   "source": {
@@ -14,6 +16,6 @@
     "rawHash": "30a931eef29729d81b48b7a486934ccde0cc9264",
     "scrapedAt": "2026-11-07"
   },
-  "contributors": [],
+  "contributors": ["Giovanni Mattucci"],
   "schemaVersion": 1
 }

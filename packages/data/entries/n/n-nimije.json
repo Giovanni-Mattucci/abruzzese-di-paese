@@ -3,7 +3,9 @@
   "headword": "nimije",
   "senses": [
     {
-      "it": "anemia"
+      "it": "anemia, diminuzione di emoglobina nel sangue",
+      "en": "anemia, decrease in hemoglobin in the blood",
+      "enTranslateStatus": "reviewed"
     }
   ],
   "source": {
@@ -14,6 +16,6 @@
     "rawHash": "88ca51317844ae79db8c10d49dea1964d11d917a",
     "scrapedAt": "2026-11-07"
   },
-  "contributors": [],
+  "contributors": ["Giovanni-Mattucci"],
   "schemaVersion": 1
 }

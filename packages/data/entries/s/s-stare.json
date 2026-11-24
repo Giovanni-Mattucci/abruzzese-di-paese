@@ -6,12 +6,9 @@
   ],
   "senses": [
     {
-      "it": "in Abruzzo"
-    },
-    {
-      "it": "misura del vino",
-      "en": "measure of wine",
-      "enTranslateStatus": "machine"
+      "it": "In Abruzzo, misura del vino",
+      "en": "In Abruzzo, a measure for wine",
+      "enTranslateStatus": "reviewed"
     }
   ],
   "source": {
@@ -22,6 +19,6 @@
     "rawHash": "1c1f29bf5a0c84289ab1f72b92996acd82d1ea65",
     "scrapedAt": "2026-11-07"
   },
-  "contributors": [],
+  "contributors": ["Giovanni-Mattucci"],
   "schemaVersion": 1
 }
